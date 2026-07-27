@@ -281,198 +281,18 @@ function initLocation(){
 }
 try{ initLocation(); }catch(e){ console.error(e); }
 
-// ---------- Gazetteer for map mentions ----------
-const GAZETTEER = [
-  ["Washington", 38.9,-77.03],["United States", 39.8,-98.5],["White House",38.9,-77.03],
-  ["London",51.5,-0.12],["United Kingdom",54.0,-2.0],["Westminster",51.5,-0.13],
-  ["Moscow",55.75,37.6],["Russia",61.5,90.0],["Kremlin",55.75,37.62],
-  ["Kyiv",50.45,30.52],["Kiev",50.45,30.52],["Ukraine",49.0,31.0],
-  ["Beijing",39.9,116.4],["China",35.0,105.0],
-  ["Gaza",31.5,34.47],["Israel",31.5,34.75],["Jerusalem",31.78,35.22],["Tel Aviv",32.08,34.78],["Palestinian",31.9,35.2],
-  ["Tehran",35.7,51.4],["Iran",32.0,53.0],
-  ["Beirut",33.9,35.5],["Lebanon",33.85,35.86],
-  ["Damascus",33.5,36.3],["Syria",34.8,38.9],
-  ["Brussels",50.85,4.35],["European Union",50.85,4.35],
-  ["Paris",48.85,2.35],["France",46.6,2.2],
-  ["Berlin",52.52,13.4],["Germany",51.2,10.4],
-  ["Canberra",-35.28,149.13],["Australia",-25.0,133.0],
-  ["Sydney",-33.87,151.21],["Melbourne",-37.81,144.96],["Perth",-31.95,115.86],["Brisbane",-27.47,153.03],["Adelaide",-34.93,138.6],
-  ["Wellington",-41.29,174.78],["New Zealand",-41.0,174.0],
-  ["Tokyo",35.68,139.77],["Japan",36.2,138.25],
-  ["Seoul",37.57,126.98],["South Korea",36.5,127.9],
-  ["Pyongyang",39.03,125.75],["North Korea",40.3,127.5],
-  ["New Delhi",28.6,77.2],["India",21.0,78.0],
-  ["Islamabad",33.7,73.06],["Pakistan",30.4,69.3],
-  ["Kabul",34.53,69.17],["Afghanistan",33.9,67.7],
-  ["Ottawa",45.42,-75.7],["Canada",56.1,-106.3],
-  ["Mexico City",19.43,-99.13],["Mexico",23.6,-102.5],
-  ["Brasilia",-15.79,-47.88],["Brazil",-14.2,-51.9],
-  ["Buenos Aires",-34.6,-58.38],["Argentina",-38.4,-63.6],
-  ["Caracas",10.5,-66.9],["Venezuela",6.4,-66.6],
-  ["Cairo",30.04,31.24],["Egypt",26.8,30.8],
-  ["Pretoria",-25.75,28.19],["South Africa",-30.6,22.9],
-  ["Lagos",6.5,3.4],["Nigeria",9.1,8.7],
-  ["Nairobi",-1.29,36.82],["Kenya",-0.02,37.9],
-  ["Khartoum",15.5,32.55],["Sudan",12.86,30.22],
-  ["Riyadh",24.71,46.68],["Saudi Arabia",23.9,45.1],
-  ["Ankara",39.93,32.86],["Turkey",38.96,35.24],["Istanbul",41.0,28.98],
-  ["Warsaw",52.23,21.0],["Poland",51.9,19.1],
-  ["Rome",41.9,12.5],["Italy",42.5,12.5],
-  ["Madrid",40.42,-3.7],["Spain",40.46,-3.7],
-  ["Geneva",46.2,6.15],["Switzerland",46.8,8.2],
-  ["The Hague",52.08,4.31],["Netherlands",52.13,5.29],
-  ["Taipei",25.03,121.56],["Taiwan",23.7,121.0]
-];
-
-function findMentions(items){
-  const counts = {};
-  const sample = {};
-  items.forEach(it=>{
-    const text = (it.title + ' ' + (it.description||'')).toLowerCase();
-    GAZETTEER.forEach(([name])=>{
-      const key = name.toLowerCase();
-      if(text.includes(key)){
-        counts[name] = (counts[name]||0) + 1;
-        if(!sample[name]) sample[name] = it;
-      }
-    });
-  });
-  return Object.keys(counts)
-    .sort((a,b)=>counts[b]-counts[a])
-    .slice(0,5)
-    .map(name=>({
-      name,
-      coords: GAZETTEER.find(g=>g[0]===name).slice(1),
-      count: counts[name],
-      story: sample[name]
-    }));
-}
-
-function plotPlaces(places){
-  if(!map){ document.getElementById('mapCap').textContent = 'Map unavailable.'; return; }
-  if(!places.length){
-    document.getElementById('mapCap').textContent = 'No dateline data available from the current wire pull.';
-    return;
-  }
-  const markerColor = '#e8a33d';
-  places.forEach((p, i)=>{
-    const icon = L.divIcon({
-      className:'',
-      html:`<div style="background:${markerColor};color:#0d1210;width:22px;height:22px;border-radius:50%;display:flex;align-items:center;justify-content:center;font:700 12px var(--mono, monospace);border:2px solid #0d1210;box-shadow:0 0 0 1px ${markerColor};">${i+1}</div>`,
-      iconSize:[22,22], iconAnchor:[11,11]
-    });
-    const [lat, lon] = p.coords;
-    const m = L.marker([lat, lon], {icon}).addTo(map);
-    const link = p.story ? `<a href="${p.story.link}" target="_blank" rel="noopener">${escapeHtml(p.story.title)}</a>` : '';
-    m.bindPopup(`<strong>${p.name}</strong><br>${p.count} mention${p.count>1?'s':''} in current wire pull<br>${link}`);
-  });
-  if(places.length){
-    const bounds = L.latLngBounds(places.map(p=>p.coords));
-    map.fitBounds(bounds, { padding:[30,30], maxZoom:5 });
-  }
-  document.getElementById('mapCap').innerHTML = `Top 5 datelines by mention count &mdash; tap a marker for the source story`;
-}
+// ---------- News: read the static news.json built by GitHub Actions ----------
+// (scripts/fetch_news.py runs on a schedule server-side and writes this file —
+// no browser CORS/proxy involved, which is what makes this reliable.)
 
 function escapeHtml(s){
   return (s||'').replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
 
-// ---------- News fetch via rss2json (client-side, no key) ----------
-const FEEDS = [
-  { name:"BBC News",     url:"https://feeds.bbci.co.uk/news/world/rss.xml", site:"bbc.com/news" },
-  { name:"BBC Business", url:"https://feeds.bbci.co.uk/news/business/rss.xml", site:"bbc.com/news/business" },
-  { name:"Al Jazeera",   url:"https://www.aljazeera.com/xml/rss/all.xml", site:"aljazeera.com" },
-  { name:"ABC News AU",  url:"https://www.abc.net.au/news/feed/51120/rss.xml", site:"abc.net.au/news" }
-];
-
-const POLITICAL_KW = ["election","president","minister","parliament","government","senate","congress","prime minister","coup","sanction","diplomat","treaty","ballot","campaign","policy","ceasefire","coalition","opposition","cabinet","impeach","summit","vote","referendum"];
-const ECONOMIC_KW = ["econom","inflation","interest rate","gdp","market","stocks","stock market","trade","tariff","unemployment","recession","central bank","budget","deficit","currency","oil price","growth","bank","imf","exports","wages","shares","earnings"];
-const AU_KW = ["australia","australian","canberra","sydney","melbourne","perth","brisbane","adelaide","queensland","new south wales","victoria","western australia","tasmania","nsw","wa ","qld","nt ","act "];
-
-function parseRssXml(xmlText, feedName){
-  const doc = new DOMParser().parseFromString(xmlText, "text/xml");
-  if(doc.querySelector("parsererror")) throw new Error('xml parse error');
-  const nodes = Array.from(doc.querySelectorAll("item, entry"));
-  return nodes.map(it=>{
-    const title = it.querySelector("title")?.textContent?.trim() || "";
-    let link = it.querySelector("link")?.textContent?.trim() || "";
-    if(!link){
-      const linkEl = it.querySelector("link[href]");
-      if(linkEl) link = linkEl.getAttribute("href");
-    }
-    const desc = it.querySelector("description, summary, content")?.textContent || "";
-    return {
-      title,
-      description: desc.replace(/<[^>]+>/g,'').trim().slice(0,160),
-      link,
-      source: feedName,
-      pubDate: it.querySelector("pubDate, published, updated")?.textContent || ""
-    };
-  }).filter(it=>it.title && it.link);
-}
-
-async function fetchFeed(feed){
-  const log = [];
-
-  // Attempt 1: rss2json (no key, JSON already)
-  try{
-    const api = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed.url)}&count=20`;
-    const r = await fetch(api);
-    log.push(`rss2json: HTTP ${r.status}`);
-    if(r.ok){
-      const j = await r.json();
-      if(j.status === 'ok' && j.items && j.items.length){
-        return { items: j.items.map(it=>({
-          title: it.title,
-          description: (it.description||'').replace(/<[^>]+>/g,'').trim().slice(0,160),
-          link: it.link,
-          source: feed.name,
-          pubDate: it.pubDate
-        })) };
-      }
-      log.push(`rss2json: responded but status="${j.status}", ${(j.items||[]).length} items`);
-    }
-  }catch(e){ log.push(`rss2json: ${e.message}`); }
-
-  // Attempt 2: AllOrigins raw + in-browser XML parse
-  try{
-    const proxied = `https://api.allorigins.win/raw?url=${encodeURIComponent(feed.url)}`;
-    const r2 = await fetch(proxied);
-    log.push(`allorigins: HTTP ${r2.status}`);
-    if(r2.ok){
-      const text = await r2.text();
-      const items = parseRssXml(text, feed.name);
-      if(items.length) return { items };
-      log.push(`allorigins: 0 items parsed from response`);
-    }
-  }catch(e){ log.push(`allorigins: ${e.message}`); }
-
-  // Attempt 3: CodeTabs proxy + in-browser XML parse
-  try{
-    const proxied2 = `https://api.codetabs.com/v1/proxy/?quest=${encodeURIComponent(feed.url)}`;
-    const r3 = await fetch(proxied2);
-    log.push(`codetabs: HTTP ${r3.status}`);
-    if(r3.ok){
-      const text = await r3.text();
-      const items = parseRssXml(text, feed.name);
-      if(items.length) return { items };
-      log.push(`codetabs: 0 items parsed from response`);
-    }
-  }catch(e){ log.push(`codetabs: ${e.message}`); }
-
-  const err = new Error('unreachable: ' + feed.name);
-  err.log = log;
-  throw err;
-}
-
-function scoreMatch(text, keywords){
-  return keywords.some(k=>text.includes(k));
-}
-
 function renderList(elId, countId, stories){
   const el = document.getElementById(elId);
-  if(!stories.length){
-    el.innerHTML = '<div class="empty">No matching stories found in the current wire pull.</div>';
+  if(!stories || !stories.length){
+    el.innerHTML = '<div class="empty">No matching stories in the latest pull.</div>';
     document.getElementById(countId).textContent = '';
     return;
   }
@@ -480,59 +300,69 @@ function renderList(elId, countId, stories){
   el.innerHTML = stories.map(s=>`
     <div class="story">
       <a class="headline" href="${s.link}" target="_blank" rel="noopener">${escapeHtml(s.title)}</a>
-      <div class="summary">${escapeHtml(s.description)}${s.description.length>=160?'&hellip;':''}</div>
+      <div class="summary">${escapeHtml(s.description)}${(s.description||'').length>=200?'&hellip;':''}</div>
       <div class="meta"><a href="${s.link}" target="_blank" rel="noopener">${s.source}</a></div>
     </div>
   `).join('');
 }
 
-async function loadWire(){
-  const results = await Promise.allSettled(FEEDS.map(fetchFeed));
-  const items = [];
-  const ok = [];
-  const failed = [];
-  results.forEach((r, i)=>{
-    if(r.status==='fulfilled'){ ok.push(FEEDS[i]); items.push(...r.value.items); }
-    else { failed.push({ feed: FEEDS[i], log: r.reason && r.reason.log ? r.reason.log : [String(r.reason)] }); }
-  });
-
-  const sourcesLineEl = document.getElementById('sourcesLine');
-  if(ok.length){
-    sourcesLineEl.innerHTML = 'Sources live now: ' + ok.map(f=>f.name).join(', ') +
-      (failed.length ? ` &mdash; unreachable this pull: ${failed.map(f=>f.feed.name).join(', ')}` : '') +
-      ' &mdash; refreshed on each load.';
-  } else {
-    sourcesLineEl.textContent = 'No live sources reachable this pull.';
-  }
-
-  if(!ok.length){
-    const directLinks = FEEDS.map(f=>`<a href="https://${f.site}" target="_blank" rel="noopener" style="color:var(--amber)">${f.site}</a>`).join(' &middot; ');
-    const diag = failed.map(f=>`${f.feed.name}: ${f.log.join(' / ')}`).join('<br>');
-    ['polList','ausList','ecoList'].forEach(id=>{
-      document.getElementById(id).innerHTML = `<div class="empty">Live wire unreachable right now. Try the refresh icon top left, or check the source sites directly:<br>${directLinks}<br><br><span style="opacity:.7">Diagnostic — ${diag}</span></div>`;
-    });
-    document.getElementById('mapCap').textContent = 'Map unavailable — live wire could not be reached.';
+function plotPlaces(places){
+  if(!map){ document.getElementById('mapCap').textContent = 'Map unavailable.'; return; }
+  if(!places || !places.length){
+    document.getElementById('mapCap').textContent = 'No dateline data available from the latest pull.';
     return;
   }
-
-  // de-dupe by title
-  const seen = new Set();
-  const pool = items.filter(it=>{
-    const k = it.title.trim().toLowerCase();
-    if(seen.has(k)) return false;
-    seen.add(k); return true;
+  const markerColor = '#e8a33d';
+  places.forEach((p, i)=>{
+    const icon = L.divIcon({
+      className:'',
+      html:`<div style="background:${markerColor};color:#0d1210;width:22px;height:22px;border-radius:50%;display:flex;align-items:center;justify-content:center;font:700 12px monospace;border:2px solid #0d1210;box-shadow:0 0 0 1px ${markerColor};">${i+1}</div>`,
+      iconSize:[22,22], iconAnchor:[11,11]
+    });
+    const m = L.marker([p.lat, p.lon], {icon}).addTo(map);
+    const link = p.story ? `<a href="${p.story.link}" target="_blank" rel="noopener">${escapeHtml(p.story.title)}</a>` : '';
+    m.bindPopup(`<strong>${p.name}</strong><br>${p.count} mention${p.count>1?'s':''} in latest pull<br>${link}`);
   });
+  const bounds = L.latLngBounds(places.map(p=>[p.lat, p.lon]));
+  map.fitBounds(bounds, { padding:[30,30], maxZoom:5 });
+  document.getElementById('mapCap').innerHTML = 'Top 5 datelines by mention count &mdash; tap a marker for the source story';
+}
 
-  const australian = pool.filter(it => it.source==='ABC News AU' || scoreMatch((it.title+' '+it.description).toLowerCase(), AU_KW));
-  const political = pool.filter(it => !australian.includes(it) && scoreMatch((it.title+' '+it.description).toLowerCase(), POLITICAL_KW));
-  const economic = pool.filter(it => !australian.includes(it) && scoreMatch((it.title+' '+it.description).toLowerCase(), ECONOMIC_KW));
+function timeAgo(iso){
+  const then = new Date(iso).getTime();
+  const mins = Math.round((Date.now() - then) / 60000);
+  if(mins < 1) return 'just now';
+  if(mins < 60) return `${mins}m ago`;
+  const hrs = Math.round(mins/60);
+  return `${hrs}h ago`;
+}
 
-  renderList('polList','polN', political.slice(0,3));
-  renderList('ausList','ausN', australian.slice(0,3));
-  renderList('ecoList','ecoN', economic.slice(0,3));
+async function loadWire(){
+  try{
+    const r = await fetch('./news.json', { cache: 'no-store' });
+    if(!r.ok) throw new Error('HTTP ' + r.status);
+    const data = await r.json();
 
-  const places = findMentions(pool);
-  plotPlaces(places);
+    const sourcesLineEl = document.getElementById('sourcesLine');
+    const okNames = data.sources_ok || [];
+    const failed = data.sources_failed || [];
+    let line = okNames.length ? `Sources: ${okNames.join(', ')}` : 'No sources reachable on the last run';
+    if(failed.length) line += ` &mdash; unreachable last run: ${failed.map(f=>f.name).join(', ')}`;
+    line += ` &mdash; updated ${timeAgo(data.generated_at)}`;
+    sourcesLineEl.innerHTML = line;
+    document.getElementById('tickerStatus').innerHTML = 'LIVE<span class="cursor"></span>';
+
+    renderList('polList', 'polN', data.political);
+    renderList('ausList', 'ausN', data.australia);
+    renderList('ecoList', 'ecoN', data.economy);
+    plotPlaces(data.places);
+  }catch(e){
+    document.getElementById('sourcesLine').textContent = 'Could not load news.json: ' + e.message;
+    ['polList','ausList','ecoList'].forEach(id=>{
+      document.getElementById(id).innerHTML = '<div class="empty">news.json not found yet. If you just set this up, open the Actions tab in your repo, run "Update news feed" once manually, then refresh this page.</div>';
+    });
+    document.getElementById('mapCap').textContent = 'Map unavailable — news.json not found.';
+  }
 }
 
 loadWire().catch(e=>console.error(e));
