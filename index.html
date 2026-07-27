@@ -1,0 +1,500 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>World Wire</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<style>
+  :root{
+    --bg:#0d1210;
+    --panel:#141b18;
+    --panel-2:#182019;
+    --hair:#26312b;
+    --ink:#e9e6dc;
+    --ink-dim:#8fa197;
+    --amber:#e8a33d;
+    --pol:#7ea0c4;
+    --aus:#d1a92e;
+    --eco:#7fae7f;
+    --mono: 'JetBrains Mono', 'Courier New', monospace;
+    --serif: 'Georgia', 'Iowan Old Style', serif;
+    --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:var(--sans);}
+  body{max-width:480px;margin:0 auto;min-height:100vh;padding-bottom:28px;}
+
+  /* ---- Wire ticker header ---- */
+  .ticker{
+    background:linear-gradient(180deg,#171f1a,#11160f);
+    border-bottom:1px solid var(--hair);
+    padding:7px 14px;
+    font-family:var(--mono);
+    font-size:12px;
+    letter-spacing:.03em;
+    color:var(--amber);
+    display:flex;
+    align-items:center;
+    gap:10px;
+    position:sticky;
+    top:0;
+    z-index:50;
+  }
+  .ticker .left{color:var(--ink-dim);}
+  .ticker .cursor{display:inline-block;width:7px;height:12px;background:var(--amber);margin-left:4px;animation:blink 1.1s steps(1) infinite;vertical-align:-2px;}
+  @keyframes blink{50%{opacity:0;}}
+  .refresh-icon{
+    background:none;border:1px solid var(--hair);color:var(--amber);
+    font-size:20px;line-height:1;width:34px;height:34px;border-radius:4px;
+    cursor:pointer;flex-shrink:0;
+  }
+  .refresh-icon:active{background:var(--hair);}
+  #tickerStatus{margin-left:auto;}
+  .masthead{
+    padding:6px 16px;
+    border-bottom:1px solid var(--hair);
+  }
+  .brief-line{
+    font-family:var(--mono);
+    font-size:11.5px;
+    color:var(--ink-dim);
+    display:flex;
+    align-items:baseline;
+    gap:6px;
+    flex-wrap:wrap;
+  }
+  .brief-line .brand{
+    font-family:var(--serif);
+    font-weight:700;
+    font-size:14px;
+    color:var(--ink);
+    letter-spacing:.01em;
+  }
+  .brief-line .dot{color:var(--hair);}
+  .brief-line .lo{color:#6f9bc4;}
+  .brief-line .hi{color:#d47b5f;}
+
+  /* ---- Map ---- */
+  #map{height:230px;width:100%;border-bottom:1px solid var(--hair);filter:saturate(1.05);}
+  .leaflet-popup-content-wrapper{background:#1b2420;color:var(--ink);border-radius:3px;}
+  .leaflet-popup-tip{background:#1b2420;}
+  .leaflet-popup-content{font-family:var(--sans);font-size:12.5px;margin:9px 11px;line-height:1.4;}
+  .leaflet-popup-content a{color:var(--amber);}
+  .leaflet-container a.leaflet-popup-close-button{color:var(--ink-dim);}
+  .map-cap{
+    font-family:var(--mono);font-size:9.5px;color:var(--ink-dim);
+    padding:6px 16px;letter-spacing:.06em;text-transform:uppercase;
+    border-bottom:1px solid var(--hair);
+  }
+
+  /* ---- Sections ---- */
+  section.desk{padding:14px 16px 4px;}
+  .desk-head{
+    display:flex;align-items:center;gap:8px;margin-bottom:8px;
+  }
+  .chip{width:9px;height:9px;border-radius:1px;flex-shrink:0;}
+  .chip.pol{background:var(--pol);}
+  .chip.aus{background:var(--aus);}
+  .chip.eco{background:var(--eco);}
+  .desk-head h2{
+    font-family:var(--mono);
+    font-size:12px;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    margin:0;
+    color:var(--ink);
+  }
+  .desk-head .n{color:var(--ink-dim);font-family:var(--mono);font-size:10.5px;margin-left:auto;}
+
+  .story{
+    border-top:1px solid var(--hair);
+    padding:9px 0;
+  }
+  .story:last-child{padding-bottom:2px;}
+  .story a.headline{
+    font-family:var(--serif);
+    font-size:15.5px;
+    line-height:1.3;
+    color:var(--ink);
+    text-decoration:none;
+    font-weight:700;
+  }
+  .story a.headline:hover{color:var(--amber);}
+  .story .summary{
+    font-size:12.5px;
+    color:var(--ink-dim);
+    line-height:1.4;
+    margin-top:3px;
+  }
+  .story .meta{
+    font-family:var(--mono);
+    font-size:9.5px;
+    color:var(--ink-dim);
+    margin-top:4px;
+    text-transform:uppercase;
+    letter-spacing:.05em;
+  }
+  .story .meta a{color:var(--ink-dim);}
+
+  .empty, .loading{
+    font-family:var(--mono);font-size:11px;color:var(--ink-dim);
+    padding:14px 0;
+  }
+  .loading::after{content:'';display:inline-block;width:6px;height:6px;background:var(--amber);margin-left:6px;animation:blink 1s steps(1) infinite;}
+
+  footer{
+    margin-top:16px;padding:14px 16px 6px;
+    font-family:var(--mono);font-size:9.5px;color:var(--ink-dim);
+    border-top:1px solid var(--hair);line-height:1.6;
+  }
+  footer a{color:var(--ink-dim);}
+  .refresh-btn{
+    font-family:var(--mono);font-size:10.5px;color:var(--bg);
+    background:var(--amber);border:none;padding:6px 10px;border-radius:2px;
+    letter-spacing:.08em;text-transform:uppercase;cursor:pointer;margin-top:8px;
+  }
+</style>
+</head>
+<body>
+
+  <div class="ticker">
+    <button class="refresh-icon" onclick="location.reload()" aria-label="Refresh wire" title="Refresh wire">&#8635;</button>
+    <span class="left" id="tickerDate">LOADING</span>
+    <span id="tickerStatus">SYNC<span class="cursor"></span></span>
+  </div>
+
+  <div class="masthead">
+    <div class="brief-line">
+      <span class="brand">World Wire</span>
+      <span class="dot">&middot;</span>
+      <span id="locLine">Locating&hellip;</span>
+      <span class="dot">&middot;</span>
+      <span class="lo" id="statLo">&mdash;</span><span>/</span><span class="hi" id="statHi">&mdash;</span>
+    </div>
+  </div>
+
+  <div id="map"></div>
+  <div class="map-cap" id="mapCap">Top 5 datelines &mdash; live mentions across wire feeds</div>
+
+  <section class="desk">
+    <div class="desk-head"><span class="chip pol"></span><h2>Politics</h2><span class="n" id="polN"></span></div>
+    <div id="polList" class="loading">Pulling wire</div>
+  </section>
+
+  <section class="desk">
+    <div class="desk-head"><span class="chip aus"></span><h2>Australia</h2><span class="n" id="ausN"></span></div>
+    <div id="ausList" class="loading">Pulling wire</div>
+  </section>
+
+  <section class="desk">
+    <div class="desk-head"><span class="chip eco"></span><h2>Economy</h2><span class="n" id="ecoN"></span></div>
+    <div id="ecoList" class="loading">Pulling wire</div>
+  </section>
+
+  <footer>
+    <span id="sourcesLine">Sources: connecting&hellip;</span><br>
+    Weather: Open&#8209;Meteo. Location: browser geolocation + BigDataCloud reverse geocoding.
+  </footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+/* ---------------------------------------------------------------
+   WORLD WIRE — single file dashboard
+   All data fetched client-side at load time. No fabricated content:
+   if a live source fails, that section reports the failure honestly
+   instead of showing placeholder headlines.
+------------------------------------------------------------------*/
+
+const FALLBACK_COORDS = { lat: -31.9772, lon: 115.8756, label: "Perth, Western Australia" };
+
+// ---------- Date ticker ----------
+(function(){
+  const d = new Date();
+  const opts = { weekday:'short', year:'numeric', month:'short', day:'numeric' };
+  document.getElementById('tickerDate').textContent = d.toLocaleDateString('en-AU', opts).toUpperCase();
+})();
+
+// ---------- Map init ----------
+const map = L.map('map', { zoomControl:false, attributionControl:true, scrollWheelZoom:false })
+  .setView([20, 20], 2);
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; OpenStreetMap &copy; CARTO',
+  subdomains: 'abcd',
+  maxZoom: 18
+}).addTo(map);
+L.control.zoom({ position:'bottomright' }).addTo(map);
+
+// ---------- Location + weather ----------
+async function reverseGeocode(lat, lon){
+  try{
+    const r = await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${lat}&longitude=${lon}&localityLanguage=en`);
+    const j = await r.json();
+    const city = j.city || j.locality || j.principalSubdivision || '';
+    const region = j.principalSubdivision || j.countryName || '';
+    return city && region && city !== region ? `${city}, ${region}` : (city || region || `${lat.toFixed(2)}, ${lon.toFixed(2)}`);
+  }catch(e){ return `${lat.toFixed(2)}, ${lon.toFixed(2)}`; }
+}
+
+async function loadWeather(lat, lon, label){
+  document.getElementById('locLine').textContent = label;
+  try{
+    const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&daily=temperature_2m_max,temperature_2m_min&timezone=auto`;
+    const r = await fetch(url);
+    const j = await r.json();
+    const hi = Math.round(j.daily.temperature_2m_max[0]);
+    const lo = Math.round(j.daily.temperature_2m_min[0]);
+    document.getElementById('statHi').textContent = hi + '°';
+    document.getElementById('statLo').textContent = lo + '°';
+    document.getElementById('tickerStatus').innerHTML = 'LIVE<span class="cursor"></span>';
+  }catch(e){
+    document.getElementById('statHi').textContent = 'n/a';
+    document.getElementById('statLo').textContent = 'n/a';
+  }
+}
+
+function initLocation(){
+  if(navigator.geolocation){
+    navigator.geolocation.getCurrentPosition(async pos=>{
+      const {latitude:lat, longitude:lon} = pos.coords;
+      const label = await reverseGeocode(lat, lon);
+      loadWeather(lat, lon, label);
+    }, async ()=>{
+      loadWeather(FALLBACK_COORDS.lat, FALLBACK_COORDS.lon, FALLBACK_COORDS.label);
+    }, { timeout:6000 });
+  } else {
+    loadWeather(FALLBACK_COORDS.lat, FALLBACK_COORDS.lon, FALLBACK_COORDS.label);
+  }
+}
+initLocation();
+
+// ---------- Gazetteer for map mentions ----------
+const GAZETTEER = [
+  ["Washington", 38.9,-77.03],["United States", 39.8,-98.5],["White House",38.9,-77.03],
+  ["London",51.5,-0.12],["United Kingdom",54.0,-2.0],["Westminster",51.5,-0.13],
+  ["Moscow",55.75,37.6],["Russia",61.5,90.0],["Kremlin",55.75,37.62],
+  ["Kyiv",50.45,30.52],["Kiev",50.45,30.52],["Ukraine",49.0,31.0],
+  ["Beijing",39.9,116.4],["China",35.0,105.0],
+  ["Gaza",31.5,34.47],["Israel",31.5,34.75],["Jerusalem",31.78,35.22],["Tel Aviv",32.08,34.78],["Palestinian",31.9,35.2],
+  ["Tehran",35.7,51.4],["Iran",32.0,53.0],
+  ["Beirut",33.9,35.5],["Lebanon",33.85,35.86],
+  ["Damascus",33.5,36.3],["Syria",34.8,38.9],
+  ["Brussels",50.85,4.35],["European Union",50.85,4.35],
+  ["Paris",48.85,2.35],["France",46.6,2.2],
+  ["Berlin",52.52,13.4],["Germany",51.2,10.4],
+  ["Canberra",-35.28,149.13],["Australia",-25.0,133.0],
+  ["Sydney",-33.87,151.21],["Melbourne",-37.81,144.96],["Perth",-31.95,115.86],["Brisbane",-27.47,153.03],["Adelaide",-34.93,138.6],
+  ["Wellington",-41.29,174.78],["New Zealand",-41.0,174.0],
+  ["Tokyo",35.68,139.77],["Japan",36.2,138.25],
+  ["Seoul",37.57,126.98],["South Korea",36.5,127.9],
+  ["Pyongyang",39.03,125.75],["North Korea",40.3,127.5],
+  ["New Delhi",28.6,77.2],["India",21.0,78.0],
+  ["Islamabad",33.7,73.06],["Pakistan",30.4,69.3],
+  ["Kabul",34.53,69.17],["Afghanistan",33.9,67.7],
+  ["Ottawa",45.42,-75.7],["Canada",56.1,-106.3],
+  ["Mexico City",19.43,-99.13],["Mexico",23.6,-102.5],
+  ["Brasilia",-15.79,-47.88],["Brazil",-14.2,-51.9],
+  ["Buenos Aires",-34.6,-58.38],["Argentina",-38.4,-63.6],
+  ["Caracas",10.5,-66.9],["Venezuela",6.4,-66.6],
+  ["Cairo",30.04,31.24],["Egypt",26.8,30.8],
+  ["Pretoria",-25.75,28.19],["South Africa",-30.6,22.9],
+  ["Lagos",6.5,3.4],["Nigeria",9.1,8.7],
+  ["Nairobi",-1.29,36.82],["Kenya",-0.02,37.9],
+  ["Khartoum",15.5,32.55],["Sudan",12.86,30.22],
+  ["Riyadh",24.71,46.68],["Saudi Arabia",23.9,45.1],
+  ["Ankara",39.93,32.86],["Turkey",38.96,35.24],["Istanbul",41.0,28.98],
+  ["Warsaw",52.23,21.0],["Poland",51.9,19.1],
+  ["Rome",41.9,12.5],["Italy",42.5,12.5],
+  ["Madrid",40.42,-3.7],["Spain",40.46,-3.7],
+  ["Geneva",46.2,6.15],["Switzerland",46.8,8.2],
+  ["The Hague",52.08,4.31],["Netherlands",52.13,5.29],
+  ["Taipei",25.03,121.56],["Taiwan",23.7,121.0]
+];
+
+function findMentions(items){
+  const counts = {};
+  const sample = {};
+  items.forEach(it=>{
+    const text = (it.title + ' ' + (it.description||'')).toLowerCase();
+    GAZETTEER.forEach(([name])=>{
+      const key = name.toLowerCase();
+      if(text.includes(key)){
+        counts[name] = (counts[name]||0) + 1;
+        if(!sample[name]) sample[name] = it;
+      }
+    });
+  });
+  return Object.keys(counts)
+    .sort((a,b)=>counts[b]-counts[a])
+    .slice(0,5)
+    .map(name=>({
+      name,
+      coords: GAZETTEER.find(g=>g[0]===name).slice(1),
+      count: counts[name],
+      story: sample[name]
+    }));
+}
+
+function plotPlaces(places){
+  if(!places.length){
+    document.getElementById('mapCap').textContent = 'No dateline data available from the current wire pull.';
+    return;
+  }
+  const markerColor = '#e8a33d';
+  places.forEach((p, i)=>{
+    const icon = L.divIcon({
+      className:'',
+      html:`<div style="background:${markerColor};color:#0d1210;width:22px;height:22px;border-radius:50%;display:flex;align-items:center;justify-content:center;font:700 12px var(--mono, monospace);border:2px solid #0d1210;box-shadow:0 0 0 1px ${markerColor};">${i+1}</div>`,
+      iconSize:[22,22], iconAnchor:[11,11]
+    });
+    const [lat, lon] = p.coords;
+    const m = L.marker([lat, lon], {icon}).addTo(map);
+    const link = p.story ? `<a href="${p.story.link}" target="_blank" rel="noopener">${escapeHtml(p.story.title)}</a>` : '';
+    m.bindPopup(`<strong>${p.name}</strong><br>${p.count} mention${p.count>1?'s':''} in current wire pull<br>${link}`);
+  });
+  if(places.length){
+    const bounds = L.latLngBounds(places.map(p=>p.coords));
+    map.fitBounds(bounds, { padding:[30,30], maxZoom:5 });
+  }
+  document.getElementById('mapCap').innerHTML = `Top 5 datelines by mention count &mdash; tap a marker for the source story`;
+}
+
+function escapeHtml(s){
+  return (s||'').replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+// ---------- News fetch via rss2json (client-side, no key) ----------
+const FEEDS = [
+  { name:"BBC News",     url:"https://feeds.bbci.co.uk/news/world/rss.xml", site:"bbc.com/news" },
+  { name:"BBC Business", url:"https://feeds.bbci.co.uk/news/business/rss.xml", site:"bbc.com/news/business" },
+  { name:"Al Jazeera",   url:"https://www.aljazeera.com/xml/rss/all.xml", site:"aljazeera.com" },
+  { name:"ABC News AU",  url:"https://www.abc.net.au/news/feed/51120/rss.xml", site:"abc.net.au/news" }
+];
+
+const POLITICAL_KW = ["election","president","minister","parliament","government","senate","congress","prime minister","coup","sanction","diplomat","treaty","ballot","campaign","policy","ceasefire","coalition","opposition","cabinet","impeach","summit","vote","referendum"];
+const ECONOMIC_KW = ["econom","inflation","interest rate","gdp","market","stocks","stock market","trade","tariff","unemployment","recession","central bank","budget","deficit","currency","oil price","growth","bank","imf","exports","wages","shares","earnings"];
+const AU_KW = ["australia","australian","canberra","sydney","melbourne","perth","brisbane","adelaide","queensland","new south wales","victoria","western australia","tasmania","nsw","wa ","qld","nt ","act "];
+
+function parseRssXml(xmlText, feedName){
+  const doc = new DOMParser().parseFromString(xmlText, "text/xml");
+  if(doc.querySelector("parsererror")) throw new Error('xml parse error');
+  const nodes = Array.from(doc.querySelectorAll("item, entry"));
+  return nodes.map(it=>{
+    const title = it.querySelector("title")?.textContent?.trim() || "";
+    let link = it.querySelector("link")?.textContent?.trim() || "";
+    if(!link){
+      const linkEl = it.querySelector("link[href]");
+      if(linkEl) link = linkEl.getAttribute("href");
+    }
+    const desc = it.querySelector("description, summary, content")?.textContent || "";
+    return {
+      title,
+      description: desc.replace(/<[^>]+>/g,'').trim().slice(0,160),
+      link,
+      source: feedName,
+      pubDate: it.querySelector("pubDate, published, updated")?.textContent || ""
+    };
+  }).filter(it=>it.title && it.link);
+}
+
+async function fetchFeed(feed){
+  const log = [];
+
+  // Attempt 1: rss2json (no key, JSON already)
+  try{
+    const api = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed.url)}&count=20`;
+    const r = await fetch(api);
+    log.push(`rss2json: HTTP ${r.status}`);
+    if(r.ok){
+      const j = await r.json();
+      if(j.status === 'ok' && j.items && j.items.length){
+        return { items: j.items.map(it=>({
+          title: it.title,
+          description: (it.description||'').replace(/<[^>]+>/g,'').trim().slice(0,160),
+          link: it.link,
+          source: feed.name,
+          pubDate: it.pubDate
+        })) };
+      }
+      log.push(`rss2json: responded but status="${j.status}", ${(j.items||[]).length} items`);
+    }
+  }catch(e){ log.push(`rss2json: ${e.message}`); }
+
+  // Attempt 2: AllOrigins raw + in-browser XML parse
+  try{
+    const proxied = `https://api.allorigins.win/raw?url=${encodeURIComponent(feed.url)}`;
+    const r2 = await fetch(proxied);
+    log.push(`allorigins: HTTP ${r2.status}`);
+    if(r2.ok){
+      const text = await r2.text();
+      const items = parseRssXml(text, feed.name);
+      if(items.length) return { items };
+      log.push(`allorigins: 0 items parsed from response`);
+    }
+  }catch(e){ log.push(`allorigins: ${e.message}`); }
+
+  // Attempt 3: CodeTabs proxy + in-browser XML parse
+  try{
+    const proxied2 = `https://api.codetabs.com/v1/proxy/?quest=${encodeURIComponent(feed.url)}`;
+    const r3 = await fetch(proxied2);
+    log.push(`codetabs: HTTP ${r3.status}`);
+    if(r3.ok){
+      const text = await r3.text();
+      const items = parseRssXml(text, feed.name);
+      if(items.length) return { items };
+      log.push(`codetabs: 0 items parsed from response`);
+    }
+  }catch(e){ log.push(`codetabs: ${e.message}`); }
+
+  const err = new Error('unreachable: ' + feed.name);
+  err.log = log;
+  throw err;
+}
+
+function scoreMatch(text, keywords){
+  return keywords.some(k=>text.includes(k));
+}
+
+function renderList(elId, countId, stories){
+  const el = document.getElementById(elId);
+  if(!stories.length){
+    el.innerHTML = '<div class="empty">No matching stories found in the current wire pull.</div>';
+    document.getElementById(countId).textContent = '';
+    return;
+  }
+  document.getElementById(countId).textContent = stories.length + ' of 3';
+  el.innerHTML = stories.map(s=>`
+    <div class="story">
+      <a class="headline" href="${s.link}" target="_blank" rel="noopener">${escapeHtml(s.title)}</a>
+      <div class="summary">${escapeHtml(s.description)}${s.description.length>=160?'&hellip;':''}</div>
+      <div class="meta"><a href="${s.link}" target="_blank" rel="noopener">${s.source}</a></div>
+    </div>
+  `).join('');
+}
+
+async function loadWire(){
+  const results = await Promise.allSettled(FEEDS.map(fetchFeed));
+  const items = [];
+  const ok = [];
+  const failed = [];
+  results.forEach((r, i)=>{
+    if(r.status==='fulfilled'){ ok.push(FEEDS[i]); items.push(...r.value.items); }
+    else { failed.push({ feed: FEEDS[i], log: r.reason && r.reason.log ? r.reason.log : [String(r.reason)] }); }
+  });
+
+  const sourcesLineEl = document.getElementById('sourcesLine');
+  if(ok.length){
+    sourcesLineEl.innerHTML = 'Sources live now: ' + ok.map(f=>f.name).join(', ') +
+      (failed.length ? ` &mdash; unreachable this pull: ${failed.map(f=>f.feed.name).join(', ')}` : '') +
+      ' &mdash; refreshed on each load.';
+  } else {
+    sourcesLineEl.textContent = 'No live sources reachable this pull.';
+  }
+
+  if(!ok.length){
+    const directLinks = FEEDS.map(f=>`<a href="https://${f.site}" target="_blank" rel="noopener" style="color:var(--amber)">${f.site}</a>`).join(' &middot; ');
+    const diag = failed.map(f=>`${f.feed.name}: ${f.log.join(' / ')}`).join('<br>');
+    ['polList','ausList','ecoList'].forEach(id=>{
+      document.getElementById(id).innerHTML = `<div class="empty">Live wire unreachable right now. Try the refresh icon top left, or check the source sites directly:<br>${directLinks}
