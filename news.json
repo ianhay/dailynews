@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T12:08:00+00:00",
+  "generated_at": "2026-07-27T14:49:34+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -15,19 +15,25 @@
       "source": "BBC News"
     },
     {
+      "title": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
+      "description": "Successive Israeli governments have undermined diplomatic efforts and stoked tensions between Washington and Tehran.",
+      "link": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Macron calls crisis meeting of French cabinet as blaze approaches Bordeaux",
       "description": "The situation in France is currently stable, authorities say, but another heatwave is on the way.",
       "link": "https://www.aljazeera.com/news/2026/7/27/macron-calls-crisis-meeting-of-french-cabinet-as-blaze-approaches-bordeaux?traffic_source=rss",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "The Ban: A censorship loophole during the conflict in Northern Ireland",
-      "description": "A censorship saga about how the voices of republican leaders in Northern Ireland were banned by the British government.",
-      "link": "https://www.aljazeera.com/video/witness/2026/7/27/the-ban-a-censorship-loophole-during-the-conflict-in-northern-ireland?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "australia": [
+    {
+      "title": "Carly Simon reveals Parkinson's diagnosis",
+      "description": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
       "description": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
@@ -35,15 +41,9 @@
       "source": "BBC News"
     },
     {
-      "title": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "description": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+      "title": "Zelensky arrives in UK ahead of meeting Burnham",
+      "description": "The Ukrainian president will be the new prime minister's first international visitor since taking office.",
       "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Argentine leader calls Brazilian president a 'thief' and a 'convict'",
-      "description": "Javier Milei spoke at a campaign rally for right-wing presidential candidate Flávio Bolsonaro, who is running against Lula.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,7 +72,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 14,
       "story": {
         "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
         "description": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.",
@@ -84,7 +84,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 4,
+      "count": 8,
       "story": {
         "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
         "description": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
@@ -93,15 +93,15 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
       "count": 4,
       "story": {
-        "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
-        "description": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
-        "link": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Oil price dives as US and Iran pause attacks",
+        "description": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+        "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -110,21 +110,45 @@
       "lon": 2.2,
       "count": 4,
       "story": {
-        "title": "Wildfires in southwest Europe: What we know so far",
-        "description": "More than 300,000 people have been evacuated from their homes to safety in France and Spain.",
-        "link": "https://www.aljazeera.com/news/2026/7/27/wildfires-in-southwest-europe-what-we-know-so-far?traffic_source=rss",
+        "title": "How wildfires in France and Spain might affect your travel plans",
+        "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+        "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 4,
+      "story": {
+        "title": "How wildfires in France and Spain might affect your travel plans",
+        "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+        "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 4,
+      "story": {
+        "title": "Israel’s approval of limited Gaza force a calculated manoeuvre, experts say",
+        "description": "Analysts say Israeli cabinet&#039;s decision aims to deflect US pressure and fragment the Gaza Strip.",
+        "link": "https://www.aljazeera.com/news/2026/7/27/israels-approval-of-limited-gaza-force-a-calculated-manoeuvre-experts-say?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "Oil price dives as US and Iran pause attacks",
-        "description": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
-        "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+        "description": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
+        "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -141,15 +165,39 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 3,
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 2,
       "story": {
-        "title": "Death toll from Pakistan monsoon rains, floods tops 100",
-        "description": "Punjab’s monsoon season usually lasts until September, and more rain is expected this week.",
-        "link": "https://www.aljazeera.com/news/2026/7/27/death-toll-from-pakistan-monsoon-rains-floods-tops-100?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Devastating European wildfires in maps - and how they're being tackled",
+        "description": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
+        "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 2,
+      "story": {
+        "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+        "description": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 2,
+      "story": {
+        "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+        "description": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
+        "link": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -165,78 +213,6 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 2,
-      "story": {
-        "title": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
-        "description": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
-        "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 2,
-      "story": {
-        "title": "Berlin Pride attack suspect shot and killed during police operation",
-        "description": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
-        "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-        "description": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
-        "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Hong Kong",
-      "lat": 22.32,
-      "lon": 114.17,
-      "count": 2,
-      "story": {
-        "title": "Shein swings to $99m loss as Trump tariffs hit sales",
-        "description": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
-        "link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 2,
-      "story": {
-        "title": "Biden, Carney and Oasis: How the world is celebrating Mayo's All-Ireland win",
-        "description": "Mayo finally ended a 75-year wait for the county's fourth All-Ireland Senior Football title on Sunday.",
-        "link": "https://www.bbc.co.uk/news/articles/cqx74qw9ggjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 2,
-      "story": {
-        "title": "Greta Thunberg joins London rally in support of Indian students",
-        "description": "Climate activist Greta Thunberg joined a London rally in support of India’s Cockroach Janta Party-led student movement.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/greta-thunberg-joins-london-rally-in-support-of-indian-students?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Italy",
       "lat": 42.5,
       "lon": 12.5,
@@ -245,18 +221,6 @@
         "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
         "description": "The uproar throws the Italian Football Federation into further disarray following Italy's third consecutive failure to qualify for the World Cup.",
         "link": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 1,
-      "story": {
-        "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
-        "description": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
-        "link": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -285,26 +249,14 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Hong Kong",
+      "lat": 22.32,
+      "lon": 114.17,
       "count": 1,
       "story": {
-        "title": "The woman promoting the UK pottery region to Japan",
-        "description": "Yuri Kawakami-Shotton is praised for her Spode Museum tours, in bringing in Japanese visitors.",
-        "link": "https://www.bbc.co.uk/news/articles/cy7405m8ke1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 1,
-      "story": {
-        "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
-        "description": "Typhoon Noul is the strongest to make landfall in China so far this year, according to state media.",
-        "link": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&at_campaign=rss",
+        "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+        "description": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
+        "link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -321,14 +273,74 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Diomande, Real Madrid ‘agree terms’ for transfer of Leipzig winger",
-        "description": "After an impressive campaign at the FIFA World Cup, Yan Diomande will reportedly join world&#039;s richest football club.",
-        "link": "https://www.aljazeera.com/sports/2026/7/27/yan-diomande-real-madrid-agree-terms-transfer-deal-football-leipzig?traffic_source=rss",
+        "title": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
+        "description": "Successive Israeli governments have undermined diplomatic efforts and stoked tensions between Washington and Tehran.",
+        "link": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
+        "description": "Successive Israeli governments have undermined diplomatic efforts and stoked tensions between Washington and Tehran.",
+        "link": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tunis",
+      "lat": 36.81,
+      "lon": 10.18,
+      "count": 1,
+      "story": {
+        "title": "Five years after Saied’s power grab, Tunisians are no better off",
+        "description": "Tunisia has seen no economic benefit from power consolidation, while liberties have dwindled.",
+        "link": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tunisia",
+      "lat": 33.89,
+      "lon": 9.54,
+      "count": 1,
+      "story": {
+        "title": "Five years after Saied’s power grab, Tunisians are no better off",
+        "description": "Tunisia has seen no economic benefit from power consolidation, while liberties have dwindled.",
+        "link": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 1,
+      "story": {
+        "title": "The Ban: A censorship loophole during the conflict in Northern Ireland",
+        "description": "A censorship saga about how the voices of republican leaders in Northern Ireland were banned by the British government.",
+        "link": "https://www.aljazeera.com/video/witness/2026/7/27/the-ban-a-censorship-loophole-during-the-conflict-in-northern-ireland?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "Death toll from Pakistan monsoon rains, floods tops 100",
+        "description": "Punjab’s monsoon season usually lasts until September, and more rain is expected this week.",
+        "link": "https://www.aljazeera.com/news/2026/7/27/death-toll-from-pakistan-monsoon-rains-floods-tops-100?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -345,63 +357,39 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 1,
       "story": {
-        "title": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
-        "description": "Spanish Prime Minister Pedro Sanchez has thanked Layan Al Quqa, a young artist in Gaza for painting a mural of him",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss",
+        "title": "Greta Thunberg joins London rally in support of Indian students",
+        "description": "Climate activist Greta Thunberg joined a London rally in support of India’s Cockroach Janta Party-led student movement.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/greta-thunberg-joins-london-rally-in-support-of-indian-students?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 1,
       "story": {
-        "title": "German arms export licences for Israel surge with focus on sub project",
-        "description": "A dramatic rise in export permissions marks the latest twist in Germany&#039;s approach to ally Israel.",
-        "link": "https://www.aljazeera.com/news/2026/7/27/german-arms-export-licences-for-israel-surge-with-focus-on-sub-project?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Boycotts and withdrawn funding 'part and parcel' of working in arts today",
+        "description": "After the 2026 edition was subjected to political, community and commercial pressures, the Biennale of Sydney has announced a new artistic director: Singaporean curator Low Kee Hong.",
+        "link": "https://www.abc.net.au/news/2026-07-28/biennale-of-sydney-2028-low-kee-hong-new-artistic-director/106942220",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 1,
       "story": {
-        "title": "Climate change presents new threat to Philippines’ UNESCO rice terraces",
-        "description": "Limited government resources undercut efforts of Ifugao people to safeguard heritage site from extreme weather effects.",
-        "link": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tripoli",
-      "lat": 32.89,
-      "lon": 13.19,
-      "count": 1,
-      "story": {
-        "title": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
-        "description": "Protesters shut roads and the foreign ministry in Tripoli as a civil disobedience campaign over power cuts spreads.",
-        "link": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
-      "count": 1,
-      "story": {
-        "title": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
-        "description": "Protesters shut roads and the foreign ministry in Tripoli as a civil disobedience campaign over power cuts spreads.",
-        "link": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Boycotts and withdrawn funding 'part and parcel' of working in arts today",
+        "description": "After the 2026 edition was subjected to political, community and commercial pressures, the Biennale of Sydney has announced a new artistic director: Singaporean curator Low Kee Hong.",
+        "link": "https://www.abc.net.au/news/2026-07-28/biennale-of-sydney-2028-low-kee-hong-new-artistic-director/106942220",
+        "source": "ABC News AU"
       }
     },
     {
