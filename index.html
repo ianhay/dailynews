@@ -499,4 +499,43 @@ async function loadWire(){
   const sourcesLineEl = document.getElementById('sourcesLine');
   if(ok.length){
     sourcesLineEl.innerHTML = 'Sources live now: ' + ok.map(f=>f.name).join(', ') +
-      (failed.length ? ` &mdash; unreachable this pull: ${fai
+      (failed.length ? ` &mdash; unreachable this pull: ${failed.map(f=>f.feed.name).join(', ')}` : '') +
+      ' &mdash; refreshed on each load.';
+  } else {
+    sourcesLineEl.textContent = 'No live sources reachable this pull.';
+  }
+
+  if(!ok.length){
+    const directLinks = FEEDS.map(f=>`<a href="https://${f.site}" target="_blank" rel="noopener" style="color:var(--amber)">${f.site}</a>`).join(' &middot; ');
+    const diag = failed.map(f=>`${f.feed.name}: ${f.log.join(' / ')}`).join('<br>');
+    ['polList','ausList','ecoList'].forEach(id=>{
+      document.getElementById(id).innerHTML = `<div class="empty">Live wire unreachable right now. Try the refresh icon top left, or check the source sites directly:<br>${directLinks}<br><br><span style="opacity:.7">Diagnostic — ${diag}</span></div>`;
+    });
+    document.getElementById('mapCap').textContent = 'Map unavailable — live wire could not be reached.';
+    return;
+  }
+
+  // de-dupe by title
+  const seen = new Set();
+  const pool = items.filter(it=>{
+    const k = it.title.trim().toLowerCase();
+    if(seen.has(k)) return false;
+    seen.add(k); return true;
+  });
+
+  const australian = pool.filter(it => it.source==='ABC News AU' || scoreMatch((it.title+' '+it.description).toLowerCase(), AU_KW));
+  const political = pool.filter(it => !australian.includes(it) && scoreMatch((it.title+' '+it.description).toLowerCase(), POLITICAL_KW));
+  const economic = pool.filter(it => !australian.includes(it) && scoreMatch((it.title+' '+it.description).toLowerCase(), ECONOMIC_KW));
+
+  renderList('polList','polN', political.slice(0,3));
+  renderList('ausList','ausN', australian.slice(0,3));
+  renderList('ecoList','ecoN', economic.slice(0,3));
+
+  const places = findMentions(pool);
+  plotPlaces(places);
+}
+
+loadWire().catch(e=>console.error(e));
+</script>
+</body>
+</html>
