@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T20:39:21+00:00",
+  "generated_at": "2026-07-27T22:12:19+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -15,19 +15,25 @@
       "source": "BBC News"
     },
     {
-      "title": "Has Burnham kept his promise to do better on Israel’s war on Gaza?",
-      "description": "Will Britain&#039;s new cabinet change the country’s role in Israel’s war on Gaza?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/has-burnham-kept-his-promise-to-do-better-on-israels-war-on-gaza?traffic_source=rss",
+      "title": "Trump asks US Supreme Court to allow mail-in voting restrictions",
+      "description": "A lower court blocked the mail-in ballot restrictions, ruling Trump lacked authority to change state election rules.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
       "source": "Al Jazeera"
     },
     {
-      "title": "Pakistan-administered Kashmir opens polls in violence-wracked vote",
-      "description": "First of three rounds of voting held after weeks of protests during which dozens of people were killed.",
-      "link": "https://www.aljazeera.com/news/2026/7/27/pakistan-administered-kashmir-opens-polls-in-violence-wracked-vote?traffic_source=rss",
+      "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+      "description": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
   "australia": [
+    {
+      "title": "Trump says Iran war talks taking place during lull in strikes",
+      "description": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+      "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
       "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
@@ -38,12 +44,6 @@
       "title": "Carly Simon reveals Parkinson's diagnosis",
       "description": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
       "link": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-      "description": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -69,10 +69,22 @@
   ],
   "places": [
     {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 10,
+      "story": {
+        "title": "Trump says Iran war talks taking place during lull in strikes",
+        "description": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+        "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 11,
+      "count": 10,
       "story": {
         "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
         "description": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.",
@@ -81,26 +93,14 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 9,
-      "story": {
-        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-        "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
-        "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 8,
+      "count": 4,
       "story": {
-        "title": "Has Burnham kept his promise to do better on Israel’s war on Gaza?",
-        "description": "Will Britain&#039;s new cabinet change the country’s role in Israel’s war on Gaza?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/has-burnham-kept-his-promise-to-do-better-on-israels-war-on-gaza?traffic_source=rss",
+        "title": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
+        "description": "UN chief Guterres says settlements a &#039;flagrant violation&#039; of international law, amid escalating violence.",
+        "link": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -108,24 +108,12 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
         "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
         "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 4,
-      "story": {
-        "title": "How wildfires in France and Spain might affect your travel plans",
-        "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
-        "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -141,33 +129,9 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 2,
-      "story": {
-        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-        "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
-        "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 2,
-      "story": {
-        "title": "South Africa investigates death of Nigerian who collapsed during arrest",
-        "description": "Initial reports from a post-mortem said he had \"abrasions on his back and chest\", investigators say.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 2,
       "story": {
         "title": "How wildfires in France and Spain might affect your travel plans",
@@ -177,38 +141,26 @@
       }
     },
     {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 2,
       "story": {
-        "title": "What drove Venezuela’s decision to leave the ICC?",
-        "description": "The ICC says its investigation into alleged crimes against humanity will continue despite the withdrawal.",
-        "link": "https://www.aljazeera.com/news/2026/7/27/what-drove-venezuelas-decision-to-leave-the-icc?traffic_source=rss",
+        "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+        "description": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.",
+        "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 2,
-      "story": {
-        "title": "Education as a tool to fight hate in focus at antisemitism royal commission",
-        "description": "The Royal Commission on Antisemitism and Social Cohesion is continuing in Sydney, with witnesses to give evidence about ways to improve education and training to prevent hate.",
-        "link": "https://www.abc.net.au/news/2026-07-28/bondi-antisemitism-social-cohesion-royal-commission-education/106946500",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 1,
       "story": {
-        "title": "Devastating European wildfires in maps - and how they're being tackled",
-        "description": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
-        "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+        "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+        "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -237,6 +189,18 @@
       }
     },
     {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 1,
+      "story": {
+        "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+        "description": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
+        "link": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "South Africa",
       "lat": -30.6,
       "lon": 22.9,
@@ -249,14 +213,14 @@
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 1,
       "story": {
-        "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
-        "description": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
-        "link": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
+        "title": "South Africa investigates death of Nigerian who collapsed during arrest",
+        "description": "Initial reports from a post-mortem said he had \"abrasions on his back and chest\", investigators say.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -297,6 +261,18 @@
       }
     },
     {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 1,
+      "story": {
+        "title": "How wildfires in France and Spain might affect your travel plans",
+        "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+        "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "Colombia",
       "lat": 4.57,
       "lon": -74.3,
@@ -309,6 +285,42 @@
       }
     },
     {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 1,
+      "story": {
+        "title": "Video shows man subdued after stabbing three women in Paris",
+        "description": "Three women were wounded, two of them seriously, in a knife attack near Porte de Clichy in Paris.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
+      "count": 1,
+      "story": {
+        "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+        "description": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.",
+        "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Peru",
+      "lat": -9.19,
+      "lon": -75.02,
+      "count": 1,
+      "story": {
+        "title": "Will Peru’s new leader Keiko Fujimori reject her father’s legacy?",
+        "description": "Keiko Fujimori was elected president and many people are sceptical she will be able to unite Peru as promised.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
@@ -317,18 +329,6 @@
         "title": "Has Burnham kept his promise to do better on Israel’s war on Gaza?",
         "description": "Will Britain&#039;s new cabinet change the country’s role in Israel’s war on Gaza?",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/has-burnham-kept-his-promise-to-do-better-on-israels-war-on-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "Pakistan-administered Kashmir opens polls in violence-wracked vote",
-        "description": "First of three rounds of voting held after weeks of protests during which dozens of people were killed.",
-        "link": "https://www.aljazeera.com/news/2026/7/27/pakistan-administered-kashmir-opens-polls-in-violence-wracked-vote?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -381,6 +381,18 @@
       }
     },
     {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 1,
+      "story": {
+        "title": "What drove Venezuela’s decision to leave the ICC?",
+        "description": "The ICC says its investigation into alleged crimes against humanity will continue despite the withdrawal.",
+        "link": "https://www.aljazeera.com/news/2026/7/27/what-drove-venezuelas-decision-to-leave-the-icc?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -393,51 +405,27 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Israeli raid sparks fire at UN Palestinian refugee centre",
-        "description": "Israeli forces raided a United Nations Relief and Works Agency for Palestine Refugees training centre.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/israeli-raid-sparks-fire-at-un-palestinian-refugee-centre?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "The unbreakable trust fuelling cyclists Glasgow medal push",
+        "description": "With the Commonwealth Games in full swing in Glasgow, two Perth men with a special bond are gunning for gold in the velodrome.",
+        "link": "https://www.abc.net.au/news/2026-07-28/kane-perris-luke-zaccaria-trust-behind-commonwealth-games-tilt/106947018",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Tunis",
-      "lat": 36.81,
-      "lon": 10.18,
+      "name": "Rome",
+      "lat": 41.9,
+      "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "Tunisia bars family, lawyers from seeing Ghannouchi after prison collapse",
-        "description": "No word on jailed Tunisian opposition leader Ghannouchi for 11 days, his son tells Al Jazeera.",
-        "link": "https://www.aljazeera.com/news/2026/7/27/tunisia-bars-family-lawyers-from-seeing-ghannouchi-after-prison-collapse?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tunisia",
-      "lat": 33.89,
-      "lon": 9.54,
-      "count": 1,
-      "story": {
-        "title": "Tunisia bars family, lawyers from seeing Ghannouchi after prison collapse",
-        "description": "No word on jailed Tunisian opposition leader Ghannouchi for 11 days, his son tells Al Jazeera.",
-        "link": "https://www.aljazeera.com/news/2026/7/27/tunisia-bars-family-lawyers-from-seeing-ghannouchi-after-prison-collapse?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
-        "description": "Successive Israeli governments have undermined diplomatic efforts and stoked tensions between Washington and Tehran.",
-        "link": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "The unbreakable trust fuelling cyclists Glasgow medal push",
+        "description": "With the Commonwealth Games in full swing in Glasgow, two Perth men with a special bond are gunning for gold in the velodrome.",
+        "link": "https://www.abc.net.au/news/2026-07-28/kane-perris-luke-zaccaria-trust-behind-commonwealth-games-tilt/106947018",
+        "source": "ABC News AU"
       }
     },
     {
@@ -449,6 +437,18 @@
         "title": "Cabo Verde stunner gets people's vote as best World Cup goal",
         "description": "A stunning strike from World Cup minnows Cabo Verde against Argentina is voted as the goal for the tournament.",
         "link": "https://www.abc.net.au/news/2026-07-28/cabo-verde-stunner-gets-people-s-vote-as-best-world-cup-goal/106964928",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 1,
+      "story": {
+        "title": "What to expect from antisemitism royal commission in coming weeks",
+        "description": "The Royal Commission on Antisemitism and Social Cohesion is continuing in Sydney, with witnesses to give evidence about ways to improve education and training to prevent hate.",
+        "link": "https://www.abc.net.au/news/2026-07-28/bondi-antisemitism-social-cohesion-royal-commission-education/106946500",
         "source": "ABC News AU"
       }
     },
@@ -473,30 +473,6 @@
         "title": "Trump tips the balance towards China in trade war",
         "description": "China has the market sewn up in everything from solar panels to battery manufacturing and wind turbines. And now it is challenging America's commanding role in technology.",
         "link": "https://www.abc.net.au/news/2026-07-28/trump-tips-the-balance-towards-china-in-trade-war/106963830",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 1,
-      "story": {
-        "title": "France and Spain race to curb wildfires before new heatwave arrives",
-        "description": "Spanish Prime Minister Pedro Sanchez highlighted the impact of climate change, saying the wildfires were \"more ferocious\" and \"heatwaves more frequent\".",
-        "link": "https://www.abc.net.au/news/2026-07-28/france-and-spain-wildfires/106964322",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 1,
-      "story": {
-        "title": "Boycotts and withdrawn funding 'part and parcel' of working in arts today",
-        "description": "After the 2026 edition was subjected to political, community and commercial pressures, the Biennale of Sydney has announced a new artistic director: Singaporean curator Low Kee Hong.",
-        "link": "https://www.abc.net.au/news/2026-07-28/biennale-of-sydney-2028-low-kee-hong-new-artistic-director/106942220",
         "source": "ABC News AU"
       }
     }
