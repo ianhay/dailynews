@@ -197,6 +197,14 @@
     Weather: Open&#8209;Meteo. Location: browser geolocation + BigDataCloud reverse geocoding.
   </footer>
 
+<script>
+window.addEventListener('error', function(e){
+  const banner = document.createElement('div');
+  banner.style.cssText = 'background:#5c1414;color:#f5d6d6;padding:8px 12px;font-family:monospace;font-size:11px;line-height:1.5;border-bottom:1px solid #a33;';
+  banner.textContent = 'Script error: ' + e.message + ' (line ' + e.lineno + ')';
+  document.body.insertBefore(banner, document.body.firstChild);
+});
+</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
 /* ---------------------------------------------------------------
@@ -216,14 +224,19 @@ const FALLBACK_COORDS = { lat: -31.9772, lon: 115.8756, label: "Perth, Western A
 })();
 
 // ---------- Map init ----------
-const map = L.map('map', { zoomControl:false, attributionControl:true, scrollWheelZoom:false })
-  .setView([20, 20], 2);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-  attribution: '&copy; OpenStreetMap &copy; CARTO',
-  subdomains: 'abcd',
-  maxZoom: 18
-}).addTo(map);
-L.control.zoom({ position:'bottomright' }).addTo(map);
+let map;
+try{
+  map = L.map('map', { zoomControl:false, attributionControl:true, scrollWheelZoom:false })
+    .setView([20, 20], 2);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; OpenStreetMap &copy; CARTO',
+    subdomains: 'abcd',
+    maxZoom: 18
+  }).addTo(map);
+  L.control.zoom({ position:'bottomright' }).addTo(map);
+}catch(e){
+  document.getElementById('mapCap').textContent = 'Map failed to load: ' + e.message;
+}
 
 // ---------- Location + weather ----------
 async function reverseGeocode(lat, lon){
@@ -266,7 +279,7 @@ function initLocation(){
     loadWeather(FALLBACK_COORDS.lat, FALLBACK_COORDS.lon, FALLBACK_COORDS.label);
   }
 }
-initLocation();
+try{ initLocation(); }catch(e){ console.error(e); }
 
 // ---------- Gazetteer for map mentions ----------
 const GAZETTEER = [
@@ -336,6 +349,7 @@ function findMentions(items){
 }
 
 function plotPlaces(places){
+  if(!map){ document.getElementById('mapCap').textContent = 'Map unavailable.'; return; }
   if(!places.length){
     document.getElementById('mapCap').textContent = 'No dateline data available from the current wire pull.';
     return;
@@ -485,14 +499,4 @@ async function loadWire(){
   const sourcesLineEl = document.getElementById('sourcesLine');
   if(ok.length){
     sourcesLineEl.innerHTML = 'Sources live now: ' + ok.map(f=>f.name).join(', ') +
-      (failed.length ? ` &mdash; unreachable this pull: ${failed.map(f=>f.feed.name).join(', ')}` : '') +
-      ' &mdash; refreshed on each load.';
-  } else {
-    sourcesLineEl.textContent = 'No live sources reachable this pull.';
-  }
-
-  if(!ok.length){
-    const directLinks = FEEDS.map(f=>`<a href="https://${f.site}" target="_blank" rel="noopener" style="color:var(--amber)">${f.site}</a>`).join(' &middot; ');
-    const diag = failed.map(f=>`${f.feed.name}: ${f.log.join(' / ')}`).join('<br>');
-    ['polList','ausList','ecoList'].forEach(id=>{
-      document.getElementById(id).innerHTML = `<div class="empty">Live wire unreachable right now. Try the refresh icon top left, or check the source sites directly:<br>${directLinks}
+      (failed.length ? ` &mdash; unreachable this pull: ${fai
