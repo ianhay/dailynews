@@ -72,6 +72,47 @@ GAZETTEER = [
     ("Geneva", 46.2, 6.15), ("Switzerland", 46.8, 8.2),
     ("The Hague", 52.08, 4.31), ("Netherlands", 52.13, 5.29),
     ("Taipei", 25.03, 121.56), ("Taiwan", 23.7, 121.0),
+    ("Manila", 14.6, 120.98), ("Philippines", 12.9, 121.8),
+    ("Jakarta", -6.2, 106.85), ("Indonesia", -2.5, 118.0),
+    ("Bangkok", 13.75, 100.5), ("Thailand", 15.87, 100.99),
+    ("Hanoi", 21.03, 105.85), ("Vietnam", 14.06, 108.28),
+    ("Kuala Lumpur", 3.14, 101.69), ("Malaysia", 4.21, 101.98),
+    ("Singapore", 1.35, 103.82),
+    ("Hong Kong", 22.32, 114.17),
+    ("Shanghai", 31.23, 121.47),
+    ("Mumbai", 19.08, 72.88),
+    ("Dhaka", 23.81, 90.41), ("Bangladesh", 23.68, 90.36),
+    ("Yangon", 16.87, 96.2), ("Myanmar", 21.9, 95.96),
+    ("Vienna", 48.21, 16.37), ("Austria", 47.52, 14.55),
+    ("Lisbon", 38.72, -9.14), ("Portugal", 39.4, -8.22),
+    ("Athens", 37.98, 23.73), ("Greece", 39.07, 21.82),
+    ("Stockholm", 59.33, 18.07), ("Sweden", 60.13, 18.64),
+    ("Oslo", 59.91, 10.75), ("Norway", 60.47, 8.47),
+    ("Copenhagen", 55.68, 12.57), ("Denmark", 56.26, 9.5),
+    ("Helsinki", 60.17, 24.94), ("Finland", 61.92, 25.75),
+    ("Dublin", 53.35, -6.26), ("Ireland", 53.14, -7.69),
+    ("Budapest", 47.5, 19.04), ("Hungary", 47.16, 19.5),
+    ("Bucharest", 44.43, 26.1), ("Romania", 45.94, 24.97),
+    ("Belgrade", 44.79, 20.45), ("Serbia", 44.02, 21.01),
+    ("Zagreb", 45.81, 15.98), ("Croatia", 45.1, 15.2),
+    ("Sofia", 42.7, 23.32), ("Bulgaria", 42.73, 25.49),
+    ("Addis Ababa", 9.03, 38.74), ("Ethiopia", 9.15, 40.49),
+    ("Accra", 5.6, -0.19), ("Ghana", 7.95, -1.02),
+    ("Kinshasa", -4.32, 15.31), ("Congo", -4.04, 21.76),
+    ("Tunis", 36.81, 10.18), ("Tunisia", 33.89, 9.54),
+    ("Algiers", 36.75, 3.06), ("Algeria", 28.03, 1.66),
+    ("Rabat", 34.02, -6.83), ("Morocco", 31.79, -7.09),
+    ("Tripoli", 32.89, 13.19), ("Libya", 26.34, 17.23),
+    ("Doha", 25.29, 51.53), ("Qatar", 25.35, 51.18),
+    ("Abu Dhabi", 24.47, 54.37), ("Dubai", 25.2, 55.27), ("United Arab Emirates", 23.42, 53.85),
+    ("Amman", 31.95, 35.93), ("Jordan", 30.59, 36.24),
+    ("Baghdad", 33.31, 44.36), ("Iraq", 33.22, 43.68),
+    ("Kuwait City", 29.38, 47.99), ("Kuwait", 29.31, 47.48),
+    ("Santiago", -33.45, -70.67), ("Chile", -35.68, -71.54),
+    ("Bogota", 4.71, -74.07), ("Colombia", 4.57, -74.3),
+    ("Lima", -12.05, -77.04), ("Peru", -9.19, -75.02),
+    ("Quito", -0.18, -78.47), ("Ecuador", -1.83, -78.18),
+    ("Havana", 23.13, -82.38), ("Cuba", 21.52, -77.78),
 ]
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; WorldWireBot/1.0; +https://github.com/)"}
@@ -106,7 +147,7 @@ def matches(text, keywords):
     return any(k in text for k in keywords)
 
 
-def find_places(pool):
+def find_places(pool, limit=40):
     counts = {}
     sample = {}
     for it in pool:
@@ -116,7 +157,7 @@ def find_places(pool):
             if key in text:
                 counts[name] = counts.get(name, 0) + 1
                 sample.setdefault(name, it)
-    top = sorted(counts.items(), key=lambda kv: kv[1], reverse=True)[:5]
+    top = sorted(counts.items(), key=lambda kv: kv[1], reverse=True)[:limit]
     coords = {name: (lat, lon) for name, lat, lon in GAZETTEER}
     return [
         {
