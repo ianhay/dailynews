@@ -1,10 +1,13 @@
 {
-  "generated_at": "2026-07-28T11:36:19+00:00",
+  "generated_at": "2026-07-28T11:48:04+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
     "Al Jazeera",
-    "ABC News AU"
+    "ABC News AU",
+    "DW",
+    "CNA",
+    "SBS News"
   ],
   "sources_failed": [],
   "political": [
@@ -72,7 +75,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 7,
+      "count": 11,
       "story": {
         "title": "Zoo staff rescue near-extinct snails from remote rock",
         "description": "Just 21 Madeiran land snails were found clinging to a rock on Portugal's Bugio Island, say conservationists.",
@@ -81,10 +84,46 @@
       }
     },
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 10,
+      "story": {
+        "title": "Joint spares Aussie blushes on tough day at Memphis Open",
+        "description": "Rising star Maya Joint has spared Australia's blushes at the WTA's hard-court event in Memphis as her compatriots struggle.",
+        "link": "https://www.abc.net.au/news/2026-07-28/joint-spares-aussie-blushes-on-tough-day-at-memphis-open/106968374",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 7,
+      "story": {
+        "title": "Zelensky to press Trump on air defences while in Washington",
+        "description": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+        "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 7,
+      "story": {
+        "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
+        "description": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 5,
+      "count": 7,
       "story": {
         "title": "Why Netanyahu's visit with Trump at the White House is high-stakes",
         "description": "The meeting comes amid signs of friction between the two leaders and decreasing public support for Israel in the US.",
@@ -93,34 +132,22 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 4,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 7,
       "story": {
-        "title": "Zelensky to press Trump on air defences while in Washington",
-        "description": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
-        "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 4,
-      "story": {
-        "title": "Zelensky to press Trump on air defences while in Washington",
-        "description": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
-        "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "‘Future at stake’: India moves to demolish university Muslim leader founded",
+        "description": "Authorities in BJP-ruled Uttar Pradesh allege 38 of Mohammad Ali Jauhar University&#039;s 40 buildings were built illegally.",
+        "link": "https://www.aljazeera.com/news/2026/7/28/future-at-stake-india-moves-to-demolish-university-muslim-leader-founded?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
-      "count": 4,
+      "count": 6,
       "story": {
         "title": "US walks out of UN Security Council meeting during France's remarks",
         "description": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
@@ -132,7 +159,7 @@
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
-      "count": 4,
+      "count": 6,
       "story": {
         "title": "A Japanese town wrestles with identity after protests over its first mosque",
         "description": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
@@ -144,12 +171,36 @@
       "name": "Washington",
       "lat": 38.9,
       "lon": -77.03,
-      "count": 3,
+      "count": 5,
       "story": {
         "title": "Zelensky to press Trump on air defences while in Washington",
         "description": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
         "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 5,
+      "story": {
+        "title": "Zelensky to press Trump on air defences while in Washington",
+        "description": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+        "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 4,
+      "story": {
+        "title": "Germany: Online tourist accommodation bookings hit new peak",
+        "description": "Vacation rental bookings through online platforms have climbed to a new record in Germany. The figures reveal major regional differences in where certain tourists like to go.",
+        "link": "https://www.dw.com/en/germany-online-tourist-accommodation-bookings-hit-new-peak/a-78145081?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -165,15 +216,27 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 3,
       "story": {
-        "title": "Joint spares Aussie blushes on tough day at Memphis Open",
-        "description": "Rising star Maya Joint has spared Australia's blushes at the WTA's hard-court event in Memphis as her compatriots struggle.",
-        "link": "https://www.abc.net.au/news/2026-07-28/joint-spares-aussie-blushes-on-tough-day-at-memphis-open/106968374",
-        "source": "ABC News AU"
+        "title": "Is it safe to travel to France and Spain right now?",
+        "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+        "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
+      "story": {
+        "title": "Zelensky to press Trump on air defences while in Washington",
+        "description": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+        "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -201,18 +264,6 @@
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
-      "count": 2,
-      "story": {
-        "title": "Hong Kong activist allowed to stay in UK after deportation threat",
-        "description": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC.",
-        "link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Hong Kong",
       "lat": 22.32,
       "lon": 114.17,
@@ -225,15 +276,15 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "Is it safe to travel to France and Spain right now?",
-        "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
-        "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "China's new challenge as natural disasters strike - fake AI videos",
+        "description": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
+        "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -254,10 +305,34 @@
       "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
-        "description": "Green Party, which took over control of the council from the Labour Party, is opposed to Israel&#039;s genocidal war on Gaza.",
-        "link": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
+        "title": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
+        "description": "The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.",
+        "link": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
+        "description": "The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.",
+        "link": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 2,
+      "story": {
+        "title": "Hanson reveals who paid for Italy trip with Gina Rinehart",
+        "description": "The benefactor of Pauline Hanson's Italy trip has been disclosed in an update to the One Nation leader's gift registry.",
+        "link": "https://www.abc.net.au/news/2026-07-28/hanson-reveals-rinehart-paid-for-italy-trip/106968518",
+        "source": "ABC News AU"
       }
     },
     {
@@ -285,15 +360,15 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 1,
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 2,
       "story": {
-        "title": "Zelensky to press Trump on air defences while in Washington",
-        "description": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
-        "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "As US-Iran war rages, who's risking the Strait of Hormuz?",
+        "description": "Though Iran continues to attack vessels as leverage in its war with the United States, data show that several shippers continue to transit the waterway.",
+        "link": "https://www.dw.com/en/as-us-iran-war-rages-who-s-risking-the-strait-of-hormuz/a-78130878?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -309,6 +384,18 @@
       }
     },
     {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 1,
+      "story": {
+        "title": "Hong Kong activist allowed to stay in UK after deportation threat",
+        "description": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC.",
+        "link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Portugal",
       "lat": 39.4,
       "lon": -8.22,
@@ -317,18 +404,6 @@
         "title": "Zoo staff rescue near-extinct snails from remote rock",
         "description": "Just 21 Madeiran land snails were found clinging to a rock on Portugal's Bugio Island, say conservationists.",
         "link": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 1,
-      "story": {
-        "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-        "description": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
-        "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -357,18 +432,6 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 1,
-      "story": {
-        "title": "China's new challenge as natural disasters strike - fake AI videos",
-        "description": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
-        "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
@@ -390,30 +453,6 @@
         "description": "The Consumer Council for Northern Ireland says the price rise is in direct response to the US-Iran conflict.",
         "link": "https://www.bbc.co.uk/news/articles/cly9npzw3y3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 1,
-      "story": {
-        "title": "‘Future at stake’: India moves to demolish university Muslim leader founded",
-        "description": "Authorities in BJP-ruled Uttar Pradesh allege 38 of Mohammad Ali Jauhar University&#039;s 40 buildings were built illegally.",
-        "link": "https://www.aljazeera.com/news/2026/7/28/future-at-stake-india-moves-to-demolish-university-muslim-leader-founded?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
-        "description": "The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.",
-        "link": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -441,18 +480,6 @@
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Hanson reveals who paid for Italy trip with Gina Rinehart",
-        "description": "The benefactor of Pauline Hanson's Italy trip has been disclosed in an update to the One Nation leader's gift registry.",
-        "link": "https://www.abc.net.au/news/2026-07-28/hanson-reveals-rinehart-paid-for-italy-trip/106968518",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Brisbane",
       "lat": -27.47,
       "lon": 153.03,
@@ -474,6 +501,54 @@
         "description": "Kazem Hamad, a former Melbourne organised crime kingpin who was deported to Iraq in 2023, has been sentenced to life in jail by an Iraqi court after being convicted of drug trafficking.",
         "link": "https://www.abc.net.au/news/2026-07-28/kazem-hamad-sentenced-to-life-in-iraq-jail/106968276",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 1,
+      "story": {
+        "title": "Zelenskyy to meet Trump as Ukraine seeks stronger air defense",
+        "description": "Ukrainian President Volodymyr Zelenskyy is in the United States to press for stronger military cooperation, as Kyiv and Moscow intensify long-range strikes amid stalled peace efforts.",
+        "link": "https://www.dw.com/en/zelenskyy-to-meet-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 1,
+      "story": {
+        "title": "Heat wave threatens to worsen France, Spain wildfires",
+        "description": "A fresh spell of extreme heat, driven by climate change, is expected to intensify some of Europe's worst wildfires in decades, stretching firefighting resources.",
+        "link": "https://www.dw.com/en/heat-wave-threatens-to-worsen-france-spain-wildfires/a-78137994?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "New Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
+      "count": 1,
+      "story": {
+        "title": "Indian youth score a win over Modi with humor and grit",
+        "description": "Driven by social media satire, the Gen-Z-led \"Cockroach\" protest movement spurned by grievances over an exam scandal caused a shake-up in India's government. DW spoke with a few protesters in New Delhi.",
+        "link": "https://www.dw.com/en/indian-youth-score-a-win-over-modi-with-humor-and-grit/a-78132308?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Ghana",
+      "lat": 7.95,
+      "lon": -1.02,
+      "count": 1,
+      "story": {
+        "title": "Ghana's community service bill: A fix for the prison crisis?",
+        "description": "The community service bill offers community service as an alternative to prison sentences, particularly for minor offenses. It's meant to decongest Ghana's prisons and prevent overcrowding once it's signed into law.",
+        "link": "https://www.dw.com/en/ghana-s-community-service-bill-a-fix-for-the-prison-crisis/a-78104226?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
