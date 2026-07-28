@@ -20,7 +20,12 @@ FEEDS = [
     {"name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml",  "site": "bbc.com/news/business"},
     {"name": "Al Jazeera",   "url": "https://www.aljazeera.com/xml/rss/all.xml",        "site": "aljazeera.com"},
     {"name": "ABC News AU",  "url": "https://www.abc.net.au/news/feed/51120/rss.xml",   "site": "abc.net.au/news"},
+    {"name": "DW",           "url": "https://rss.dw.com/rdf/rss-en-all",                "site": "dw.com/en"},
+    {"name": "CNA",          "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml", "site": "channelnewsasia.com"},
+    {"name": "SBS News",     "url": "https://www.sbs.com.au/news/feed",                 "site": "sbs.com.au/news"},
 ]
+
+AUSTRALIAN_SOURCES = {"ABC News AU", "SBS News"}
 
 POLITICAL_KW = ["election","president","minister","parliament","government","senate","congress",
                 "prime minister","coup","sanction","diplomat","treaty","ballot","campaign","policy",
@@ -199,7 +204,7 @@ def main():
     australian, remainder = [], []
     for it in deduped:
         text = (it["title"] + " " + it["description"]).lower()
-        if it["source"] == "ABC News AU" or matches(text, AU_KW):
+        if it["source"] in AUSTRALIAN_SOURCES or matches(text, AU_KW):
             australian.append(it)
         else:
             remainder.append(it)
