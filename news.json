@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T06:10:09+00:00",
+  "generated_at": "2026-07-28T09:18:52+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -15,25 +15,19 @@
       "source": "BBC News"
     },
     {
+      "title": "Colombia’s president-elect to suspend Palestine embassy",
+      "description": "Colombia’s far-right president-elect says he&#039;ll close or suspend embassies in these countries",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/colombias-president-elect-to-suspend-palestine-embassy?traffic_source=rss",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
       "description": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.",
       "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "US diplomats walk out as France addresses UN Security Council",
-      "description": "US diplomats walk out of UN meeting during France&#039;s speech amid tensions over human rights chief&#039;s reappointment.",
-      "link": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "australia": [
-    {
-      "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
-      "description": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
-      "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
     {
       "title": "Trump says Iran war talks taking place during lull in strikes",
       "description": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
@@ -41,23 +35,29 @@
       "source": "BBC News"
     },
     {
-      "title": "Johnson & Johnson offers up to $5.5bn to settle US baby powder lawsuits",
+      "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
       "description": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
       "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+      "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
     {
-      "title": "Oil price dives as US and Iran pause attacks",
-      "description": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
-      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
       "description": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
       "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Oil price dives as US and Iran pause attacks",
+      "description": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     },
     {
@@ -72,7 +72,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 11,
+      "count": 10,
       "story": {
         "title": "Trump says Iran war talks taking place during lull in strikes",
         "description": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
@@ -81,62 +81,98 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 5,
-      "story": {
-        "title": "Man accused of allegedly trying to defraud $1.3m from ATO",
-        "description": "A Broken Hill man has been accused of allegedly attempting to defraud the Australian Taxation Office of more than $1.3 million.",
-        "link": "https://www.abc.net.au/news/2026-07-28/broken-hill-man-accused-defraud-over-1-million-false-tax-claims/106962424",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
-      "count": 3,
+      "count": 5,
       "story": {
-        "title": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux",
-        "description": "Temperatures are expected to soar past 40C in some regions as a heatwave builds, further hampering firefighting efforts.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+        "title": "US walks out of UN Security Council meeting during France's remarks",
+        "description": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+        "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
       "count": 3,
       "story": {
-        "title": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux",
-        "description": "Temperatures are expected to soar past 40C in some regions as a heatwave builds, further hampering firefighting efforts.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+        "title": "US walks out of UN Security Council meeting during France's remarks",
+        "description": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+        "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 3,
-      "story": {
-        "title": "Israeli ex-generals urge Trump to push Netanyahu on ‘settler terror’",
-        "description": "Settler violence in the occupied West Bank endangers Israel’s future, 550 former officials tell Trump.",
-        "link": "https://www.aljazeera.com/news/2026/7/28/israeli-ex-generals-urge-trump-to-push-netanyahu-on-settler-terror?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
         "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
         "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 3,
+      "story": {
+        "title": "Joint spares Aussie blushes on tough day at Memphis Open",
+        "description": "Rising star Maya Joint has spared Australia's blushes at the WTA's hard-court event in Memphis as her compatriots struggle.",
+        "link": "https://www.abc.net.au/news/2026-07-28/joint-spares-aussie-blushes-on-tough-day-at-memphis-open/106968374",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Ecuador",
+      "lat": -1.83,
+      "lon": -78.18,
+      "count": 2,
+      "story": {
+        "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+        "description": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+        "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Zidane confirmed as new France manager",
+        "description": "Former Real Madrid manager Zinedine Zidane has been confirmed as the new head coach of the France national team.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "A Japanese town wrestles with identity after protests over its first mosque",
+        "description": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
+        "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Hong Kong",
+      "lat": 22.32,
+      "lon": 114.17,
+      "count": 2,
+      "story": {
+        "title": "Hong Kong activist allowed to stay in UK after deportation threat",
+        "description": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC.",
+        "link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -153,18 +189,6 @@
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 2,
-      "story": {
-        "title": "South Africa investigates death of Nigerian who collapsed during arrest",
-        "description": "Initial reports from a post-mortem said he had \"abrasions on his back and chest\", investigators say.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Washington",
       "lat": 38.9,
       "lon": -77.03,
@@ -177,15 +201,39 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 2,
       "story": {
-        "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-        "description": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
-        "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+        "title": "Is it safe to travel to France and Spain right now?",
+        "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+        "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 2,
+      "story": {
+        "title": "This farmer wanted to quit the cocaine industry - he couldn't",
+        "description": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
+        "link": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 2,
+      "story": {
+        "title": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
+        "description": "The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.",
+        "link": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -194,57 +242,57 @@
       "lon": 138.6,
       "count": 2,
       "story": {
-        "title": "Embattled LIV Golf tour asks to defer payment to Adelaide golf club",
-        "description": "The future of LIV Golf Adelaide has been further \"shrouded in doubt\", the SA opposition says, after LIV asked for an extension on a payment to Kooyonga Golf Club, which is scheduled to host the event next year.",
-        "link": "https://www.abc.net.au/news/2026-07-28/liv-golf-tour-asks-to-defer-payment-to-kooyonga-golf-club/106966932",
+        "title": "Prison worker stands trial accused of raping inmate",
+        "description": "A prison worker has pleaded not guilty to the aggravated indecent assault and rape of a female inmate at an Adelaide prison facility.",
+        "link": "https://www.abc.net.au/news/2026-07-28/adelaide-prison-worker-stands-trial-accused-of-raping-inmate/106967000",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Ecuador",
-      "lat": -1.83,
-      "lon": -78.18,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 2,
+      "story": {
+        "title": "Family of allegedly murdered mother says she was 'loved beyond words'",
+        "description": "An online fundraiser for the family of a Melbourne mother allegedly murdered by her partner has raised almost $40,000.",
+        "link": "https://www.abc.net.au/news/2026-07-28/donations-to-family-of-clyde-north-mother-allegedly-murdered/106967958",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
       "count": 1,
       "story": {
-        "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
-        "description": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
-        "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+        "title": "US walks out of UN Security Council meeting during France's remarks",
+        "description": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+        "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
       "count": 1,
       "story": {
-        "title": "China's new challenge as natural disasters strike - fake AI videos",
-        "description": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
-        "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
+        "title": "Hong Kong activist allowed to stay in UK after deportation threat",
+        "description": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC.",
+        "link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
       "count": 1,
       "story": {
-        "title": "A Japanese town wrestles with identity after protests over its first mosque",
-        "description": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
-        "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Chile",
-      "lat": -35.68,
-      "lon": -71.54,
-      "count": 1,
-      "story": {
-        "title": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
-        "description": "Nelson Haase was one of those convicted over the kidnap and murder of folk singer Victor Jara after Chile's military coup in 1973.",
-        "link": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
+        "title": "Zoo staff rescue near-extinct snails from remote rock",
+        "description": "Just 21 Madeiran land snails were found clinging to a rock on Portugal's Bugio Island, say conservationists.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -261,38 +309,38 @@
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Chile",
+      "lat": -35.68,
+      "lon": -71.54,
       "count": 1,
       "story": {
-        "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
-        "description": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
-        "link": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
+        "title": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
+        "description": "Nelson Haase was one of those convicted over the kidnap and murder of folk singer Victor Jara after Chile's military coup in 1973.",
+        "link": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 1,
       "story": {
-        "title": "South Africa investigates death of Nigerian who collapsed during arrest",
-        "description": "Initial reports from a post-mortem said he had \"abrasions on his back and chest\", investigators say.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&at_campaign=rss",
+        "title": "China's new challenge as natural disasters strike - fake AI videos",
+        "description": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
+        "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
       "count": 1,
       "story": {
-        "title": "Devastating European wildfires in maps - and how they're being tackled",
-        "description": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
-        "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+        "title": "Cycling in rude health thanks to Pogacar and testing",
+        "description": "Tour de France fans were spoilt for choice in Paris when it came to drinking in the drama of cycling's greatest race.",
+        "link": "https://www.bbc.co.uk/sport/cycling/articles/c0l503edee8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -309,26 +357,14 @@
       }
     },
     {
-      "name": "Hong Kong",
-      "lat": 22.32,
-      "lon": 114.17,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 1,
       "story": {
-        "title": "Shein swings to $99m loss as Trump tariffs hit sales",
-        "description": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
-        "link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
-      "count": 1,
-      "story": {
-        "title": "This farmer wanted to quit the cocaine industry - he couldn't",
-        "description": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
-        "link": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
+        "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+        "description": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
+        "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
       }
     },
@@ -345,6 +381,30 @@
       }
     },
     {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 1,
+      "story": {
+        "title": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
+        "description": "The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.",
+        "link": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 1,
+      "story": {
+        "title": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
+        "description": "The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.",
+        "link": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Malaysia",
       "lat": 4.21,
       "lon": 101.98,
@@ -353,18 +413,6 @@
         "title": "Malaysia detains more than 100 Rohingya seeking help from the UN",
         "description": "Malaysian police have detained more than 100 Rohingya refugees and asylum seekers who were seeking help from the UN.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/malaysia-detains-more-than-100-rohingya-seeking-help-from-the-un?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 1,
-      "story": {
-        "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
-        "description": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.",
-        "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -405,98 +453,38 @@
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "Video shows man subdued after stabbing three women in Paris",
-        "description": "Three women were wounded, two of them seriously, in a knife attack near Porte de Clichy in Paris.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
-        "description": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.",
-        "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
-      "count": 1,
-      "story": {
-        "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
-        "description": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.",
-        "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Peru",
-      "lat": -9.19,
-      "lon": -75.02,
-      "count": 1,
-      "story": {
-        "title": "Will Peru’s new leader Keiko Fujimori reject her father’s legacy?",
-        "description": "Keiko Fujimori was elected president and many people are sceptical she will be able to unite Peru as promised.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Seoul",
-      "lat": 37.57,
-      "lon": 126.98,
-      "count": 1,
-      "story": {
-        "title": "Australian-founded restaurant at centre of South Korean court case over ant garnish",
-        "description": "Seoul prosecutors have alleged Evett in Seoul's Gangnam district served ants illegally imported from Thailand and the US in violation of food safety regulations.",
-        "link": "https://www.abc.net.au/news/2026-07-28/evett-south-korea-court-case-over-restaurant-use-of-ants/106949890",
+        "title": "Hanson reveals who paid for Italy trip with Gina Rinehart",
+        "description": "The benefactor of Pauline Hanson's Italy trip has been disclosed in an update to the One Nation leader's gift registry.",
+        "link": "https://www.abc.net.au/news/2026-07-28/hanson-reveals-rinehart-paid-for-italy-trip/106968518",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "Australian-founded restaurant at centre of South Korean court case over ant garnish",
-        "description": "Seoul prosecutors have alleged Evett in Seoul's Gangnam district served ants illegally imported from Thailand and the US in violation of food safety regulations.",
-        "link": "https://www.abc.net.au/news/2026-07-28/evett-south-korea-court-case-over-restaurant-use-of-ants/106949890",
+        "title": "Woman charged with animal cruelty as 119 animals allegedly found on property",
+        "description": "Police say they have charged a 48-year-old woman with serious animal cruelty after allegedly finding 119 animals on a property west of Brisbane.",
+        "link": "https://www.abc.net.au/news/2026-07-28/woman-charged-with-animal-cruelty-119-allegedly-found-tara/106968172",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
       "count": 1,
       "story": {
-        "title": "Rabbi supports stopping hospital staff from wearing Israeli, Palestinian pins",
-        "description": "Jewish patients requested their religion be removed from their hospital admission information following allegations nurses made menacing comments about Israeli patients, the royal commission on antisemitism has heard.",
-        "link": "https://www.abc.net.au/news/2026-07-28/jewish-patients-afraid-to-go-to-hospital-after-nurses-comments/106965472",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Melbourne businessman found guilty of rape",
-        "description": "A County Court jury has found beyond reasonable doubt that the man, who can't be named for legal reasons, raped and sexually assaulted a woman at his home in March 2023.",
-        "link": "https://www.abc.net.au/news/2026-07-28/jury-verdict-in-melbourne-businessman-rape-case/106966126",
+        "title": "Former Melbourne organised crime kingpin sentenced to life in Iraq prison",
+        "description": "Kazem Hamad, a former Melbourne organised crime kingpin who was deported to Iraq in 2023, has been sentenced to life in jail by an Iraqi court after being convicted of drug trafficking.",
+        "link": "https://www.abc.net.au/news/2026-07-28/kazem-hamad-sentenced-to-life-in-iraq-jail/106968276",
         "source": "ABC News AU"
       }
     }
