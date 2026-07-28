@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T09:18:52+00:00",
+  "generated_at": "2026-07-28T11:36:19+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -15,25 +15,19 @@
       "source": "BBC News"
     },
     {
+      "title": "Netanyahu in the White House: What’s on the agenda and what’s next?",
+      "description": "The Israeli PM&#039;s visit to the US comes amid raids in the occupied West Bank, before the October 27 elections.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next?traffic_source=rss",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Colombia’s president-elect to suspend Palestine embassy",
       "description": "Colombia’s far-right president-elect says he&#039;ll close or suspend embassies in these countries",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/colombias-president-elect-to-suspend-palestine-embassy?traffic_source=rss",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
-      "description": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.",
-      "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "australia": [
-    {
-      "title": "Trump says Iran war talks taking place during lull in strikes",
-      "description": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
-      "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
     {
       "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
       "description": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
@@ -45,6 +39,12 @@
       "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
       "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
+      "description": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "economy": [
@@ -72,23 +72,23 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 10,
+      "count": 7,
       "story": {
-        "title": "Trump says Iran war talks taking place during lull in strikes",
-        "description": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
-        "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+        "title": "Zoo staff rescue near-extinct snails from remote rock",
+        "description": "Just 21 Madeiran land snails were found clinging to a rock on Portugal's Bugio Island, say conservationists.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 5,
       "story": {
-        "title": "US walks out of UN Security Council meeting during France's remarks",
-        "description": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
-        "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+        "title": "Why Netanyahu's visit with Trump at the White House is high-stakes",
+        "description": "The meeting comes amid signs of friction between the two leaders and decreasing public support for Israel in the US.",
+        "link": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -96,7 +96,31 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 3,
+      "count": 4,
+      "story": {
+        "title": "Zelensky to press Trump on air defences while in Washington",
+        "description": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+        "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 4,
+      "story": {
+        "title": "Zelensky to press Trump on air defences while in Washington",
+        "description": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+        "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 4,
       "story": {
         "title": "US walks out of UN Security Council meeting during France's remarks",
         "description": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
@@ -105,14 +129,38 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 4,
+      "story": {
+        "title": "A Japanese town wrestles with identity after protests over its first mosque",
+        "description": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
+        "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 3,
       "story": {
-        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-        "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
-        "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky to press Trump on air defences while in Washington",
+        "description": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+        "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 3,
+      "story": {
+        "title": "Why Netanyahu's visit with Trump at the White House is high-stakes",
+        "description": "The meeting comes amid signs of friction between the two leaders and decreasing public support for Israel in the US.",
+        "link": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -146,21 +194,21 @@
       "lon": -3.7,
       "count": 2,
       "story": {
-        "title": "Zidane confirmed as new France manager",
-        "description": "Former Real Madrid manager Zinedine Zidane has been confirmed as the new head coach of the France national team.",
+        "title": "Zidane confirmed as France head coach",
+        "description": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
         "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
       "count": 2,
       "story": {
-        "title": "A Japanese town wrestles with identity after protests over its first mosque",
-        "description": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
-        "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+        "title": "Hong Kong activist allowed to stay in UK after deportation threat",
+        "description": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC.",
+        "link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -173,30 +221,6 @@
         "title": "Hong Kong activist allowed to stay in UK after deportation threat",
         "description": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC.",
         "link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 2,
-      "story": {
-        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-        "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
-        "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
-        "description": "Republican Senator Lindsay Graham's funeral is bringing the two world leaders to town, where they'll separately visit the White House to discuss their region's wars.",
-        "link": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -225,14 +249,14 @@
       }
     },
     {
-      "name": "Israel",
+      "name": "Gaza",
       "lat": 31.5,
-      "lon": 34.75,
+      "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
-        "description": "The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.",
-        "link": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
+        "title": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
+        "description": "Green Party, which took over control of the council from the Labour Party, is opposed to Israel&#039;s genocidal war on Gaza.",
+        "link": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -261,6 +285,18 @@
       }
     },
     {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 1,
+      "story": {
+        "title": "Zelensky to press Trump on air defences while in Washington",
+        "description": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+        "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
@@ -269,18 +305,6 @@
         "title": "US walks out of UN Security Council meeting during France's remarks",
         "description": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
         "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
-      "count": 1,
-      "story": {
-        "title": "Hong Kong activist allowed to stay in UK after deportation threat",
-        "description": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC.",
-        "link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -309,6 +333,18 @@
       }
     },
     {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+        "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+        "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Chile",
       "lat": -35.68,
       "lon": -71.54,
@@ -329,30 +365,6 @@
         "title": "China's new challenge as natural disasters strike - fake AI videos",
         "description": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
         "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 1,
-      "story": {
-        "title": "Cycling in rude health thanks to Pogacar and testing",
-        "description": "Tour de France fans were spoilt for choice in Paris when it came to drinking in the drama of cycling's greatest race.",
-        "link": "https://www.bbc.co.uk/sport/cycling/articles/c0l503edee8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
-        "description": "Republican Senator Lindsay Graham's funeral is bringing the two world leaders to town, where they'll separately visit the White House to discuss their region's wars.",
-        "link": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -381,14 +393,14 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 1,
       "story": {
-        "title": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
-        "description": "The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.",
-        "link": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
+        "title": "‘Future at stake’: India moves to demolish university Muslim leader founded",
+        "description": "Authorities in BJP-ruled Uttar Pradesh allege 38 of Mohammad Ali Jauhar University&#039;s 40 buildings were built illegally.",
+        "link": "https://www.aljazeera.com/news/2026/7/28/future-at-stake-india-moves-to-demolish-university-muslim-leader-founded?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -425,30 +437,6 @@
         "title": "Ebola response workers strike in DR Congo as death toll spikes",
         "description": "Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/ebola-response-workers-strike-in-dr-congo-as-death-toll-spikes?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
-      "count": 1,
-      "story": {
-        "title": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
-        "description": "Speaking in Riyadh, Yemen&#039;s internationally recognised government warns global complacency has emboldened the Houthis.",
-        "link": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ankara",
-      "lat": 39.93,
-      "lon": 32.86,
-      "count": 1,
-      "story": {
-        "title": "Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye",
-        "description": "US President Donald Trump called Turkiye &#039;a great ally&#039; when asked about selling F-35 fighter jets to Ankara.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-on-erdogan-netanyahu-and-selling-fighter-jets-to-turkiye?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
