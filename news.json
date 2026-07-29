@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T16:25:53+00:00",
+  "generated_at": "2026-07-29T17:50:28+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,7 +32,13 @@
   ],
   "australia": [
     {
-      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+      "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+      "description": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
       "description": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
       "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -41,12 +47,6 @@
       "title": "Russia charges Telegram founder Durov with facilitating terrorism",
       "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
       "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
-      "description": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament.",
-      "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -87,12 +87,24 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 15,
       "story": {
         "title": "Nasty crash denies Aussies chance to hit back at defector Richardson",
         "description": "Matt Richardson, a three-time Olympic medallist in Paris for Australia before he sensationally defected to the land of his birth, has been ruled out of the Commonwealth Games.",
         "link": "https://www.abc.net.au/news/2026-07-29/matt-richardson-out-of-commonwealth-games/106974084",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 8,
+      "story": {
+        "title": "France fire crews face searing heat in battle to contain flames",
+        "description": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
+        "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -104,6 +116,18 @@
         "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
         "description": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
         "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 7,
+      "story": {
+        "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+        "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,18 +144,6 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 6,
-      "story": {
-        "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-        "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -140,18 +152,6 @@
         "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
         "description": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament.",
         "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
-      "count": 5,
-      "story": {
-        "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-        "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
-        "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -168,38 +168,26 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 5,
-      "story": {
-        "title": "European wildfires in maps - and how they're being tackled",
-        "description": "Spain and France have so far borne the burnt of this summer's wildfires, caused by a succession of heatwaves and prolonged dry spells.",
-        "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 5,
-      "story": {
-        "title": "German Muslims are alarmed by the Islamist terror attack in Berlin",
-        "description": "Germany's Muslim organizations condemn the Islamist terrorist attack targeting Berlin's Pride celebrations and fear repercussions.",
-        "link": "https://www.dw.com/en/german-muslims-are-alarmed-by-the-islamist-terror-attack-in-berlin/a-78157854?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
       "count": 4,
       "story": {
         "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
         "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
         "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 4,
+      "story": {
+        "title": "Tributes paid to DJ ​and electronic ‌musician Kavinsky who has died",
+        "description": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
+        "link": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -228,14 +216,26 @@
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 4,
+      "story": {
+        "title": "German Muslims are alarmed by the Islamist terror attack in Berlin",
+        "description": "Germany's Muslim organizations condemn the Islamist terrorist attack targeting Berlin's Pride celebrations and fear repercussions.",
+        "link": "https://www.dw.com/en/german-muslims-are-alarmed-by-the-islamist-terror-attack-in-berlin/a-78157854?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 3,
       "story": {
-        "title": "Tributes paid to DJ ​and electronic ‌musician Kavinsky who has died",
-        "description": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
-        "link": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
+        "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+        "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+        "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -273,18 +273,6 @@
         "description": "Germany's Muslim organizations condemn the Islamist terrorist attack targeting Berlin's Pride celebrations and fear repercussions.",
         "link": "https://www.dw.com/en/german-muslims-are-alarmed-by-the-islamist-terror-attack-in-berlin/a-78157854?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Ecuador",
-      "lat": -1.83,
-      "lon": -78.18,
-      "count": 2,
-      "story": {
-        "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
-        "description": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
-        "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -336,39 +324,15 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
       "count": 2,
       "story": {
         "title": "Wildfires spread in Greece and Turkiye as EU chief urges climate action",
         "description": "Heatwaves intensify deadly fires across Europe, killing two firefighters on the Greek island of Crete.",
         "link": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 2,
-      "story": {
-        "title": "'Heartbroken' adult shop owner to appeal decision to reject consensual sex club",
-        "description": "The City of Perth has rejected an adult store's request to operate a club where LGBTQIA+ people could meet and have consensual sex, with the owner saying he is \"heartbroken\".",
-        "link": "https://www.abc.net.au/news/2026-07-29/city-of-perth-rejects-pink-rabbit-sex-club/106972440",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 2,
-      "story": {
-        "title": "Live: Aussie weightlifter emulates father's Scottish bronze 40 years on",
-        "description": "The Diamonds have perhaps their toughest match-up of the group stage against South Africa and Sam Short completes his packed schedule with the men's 200m and 1,500m freestyle finals on the same night. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-07-29/commonwealth-games-glasgow-day-six-live-blog/106969928",
-        "source": "ABC News AU"
       }
     },
     {
@@ -404,6 +368,18 @@
         "title": "Thousands sheltering in key Sudan city under threat again as fighting escalates",
         "description": "International leaders have issued warnings the RSF may be preparing to attack the city, raising fears of further atrocities being committed.",
         "link": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ecuador",
+      "lat": -1.83,
+      "lon": -78.18,
+      "count": 1,
+      "story": {
+        "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+        "description": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+        "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -492,26 +468,14 @@
       }
     },
     {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 1,
       "story": {
         "title": "Wildfires spread in Greece and Turkiye as EU chief urges climate action",
         "description": "Heatwaves intensify deadly fires across Europe, killing two firefighters on the Greek island of Crete.",
         "link": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "Jayden Seales takes five wickets as West Indies beat Pakistan in first Test",
-        "description": "West Indies take a 1-0 lead in the two-Test series after Jayden Seales dominates with the ball on day 4 in Trinidad.",
-        "link": "https://www.aljazeera.com/sports/2026/7/29/seales-takes-five-wickets-as-west-indies-beat-pakistan-in-first-test?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -524,6 +488,18 @@
         "title": "Three dead in Sydney house fire as police launch investigation",
         "description": "An investigation is now underway into the circumstances surrounding the fire.",
         "link": "https://www.abc.net.au/news/2026-07-30/three-dead-in-sydney-housefire-wiley-park/106974284",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
+      "count": 1,
+      "story": {
+        "title": "'Heartbroken' adult shop owner to appeal decision to reject consensual sex club",
+        "description": "The City of Perth has rejected an adult store's request to operate a club where LGBTQIA+ people could meet and have consensual sex, with the owner saying he is \"heartbroken\".",
+        "link": "https://www.abc.net.au/news/2026-07-29/city-of-perth-rejects-pink-rabbit-sex-club/106972440",
         "source": "ABC News AU"
       }
     },
@@ -548,6 +524,30 @@
         "title": "Iran war: Egypt's difficult balancing act",
         "description": "The US-Iran war has already had a negative economic impact on Egypt. Now new threats from the Houthi group in Yemen are likely to worsen that. At the same time, Egypt is trying to stay on good terms with all parties.",
         "link": "https://www.dw.com/en/iran-war-egypt-s-difficult-balancing-act/a-78162983?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Europe wildfires: Spain lets people return, France faces extreme heat",
+        "description": "Spain lifted evacuations for Avila province, a day after doing so in parts of the Madrid area. To the north in France, temperatures rose again, with extreme heat warnings in much of the country, including Gironde.",
+        "link": "https://www.dw.com/en/europe-wildfires-spain-lets-people-return-france-faces-extreme-heat/a-78153758?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 1,
+      "story": {
+        "title": "How a Ugandan lost 20 years of her life to xenophobia",
+        "description": "After decades of building lives in South Africa, renewed anti-immigrant tensions in 2026 forced hundreds of African migrants to leave. A Ugandan who spent two decades in South Africa shared with DW how she's coping.",
+        "link": "https://www.dw.com/en/how-a-ugandan-lost-20-years-of-her-life-to-xenophobia/a-78144564?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
