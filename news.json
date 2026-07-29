@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:25:47+00:00",
+  "generated_at": "2026-07-29T20:32:21+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,9 +24,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "Hindus take holy dip in India’s rivers on sacred holiday",
-      "description": "Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and Saryu rivers to mark Guru Purnima.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss",
+      "title": "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
+      "description": "Fatal confrontations between security forces and protesters have marred local elections.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/29/how-is-islamabad-handling-crisis-in-pakistan-administered-kashmir?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
@@ -84,27 +84,27 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 13,
-      "story": {
-        "title": "Solar is cheap, but building enough of it can be difficult",
-        "description": "Australia is the world’s biggest iron ore exporter, but the Australian Renewable Energy Agency says ultra-low-cost solar could make it a green iron superpower.",
-        "link": "https://www.abc.net.au/news/2026-07-30/turning-to-robots-to-build-australian-solar-future/106917752",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
       "count": 9,
       "story": {
-        "title": "France fire crews face searing heat in battle to contain flames",
+        "title": "France fire crews battle heat as locals tell BBC of fight to save homes",
         "description": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
         "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 9,
+      "story": {
+        "title": "Solar is cheap, but building enough of it can be difficult",
+        "description": "Australia is the world’s biggest iron ore exporter, but the Australian Renewable Energy Agency says ultra-low-cost solar could make it a green iron superpower.",
+        "link": "https://www.abc.net.au/news/2026-07-30/turning-to-robots-to-build-australian-solar-future/106917752",
+        "source": "ABC News AU"
       }
     },
     {
@@ -120,26 +120,14 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 6,
       "story": {
-        "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-        "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 6,
-      "story": {
-        "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
-        "description": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament.",
-        "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
+        "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+        "description": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
+        "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,15 +144,51 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 5,
+      "story": {
+        "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+        "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 5,
+      "story": {
+        "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
+        "description": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament.",
+        "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 5,
       "story": {
         "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
         "description": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
         "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 5,
+      "story": {
+        "title": "How well are LGBTQ+ rights protected across Europe?",
+        "description": "After the attack on Berlin’s Pride event on Saturday, the situation of the LGBTQ+ community in Germany is a topic of conversation. How well are queer rights protected in other European countries? An overview.",
+        "link": "https://www.dw.com/en/how-well-are-lgbtq-rights-protected-across-europe/a-78166254?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -204,14 +228,14 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
       "count": 4,
       "story": {
-        "title": "German Muslims are alarmed by the Islamist terror attack in Berlin",
-        "description": "Germany's Muslim organizations condemn the Islamist terrorist attack targeting Berlin's Pride celebrations and fear repercussions.",
-        "link": "https://www.dw.com/en/german-muslims-are-alarmed-by-the-islamist-terror-attack-in-berlin/a-78157854?maca=en-rss-en-all-1573-rdf",
+        "title": "How well are LGBTQ+ rights protected across Europe?",
+        "description": "After the attack on Berlin’s Pride event on Saturday, the situation of the LGBTQ+ community in Germany is a topic of conversation. How well are queer rights protected in other European countries? An overview.",
+        "link": "https://www.dw.com/en/how-well-are-lgbtq-rights-protected-across-europe/a-78166254?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -228,27 +252,15 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 3,
       "story": {
-        "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
-        "description": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 3,
-      "story": {
-        "title": "German Muslims are alarmed by the Islamist terror attack in Berlin",
-        "description": "Germany's Muslim organizations condemn the Islamist terrorist attack targeting Berlin's Pride celebrations and fear repercussions.",
-        "link": "https://www.dw.com/en/german-muslims-are-alarmed-by-the-islamist-terror-attack-in-berlin/a-78157854?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Ice cream for education: Gaza cafe raises funds for studies",
+        "description": "In war-torn Gaza, a group of Palestinian students opened Flora, an ice cream shop and cafe, to pay university fees.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/ice-cream-for-education-gaza-cafe-raises-funds-for-studies?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -312,18 +324,6 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
-        "description": "&#039;There is no ceasefire&#039; say Palestinians in Gaza after new Israeli strikes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Italy",
       "lat": 42.5,
       "lon": 12.5,
@@ -332,18 +332,6 @@
         "title": "New coach Mancini wants to make Italy great again",
         "description": "",
         "link": "https://www.channelnewsasia.com/sport/new-coach-mancini-wants-make-italy-great-again-6286711",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 2,
-      "story": {
-        "title": "Indonesians file complaint against Netanyahu for Gaza flotilla arrest 'abuses'",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/asia/indonesians-file-complaint-against-netanyahu-gaza-flotilla-arrest-abuses-6286646",
         "source": "CNA"
       }
     },
@@ -396,6 +384,54 @@
       }
     },
     {
+      "name": "Algeria",
+      "lat": 28.03,
+      "lon": 1.66,
+      "count": 1,
+      "story": {
+        "title": "Algeria elects first-ever woman speaker of parliament",
+        "description": "Khalida Boufedeche of the National Liberation Front has become the first-ever woman speaker of Algeria’s parliament.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Islamabad",
+      "lat": 33.7,
+      "lon": 73.06,
+      "count": 1,
+      "story": {
+        "title": "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
+        "description": "Fatal confrontations between security forces and protesters have marred local elections.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/29/how-is-islamabad-handling-crisis-in-pakistan-administered-kashmir?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
+        "description": "Fatal confrontations between security forces and protesters have marred local elections.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/29/how-is-islamabad-handling-crisis-in-pakistan-administered-kashmir?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 1,
+      "story": {
+        "title": "Al-Shabab kills five Kenyan security personnel in ambush",
+        "description": "The ambush is part of a rapid surge in cross-border attacks along Kenya&#039;s northern frontier.",
+        "link": "https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Libya",
       "lat": 26.34,
       "lon": 17.23,
@@ -420,39 +456,15 @@
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "How a seaweed bloom is affecting tourism in Mexico",
-        "description": "In Mexico, a record surge of brown, smelly seaweed known as sargassum has blanketed the idyllic coastline.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/how-a-seaweed-bloom-is-affecting-tourism-in-mexico?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Damascus",
-      "lat": 33.5,
-      "lon": 36.3,
-      "count": 1,
-      "story": {
-        "title": "Fragile peace in Syria’s Set Zaynab as sectarian challenges persist",
-        "description": "Locals in southern Damascus town await safer times as fears rooted in a decade of war still loom over daily life.",
-        "link": "https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 1,
-      "story": {
-        "title": "Fragile peace in Syria’s Set Zaynab as sectarian challenges persist",
-        "description": "Locals in southern Damascus town await safer times as fears rooted in a decade of war still loom over daily life.",
-        "link": "https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Suburban landfill set to close six years after it caught fire",
+        "description": "A tip in Melbourne's western suburbs marred by underground spot fires for nearly seven years will close permanently.",
+        "link": "https://www.abc.net.au/news/2026-07-30/kealba-landfill-in-western-melbourne-to-close/106969042",
+        "source": "ABC News AU"
       }
     },
     {
@@ -474,20 +486,8 @@
       "count": 1,
       "story": {
         "title": "Three dead in Sydney house fire as police launch investigation",
-        "description": "An investigation is now underway into the circumstances surrounding the fire.",
-        "link": "https://www.abc.net.au/news/2026-07-30/three-dead-in-sydney-housefire-wiley-park/106974284",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "'Heartbroken' adult shop owner to appeal decision to reject consensual sex club",
-        "description": "The City of Perth has rejected an adult store's request to operate a club where LGBTQIA+ people could meet and have consensual sex, with the owner saying he is \"heartbroken\".",
-        "link": "https://www.abc.net.au/news/2026-07-29/city-of-perth-rejects-pink-rabbit-sex-club/106972440",
+        "description": "New South Wales Police is working to identify the bodies of three people found in a house fire in Sydney's south-west overnight.",
+        "link": "https://www.abc.net.au/news/2026-07-30/three-dead-in-sydney-house-fire-wiley-park/106974284",
         "source": "ABC News AU"
       }
     },
@@ -540,14 +540,14 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 1,
       "story": {
-        "title": "Russia charges Telegram founder Durov with aiding terrorism",
-        "description": "Moscow has escalated its pressure on Telegram, accusing the platform of hosting tools used to coordinate deadly attacks and sabotage across Russia.",
-        "link": "https://www.dw.com/en/russia-charges-telegram-founder-durov-with-aiding-terrorism/a-78153754?maca=en-rss-en-all-1573-rdf",
+        "title": "Poland: Top court rejects recognizing EU same-sex marriages",
+        "description": "Poland's constitutional court has overturned plans to recognize same-sex marriages that took place in other EU member states. This defies an order from the EU's top court and could set up a clash on the matter.",
+        "link": "https://www.dw.com/en/poland-top-court-rejects-recognizing-eu-same-sex-marriages/a-78146379?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
