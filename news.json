@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T12:05:32+00:00",
+  "generated_at": "2026-07-29T14:52:52+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,13 +24,19 @@
       "source": "BBC Business"
     },
     {
-      "title": "Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
-      "description": "How the proposed FIFA Forward Enterprise has drawn criticism, including from UEFA and new United Kingdom Prime Minister.",
-      "link": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss",
+      "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
+      "description": "&#039;There is no ceasefire&#039; say Palestinians in Gaza after new Israeli strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
   "australia": [
+    {
+      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+      "description": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+      "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Russia charges Telegram founder Durov with facilitating terrorism",
       "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
@@ -41,12 +47,6 @@
       "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
       "description": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament.",
       "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Trump's new spy chief Jay Clayton confirmed by US Senate",
-      "description": "Jay Clayton's confirmation comes after the US president's original choice was rejected by lawmakers due to lack of relevant experience",
-      "link": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 15,
+      "count": 17,
       "story": {
         "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
         "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
@@ -89,17 +89,29 @@
       "lon": 133.0,
       "count": 15,
       "story": {
-        "title": "'Time-limited rotation': Conroy puts an end date on US subs in WA",
-        "description": "AUKUS submarines rotating through Western Australia's HMAS Stirling naval base appear set to stop after 2032.",
-        "link": "https://www.abc.net.au/news/2026-07-29/pat-conroy-aukus-doubts-about-timeframe/106973268",
+        "title": "Nasty crash denies Aussies chance to hit back at defector Richardson",
+        "description": "Matt Richardson, a three-time Olympic medallist in Paris for Australia before he sensationally defected to the land of his birth, has been ruled out of the Commonwealth Games.",
+        "link": "https://www.abc.net.au/news/2026-07-29/matt-richardson-out-of-commonwealth-games/106974084",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 9,
+      "story": {
+        "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+        "description": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
+        "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
-      "count": 9,
+      "count": 7,
       "story": {
         "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
         "description": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
@@ -111,7 +123,7 @@
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
         "description": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
@@ -120,14 +132,26 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 8,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 7,
       "story": {
-        "title": "Trump administration bans new Chinese humanoid robots",
-        "description": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
-        "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+        "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
+      "count": 6,
+      "story": {
+        "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+        "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+        "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,54 +168,6 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 6,
-      "story": {
-        "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
-        "description": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament.",
-        "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 6,
-      "story": {
-        "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
-        "description": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 6,
-      "story": {
-        "title": "Will Germany bring back mandatory military conscription next year?",
-        "description": "A voluntary recruitment drive has only drawn 500 people so far this year, with many more eager to opt out.",
-        "link": "https://www.aljazeera.com/news/2026/7/29/will-germany-bring-back-mandatory-military-conscription-next-year?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
-      "count": 5,
-      "story": {
-        "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-        "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
-        "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
@@ -201,6 +177,30 @@
         "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
         "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 5,
+      "story": {
+        "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
+        "description": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament.",
+        "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 5,
+      "story": {
+        "title": "Will Germany bring back mandatory military conscription next year?",
+        "description": "A voluntary recruitment drive has only drawn 500 people so far this year, with many more eager to opt out.",
+        "link": "https://www.aljazeera.com/news/2026/7/29/will-germany-bring-back-mandatory-military-conscription-next-year?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -216,14 +216,26 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 4,
       "story": {
-        "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-        "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+        "title": "Trump administration bans new Chinese humanoid robots",
+        "description": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+        "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 3,
+      "story": {
+        "title": "French DJ ​and electronic ‌musician Kavinsky dies aged 50",
+        "description": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
+        "link": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -240,27 +252,87 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 3,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 2,
       "story": {
-        "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
-        "description": "Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.",
-        "link": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
+        "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+        "description": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
+        "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+        "description": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
+        "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ecuador",
+      "lat": -1.83,
+      "lon": -78.18,
+      "count": 2,
+      "story": {
+        "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+        "description": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+        "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 2,
+      "story": {
+        "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+        "description": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
+        "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
+        "description": "&#039;There is no ceasefire&#039; say Palestinians in Gaza after new Israeli strikes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
       "count": 2,
       "story": {
-        "title": "French DJ ​and electropop ‌musician Kavinsky dies aged 50",
-        "description": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
-        "link": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "How a seaweed bloom is affecting tourism in Mexico",
+        "description": "In Mexico, a record surge of brown, smelly seaweed known as sargassum has blanketed the idyllic coastline.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/how-a-seaweed-bloom-is-affecting-tourism-in-mexico?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 2,
+      "story": {
+        "title": "Fragile peace in Syria’s Set Zaynab as sectarian challenges persist",
+        "description": "Locals in southern Damascus town await safer times as fears rooted in a decade of war still loom over daily life.",
+        "link": "https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -270,32 +342,20 @@
       "count": 2,
       "story": {
         "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
-        "description": "The US says it intercepts an Iranian &#039;surprise attack&#039; on US forces as fears rise of wider war.",
+        "description": "The US says it intercepted an Iranian &#039;surprise attack&#039; on US forces as fears rise of wider war.",
         "link": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 2,
       "story": {
-        "title": "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
-        "description": "New law enforcement operations could quickly escalate into a blockade of Taiwan, say analysts.",
-        "link": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "Protesters storm hotel, heckle Netanyahu in Washington DC",
-        "description": "Activists protested at a hotel where Israeli Prime Minister Benjamin Netanyahu was having dinner in Washington, DC.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
+        "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
+        "description": "Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.",
+        "link": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -312,6 +372,18 @@
       }
     },
     {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 2,
+      "story": {
+        "title": "Live: Ollie Hoare falls in mile heats, Australian team appeals",
+        "description": "The Diamonds have perhaps their toughest match-up of the group stage against South Africa and Sam Short completes his packed schedule with the men's 200m and 1,500m freestyle finals on the same night. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-07-29/commonwealth-games-glasgow-day-six-live-blog/106969928",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
@@ -324,62 +396,14 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 2,
-      "story": {
-        "title": "Russia charges Telegram founder Durov with aiding terrorism",
-        "description": "Moscow has escalated its pressure on Telegram, accusing the platform of hosting tools used to coordinate deadly attacks and sabotage across Russia.",
-        "link": "https://www.dw.com/en/russia-charges-telegram-founder-durov-with-aiding-terrorism/a-78153754?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 2,
-      "story": {
-        "title": "Fujimori takes charge in Peru amid China, US balancing act",
-        "description": "Peru's new president, Keiko Fujimori, has promised more security and investment. Now in office, she'll have to find space for the South American nation amid Washington and Beijing's geopolitical rivalry.",
-        "link": "https://www.dw.com/en/fujimori-takes-charge-in-peru-amid-china-us-balancing-act/a-78110410?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Ghana",
       "lat": 7.95,
       "lon": -1.02,
       "count": 1,
       "story": {
-        "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-        "description": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
-        "link": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 1,
-      "story": {
-        "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-        "description": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
-        "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
-        "description": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+        "title": "Ghana hit by nationwide blackout as power plants fail",
+        "description": "The massive outage has left homes, businesses and some essential services severely disrupted.",
+        "link": "https://www.bbc.co.uk/news/articles/crmrkgr4z0jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -396,27 +420,15 @@
       }
     },
     {
-      "name": "Ecuador",
-      "lat": -1.83,
-      "lon": -78.18,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
-        "description": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
-        "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+        "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
+        "description": "Republican Senator Lindsay Graham's funeral is bringing the two world leaders to town, where they'll separately visit the White House to discuss their region's wars.",
+        "link": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-        "description": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
-        "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -432,26 +444,74 @@
       }
     },
     {
+      "name": "Damascus",
+      "lat": 33.5,
+      "lon": 36.3,
+      "count": 1,
+      "story": {
+        "title": "Fragile peace in Syria’s Set Zaynab as sectarian challenges persist",
+        "description": "Locals in southern Damascus town await safer times as fears rooted in a decade of war still loom over daily life.",
+        "link": "https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tunis",
+      "lat": 36.81,
+      "lon": 10.18,
+      "count": 1,
+      "story": {
+        "title": "Tunisia’s body politic is in crisis",
+        "description": "Public-service failures and uncertainty over Kais Saied’s health are deepening the country’s political malaise.",
+        "link": "https://www.aljazeera.com/opinions/2026/7/29/tunisias-body-politic-is-in-crisis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tunisia",
+      "lat": 33.89,
+      "lon": 9.54,
+      "count": 1,
+      "story": {
+        "title": "Tunisia’s body politic is in crisis",
+        "description": "Public-service failures and uncertainty over Kais Saied’s health are deepening the country’s political malaise.",
+        "link": "https://www.aljazeera.com/opinions/2026/7/29/tunisias-body-politic-is-in-crisis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
+      "count": 1,
+      "story": {
+        "title": "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
+        "description": "F1 sets a mid-September deadline to decide whether final rounds in Middle East can be held due to US-Israel war on Iran.",
+        "link": "https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Abu Dhabi",
+      "lat": 24.47,
+      "lon": 54.37,
+      "count": 1,
+      "story": {
+        "title": "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
+        "description": "F1 sets a mid-September deadline to decide whether final rounds in Middle East can be held due to US-Israel war on Iran.",
+        "link": "https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "United Kingdom",
       "lat": 54.0,
       "lon": -2.0,
       "count": 1,
       "story": {
-        "title": "Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
+        "title": "Infantino and FIFA want to sell off stakes in the World Cup: What we know",
         "description": "How the proposed FIFA Forward Enterprise has drawn criticism, including from UEFA and new United Kingdom Prime Minister.",
         "link": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 1,
-      "story": {
-        "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
-        "description": "A women’s safe spaces initiative in Gaza offers psychological support and awareness sessions.",
-        "link": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -468,63 +528,15 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Taiwan",
+      "lat": 23.7,
+      "lon": 121.0,
       "count": 1,
       "story": {
-        "title": "Live: Ollie Hoare falls in mile heats, Australian team appeals",
-        "description": "The Diamonds have perhaps their toughest match-up of the group stage against South Africa and Sam Short completes his packed schedule with the men's 200m and 1,500m freestyle finals on the same night. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-07-29/commonwealth-games-glasgow-day-six-live-blog/106969928",
+        "title": "Taiwan to stop buying PNG gas on spot market over 'One China' spat",
+        "description": "Taiwan suspends some liquefied natural gas purchases from Papua New Guinea as part of an escalating diplomatic dispute over the future of its representative office in Port Moresby.",
+        "link": "https://www.abc.net.au/news/2026-07-29/taiwan-to-stop-buying-png-gas-on-spot-market/106972968",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 1,
-      "story": {
-        "title": "Queenslander could face execution over alleged killing of Australian in Syria",
-        "description": "A 20-year-old Gold Coast mobile phone technician is facing a possible death penalty in Syria for the alleged shooting murder of another Australian.",
-        "link": "https://www.abc.net.au/news/2026-07-29/australian-patrick-stevenson-charged-with-murder-in-syria/106959686",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 1,
-      "story": {
-        "title": "Woman born after IVF error hopes for change after legal action launched",
-        "description": "The biological parents of twins who were born after an IVF embryo mix-up at Royal North Shore Hospital in Sydney have launched civil action.",
-        "link": "https://www.abc.net.au/news/2026-07-29/lawsuit-launched-over-decades-old-ivf-mix-up/106970538",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "Police officer stabbed in neck, alleged attacker shot in leg in Adelaide's north",
-        "description": "A South Australian police officer has been seriously injured in a stabbing and her alleged attacker has been shot by police in Adelaide's north this morning.",
-        "link": "https://www.abc.net.au/news/2026-07-29/police-responding-to-incident-at-elizabeth-east/106972018",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 1,
-      "story": {
-        "title": "US bans Chinese and foreign-made humanoid robots",
-        "description": "The Trump administration has banned the import of humanoid and quadruped robots manufactured outside the United States, citing national security concerns. The ban could strain diplomatic tensions with China.",
-        "link": "https://www.dw.com/en/us-bans-chinese-and-foreign-made-humanoid-robots/a-78154426?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -533,21 +545,9 @@
       "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "Europe wildfires: France expands mass evacuations as Spain battles record blaze",
-        "description": "Over 20 aircraft have been deployed to fight new fires west of Bordeaux, and Spanish firefighters fear two fires could merge west of Madrid. Scientists say climate change is fueling more extreme fires across Europe.",
-        "link": "https://www.dw.com/en/europe-wildfires-france-expands-mass-evacuations-as-spain-battles-record-blaze/a-78153758?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
-      "story": {
-        "title": "Iran war: Netanyahu hails closed-door meeting with Trump",
-        "description": "The meeting between the US President and the Israeli Prime Minister is the first since the start of the war in Iran. Meanwhile, Tehran executed two men for their role in anti-government protests.",
-        "link": "https://www.dw.com/en/iran-war-netanyahu-hails-closed-door-meeting-with-trump/live-78137927?maca=en-rss-en-all-1573-rdf",
+        "title": "Europe wildfires: Spain lets people return, France faces extreme heat",
+        "description": "Spain lifted evacuations for Avila province, a day after doing so in parts of the Madrid area. To the north in France, temperatures rose again, with extreme heat warnings in much of the country, including Gironde.",
+        "link": "https://www.dw.com/en/europe-wildfires-spain-lets-people-return-france-faces-extreme-heat/a-78153758?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
