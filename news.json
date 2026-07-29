@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T03:51:08+00:00",
+  "generated_at": "2026-07-29T06:37:10+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,19 +24,13 @@
       "source": "BBC Business"
     },
     {
-      "title": "German Chancellor Merz completes cabinet reshuffle",
-      "description": "After days of confusion, Chancellor Friedrich Merz has reshuffled his cabinet. Conservative politicians fear that this will not help with the prospects in the upcoming state elections.",
-      "link": "https://www.dw.com/en/german-chancellor-merz-completes-cabinet-reshuffle/a-78133896?maca=en-rss-en-all-1573-rdf",
-      "source": "DW"
+      "title": "Protesters storm hotel, heckle Netanyahu in Washington DC",
+      "description": "Activists protested at a hotel where Israeli Prime Minister Benjamin Netanyahu was having dinner in Washington, DC.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
+      "source": "Al Jazeera"
     }
   ],
   "australia": [
-    {
-      "title": "Watch: The moment quake hit Japan",
-      "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
-      "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
     {
       "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
       "description": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
@@ -47,6 +41,12 @@
       "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
       "description": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
       "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Uefa and PM criticise Infantino World Cup plan",
+      "description": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -89,9 +89,9 @@
       "lon": 133.0,
       "count": 12,
       "story": {
-        "title": "Australia's biggest gold miner called to help stabilise WA's power issues",
-        "description": "Australia's biggest gold miner is being asked to carry a bigger load to resolve decades of power capacity and reliability woes on what WA Energy Minister Amber-Jade Sanderson has described as the \"largest and most isolat",
-        "link": "https://www.abc.net.au/news/2026-07-29/northern-star-spearheads-energy-transition-at-kalgoorlie/106966380",
+        "title": "Have you been paying the right interest on your home loan?",
+        "description": "Many Australians have been missing out on the benefits of their mortgage offset account. Here's how to check whether yours is working for you, or whether you might want to get one.",
+        "link": "https://www.abc.net.au/news/2026-07-29/have-you-been-paying-the-right-interest-on-your-home-loan/106966394",
         "source": "ABC News AU"
       }
     },
@@ -101,9 +101,9 @@
       "lon": 138.25,
       "count": 7,
       "story": {
-        "title": "Watch: The moment quake hit Japan",
-        "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
-        "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+        "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
+        "description": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.",
+        "link": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -113,21 +113,9 @@
       "lon": 34.75,
       "count": 7,
       "story": {
-        "title": "Israel kills Palestinian, destroys mosque in Gaza",
-        "description": "Israeli settlers also attack a Palestinian family in Bethlehem in the occupied West Bank.",
-        "link": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 6,
-      "story": {
-        "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
-        "description": "Riyadh says its targeted attacks were done in coordination with the US military.",
-        "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
+        "title": "Protesters storm hotel, heckle Netanyahu in Washington DC",
+        "description": "Activists protested at a hotel where Israeli Prime Minister Benjamin Netanyahu was having dinner in Washington, DC.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -135,7 +123,7 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "Trump administration bans new Chinese humanoid robots",
         "description": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
@@ -156,27 +144,63 @@
       }
     },
     {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 5,
       "story": {
-        "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
-        "description": "Riyadh says its targeted attacks were done in coordination with the US military.",
-        "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
+        "title": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan",
+        "description": "Attacks come as Saudi Arabia intercepts drones and Iran warns of &#039;any action&#039; to maintain its control of Hormuz.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 5,
+      "story": {
+        "title": "Germany: How weather extremes impact local agriculture",
+        "description": "Heat, drought, heavy rain and late frosts are taking a toll on German farmers. They increasingly respond with adapted varieties, new crops, modern breeding techniques and modified farming methods.",
+        "link": "https://www.dw.com/en/germany-how-weather-extremes-impact-local-agriculture/a-78149292?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 4,
       "story": {
-        "title": "'It's a hell of a situation': Spain grapples with devastating wildfires",
-        "description": "Three fires in the Madrid region have caused particular concern, with a new heatwave expected to hit Spain from Wednesday.",
-        "link": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+        "description": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 4,
+      "story": {
+        "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+        "description": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 4,
+      "story": {
+        "title": "Protesters storm hotel, heckle Netanyahu in Washington DC",
+        "description": "Activists protested at a hotel where Israeli Prime Minister Benjamin Netanyahu was having dinner in Washington, DC.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -192,51 +216,27 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
       "count": 4,
       "story": {
-        "title": "Germany: Low Rhine River levels could push economy into stagnation",
-        "description": "Record-low water levels on the Rhine are forcing cargo vessels to run with sharply reduced loads, driving up transport costs. Economists warn the disruption could wipe out Germany's already weak summer growth.",
-        "link": "https://www.dw.com/en/germany-low-rhine-river-levels-could-push-economy-into-stagnation/a-78148371?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Peru",
-      "lat": -9.19,
-      "lon": -75.02,
-      "count": 3,
-      "story": {
-        "title": "Protests in Lima as Keiko Fujimori sworn in as Peru president",
-        "description": "Keiko Fujimori has been sworn in as Peru&#039;s president amid protests and promises to crackdown on crime.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protests-in-lima-as-keiko-fujimori-sworn-in-as-peru-president?traffic_source=rss",
+        "title": "Iraqi armed groups condemn “dangerous escalation” after US-Saudi strikes",
+        "description": "Riyadh says its targeted attacks were done in coordination with the US military.",
+        "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 3,
       "story": {
-        "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
-        "description": "Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.",
-        "link": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 3,
-      "story": {
-        "title": "Protests in DC against Netanyahu’s meeting with Trump",
-        "description": "A group of demonstrators gathered near the White House to protest Benjamin Netanyahu’s visit to Washington.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/protests-in-dc-against-netanyahus-meeting-with-trump?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Is it safe to travel to France and Spain right now?",
+        "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+        "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -257,9 +257,9 @@
       "lon": 103.82,
       "count": 3,
       "story": {
-        "title": "Man charged in Singapore over Gaza-linked terrorism financing; says he is not pleading guilty",
-        "description": "Saw Ryan Htoo is accused of transferring US$72.28 to a PayPal account, with the intention of facilitating a terrorist act in Gaza City.",
-        "link": "https://www.channelnewsasia.com/singapore/myanmar-man-charged-finance-terrorism-gaza-6284781",
+        "title": "NLB to launch new multi-year campaign to get Singaporeans to read more",
+        "description": "The ReadSG campaign includes a reading challenge on the CrowdTaskSG platform, where participants can earn rewards.",
+        "link": "https://www.channelnewsasia.com/living/nlb-readsg-reading-campaign-singapore-2026-6284726",
         "source": "CNA"
       }
     },
@@ -276,38 +276,14 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Jordan",
+      "lat": 30.59,
+      "lon": 36.24,
       "count": 2,
       "story": {
-        "title": "Zidane confirmed as France head coach",
-        "description": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 2,
-      "story": {
-        "title": "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps",
-        "description": "After escaping war and atrocities, families now battle water shortages and fading hopes of returning home.",
-        "link": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "Media not invited as Trump, Netanyahu hold talks at the White House",
-        "description": "US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss",
+        "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
+        "description": "The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -324,26 +300,14 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Peru",
+      "lat": -9.19,
+      "lon": -75.02,
       "count": 2,
       "story": {
-        "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
-        "description": "Attacks come as Saudi Arabia intercepts drones and Iran warns of &#039;any action&#039; to maintain its control of Hormuz.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Rome",
-      "lat": 41.9,
-      "lon": 12.5,
-      "count": 2,
-      "story": {
-        "title": "Rome’s viral graffiti cleaner is taking on an ancient problem",
-        "description": "Graffiti has marked the walls of Rome for millennia. One content creator builds a following cleaning spray-paint.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss",
+        "title": "Protests in Lima as Keiko Fujimori sworn in as Peru president",
+        "description": "Keiko Fujimori has been sworn in as Peru&#039;s president amid protests and promises to crackdown on crime.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protests-in-lima-as-keiko-fujimori-sworn-in-as-peru-president?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -480,6 +444,18 @@
       }
     },
     {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Zidane confirmed as France head coach",
+        "description": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
@@ -504,14 +480,14 @@
       }
     },
     {
-      "name": "Jordan",
-      "lat": 30.59,
-      "lon": 36.24,
+      "name": "Taiwan",
+      "lat": 23.7,
+      "lon": 121.0,
       "count": 1,
       "story": {
-        "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
-        "description": "The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss",
+        "title": "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
+        "description": "New law enforcement operations could quickly escalate into a blockade of Taiwan, say analysts.",
+        "link": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -533,9 +509,21 @@
       "lon": 46.68,
       "count": 1,
       "story": {
-        "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
+        "title": "Iraqi armed groups condemn “dangerous escalation” after US-Saudi strikes",
         "description": "Riyadh says its targeted attacks were done in coordination with the US military.",
         "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 1,
+      "story": {
+        "title": "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps",
+        "description": "After escaping war and atrocities, families now battle water shortages and fading hopes of returning home.",
+        "link": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -548,6 +536,18 @@
         "title": "Turkiye takes ‘historic step’ on energy alliance with Iraq",
         "description": "Ankara could receive 1 million barrels per day of Iraqi oil after Turkish Petroleum stake in BP-run Kirkuk oilfield.",
         "link": "https://www.aljazeera.com/news/2026/7/29/turkiye-takes-historic-step-on-energy-alliance-with-iraq?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Rome",
+      "lat": 41.9,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "Rome’s viral graffiti cleaner is taking on an ancient problem",
+        "description": "Graffiti has marked the walls of Rome for millennia. One content creator builds a following cleaning spray-paint.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss",
         "source": "Al Jazeera"
       }
     }
