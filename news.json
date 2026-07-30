@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T08:37:33+00:00",
+  "generated_at": "2026-07-30T11:13:15+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Nicaraguan leader proposes extending presidential term by another year",
+      "description": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
+      "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
       "description": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
       "link": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
@@ -22,12 +28,6 @@
       "description": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
       "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-      "description": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
-      "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "australia": [
@@ -38,9 +38,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
-      "description": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "description": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
+      "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -64,10 +64,10 @@
       "source": "BBC News"
     },
     {
-      "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
-      "description": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
-      "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "Shell profits double as oil prices rise due to Iran war",
+      "description": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
+      "link": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "places": [
@@ -84,22 +84,10 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 10,
-      "story": {
-        "title": "Salman Rushdie attacker convicted of terror offences",
-        "description": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
-        "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
         "description": "Telegram told the BBC it rejects the allegations and will contest them in court.",
@@ -108,26 +96,38 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 8,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 7,
       "story": {
-        "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
-        "description": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
-        "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+        "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+        "description": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
+        "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 7,
       "story": {
-        "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
-        "description": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+        "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+        "description": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
+        "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 7,
+      "story": {
+        "title": "The Chinese robot army transforming the UK's retail industry",
+        "description": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+        "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,38 +144,62 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 5,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 6,
       "story": {
-        "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-        "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+        "title": "Salman Rushdie attacker convicted of terror offences",
+        "description": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+        "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 6,
       "story": {
-        "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-        "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+        "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+        "description": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
+        "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 5,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 6,
       "story": {
-        "title": "The Chinese robot army transforming the UK's retail industry",
-        "description": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
-        "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+        "title": "Why Netanyahu's visit with Trump at the White House is high-stakes",
+        "description": "The meeting comes amid signs of friction between the two leaders and decreasing public support for Israel in the US.",
+        "link": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 4,
+      "story": {
+        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+        "description": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+        "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 4,
+      "story": {
+        "title": "Singapore fines French teen $465 for viral straw-licking stunt",
+        "description": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
+        "link": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,6 +216,18 @@
       }
     },
     {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 4,
+      "story": {
+        "title": "Several children killed and wounded in Israeli attacks across Gaza",
+        "description": "Israeli strikes hit multiple areas across Gaza overnight, including tents sheltering displaced families in al-Mawasi.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
@@ -204,38 +240,26 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 3,
       "story": {
-        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-        "description": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
-        "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+        "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+        "description": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
+        "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 3,
       "story": {
-        "title": "Singapore fines French teen $465 for viral straw-licking stunt",
-        "description": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
-        "link": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
-        "description": "Rights group says India continues to support the Israeli military despite genocide &#039;broadcast worldwide on daily basis&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
+        "title": "Apartheid wealth cannot buy silence on Gaza",
+        "description": "South African universities must resist donors who use financial power to impose political obedience.",
+        "link": "https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -252,30 +276,6 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 3,
-      "story": {
-        "title": "South Korea curbs may not save investors slaughtered by $2 trillion rout",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/business/south-korea-curbs-may-not-save-investors-slaughtered-2-trillion-rout-6287846",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 2,
-      "story": {
-        "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-        "description": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
-        "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Jordan",
       "lat": 30.59,
       "lon": 36.24,
@@ -285,6 +285,18 @@
         "description": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
         "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 2,
+      "story": {
+        "title": "Attack on northwest Pakistan police post kills 11 officers",
+        "description": "Fifteen attackers were also killed during the hours-long raid in Pakistan&#039;s northwestern Hangu district.",
+        "link": "https://www.aljazeera.com/news/2026/7/30/attack-on-northwest-pakistan-police-post-kills-11-officers?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -300,15 +312,15 @@
       }
     },
     {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
       "count": 2,
       "story": {
-        "title": "Messi returns to MLS training 10 days after World Cup final heartbreak",
-        "description": "Lionel Messi returns to Inter Miami after Argentina&#039;s World Cup final defeat by Spain, which led to retirement rumours.",
-        "link": "https://www.aljazeera.com/sports/2026/7/30/messi-returns-to-mls-training-10-days-after-world-cup-final-heartbreak?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Iran war: Egypt's difficult balancing act",
+        "description": "The US-Iran war has already had a negative economic impact on Egypt. Now new threats from the Houthi group in Yemen are likely to worsen that. At the same time, Egypt is trying to stay on good terms with all parties.",
+        "link": "https://www.dw.com/en/iran-war-egypt-s-difficult-balancing-act/a-78162983?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -324,50 +336,62 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 1,
       "story": {
-        "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
-        "description": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+        "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+        "description": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
+        "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Thousands sheltering in key Sudan city under threat again as fighting escalates",
-        "description": "International leaders have issued warnings the RSF may be preparing to attack the city, raising fears of further atrocities being committed.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
+        "title": "Why Netanyahu's visit with Trump at the White House is high-stakes",
+        "description": "The meeting comes amid signs of friction between the two leaders and decreasing public support for Israel in the US.",
+        "link": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
+      "name": "Damascus",
+      "lat": 33.5,
+      "lon": 36.3,
       "count": 1,
       "story": {
-        "title": "Living with fear: Inside a southern Lebanon village divided by Israel",
-        "description": "Southern Lebanon’s Mansouri village is divided by Israel&#039;s Yellow Line, a military boundary separating area it occupies.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/living-with-fear-inside-a-southern-lebanon-village-divided-by-israel?traffic_source=rss",
+        "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
+        "description": "Families like the Tasabehjis aim to rebuild Syria, fostering community and hope despite economic and social challenges.",
+        "link": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
       "count": 1,
       "story": {
-        "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
-        "description": "Uncertainty over crude oil supplies via the Strait of Hormuz is pushing Asian states towards Canada&#039;s TMX crude oil.",
-        "link": "https://www.aljazeera.com/news/2026/7/30/japan-turns-to-canadian-crude-as-asia-feels-hormuz-supply-pinch?traffic_source=rss",
+        "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
+        "description": "Families like the Tasabehjis aim to rebuild Syria, fostering community and hope despite economic and social challenges.",
+        "link": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 1,
+      "story": {
+        "title": "Messi returns to MLS training 10 days after World Cup final heartbreak",
+        "description": "Lionel Messi returns to Inter Miami after Argentina&#039;s World Cup final defeat by Spain, which led to retirement rumours.",
+        "link": "https://www.aljazeera.com/sports/2026/7/30/messi-returns-to-mls-training-10-days-after-world-cup-final-heartbreak?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -377,7 +401,7 @@
       "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "Live: Jess Hull competes in mile heats, track cycling program begins",
+        "title": "Live: Re-race ordered after Aussie caught up in scary wheelchair crash",
         "description": "The cycling gets underway in the velodrome and Jess Hull starts her campaign in the mile heats alongside Abbey Caldwell and Claudia Hollingsworth. Follow live.",
         "link": "https://www.abc.net.au/news/2026-07-30/commonwealth-games-glasgow-day-seven-live-blog/106974778",
         "source": "ABC News AU"
@@ -396,27 +420,39 @@
       }
     },
     {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
+      "name": "Hungary",
+      "lat": 47.16,
+      "lon": 19.5,
       "count": 1,
       "story": {
-        "title": "Businessman sues Andrew Hastie, journalists in defamation trial",
-        "description": "The federal MP appears in court in the trial against him and two former Fairfax journalists, launched by WA businessman Greg Poland.",
-        "link": "https://www.abc.net.au/news/2026-07-30/liberal-mp-andrew-hastie-takes-stand-wa-today-defamation-trial/106976242",
-        "source": "ABC News AU"
+        "title": "Danube water levels: Hungary, Romania cut nuclear output",
+        "description": "Historically low water levels along Europe's second-longest river have led Hungary and Romania to reduce output at key nuclear plants. Danube tourism and river cargo have also been severely affected by Europe's heatwave.",
+        "link": "https://www.dw.com/en/danube-water-levels-hungary-romania-cut-nuclear-output/a-78171891?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
+      "name": "Romania",
+      "lat": 45.94,
+      "lon": 24.97,
       "count": 1,
       "story": {
-        "title": "A turbulent week in Victorian politics has Canberra on high alert",
-        "description": "With a new premier installed in Victoria there are questions about what the state's electoral situation could mean federally, for all parties.",
-        "link": "https://www.abc.net.au/news/2026-07-30/victoria-premier-ben-carroll-questions-federal-politics/106965376",
-        "source": "ABC News AU"
+        "title": "Danube water levels: Hungary, Romania cut nuclear output",
+        "description": "Historically low water levels along Europe's second-longest river have led Hungary and Romania to reduce output at key nuclear plants. Danube tourism and river cargo have also been severely affected by Europe's heatwave.",
+        "link": "https://www.dw.com/en/danube-water-levels-hungary-romania-cut-nuclear-output/a-78171891?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
+      "count": 1,
+      "story": {
+        "title": "Crete wildfires cause evacuations and firefighter deaths",
+        "description": "Wildfires on the Greek island of Crete are forcing thousands of residents and tourists to evacuate. Three firefighters have died as Greece becomes the latest country, after France and Spain, to face summer blazes.",
+        "link": "https://www.dw.com/en/crete-wildfires-cause-evacuations-and-firefighter-deaths/a-78171093?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -425,81 +461,69 @@
       "lon": 30.52,
       "count": 1,
       "story": {
-        "title": "Explosions in Kyiv after Zelenskyy warns of Russian strikes",
-        "description": "At least one person was killed in a Russian air strike on Ukraine's capital, Kyiv. President Volodymyr Zelenskyy had warned that Russia had \"prepared a massive attack,\" citing air force reports.",
-        "link": "https://www.dw.com/en/explosions-in-kyiv-after-zelenskyy-warns-of-russian-strikes/a-78167375?maca=en-rss-en-all-1573-rdf",
+        "title": "Deaths in Ukraine after Zelenskyy warns of Russian strikes",
+        "description": "At least eight people have been killed in air strikes across Ukraine. President Volodymyr Zelenskyy had warned of a \"massive Russian attack\" citing air force reports, as Kyiv in turn again bombed a logistics center.",
+        "link": "https://www.dw.com/en/deaths-in-ukraine-after-zelenskyy-warns-of-russian-strikes/a-78167375?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 1,
       "story": {
-        "title": "Iran war: Egypt's difficult balancing act",
-        "description": "The US-Iran war has already had a negative economic impact on Egypt. Now new threats from the Houthi group in Yemen are likely to worsen that. At the same time, Egypt is trying to stay on good terms with all parties.",
-        "link": "https://www.dw.com/en/iran-war-egypt-s-difficult-balancing-act/a-78162983?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Europe wildfires: Spain lets people return, France faces extreme heat",
-        "description": "Spain lifted evacuations for Avila province, a day after doing so in parts of the Madrid area. To the north in France, temperatures rose again, with extreme heat warnings in much of the country, including Gironde.",
-        "link": "https://www.dw.com/en/europe-wildfires-spain-lets-people-return-france-faces-extreme-heat/a-78153758?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "How a Ugandan lost 20 years of her life to xenophobia",
-        "description": "After decades of building lives in South Africa, hundreds of African migrants were forced to leave by renewed anti-immigrant tensions. A Ugandan who spent two decades in South Africa shared with DW how she's coping.",
-        "link": "https://www.dw.com/en/how-a-ugandan-lost-20-years-of-her-life-to-xenophobia/a-78144564?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Mumbai",
-      "lat": 19.08,
-      "lon": 72.88,
-      "count": 1,
-      "story": {
-        "title": "Mumbai's mangroves under threat as city pushes ahead with major infrastructure projects",
-        "description": "An upcoming 26km coastal road in India's financial capital is expected to affect about 45,000 mangrove trees, raising concerns over the loss of a natural defence against flooding and climate change.",
-        "link": "https://www.channelnewsasia.com/asia/mumbai-mangroves-under-threat-major-infrastructure-projects-coastal-road-6287891",
+        "title": "South Korea refiners considering imports of Venezuelan crude, association says",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/business/south-korea-refiners-considering-imports-venezuelan-crude-association-says-6288326",
         "source": "CNA"
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
       "count": 1,
       "story": {
-        "title": "Mumbai's mangroves under threat as city pushes ahead with major infrastructure projects",
-        "description": "An upcoming 26km coastal road in India's financial capital is expected to affect about 45,000 mangrove trees, raising concerns over the loss of a natural defence against flooding and climate change.",
-        "link": "https://www.channelnewsasia.com/asia/mumbai-mangroves-under-threat-major-infrastructure-projects-coastal-road-6287891",
+        "title": "South Korea refiners considering imports of Venezuelan crude, association says",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/business/south-korea-refiners-considering-imports-venezuelan-crude-association-says-6288326",
         "source": "CNA"
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
       "count": 1,
       "story": {
-        "title": "Singapore to take part in inaugural FIFA ASEAN Cup, will face Indonesia, Malaysia and India",
-        "description": "Playing in the tournament gives the Lions another opportunity to test themselves, says head coach Gavin Lee.",
-        "link": "https://www.channelnewsasia.com/sport/football-singapore-lions-inaugural-fifa-asean-cup-6287606",
+        "title": "England reappoint Root as test captain, name New Zealander Fleming as coach",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/england-reappoint-root-test-captain-name-new-zealander-fleming-coach-6288301",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 1,
+      "story": {
+        "title": "Company, director to be charged over flag registration for UN-sanctioned vessel linked to North Korea",
+        "description": "The PETREL 8 had been designated by the United Nations Security Council in 2017 for&nbsp;transporting prohibited items from North Korea.",
+        "link": "https://www.channelnewsasia.com/singapore/company-director-charged-un-sanctioned-north-korea-linked-ship-flag-services-6288146",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
+      "count": 1,
+      "story": {
+        "title": "Anwar says Myanmar agrees to take 5,000 Rohingya refugees from Malaysia",
+        "description": "Around 126,000 Rohingya refugees are registered with the UNHCR in Malaysia as of the end of February.",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-rohingya-myanmar-anwar-ibrahim-unhcr-6287646",
         "source": "CNA"
       }
     },
