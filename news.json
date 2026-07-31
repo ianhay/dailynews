@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T12:29:21+00:00",
+  "generated_at": "2026-07-31T15:05:01+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+      "description": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Nicaraguan leader proposes extending presidential term by another year",
       "description": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
       "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
@@ -22,12 +28,6 @@
       "description": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
       "link": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Andy Burnham to give regional mayors share of income tax",
-      "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "australia": [
@@ -52,6 +52,12 @@
   ],
   "economy": [
     {
+      "title": "Healey announces his first Budget will be on 28 October",
+      "description": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
+      "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
       "title": "UK petrol prices hit highest level since Iran war began",
       "description": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
       "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
@@ -62,24 +68,30 @@
       "description": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
       "link": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Apple warns of future 'supply constraints' for Mac, iPhone, iPad",
-      "description": "Shares of Apple plunged on a warning of slower sales in the coming months.",
-      "link": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 11,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 12,
       "story": {
-        "title": "Why limited war with the US may suit Iran better than peace",
-        "description": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-        "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+        "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+        "description": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 12,
+      "story": {
+        "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+        "description": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -96,38 +108,26 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 9,
-      "story": {
-        "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-        "description": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
-        "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
+      "name": "Gaza",
       "lat": 31.5,
-      "lon": 34.75,
-      "count": 8,
-      "story": {
-        "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-        "description": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
-        "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
+      "lon": 34.47,
       "count": 7,
       "story": {
-        "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-        "description": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
-        "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+        "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+        "description": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+        "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 7,
+      "story": {
+        "title": "Why limited war with the US may suit Iran better than peace",
+        "description": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
+        "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,6 +144,18 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 6,
+      "story": {
+        "title": "Salman Rushdie attacker convicted of terror offences",
+        "description": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+        "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
@@ -156,58 +168,22 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 5,
-      "story": {
-        "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-        "description": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
-        "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
-      "story": {
-        "title": "Salman Rushdie attacker convicted of terror offences",
-        "description": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
-        "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
       "count": 5,
       "story": {
-        "title": "Pakistan’s attacks on Afghanistan are about more than the TTP",
-        "description": "Islamabad is using a domestic insurgency to justify its broader pursuit of strategic dominance.",
-        "link": "https://www.aljazeera.com/opinions/2026/7/31/pakistans-attacks-on-afghanistan-are-about-more-than-the-ttp?traffic_source=rss",
+        "title": "Four bodies located after 10 climbers go missing on Pakistani peak",
+        "description": "Mountaineer Nirmal Purja among those reported missing after avalanche hit Broad Peak, Pakistan alpine club says.",
+        "link": "https://www.aljazeera.com/news/2026/7/31/four-bodies-located-after-10-climbers-go-missing-on-pakistani-peak?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 4,
-      "story": {
-        "title": "Singapore fines French teen $465 for viral straw-licking stunt",
-        "description": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
-        "link": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
         "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
@@ -216,27 +192,63 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 4,
+      "story": {
+        "title": "Palestinians in Gaza react to latest ceasefire deal",
+        "description": "‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 4,
+      "story": {
+        "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
+        "description": "Under the agreement, Israel would have to withdraw from Gaza. But Palestinians remain sceptical.",
+        "link": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Singapore fines French teen $465 for viral straw-licking stunt",
+        "description": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
+        "link": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 3,
+      "story": {
+        "title": "Approval for China’s mega embassy in London was lawful, UK court rules",
+        "description": "The 20,000-square-metre site in London is set to become the largest embassy complex in the UK by area.",
+        "link": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
       "count": 3,
       "story": {
-        "title": "Families sleep in cars after homes destroyed in Japan earthquake",
-        "description": "Residents in southwestern Japan have had to resort to sleeping in their cars for shelter, after a recent 6.8 magnitude.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/families-sleep-in-cars-after-homes-destroyed-in-japan-earthquake?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 3,
-      "story": {
-        "title": "‘First somewhat optimistic day’ in France since fire outbreak says prefect",
-        "description": "Fire-ravaged southwestern France experienced its ‘first somewhat optimistic day’ since wildfires broke out.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/first-somewhat-optimistic-day-in-france-since-fire-outbreak-says-prefect?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Japan: Death toll rises to 35 after deadly earthquake",
+        "description": "Rescuers are searching for survivors after a magnitude 7.1 earthquake struck southern Japan, killing at least 35 people and causing widespread damage. DW has more.",
+        "link": "https://www.dw.com/en/japan-death-toll-rises-to-35-after-deadly-earthquake/live-78155782?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -276,74 +288,26 @@
       }
     },
     {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-        "description": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
-        "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+        "title": "Worth $5m? Visitors react to renovated Washington horse statues",
+        "description": "The Trump Administration has regilded the Arts of War statues near the Lincoln Memorial with 23.75-karat gold.",
+        "link": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
       "count": 2,
       "story": {
-        "title": "South Korean shares soar after chip stock rout",
-        "description": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Palestinians in Gaza are sceptical about the latest peace plan",
-        "description": "Palestinians in Gaza are sceptical of the latest peace plan, questioning whether it will bring lasting change.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kuwait",
-      "lat": 29.31,
-      "lon": 47.48,
-      "count": 2,
-      "story": {
-        "title": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
-        "description": "Iran says it struck Kuwait in retaliation for US strikes on multiple locations in Iran, including Qeshm island.",
-        "link": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
-      "count": 2,
-      "story": {
-        "title": "Pakistan’s attacks on Afghanistan are about more than the TTP",
-        "description": "Islamabad is using a domestic insurgency to justify its broader pursuit of strategic dominance.",
-        "link": "https://www.aljazeera.com/opinions/2026/7/31/pakistans-attacks-on-afghanistan-are-about-more-than-the-ttp?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 2,
-      "story": {
-        "title": "How US Senate Russia sanctions could spell 100% tariffs for India, China",
-        "description": "Russian energy exports could face sweeping tariffs under bill named for late Senator Lindsey Graham.",
-        "link": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss",
+        "title": "Approval for China’s mega embassy in London was lawful, UK court rules",
+        "description": "The 20,000-square-metre site in London is set to become the largest embassy complex in the UK by area.",
+        "link": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -420,15 +384,39 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
       "count": 1,
       "story": {
-        "title": "Worth $5m? Visitors react to renovated Washington horse statues",
-        "description": "The Trump Administration has regilded the Arts of War statues near the Lincoln Memorial with 23.75-karat gold.",
-        "link": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&at_campaign=rss",
+        "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+        "description": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
+        "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Westminster",
+      "lat": 51.5,
+      "lon": -0.13,
+      "count": 1,
+      "story": {
+        "title": "Healey announces his first Budget will be on 28 October",
+        "description": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
+        "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 1,
+      "story": {
+        "title": "South Korean shares soar after chip stock rout",
+        "description": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -444,6 +432,18 @@
       }
     },
     {
+      "name": "Kuwait",
+      "lat": 29.31,
+      "lon": 47.48,
+      "count": 1,
+      "story": {
+        "title": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
+        "description": "Iran says it struck Kuwait in retaliation for US strikes on multiple locations in Iran, including Qeshm island.",
+        "link": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Lebanon",
       "lat": 33.85,
       "lon": 35.86,
@@ -456,39 +456,27 @@
       }
     },
     {
-      "name": "Islamabad",
-      "lat": 33.7,
-      "lon": 73.06,
-      "count": 1,
-      "story": {
-        "title": "Pakistan’s attacks on Afghanistan are about more than the TTP",
-        "description": "Islamabad is using a domestic insurgency to justify its broader pursuit of strategic dominance.",
-        "link": "https://www.aljazeera.com/opinions/2026/7/31/pakistans-attacks-on-afghanistan-are-about-more-than-the-ttp?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Rome",
       "lat": 41.9,
       "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "Live: Aussie cyclists DQed from individual pursuit, boxer to fight for gold",
+        "title": "Live: 'Extremely disappointed': Aussie cyclists disqualified from individual pursuit",
         "description": "Australia's cyclists will look to build on their successful opening day at the velodrome, while Lachie Kennedy and Torrie Lewis eye dual 200m gold on the track. Follow live.",
         "link": "https://www.abc.net.au/news/2026-07-31/live-blog-commonwealth-games-day-eight/106980504",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 1,
       "story": {
-        "title": "Court overturns decision to exclude video in trial of ex-Sydney nurses",
-        "description": "Video evidence ruled inadmissible will be allowed again in the trial of two former Sydney nurses accused of being menacing towards Israelis.",
-        "link": "https://www.abc.net.au/news/2026-07-31/video-sydney-nurses-alleged-menacing-comments-/106982898",
-        "source": "ABC News AU"
+        "title": "Sudan civil war: When drones strike the classroom",
+        "description": "Children in Sudan's besieged city of el-Obeid are afraid to go to school as drone attacks hit civilian infrastructure. Aid groups warn of a worsening humanitarian crisis.",
+        "link": "https://www.dw.com/en/sudan-civil-war-when-drones-strike-the-classroom/a-78089487?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -548,6 +536,18 @@
         "title": "Indonesia: Pilot faces death penalty after drugs found in suitcase",
         "description": "A Malaysian Airlines pilot tested positive for cocaine and meth after flying a passenger jet into Jakarta, with Indonesian authorities finding over 70,000 ecstasy pills in his suitcase.",
         "link": "https://www.dw.com/en/indonesia-pilot-faces-death-penalty-after-drugs-found-in-suitcase/a-78186926?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Spain will send troops to Ceuta to help with border security",
+        "description": "Authorities in the Spanish city of Ceuta asked Madrid to declare a national emergency and send military assistance. Crowds of people breached the border of the territory next to Morocco as police lost control.",
+        "link": "https://www.dw.com/en/spain-will-send-troops-to-ceuta-to-help-with-border-security/a-78177638?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
