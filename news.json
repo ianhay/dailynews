@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T18:54:48+00:00",
+  "generated_at": "2026-07-31T20:22:50+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -33,7 +33,7 @@
   "australia": [
     {
       "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "description": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
+      "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
       "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -72,13 +72,25 @@
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 13,
+      "story": {
+        "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+        "description": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
+        "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
-      "count": 11,
+      "count": 9,
       "story": {
         "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-        "description": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
+        "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
         "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -87,23 +99,11 @@
       "name": "Morocco",
       "lat": 31.79,
       "lon": -7.09,
-      "count": 11,
-      "story": {
-        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-        "description": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
       "count": 9,
       "story": {
-        "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-        "description": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
-        "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+        "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,14 +120,38 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 8,
+      "story": {
+        "title": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
+        "description": "Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.",
+        "link": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
         "description": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
         "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 6,
+      "story": {
+        "title": "Salman Rushdie attacker convicted of terror offences",
+        "description": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+        "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,18 +168,6 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 5,
-      "story": {
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-        "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -168,34 +180,10 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
-      "story": {
-        "title": "Salman Rushdie attacker convicted of terror offences",
-        "description": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
-        "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 5,
-      "story": {
-        "title": "Why is Israel arming illegal settlers?",
-        "description": "As settler attacks reach record levels, the government has distributed more than 100,000 assault rifles to Israelis.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
         "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
@@ -204,10 +192,22 @@
       }
     },
     {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 4,
+      "story": {
+        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+        "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Poland",
       "lat": 51.9,
       "lon": 19.1,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
         "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
@@ -228,50 +228,38 @@
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
-      "count": 3,
-      "story": {
-        "title": "Approval for China’s mega embassy in London was lawful, UK court rules",
-        "description": "The 20,000-square-metre site in London is set to become the largest embassy complex in the UK by area.",
-        "link": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 3,
-      "story": {
-        "title": "Approval for China’s mega embassy in London was lawful, UK court rules",
-        "description": "The 20,000-square-metre site in London is set to become the largest embassy complex in the UK by area.",
-        "link": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
-      "story": {
-        "title": "Japan: Death toll rises to 35 after deadly earthquake",
-        "description": "Rescuers are searching for survivors after a magnitude 7.1 earthquake struck southern Japan, killing at least 35 people and causing widespread damage. DW has more.",
-        "link": "https://www.dw.com/en/japan-death-toll-rises-to-35-after-deadly-earthquake/live-78155782?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Italy",
       "lat": 42.5,
       "lon": 12.5,
       "count": 2,
       "story": {
         "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-        "description": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
+        "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
         "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+        "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Peru",
+      "lat": -9.19,
+      "lon": -75.02,
+      "count": 2,
+      "story": {
+        "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+        "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -317,22 +305,34 @@
       "lon": 35.2,
       "count": 2,
       "story": {
-        "title": "Palestinians in Gaza react to latest ceasefire deal",
-        "description": "‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Palestinians long for peace but doubt Trump's deal with Hamas will hold",
+        "description": "\"Over the past three years, we've heard many agreements and proposed solutions, yet the situation on the ground has only continued to deteriorate.\"",
+        "link": "https://www.abc.net.au/news/2026-08-01/palestine-weapons-deal-gaza/106985042",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Peru",
-      "lat": -9.19,
-      "lon": -75.02,
-      "count": 1,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 2,
       "story": {
-        "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-        "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "From petitions to memes: How students made dissent visible",
+        "description": "From imperial China to present-day India, student movements have repeatedly adapted the tools and symbols of their age to challenge authority.",
+        "link": "https://www.dw.com/en/from-petitions-to-memes-how-students-made-dissent-visible/a-78146908?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "Japan: Death toll rises to 35 after deadly earthquake",
+        "description": "Rescuers are searching for survivors after a magnitude 7.1 earthquake struck southern Japan, killing at least 35 people and causing widespread damage. DW has more.",
+        "link": "https://www.dw.com/en/japan-death-toll-rises-to-35-after-deadly-earthquake/live-78155782?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -432,6 +432,42 @@
       }
     },
     {
+      "name": "Algiers",
+      "lat": 36.75,
+      "lon": 3.06,
+      "count": 1,
+      "story": {
+        "title": "Algerian bus plunges into ravine killing at least 27",
+        "description": "Dozens also injured in accident outside the country&#039;s capital Algiers.",
+        "link": "https://www.aljazeera.com/news/2026/7/31/algerian-bus-plunges-into-ravine-killing-at-least-27?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Algeria",
+      "lat": 28.03,
+      "lon": 1.66,
+      "count": 1,
+      "story": {
+        "title": "Algerian bus plunges into ravine killing at least 27",
+        "description": "Dozens also injured in accident outside the country&#039;s capital Algiers.",
+        "link": "https://www.aljazeera.com/news/2026/7/31/algerian-bus-plunges-into-ravine-killing-at-least-27?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Warsaw",
+      "lat": 52.23,
+      "lon": 21.0,
+      "count": 1,
+      "story": {
+        "title": "Poland protests to Russian ambassador over missile incursion",
+        "description": "Warsaw asserts missile recently made, illustrating Russia&#039;s nightly barrage against Ukraine is draining arsenal.",
+        "link": "https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Syria",
       "lat": 34.8,
       "lon": 38.9,
@@ -492,63 +528,27 @@
       }
     },
     {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 1,
       "story": {
-        "title": "How the Trump administration runs Venezuela and takes its money",
-        "description": "Amid the fallout of devastating twin earthquakes Donald Trump says the US has been taking \"billions and billions of dollars from Venezuela\". So who is running the country and what is happening with the seized funds?",
-        "link": "https://www.abc.net.au/news/2026-08-01/how-trump-administration-now-runs-venezuela/106980648",
+        "title": "Australian band counts missiles as they gear up to play Kyiv's major music festival",
+        "description": "Sydney band breathe. managed to become the only international act at Kyiv's Atlas music festival. What they is etched in their collective memories.",
+        "link": "https://www.abc.net.au/news/2026-08-01/sydney-band-breathe-take-part-in-kyivs-atlas-music-festival/106966900",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Rome",
-      "lat": 41.9,
-      "lon": 12.5,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 1,
       "story": {
-        "title": "Live: Aussie stars eye athletics gold, more green and gold glory at the velodrome",
-        "description": "Flag bearer Nina Kennedy goes for gold in the pole vault and Australia's sprint stars return to the track after more green and gold glory at the velodrome. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-07-31/live-blog-commonwealth-games-day-eight/106980504",
+        "title": "Australian band counts missiles as they gear up to play Kyiv's major music festival",
+        "description": "Sydney band breathe. managed to become the only international act at Kyiv's Atlas music festival. What they is etched in their collective memories.",
+        "link": "https://www.abc.net.au/news/2026-08-01/sydney-band-breathe-take-part-in-kyivs-atlas-music-festival/106966900",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Machete attack forces Melbourne youth mental health workers out of office",
-        "description": "Staff at a youth mental health clinic in Sunshine have been told to work off-site, after four masked men attempted to assault patients at the centre in Melbourne's west last week.",
-        "link": "https://www.abc.net.au/news/2026-07-31/sunshine-machete-youth-mental-health/106984140",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 1,
-      "story": {
-        "title": "UK court allows plans for Chinese 'super' embassy to advance",
-        "description": "A court dismissed a legal challenge against Beijing's new embassy in London, which could become the largest in the UK. The case, brought by a neighborhood association, argued the embassy poses a security threat.",
-        "link": "https://www.dw.com/en/uk-court-allows-plans-for-chinese-super-embassy-to-advance/a-78194764?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 1,
-      "story": {
-        "title": "Why Europe's wildfires are getting harder to stop",
-        "description": "Wildfires may start with a single spark, but experts say climate change, drought and decades of forest management decisions have created the conditions for Europe's biggest blazes.",
-        "link": "https://www.dw.com/en/why-europe-s-wildfires-are-getting-harder-to-stop/a-78194776?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     }
   ]
