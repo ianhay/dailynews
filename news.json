@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T17:06:47+00:00",
+  "generated_at": "2026-07-31T18:54:48+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "description": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Nicaraguan leader proposes extending presidential term by another year",
       "description": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
       "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
@@ -28,9 +22,21 @@
       "description": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
       "link": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "Andy Burnham to give regional mayors share of income tax",
+      "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
+    {
+      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+      "description": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
       "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
@@ -41,12 +47,6 @@
       "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
       "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
       "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-      "description": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
-      "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,10 +75,10 @@
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
-      "count": 13,
+      "count": 11,
       "story": {
         "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-        "description": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
+        "description": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
         "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -87,10 +87,10 @@
       "name": "Morocco",
       "lat": 31.79,
       "lon": -7.09,
-      "count": 13,
+      "count": 11,
       "story": {
         "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-        "description": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
+        "description": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
         "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -108,34 +108,10 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 7,
-      "story": {
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-        "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 7,
-      "story": {
-        "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
-        "description": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
-        "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "Why limited war with the US may suit Iran better than peace",
         "description": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
@@ -168,6 +144,30 @@
       }
     },
     {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 5,
+      "story": {
+        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+        "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 5,
+      "story": {
+        "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
+        "description": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
+        "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -177,6 +177,18 @@
         "description": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
         "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "Why is Israel arming illegal settlers?",
+        "description": "As settler attacks reach record levels, the government has distributed more than 100,000 assault rifles to Israelis.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -192,39 +204,27 @@
       }
     },
     {
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
+      "count": 3,
+      "story": {
+        "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+        "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Singapore",
       "lat": 1.35,
       "lon": 103.82,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Singapore fines French teen $465 for viral straw-licking stunt",
         "description": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
         "link": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "Three-year roadmap proposed for Hamas disarmament in Gaza",
-        "description": "Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza&#039;s political transition",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 4,
-      "story": {
-        "title": "Palestinians in Gaza react to latest ceasefire deal",
-        "description": "‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -264,6 +264,18 @@
       }
     },
     {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 2,
+      "story": {
+        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+        "description": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Serbia",
       "lat": 44.02,
       "lon": 21.01,
@@ -272,18 +284,6 @@
         "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
         "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
         "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 2,
-      "story": {
-        "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-        "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
-        "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -300,15 +300,27 @@
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
       "count": 2,
       "story": {
-        "title": "Machete attack forces Melbourne youth mental health workers out of office",
-        "description": "Staff at a youth mental health clinic in Sunshine have been told to work off-site, after four masked men attempted to assault patients at the centre in Melbourne's west last week.",
-        "link": "https://www.abc.net.au/news/2026-07-31/sunshine-machete-youth-mental-health/106984140",
-        "source": "ABC News AU"
+        "title": "DR Congo Ebola epidemic becomes world’s second largest outbreak",
+        "description": "Officials declare the outbreak the fastest spreading ever, warning the world to &#039;pay much more attention&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Palestinians in Gaza react to latest ceasefire deal",
+        "description": "‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -420,14 +432,38 @@
       }
     },
     {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
       "count": 1,
       "story": {
-        "title": "DR Congo Ebola epidemic becomes world’s second largest outbreak",
-        "description": "Officials declare the outbreak the fastest spreading ever, warning the world to &#039;pay much more attention&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss",
+        "title": "Syrian lawyer takes on ex-Assad official in landmark trial",
+        "description": "Syrian lawyer takes on ex-Assad official in landmark trial",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Pyongyang",
+      "lat": 39.03,
+      "lon": 125.75,
+      "count": 1,
+      "story": {
+        "title": "Western allies warn North Korean IT workers funding nuclear arsenal",
+        "description": "Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.",
+        "link": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 1,
+      "story": {
+        "title": "Western allies warn North Korean IT workers funding nuclear arsenal",
+        "description": "Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.",
+        "link": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -456,14 +492,38 @@
       }
     },
     {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 1,
+      "story": {
+        "title": "How the Trump administration runs Venezuela and takes its money",
+        "description": "Amid the fallout of devastating twin earthquakes Donald Trump says the US has been taking \"billions and billions of dollars from Venezuela\". So who is running the country and what is happening with the seized funds?",
+        "link": "https://www.abc.net.au/news/2026-08-01/how-trump-administration-now-runs-venezuela/106980648",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Rome",
       "lat": 41.9,
       "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "Live: 'Extremely disappointed': Aussie cyclists disqualified from individual pursuit",
-        "description": "Australia's cyclists will look to build on their successful opening day at the velodrome, while Lachie Kennedy and Torrie Lewis eye dual 200m gold on the track. Follow live.",
+        "title": "Live: Aussie stars eye athletics gold, more green and gold glory at the velodrome",
+        "description": "Flag bearer Nina Kennedy goes for gold in the pole vault and Australia's sprint stars return to the track after more green and gold glory at the velodrome. Follow live.",
         "link": "https://www.abc.net.au/news/2026-07-31/live-blog-commonwealth-games-day-eight/106980504",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "Machete attack forces Melbourne youth mental health workers out of office",
+        "description": "Staff at a youth mental health clinic in Sunshine have been told to work off-site, after four masked men attempted to assault patients at the centre in Melbourne's west last week.",
+        "link": "https://www.abc.net.au/news/2026-07-31/sunshine-machete-youth-mental-health/106984140",
         "source": "ABC News AU"
       }
     },
@@ -488,66 +548,6 @@
         "title": "Why Europe's wildfires are getting harder to stop",
         "description": "Wildfires may start with a single spark, but experts say climate change, drought and decades of forest management decisions have created the conditions for Europe's biggest blazes.",
         "link": "https://www.dw.com/en/why-europe-s-wildfires-are-getting-harder-to-stop/a-78194776?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Sudan civil war: When drones strike the classroom",
-        "description": "Children in Sudan's besieged city of el-Obeid are afraid to go to school as drone attacks hit civilian infrastructure. Aid groups warn of a worsening humanitarian crisis.",
-        "link": "https://www.dw.com/en/sudan-civil-war-when-drones-strike-the-classroom/a-78089487?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
-      "count": 1,
-      "story": {
-        "title": "Military flare-up between Houthis and Saudi Arabia challenges relative calm in Yemen",
-        "description": "Riyadh and Yemen's Iran-backed Houthi rebels are on the brink of renewed conflict. Could war-ravaged Yemen be drawn into a wider Middle East war?",
-        "link": "https://www.dw.com/en/military-flare-up-between-houthis-and-saudi-arabia-challenges-relative-calm-in-yemen/a-78186262?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "Military flare-up between Houthis and Saudi Arabia challenges relative calm in Yemen",
-        "description": "Riyadh and Yemen's Iran-backed Houthi rebels are on the brink of renewed conflict. Could war-ravaged Yemen be drawn into a wider Middle East war?",
-        "link": "https://www.dw.com/en/military-flare-up-between-houthis-and-saudi-arabia-challenges-relative-calm-in-yemen/a-78186262?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Jakarta",
-      "lat": -6.2,
-      "lon": 106.85,
-      "count": 1,
-      "story": {
-        "title": "Indonesia: Pilot faces death penalty after drugs found in suitcase",
-        "description": "A Malaysian Airlines pilot tested positive for cocaine and meth after flying a passenger jet into Jakarta, with Indonesian authorities finding over 70,000 ecstasy pills in his suitcase.",
-        "link": "https://www.dw.com/en/indonesia-pilot-faces-death-penalty-after-drugs-found-in-suitcase/a-78186926?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 1,
-      "story": {
-        "title": "Indonesia: Pilot faces death penalty after drugs found in suitcase",
-        "description": "A Malaysian Airlines pilot tested positive for cocaine and meth after flying a passenger jet into Jakarta, with Indonesian authorities finding over 70,000 ecstasy pills in his suitcase.",
-        "link": "https://www.dw.com/en/indonesia-pilot-faces-death-penalty-after-drugs-found-in-suitcase/a-78186926?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
