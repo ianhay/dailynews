@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T11:44:07+00:00",
+  "generated_at": "2026-08-01T13:40:57+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Nicaraguan leader proposes extending presidential term by another year",
-      "description": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
-      "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Andy Burnham to give regional mayors share of income tax",
       "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
       "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
@@ -28,6 +22,12 @@
       "description": "Interviews online may not allow young people to \"shine\" and communicate their \"passion\", the prime minister says.",
       "link": "https://www.bbc.co.uk/news/articles/c4g4dkr40deo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "Spain says migrants leaving Ceuta after mass influx in which 67 died",
+      "description": "Spain’s foreign minister maintains &#039;the integrity of the Schengen area is absolutely guaranteed&#039;.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died?traffic_source=rss",
+      "source": "Al Jazeera"
     }
   ],
   "australia": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 17,
+      "count": 18,
       "story": {
         "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
         "description": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
@@ -87,11 +87,23 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 11,
+      "count": 10,
       "story": {
         "title": "Why limited war with the US may suit Iran better than peace",
         "description": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
         "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 8,
+      "story": {
+        "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+        "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+        "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -101,7 +113,7 @@
       "lon": 90.0,
       "count": 8,
       "story": {
-        "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
         "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
         "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
@@ -111,23 +123,35 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 7,
+      "count": 8,
       "story": {
-        "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
         "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
         "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 6,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 7,
       "story": {
-        "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-        "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
-        "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+        "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+        "description": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+        "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 7,
+      "story": {
+        "title": "What triggered the mass migrant crossings into Ceuta?",
+        "description": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
+        "link": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -141,30 +165,6 @@
         "description": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
         "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 6,
-      "story": {
-        "title": "Spain says migrants in Ceuta have returned to Morocco",
-        "description": "Spain says 50,000 migrants who entered its North African enclave of Ceuta have returned to Morocco.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 6,
-      "story": {
-        "title": "Missing Singaporean woman found in Cambodia says she was not forced into scam activities",
-        "description": "Aishah Siregar said in a video that she went to Cambodia to work as an English teacher.",
-        "link": "https://www.channelnewsasia.com/singapore/missing-singaporean-aishah-siregar-left-cambodia-willingly-not-scam-6292736",
-        "source": "CNA"
       }
     },
     {
@@ -185,7 +185,7 @@
       "lon": 30.52,
       "count": 5,
       "story": {
-        "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
         "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
         "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
@@ -201,30 +201,6 @@
         "description": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
         "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 4,
-      "story": {
-        "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
-        "description": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.",
-        "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 4,
-      "story": {
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-        "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -252,26 +228,14 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 3,
       "story": {
-        "title": "Analyst: the US faces a strategic ‘dead end’ in Iran",
-        "description": "Washington has reached a strategic impasse with Iran, says a former analyst for the US Congress.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+        "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -336,15 +300,15 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 2,
       "story": {
-        "title": "Iran war live: Tehran attacks Kuwait, threatens region with ‘flames of war’",
-        "description": "Kuwait says several vital facilities were targets of Iranian drones that its army detected and destroyed since dawn.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Aussies reign supreme over Irish in AFLW international",
+        "description": "Australia charges to a 50-point win over Ireland in the first women's Australian rules international, as a full house is entertained by the thrills and spills at North Sydney Oval.",
+        "link": "https://www.abc.net.au/news/2026-08-01/australia-beats-ireland-in-aflw-with-thrills-and-spills-at-north/106986172",
+        "source": "ABC News AU"
       }
     },
     {
@@ -353,8 +317,8 @@
       "lon": 153.03,
       "count": 2,
       "story": {
-        "title": "Live: Broncos thumped at home as faint finals hopes end for reigning premiers",
-        "description": "The Brisbane Broncos will become the first reigning premier in 20 years to miss the NRL finals, after their faint hopes of playing in the playoffs ended with defeat to the Newcastle Knights on Saturday. Follow live.",
+        "title": "Broncos to 'look after each other' as title defence comes to early end",
+        "description": "The Brisbane Broncos will become the first reigning premier in 20 years to miss the NRL finals, after their faint hopes of playing in the playoffs ended with defeat to the Newcastle Knights on Saturday.",
         "link": "https://www.abc.net.au/news/2026-08-01/nrl-live-titans-warriors-panthers-raiders-broncos-knights/106977952",
         "source": "ABC News AU"
       }
@@ -369,6 +333,18 @@
         "description": "A police officer who was injured in an alleged stabbing in Adelaide's northern suburbs this week has been discharged from hospital.",
         "link": "https://www.abc.net.au/news/2026-08-01/sa-injured-officer-in-alleged-stabbing-leaves-hospital/106985836",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "Iran warns neighbors against being US 'defensive shield'",
+        "description": "Iran has warned regional states against helping the US as Washington weighs possible \"very hard\" new strikes. Meanwhile, the Tehran-backed Houthis claim to have diverted eight Saudi tankers from the Red Sea. DW has more.",
+        "link": "https://www.dw.com/en/iran-warns-neighbors-against-being-us-defensive-shield/live-78201442?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -396,12 +372,36 @@
       }
     },
     {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "Search ended at mall wrecked by Japan quake blast",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/east-asia/japan-quake-aeon-mall-blast-search-ends-6292846",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 1,
+      "story": {
+        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
       "count": 1,
       "story": {
-        "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
         "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
         "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
@@ -452,18 +452,6 @@
         "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
         "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
         "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 1,
-      "story": {
-        "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-        "description": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
-        "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -549,6 +537,18 @@
         "description": "Behind Tunisia’s enforced calm, anger is growing over repression, economic decline and collapsing public services.",
         "link": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 1,
+      "story": {
+        "title": "Wildfires force mass evacuations in Europe as Australia sends help",
+        "description": "Hundreds of thousands of people were evacuated in France this week, as fires continue to grip Europe.",
+        "link": "https://www.abc.net.au/news/2026-08-01/europe-france-greece-fires-australian-firefighters-sent/106986212",
+        "source": "ABC News AU"
       }
     }
   ]
