@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T13:40:57+00:00",
+  "generated_at": "2026-08-01T15:05:35+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -99,7 +99,7 @@
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
-      "count": 8,
+      "count": 9,
       "story": {
         "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
         "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
@@ -108,10 +108,22 @@
       }
     },
     {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 8,
+      "story": {
+        "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+        "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+        "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
         "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
@@ -123,7 +135,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
         "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
@@ -132,14 +144,14 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 7,
       "story": {
-        "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-        "description": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-        "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+        "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+        "description": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
+        "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,38 +168,14 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 6,
-      "story": {
-        "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-        "description": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
-        "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
         "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
         "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 5,
-      "story": {
-        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-        "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-        "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -201,6 +189,30 @@
         "description": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
         "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 4,
+      "story": {
+        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+        "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+        "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 4,
+      "story": {
+        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+        "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -224,18 +236,6 @@
         "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
         "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
         "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-        "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -320,18 +320,6 @@
         "title": "Broncos to 'look after each other' as title defence comes to early end",
         "description": "The Brisbane Broncos will become the first reigning premier in 20 years to miss the NRL finals, after their faint hopes of playing in the playoffs ended with defeat to the Newcastle Knights on Saturday.",
         "link": "https://www.abc.net.au/news/2026-08-01/nrl-live-titans-warriors-panthers-raiders-broncos-knights/106977952",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 2,
-      "story": {
-        "title": "'Many messages of support': Injured cop in alleged stabbing out of hospital",
-        "description": "A police officer who was injured in an alleged stabbing in Adelaide's northern suburbs this week has been discharged from hospital.",
-        "link": "https://www.abc.net.au/news/2026-08-01/sa-injured-officer-in-alleged-stabbing-leaves-hospital/106985836",
         "source": "ABC News AU"
       }
     },
@@ -548,6 +536,18 @@
         "title": "Wildfires force mass evacuations in Europe as Australia sends help",
         "description": "Hundreds of thousands of people were evacuated in France this week, as fires continue to grip Europe.",
         "link": "https://www.abc.net.au/news/2026-08-01/europe-france-greece-fires-australian-firefighters-sent/106986212",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 1,
+      "story": {
+        "title": "Aussies reign supreme over Irish in AFLW international",
+        "description": "Australia charges to a 50-point win over Ireland in the first women's Australian rules international, as a full house is entertained by the thrills and spills at North Sydney Oval.",
+        "link": "https://www.abc.net.au/news/2026-08-01/australia-beats-ireland-in-aflw-with-thrills-and-spills-at-north/106986172",
         "source": "ABC News AU"
       }
     }
