@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T22:31:35+00:00",
+  "generated_at": "2026-08-02T00:01:50+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Russian ship defies sanctions to send military vehicles to Mali",
+      "description": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
+      "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Andy Burnham to give regional mayors share of income tax",
       "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
       "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
@@ -22,12 +28,6 @@
       "description": "Interviews online may not allow young people to \"shine\" and communicate their \"passion\", the prime minister says.",
       "link": "https://www.bbc.co.uk/news/articles/c4g4dkr40deo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "At least 11 wounded by Colombia car bomb days before presidential election",
-      "description": "President-elect Abelardo de la Espriella pledges to pursue harsh crackdown on rebel groups and criminal organisations.",
-      "link": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "australia": [
@@ -38,15 +38,15 @@
       "source": "BBC News"
     },
     {
-      "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
-      "description": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
-      "link": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "description": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+      "description": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
+      "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,22 +72,10 @@
   ],
   "places": [
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 13,
-      "story": {
-        "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-        "description": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
-        "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 11,
+      "count": 12,
       "story": {
         "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
         "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
@@ -96,14 +84,26 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 7,
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 11,
       "story": {
-        "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-        "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-        "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+        "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+        "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
+        "link": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 9,
+      "story": {
+        "title": "Why limited war with the US may suit Iran better than peace",
+        "description": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
+        "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -113,21 +113,9 @@
       "lon": 90.0,
       "count": 7,
       "story": {
-        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-        "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-        "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 7,
-      "story": {
-        "title": "Why limited war with the US may suit Iran better than peace",
-        "description": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-        "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+        "title": "Russian ship defies sanctions to send military vehicles to Mali",
+        "description": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
+        "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,6 +132,18 @@
       }
     },
     {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 6,
+      "story": {
+        "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+        "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
@@ -152,18 +152,6 @@
         "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
         "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
         "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 6,
-      "story": {
-        "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-        "description": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
-        "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,15 +168,15 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 5,
       "story": {
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-        "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "India wants to join the strawberry superpowers",
+        "description": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+        "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -204,14 +192,14 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 4,
       "story": {
-        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-        "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-        "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+        "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -221,16 +209,40 @@
       "lon": 105.0,
       "count": 4,
       "story": {
-        "title": "China's 'push towards assimilation' could drive its minorities to extinction",
-        "description": "China's new ethnic unity law is threatening to make the languages and culture of 55 different ethnic groups extinct.",
-        "link": "https://www.abc.net.au/news/2026-08-02/china-ethnic-unity-law-attempts-to-erase-minorities/106889152",
-        "source": "ABC News AU"
+        "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
+        "description": "Taiwan&#039;s GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.",
+        "link": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 3,
+      "story": {
+        "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+        "description": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
+        "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
+      "count": 3,
+      "story": {
+        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+        "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+        "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 3,
       "story": {
         "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
@@ -252,18 +264,6 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Italy",
       "lat": 42.5,
       "lon": 12.5,
@@ -276,14 +276,26 @@
       }
     },
     {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 2,
       "story": {
-        "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
-        "description": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
-        "link": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 2,
+      "story": {
+        "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+        "description": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
+        "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -309,18 +321,6 @@
         "description": "French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.",
         "link": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 2,
-      "story": {
-        "title": "UTI led to Sydney woman's death three days after giving birth",
-        "description": "Gia Lam gave birth to her son and was dead three days later. A coronial inquest found her death was preventable. Her family are now breaking their silence.",
-        "link": "https://www.abc.net.au/news/2026-08-02/young-mother-died-missed-uti-infection-sepsis/106950668",
-        "source": "ABC News AU"
       }
     },
     {
@@ -384,78 +384,6 @@
       }
     },
     {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-        "description": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
-        "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Hungary",
-      "lat": 47.16,
-      "lon": 19.5,
-      "count": 1,
-      "story": {
-        "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-        "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
-        "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Romania",
-      "lat": 45.94,
-      "lon": 24.97,
-      "count": 1,
-      "story": {
-        "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-        "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
-        "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
-      "count": 1,
-      "story": {
-        "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-        "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
-        "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Bulgaria",
-      "lat": 42.73,
-      "lon": 25.49,
-      "count": 1,
-      "story": {
-        "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-        "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
-        "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-        "description": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
-        "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "New Zealand",
       "lat": -41.0,
       "lon": 174.0,
@@ -489,6 +417,18 @@
         "description": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
         "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Taiwan",
+      "lat": 23.7,
+      "lon": 121.0,
+      "count": 1,
+      "story": {
+        "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
+        "description": "Taiwan&#039;s GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.",
+        "link": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -549,6 +489,66 @@
         "description": "President-elect Abelardo de la Espriella pledges to pursue harsh crackdown on rebel groups and criminal organisations.",
         "link": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 1,
+      "story": {
+        "title": "Sports car built for high-octane Hollywood film up for grabs",
+        "description": "A 1968 Chevrolet Camaro which featured in The Fast and Furious franchise's seventh film is up for sale and on display to prospective buyers in the Adelaide Hills.",
+        "link": "https://www.abc.net.au/news/2026-08-02/sports-car-built-for-fast-and-furious-film-on-sale/106977722",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
+      "count": 1,
+      "story": {
+        "title": "'Owner has no other option': Increase in cars abandoned on Canberra roads",
+        "description": "Tow truck operators say they are being called to more abandoned vehicles across Canberra — and while the government aims to resolve cases within nine days, officials say investigations often take four to six weeks.",
+        "link": "https://www.abc.net.au/news/2026-08-02/act-abandoned-vehicles-canberra-roads-tow-truck-removal-costs/106978630",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "Man critically injured during Melbourne car theft",
+        "description": "A man in his 60s was taken to hospital with life-threatening injuries after being struck by his own car as it was being stolen in Melbourne's north-east.",
+        "link": "https://www.abc.net.au/news/2026-08-02/victoria-melbourne-man-critically-injured-car-theft/106987120",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 1,
+      "story": {
+        "title": "UTI led to Sydney woman's death three days after giving birth",
+        "description": "Gia Lam gave birth to her son and was dead three days later. A coronial inquest found her death was preventable. Her family are now breaking their silence.",
+        "link": "https://www.abc.net.au/news/2026-08-02/young-mother-died-missed-uti-infection-sepsis/106950668",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "European Union",
+      "lat": 50.85,
+      "lon": 4.35,
+      "count": 1,
+      "story": {
+        "title": "Spain slams 'selfish' EU, sets up floating barriers",
+        "description": "European Union states are demanding stricter international border controls and have called an emergency meeting as Spain reassures safety of Schengen Area.",
+        "link": "https://www.abc.net.au/news/2026-08-02/spain-slams-selfish-european-union-sets-up-floating-barriers/106987024",
+        "source": "ABC News AU"
       }
     }
   ]
