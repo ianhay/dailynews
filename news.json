@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:05:57+00:00",
+  "generated_at": "2026-08-02T07:07:50+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-      "description": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Russian ship defies sanctions to send military vehicles to Mali",
       "description": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
       "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
@@ -28,9 +22,21 @@
       "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
       "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "Virtual interviews don't show bosses your personality, says Burnham",
+      "description": "Interviews online may not allow young people to \"shine\" and communicate their \"passion\", the prime minister says.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4dkr40deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
+    {
+      "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+      "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
       "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
@@ -41,12 +47,6 @@
       "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
       "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
       "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "description": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -77,7 +77,7 @@
       "lon": 133.0,
       "count": 13,
       "story": {
-        "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+        "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
         "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
         "link": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
@@ -87,23 +87,11 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 10,
+      "count": 11,
       "story": {
-        "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-        "description": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+        "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+        "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
         "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 9,
-      "story": {
-        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,14 +108,14 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 6,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 7,
       "story": {
-        "title": "Russian ship defies sanctions to send military vehicles to Mali",
-        "description": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
-        "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -168,6 +156,18 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 5,
+      "story": {
+        "title": "Russian ship defies sanctions to send military vehicles to Mali",
+        "description": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
+        "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
@@ -180,6 +180,30 @@
       }
     },
     {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 4,
+      "story": {
+        "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+        "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+        "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 4,
+      "story": {
+        "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+        "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+        "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -189,54 +213,6 @@
         "description": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
         "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 4,
-      "story": {
-        "title": "Iran warns neighbors against being US 'defensive shield'",
-        "description": "Iran has warned regional states against helping the US as Washington weighs possible \"very hard\" new strikes. Meanwhile, the Tehran-backed Houthis claim to have diverted eight Saudi tankers from the Red Sea. DW has more.",
-        "link": "https://www.dw.com/en/iran-warns-neighbors-against-being-us-defensive-shield/live-78201442?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 3,
-      "story": {
-        "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
-        "description": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
-        "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 3,
-      "story": {
-        "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-        "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-        "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -276,6 +252,30 @@
       }
     },
     {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 3,
+      "story": {
+        "title": "On the front line of Europe's battle against wildfires",
+        "description": "French firefighters have won out over a massive blaze, with almost 200,000 evacuees returning home. But Europe's climate-fueled wildfire season is far from over.",
+        "link": "https://www.dw.com/en/on-the-front-line-of-europe-s-battle-against-wildfires/a-78204324?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 2,
+      "story": {
+        "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+        "description": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
+        "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Italy",
       "lat": 42.5,
       "lon": 12.5,
@@ -284,6 +284,18 @@
         "title": "Italy putting nearly all major cities on highest heat alert",
         "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
         "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -309,6 +321,18 @@
         "description": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
         "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 2,
+      "story": {
+        "title": "South Korean shares soar after chip stock rout",
+        "description": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -348,18 +372,6 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 2,
-      "story": {
-        "title": "Why Europe's wildfires are getting harder to stop",
-        "description": "Wildfires may start with a single spark, but experts say climate change, drought and decades of forest management decisions have created the conditions for Europe's biggest blazes.",
-        "link": "https://www.dw.com/en/why-europe-s-wildfires-are-getting-harder-to-stop/a-78194776?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Rome",
       "lat": 41.9,
       "lon": 12.5,
@@ -393,18 +405,6 @@
         "description": "At least two chartered flights carrying up to 150 greyhounds are set to fly to Australia's eastern states, the BBC understands.",
         "link": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "South Korean shares soar after chip stock rout",
-        "description": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -468,18 +468,6 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 1,
-      "story": {
-        "title": "Live: Sharks and Rabbitohs make late changes for top eight clash",
-        "description": "The Cronulla Sharks and South Sydney Rabbitohs meet in a round 22 clash between top eight rivals, with a win strengthening their hopes in September. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-08-02/nrl-live-updates-sharks-rabbitohs-tigers-eels/106977954",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Brisbane",
       "lat": -27.47,
       "lon": 153.03,
@@ -488,6 +476,18 @@
         "title": "Victoria Park masterplan for Brisbane 2032 unveiled",
         "description": "The draft plan includes Brisbane Stadium, the National Aquatic Centre at Centenary Pool, upgrades to Brisbane Showgrounds and \"expanded\" parklands and public spaces.",
         "link": "https://www.abc.net.au/news/2026-08-02/victoria-park-olympic-paralympic-masterplan-unveiled/106987334",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "Live: Eagles star in tears after loss to Tigers, Suns and Dees exchange blows",
+        "description": "No.1 pick Willem Duursma breaks down after West Coast's loss to Richmond at the MCG as Gold Coast and Melbourne go goal-for-goal in a thrilling first half. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-08-02/afl-round-21-tigers-eagles-suns-demons-bombers-crows-live-blog/106972882",
         "source": "ABC News AU"
       }
     },
@@ -540,14 +540,14 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Athens",
+      "lat": 37.98,
+      "lon": 23.73,
       "count": 1,
       "story": {
-        "title": "Iran warns neighbors against being US 'defensive shield'",
-        "description": "Iran has warned regional states against helping the US as Washington weighs possible \"very hard\" new strikes. Meanwhile, the Tehran-backed Houthis claim to have diverted eight Saudi tankers from the Red Sea. DW has more.",
-        "link": "https://www.dw.com/en/iran-warns-neighbors-against-being-us-defensive-shield/live-78201442?maca=en-rss-en-all-1573-rdf",
+        "title": "Greece battles wildfires, including near Athens",
+        "description": "Firefighters were battling blazes in over 70 locations across Greece. Strong winds continue to fan the flames, adding to the firefighters' struggles.",
+        "link": "https://www.dw.com/en/greece-battles-wildfires-including-near-athens/a-78201243?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
