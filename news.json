@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T19:19:11+00:00",
+  "generated_at": "2026-08-02T20:29:39+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 15,
       "story": {
         "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
         "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 12,
+      "count": 13,
       "story": {
         "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
         "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
@@ -117,6 +117,18 @@
         "description": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
         "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 7,
+      "story": {
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+        "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -168,18 +180,6 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 5,
-      "story": {
-        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-        "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
-        "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
@@ -204,38 +204,26 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 4,
-      "story": {
-        "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-        "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-        "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 4,
-      "story": {
-        "title": "Migrant deaths in Ceuta rise to 72 after border surge from Morocco",
-        "description": "Five more bodies have been found along Ceuta&#039;s coastline as enclave recovers from unprecedented border influx.",
-        "link": "https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Washington",
       "lat": 38.9,
       "lon": -77.03,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
         "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
         "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 3,
+      "story": {
+        "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+        "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+        "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -249,6 +237,30 @@
         "description": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
         "link": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 3,
+      "story": {
+        "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
+        "description": "Tehran&#039;s announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.",
+        "link": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 3,
+      "story": {
+        "title": "Migrant deaths in Ceuta rise to 72 after border surge from Morocco",
+        "description": "Five more bodies have been found along Ceuta&#039;s coastline as enclave recovers from unprecedented border influx.",
+        "link": "https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -300,18 +312,6 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 2,
-      "story": {
-        "title": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
-        "description": "Former US hostage John Limbert says Washington ‘can’t bomb and assassinate its way to a better relationship’ with Iran.",
-        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Hungary",
       "lat": 47.16,
       "lon": 19.5,
@@ -333,6 +333,18 @@
         "description": "Chinese authorities will launch an investigation into the floods, amid warnings of further landslides as the rainy weather continues.",
         "link": "https://www.dw.com/en/china-dozens-dead-in-gansu-flash-floods/a-78206328?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "Japan's Kuwaki claims Women's Open title after playoff win",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/japans-kuwaki-claims-womens-open-title-after-playoff-win-6293951",
+        "source": "CNA"
       }
     },
     {
@@ -405,6 +417,30 @@
         "description": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
         "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 1,
+      "story": {
+        "title": "Is Washington dictating the agenda for talks in Venezuela?",
+        "description": "Venezuela&#039;s government and a section of the opposition plan to hold talks, backed by the US.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
+      "count": 1,
+      "story": {
+        "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
+        "description": "Six Jewish Israelis were filmed spitting at the entrance to Saint James Monastery in Jerusalem&#039;s Old City.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -513,42 +549,6 @@
         "description": "Earlier this week, Germany for the first time deported a man with no criminal record to Kabul. Faridoon Tofan, who is currently in deportation detention, fears the same fate.",
         "link": "https://www.dw.com/en/germany-widens-deportations-to-afghanistan/a-78173466?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 1,
-      "story": {
-        "title": "War in Ukraine: Why Crimea has become a strategic target",
-        "description": "Ukraine has stepped up attacks on Russian logistics centers and energy facilities in Crimea. What are the consequences for local supplies, and how does Kyiv hope this strategy will affect the course of the war?",
-        "link": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Finland",
-      "lat": 61.92,
-      "lon": 25.75,
-      "count": 1,
-      "story": {
-        "title": "Rallying-Toyota's Pajari takes home win in Finland after Ogier crash",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/rallying-toyotas-pajari-takes-home-win-in-finland-after-ogier-crash-6293711",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Jakarta",
-      "lat": -6.2,
-      "lon": 106.85,
-      "count": 1,
-      "story": {
-        "title": "Indonesia urged to play more active role in global climate diplomacy",
-        "description": "Opening the Indonesia Net-Zero Summit (INZS) 2026 at Balai Kartini in Jakarta on Saturday (Aug 1), Dino Patti Djalal, Chairman and Founder of the Foreign Policy Community of Indonesia (FPCI), said that climate change has",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-climate-diplomacy-biodiversity-cop31-6293596",
-        "source": "CNA"
       }
     }
   ]
