@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T14:39:09+00:00",
+  "generated_at": "2026-08-02T16:04:59+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,31 +32,25 @@
   ],
   "australia": [
     {
+      "title": "Helicopters fighting Greece wildfires collide in mid-air",
+      "description": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
+      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
       "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
       "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "description": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+      "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
-    {
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
     {
       "title": "UK petrol prices hit highest level since Iran war began",
       "description": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
@@ -67,6 +61,12 @@
       "title": "South Korean shares soar after chip stock rout",
       "description": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
       "link": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Apple warns of future 'supply constraints' for Mac, iPhone, iPad",
+      "description": "Shares of Apple plunged on a warning of slower sales in the coming months.",
+      "link": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 10,
+      "count": 8,
       "story": {
         "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
         "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
@@ -123,7 +123,7 @@
       "name": "Indonesia",
       "lat": -2.5,
       "lon": 118.0,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
         "description": "The vessel with at least 250 people on board caught fire off Madura island.",
@@ -144,6 +144,42 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+        "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 5,
+      "story": {
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "description": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+        "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 5,
+      "story": {
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "description": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+        "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -156,51 +192,39 @@
       }
     },
     {
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
+      "count": 4,
+      "story": {
+        "title": "Helicopters fighting Greece wildfires collide in mid-air",
+        "description": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
+        "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 4,
+      "story": {
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "description": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+        "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Washington",
       "lat": 38.9,
       "lon": -77.03,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
         "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
         "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 4,
-      "story": {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-        "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 4,
-      "story": {
-        "title": "China: Dozens dead in Gansu flash floods",
-        "description": "Chinese authorities will launch an investigation into the floods, amid warnings of further landslides as the rainy weather continues.",
-        "link": "https://www.dw.com/en/china-dozens-dead-in-gansu-flash-floods/a-78206328?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -212,18 +236,6 @@
         "title": "Tourist plane crashes in Peru, killing 13",
         "description": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
         "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -252,15 +264,39 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "Moscow mayor calls deadly bomb attack on a restaurant a 'terrorist act'",
-        "description": "The blast killed three people, including the woman bomber, Russian state media said.",
-        "link": "https://www.abc.net.au/news/2026-08-02/moscow-bombing-restaurant-mayor-terror-act/106988208",
-        "source": "ABC News AU"
+        "title": "Israeli settlers shoot Palestinian child during farm raid",
+        "description": "CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 3,
+      "story": {
+        "title": "China: Dozens dead in Gansu flash floods",
+        "description": "Chinese authorities will launch an investigation into the floods, amid warnings of further landslides as the rainy weather continues.",
+        "link": "https://www.dw.com/en/china-dozens-dead-in-gansu-flash-floods/a-78206328?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Rome",
+      "lat": 41.9,
+      "lon": 12.5,
+      "count": 2,
+      "story": {
+        "title": "Italy putting nearly all major cities on highest heat alert",
+        "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+        "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -276,15 +312,15 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Hungary",
+      "lat": 47.16,
+      "lon": 19.5,
       "count": 2,
       "story": {
-        "title": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
-        "description": "Anti-Ukrainian sentiment in Poland is on the rise, with numerous attacks against refugees from the war in Ukraine. Prime Minister Donald Tusk has spoken out against the violence and warned of the danger from Russia.",
-        "link": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Heatwave forces nuclear shutdown in Hungary",
+        "description": "Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -300,14 +336,14 @@
       }
     },
     {
-      "name": "Rome",
-      "lat": 41.9,
-      "lon": 12.5,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 1,
       "story": {
-        "title": "Italy putting nearly all major cities on highest heat alert",
-        "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-        "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+        "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -348,18 +384,6 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 1,
-      "story": {
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-        "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Jordan",
       "lat": 30.59,
       "lon": 36.24,
@@ -369,6 +393,18 @@
         "description": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
         "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 1,
+      "story": {
+        "title": "Greek firefighting helicopters in mid-air collision, four crew missing",
+        "description": "Europe struggles with record-breaking summer heat as wildfires ravage Greece, France and Spain causing mass evacuations.",
+        "link": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -404,18 +440,6 @@
         "title": "From Sudan to Spain: Between war and home | Al Jazeera Originals",
         "description": "A young Sudanese refugee rebuilds his life in Spain while war keeps him from the family he left behind.",
         "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Cuba",
-      "lat": 21.52,
-      "lon": -77.78,
-      "count": 1,
-      "story": {
-        "title": "Petro urges global support to stop possible US invasion of Cuba",
-        "description": "Petro urges global support to stop possible US invasion of Cuba",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/petro-urges-global-support-to-stop-possible-us-invasion-of-cuba?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -492,18 +516,6 @@
       }
     },
     {
-      "name": "Hungary",
-      "lat": 47.16,
-      "lon": 19.5,
-      "count": 1,
-      "story": {
-        "title": "Hungary to shut sole nuclear plant for first time on Sunday",
-        "description": "Record-low water levels on the Danube forced the Paks plant offline, leaving Hungary facing a potential power crunch. In neighboring Serbia, energy production at two hydroelectric plants has also been reduced.",
-        "link": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Serbia",
       "lat": 44.02,
       "lon": 21.01,
@@ -536,18 +548,6 @@
         "title": "Germany widens deportations to Afghanistan",
         "description": "Earlier this week, Germany for the first time deported a man with no criminal record to Kabul. Faridoon Tofan, who is currently in deportation detention, fears the same fate.",
         "link": "https://www.dw.com/en/germany-widens-deportations-to-afghanistan/a-78173466?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Athens",
-      "lat": 37.98,
-      "lon": 23.73,
-      "count": 1,
-      "story": {
-        "title": "Greece battles wildfires, including near Athens",
-        "description": "Firefighters were battling blazes in over 70 locations across Greece. Strong winds continue to fan the flames, adding to the firefighters' struggles.",
-        "link": "https://www.dw.com/en/greece-battles-wildfires-including-near-athens/a-78201243?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
