@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T00:01:50+00:00",
+  "generated_at": "2026-08-02T04:05:57+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+      "description": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Russian ship defies sanctions to send military vehicles to Mali",
       "description": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
       "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
@@ -22,15 +28,15 @@
       "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
       "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Virtual interviews don't show bosses your personality, says Burnham",
-      "description": "Interviews online may not allow young people to \"shine\" and communicate their \"passion\", the prime minister says.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4dkr40deo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "australia": [
+    {
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
       "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
@@ -41,12 +47,6 @@
       "title": "The Sopranos star Vincent Pastore dies aged 80",
       "description": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
       "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
-      "description": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
-      "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,22 +72,10 @@
   ],
   "places": [
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 12,
-      "story": {
-        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 11,
+      "count": 13,
       "story": {
         "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
         "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
@@ -99,11 +87,35 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
+      "count": 10,
+      "story": {
+        "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+        "description": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+        "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 9,
       "story": {
-        "title": "Why limited war with the US may suit Iran better than peace",
-        "description": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-        "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 7,
+      "story": {
+        "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+        "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+        "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,35 +123,11 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Russian ship defies sanctions to send military vehicles to Mali",
         "description": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
         "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 7,
-      "story": {
-        "title": "British Airways flight called mayday on approach to Heathrow",
-        "description": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
-        "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 6,
-      "story": {
-        "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-        "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-        "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,26 +144,14 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 5,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 6,
       "story": {
-        "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-        "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-        "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
-      "story": {
-        "title": "India wants to join the strawberry superpowers",
-        "description": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
-        "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+        "title": "British Airways flight called mayday on approach to Heathrow",
+        "description": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
+        "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
       }
     },
@@ -183,7 +159,7 @@
       "name": "Peru",
       "lat": -9.19,
       "lon": -75.02,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Tourist plane crashes in Peru, killing 13",
         "description": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
@@ -192,27 +168,39 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 4,
-      "story": {
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-        "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
         "description": "Taiwan&#039;s GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.",
         "link": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "India wants to join the strawberry superpowers",
+        "description": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+        "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 4,
+      "story": {
+        "title": "Iran warns neighbors against being US 'defensive shield'",
+        "description": "Iran has warned regional states against helping the US as Washington weighs possible \"very hard\" new strikes. Meanwhile, the Tehran-backed Houthis claim to have diverted eight Saudi tankers from the Red Sea. DW has more.",
+        "link": "https://www.dw.com/en/iran-warns-neighbors-against-being-us-defensive-shield/live-78201442?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -228,14 +216,26 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-        "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-        "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 3,
+      "story": {
+        "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+        "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+        "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -252,15 +252,27 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 3,
       "story": {
-        "title": "Iran warns neighbors against being US 'defensive shield'",
-        "description": "Iran has warned regional states against helping the US as Washington weighs possible \"very hard\" new strikes. Meanwhile, the Tehran-backed Houthis claim to have diverted eight Saudi tankers from the Red Sea. DW has more.",
-        "link": "https://www.dw.com/en/iran-warns-neighbors-against-being-us-defensive-shield/live-78201442?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+        "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 3,
+      "story": {
+        "title": "Is criticism of Spain on border management legitimate or politics?",
+        "description": "Tens of thousands of migrants briefly cross into Spain&#039;s north African territory of Ceuta from Morocco.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-criticism-of-spain-on-border-management-legitimate-or-politics?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -276,26 +288,14 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 2,
       "story": {
-        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 2,
-      "story": {
-        "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-        "description": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
-        "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
+        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+        "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+        "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -312,6 +312,30 @@
       }
     },
     {
+      "name": "Hungary",
+      "lat": 47.16,
+      "lon": 19.5,
+      "count": 2,
+      "story": {
+        "title": "Hungary plans to shut down only nuclear power plant amid drought",
+        "description": "Officials say they must shut down nation&#039;s sole nuclear plant as record-low Danube water levels disrupt reactor cooling.",
+        "link": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Singapore bans UK band Massive Attack over Palestinian flag",
+        "description": "Singapore barred two members of British band Massive Attack from re-entering the country.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Greece",
       "lat": 39.07,
       "lon": 21.82,
@@ -321,30 +345,6 @@
         "description": "French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.",
         "link": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
-      "count": 2,
-      "story": {
-        "title": "UK court allows plans for Chinese 'super' embassy to advance",
-        "description": "A court dismissed a legal challenge against Beijing's new embassy in London, which could become the largest in the UK. The case, brought by a neighborhood association, argued the embassy poses a security threat.",
-        "link": "https://www.dw.com/en/uk-court-allows-plans-for-chinese-super-embassy-to-advance/a-78194764?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 2,
-      "story": {
-        "title": "UK court allows plans for Chinese 'super' embassy to advance",
-        "description": "A court dismissed a legal challenge against Beijing's new embassy in London, which could become the largest in the UK. The case, brought by a neighborhood association, argued the embassy poses a security threat.",
-        "link": "https://www.dw.com/en/uk-court-allows-plans-for-chinese-super-embassy-to-advance/a-78194764?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -360,18 +360,6 @@
       }
     },
     {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 2,
-      "story": {
-        "title": "At least 57 migrants die crossing into Spanish enclave, as thousands voluntarily return",
-        "description": "The Spanish government says the vast majority of the more than 50,000 migrants who crossed into Ceuta had returned to Morocco.",
-        "link": "https://www.sbs.com.au/news/article/at-least-57-migrants-die-crossing-into-spanish-enclave-as-thousands-voluntarily-return/ay2u073lq",
-        "source": "SBS News"
-      }
-    },
-    {
       "name": "Rome",
       "lat": 41.9,
       "lon": 12.5,
@@ -380,6 +368,18 @@
         "title": "Italy putting nearly all major cities on highest heat alert",
         "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
         "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 1,
+      "story": {
+        "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+        "description": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
+        "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -420,6 +420,18 @@
       }
     },
     {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 1,
+      "story": {
+        "title": "New York Times reveals Trump administration subpoena over North Korea story",
+        "description": "The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info.",
+        "link": "https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Taiwan",
       "lat": 23.7,
       "lon": 121.0,
@@ -456,99 +468,87 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 1,
-      "story": {
-        "title": "Israeli forces detain residents and demolish homes in southern Syria",
-        "description": "Since Assad’s ouster, Israel has sent troops beyond the 1974 disengagement line into Syria&#039;s southern provinces.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
-      "count": 1,
-      "story": {
-        "title": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
-        "description": "The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.",
-        "link": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
-      "count": 1,
-      "story": {
-        "title": "At least 11 wounded by Colombia car bomb days before presidential election",
-        "description": "President-elect Abelardo de la Espriella pledges to pursue harsh crackdown on rebel groups and criminal organisations.",
-        "link": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "Sports car built for high-octane Hollywood film up for grabs",
-        "description": "A 1968 Chevrolet Camaro which featured in The Fast and Furious franchise's seventh film is up for sale and on display to prospective buyers in the Adelaide Hills.",
-        "link": "https://www.abc.net.au/news/2026-08-02/sports-car-built-for-fast-and-furious-film-on-sale/106977722",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "'Owner has no other option': Increase in cars abandoned on Canberra roads",
-        "description": "Tow truck operators say they are being called to more abandoned vehicles across Canberra — and while the government aims to resolve cases within nine days, officials say investigations often take four to six weeks.",
-        "link": "https://www.abc.net.au/news/2026-08-02/act-abandoned-vehicles-canberra-roads-tow-truck-removal-costs/106978630",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Man critically injured during Melbourne car theft",
-        "description": "A man in his 60s was taken to hospital with life-threatening injuries after being struck by his own car as it was being stolen in Melbourne's north-east.",
-        "link": "https://www.abc.net.au/news/2026-08-02/victoria-melbourne-man-critically-injured-car-theft/106987120",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
       "count": 1,
       "story": {
-        "title": "UTI led to Sydney woman's death three days after giving birth",
-        "description": "Gia Lam gave birth to her son and was dead three days later. A coronial inquest found her death was preventable. Her family are now breaking their silence.",
-        "link": "https://www.abc.net.au/news/2026-08-02/young-mother-died-missed-uti-infection-sepsis/106950668",
+        "title": "Live: Sharks and Rabbitohs make late changes for top eight clash",
+        "description": "The Cronulla Sharks and South Sydney Rabbitohs meet in a round 22 clash between top eight rivals, with a win strengthening their hopes in September. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-08-02/nrl-live-updates-sharks-rabbitohs-tigers-eels/106977954",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "European Union",
-      "lat": 50.85,
-      "lon": 4.35,
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "Spain slams 'selfish' EU, sets up floating barriers",
-        "description": "European Union states are demanding stricter international border controls and have called an emergency meeting as Spain reassures safety of Schengen Area.",
-        "link": "https://www.abc.net.au/news/2026-08-02/spain-slams-selfish-european-union-sets-up-floating-barriers/106987024",
+        "title": "Victoria Park masterplan for Brisbane 2032 unveiled",
+        "description": "The draft plan includes Brisbane Stadium, the National Aquatic Centre at Centenary Pool, upgrades to Brisbane Showgrounds and \"expanded\" parklands and public spaces.",
+        "link": "https://www.abc.net.au/news/2026-08-02/victoria-park-olympic-paralympic-masterplan-unveiled/106987334",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 1,
+      "story": {
+        "title": "Teenage girl's death sparks calls to change 'hostage justice' in Japan",
+        "description": "A 16-year-old girl's family alleges she was so traumatised by her time in a police cell, it killed her. Her case is now the focus of court action alleging she was a victim of Japan's \"hostage justice\" system.",
+        "link": "https://www.abc.net.au/news/2026-08-02/japan-hostage-justice-system-under-scrutiny-after-teen-death/106967964",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 1,
+      "story": {
+        "title": "Germany news: Big turnout for Pride after Berlin attack",
+        "description": "Several German cities are holding Pride events a week after a deadly attack on a march in Berlin. A forest fire is burning out of control in Bavaria. DW has more.",
+        "link": "https://www.dw.com/en/germany-news-big-turnout-for-pride-after-berlin-attack/live-78199317?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Kabul",
+      "lat": 34.53,
+      "lon": 69.17,
+      "count": 1,
+      "story": {
+        "title": "Germany widens deportations to Afghanistan",
+        "description": "Earlier this week, Germany for the first time deported a man with no criminal record to Kabul. Faridoon Tofan, who is currently in deportation detention, fears the same fate.",
+        "link": "https://www.dw.com/en/germany-widens-deportations-to-afghanistan/a-78173466?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
+      "count": 1,
+      "story": {
+        "title": "Germany widens deportations to Afghanistan",
+        "description": "Earlier this week, Germany for the first time deported a man with no criminal record to Kabul. Faridoon Tofan, who is currently in deportation detention, fears the same fate.",
+        "link": "https://www.dw.com/en/germany-widens-deportations-to-afghanistan/a-78173466?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Iran warns neighbors against being US 'defensive shield'",
+        "description": "Iran has warned regional states against helping the US as Washington weighs possible \"very hard\" new strikes. Meanwhile, the Tehran-backed Houthis claim to have diverted eight Saudi tankers from the Red Sea. DW has more.",
+        "link": "https://www.dw.com/en/iran-warns-neighbors-against-being-us-defensive-shield/live-78201442?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
