@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T16:04:59+00:00",
+  "generated_at": "2026-08-02T17:33:50+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,12 +32,6 @@
   ],
   "australia": [
     {
-      "title": "Helicopters fighting Greece wildfires collide in mid-air",
-      "description": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
-      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
       "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
       "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
@@ -47,6 +41,12 @@
       "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
       "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
       "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 8,
+      "count": 10,
       "story": {
         "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
         "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
@@ -108,14 +108,26 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 7,
       "story": {
-        "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-        "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-        "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "description": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+        "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 7,
+      "story": {
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "description": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+        "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -125,9 +137,21 @@
       "lon": 118.0,
       "count": 7,
       "story": {
-        "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+        "title": "Five dead and 41 missing after Indonesia ferry catches fire",
         "description": "The vessel with at least 250 people on board caught fire off Madura island.",
         "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 6,
+      "story": {
+        "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+        "description": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+        "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,50 +180,14 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 5,
       "story": {
-        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-        "description": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
-        "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 5,
-      "story": {
-        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-        "description": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
-        "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 5,
-      "story": {
-        "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-        "description": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-        "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
-      "count": 4,
-      "story": {
-        "title": "Helicopters fighting Greece wildfires collide in mid-air",
-        "description": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
-        "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+        "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+        "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+        "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -207,11 +195,23 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
         "description": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
         "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
+      "count": 3,
+      "story": {
+        "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+        "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+        "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -240,18 +240,6 @@
       }
     },
     {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 3,
-      "story": {
-        "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
-        "description": "Most migrants who reached Spain's North African territory of Ceuta from Morocco have returned, officials said.",
-        "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
@@ -264,51 +252,39 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "Deadly floods and landslide hit India’s Kerala",
+        "description": "At least two people have been killed and eight injured after torrential rain triggered flooding",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 3,
+      "story": {
+        "title": "Ceuta: Most who breached border have left, Spain says",
+        "description": "Nearly all of the more than 50,000 migrants who breached the border this week have returned to Morocco, according to Spanish officials. At least 72 people died in the border rush. DW has more.",
+        "link": "https://www.dw.com/en/ceuta-most-who-breached-border-have-left-spain-says/live-78191601?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
-      "count": 3,
+      "count": 2,
       "story": {
         "title": "Israeli settlers shoot Palestinian child during farm raid",
         "description": "CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 3,
-      "story": {
-        "title": "China: Dozens dead in Gansu flash floods",
-        "description": "Chinese authorities will launch an investigation into the floods, amid warnings of further landslides as the rainy weather continues.",
-        "link": "https://www.dw.com/en/china-dozens-dead-in-gansu-flash-floods/a-78206328?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Rome",
-      "lat": 41.9,
-      "lon": 12.5,
-      "count": 2,
-      "story": {
-        "title": "Italy putting nearly all major cities on highest heat alert",
-        "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-        "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 2,
-      "story": {
-        "title": "Italy putting nearly all major cities on highest heat alert",
-        "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-        "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -324,14 +300,26 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 2,
       "story": {
-        "title": "From petitions to memes: How students made dissent visible",
-        "description": "From imperial China to present-day India, student movements have repeatedly adapted the tools and symbols of their age to challenge authority.",
-        "link": "https://www.dw.com/en/from-petitions-to-memes-how-students-made-dissent-visible/a-78146908?maca=en-rss-en-all-1573-rdf",
+        "title": "Firefighting helicopters collide, killing two, as Greece battles wildfires",
+        "description": "Europe struggles with record-breaking summer heat as wildfires ravage Greece, France and Spain causing mass evacuations.",
+        "link": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 2,
+      "story": {
+        "title": "China: Dozens dead in Gansu flash floods",
+        "description": "Chinese authorities will launch an investigation into the floods, amid warnings of further landslides as the rainy weather continues.",
+        "link": "https://www.dw.com/en/china-dozens-dead-in-gansu-flash-floods/a-78206328?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -348,12 +336,36 @@
       }
     },
     {
+      "name": "Rome",
+      "lat": 41.9,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "Italy putting nearly all major cities on highest heat alert",
+        "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+        "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "Italy putting nearly all major cities on highest heat alert",
+        "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+        "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Congo",
       "lat": -4.04,
       "lon": 21.76,
       "count": 1,
       "story": {
-        "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+        "title": "Why Uganda is winning the battle against Ebola as virus spreads in DR Congo",
         "description": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
         "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
@@ -393,54 +405,6 @@
         "description": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
         "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 1,
-      "story": {
-        "title": "Greek firefighting helicopters in mid-air collision, four crew missing",
-        "description": "Europe struggles with record-breaking summer heat as wildfires ravage Greece, France and Spain causing mass evacuations.",
-        "link": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Buenos Aires",
-      "lat": -34.6,
-      "lon": -58.38,
-      "count": 1,
-      "story": {
-        "title": "Indigenous groups oppose Milei plan to open Argentina to foreign buyers",
-        "description": "Indigenous people  protested in Buenos Aires against a bill opening foreign ownership of rural land in Argentina.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 1,
-      "story": {
-        "title": "Indigenous groups oppose Milei plan to open Argentina to foreign buyers",
-        "description": "Indigenous people  protested in Buenos Aires against a bill opening foreign ownership of rural land in Argentina.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "From Sudan to Spain: Between war and home | Al Jazeera Originals",
-        "description": "A young Sudanese refugee rebuilds his life in Spain while war keeps him from the family he left behind.",
-        "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -549,6 +513,42 @@
         "description": "Earlier this week, Germany for the first time deported a man with no criminal record to Kabul. Faridoon Tofan, who is currently in deportation detention, fears the same fate.",
         "link": "https://www.dw.com/en/germany-widens-deportations-to-afghanistan/a-78173466?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 1,
+      "story": {
+        "title": "War in Ukraine: Why Crimea has become a strategic target",
+        "description": "Ukraine has stepped up attacks on Russian logistics centers and energy facilities in Crimea. What are the consequences for local supplies, and how does Kyiv hope this strategy will affect the course of the war?",
+        "link": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Finland",
+      "lat": 61.92,
+      "lon": 25.75,
+      "count": 1,
+      "story": {
+        "title": "Rallying-Toyota's Pajari takes home win in Finland after Ogier crash",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/rallying-toyotas-pajari-takes-home-win-in-finland-after-ogier-crash-6293711",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Jakarta",
+      "lat": -6.2,
+      "lon": 106.85,
+      "count": 1,
+      "story": {
+        "title": "Indonesia urged to play more active role in global climate diplomacy",
+        "description": "Opening the Indonesia Net-Zero Summit (INZS) 2026 at Balai Kartini in Jakarta on Saturday (Aug 1), Dino Patti Djalal, Chairman and Founder of the Foreign Policy Community of Indonesia (FPCI), said that climate change has",
+        "link": "https://www.channelnewsasia.com/asia/indonesia-climate-diplomacy-biodiversity-cop31-6293596",
+        "source": "CNA"
       }
     }
   ]
