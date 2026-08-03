@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T14:53:14+00:00",
+  "generated_at": "2026-08-03T17:12:50+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,25 +18,19 @@
       "source": "BBC Business"
     },
     {
+      "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
+      "description": "Iranians feeling pressure amid US president&#039;s on-again, off-again comments on conflict and negotiations.",
+      "link": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
       "description": "Second round in regional elections held amid deadly clashes and heightened tensions over demands for electoral reforms.",
       "link": "https://www.aljazeera.com/news/2026/8/3/protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election?traffic_source=rss",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Pakistan-administered Kashmir elections and protests – all you need to know",
-      "description": "Protests over refugee seats turn deadly, forcing staggered elections under internet blackout and calls for a boycott.",
-      "link": "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "australia": [
-    {
-      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
-      "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
     {
       "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
       "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
@@ -44,9 +38,15 @@
       "source": "BBC News"
     },
     {
-      "title": "Massive Attack respond after Singapore ban over Palestine display",
-      "description": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
-      "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian anti-war politician says he has fled the country",
+      "description": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
+      "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,31 +75,43 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 13,
       "story": {
-        "title": "What Germany's IS prosecutions can teach Australia",
-        "description": "In Germany, world-leading prosecutions against ISIS members for the genocide of the Yazidi have occurred and Australia is set to follow with landmark prosecutions underway.",
-        "link": "https://www.abc.net.au/news/2026-08-03/australian-isis-prosecutions-what-germany-can-teach-us/106967002",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 9,
-      "story": {
-        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-        "description": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
-        "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Australia’s under-16 social media ban failing, study shows: What it means",
+        "description": "Australia&#039;s internet regulator revealed in a recent study that teenagers are continuing to use social media despite ban.",
+        "link": "https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 11,
+      "story": {
+        "title": "Russian anti-war politician says he has fled the country",
+        "description": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
+        "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 10,
+      "story": {
+        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+        "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+        "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 7,
       "story": {
         "title": "Outside the Moscow restaurant where bomb killed three",
         "description": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
@@ -120,26 +132,26 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
       "count": 6,
       "story": {
-        "title": "Outside the Moscow restaurant where bomb killed three",
-        "description": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
-        "link": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+        "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+        "description": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
+        "link": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 5,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 6,
       "story": {
-        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-        "description": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
-        "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+        "title": "'What was my fault?': How India's exam paper leak ended young lives",
+        "description": "Two families reveal the human toll of India's medical entrance examination paper  leak.",
+        "link": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,74 +168,14 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 5,
-      "story": {
-        "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-        "description": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
-        "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 5,
-      "story": {
-        "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
-        "description": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
-        "link": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
-      "story": {
-        "title": "'What was my fault?': How India's exam paper leak ended young lives",
-        "description": "Two families reveal the human toll of India's medical entrance examination paper  leak.",
-        "link": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
       "count": 5,
       "story": {
-        "title": "More than 10 killed as Russia and Ukraine trade heavy attacks",
+        "title": "More than 17 killed as Russia and Ukraine trade heavy attacks",
         "description": "Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.",
         "link": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 5,
-      "story": {
-        "title": "Why does Spain have ‘enclaves’ in North Africa?",
-        "description": "The Spanish enclaves lie on the northern coast of Africa, bordering Morocco.",
-        "link": "https://www.aljazeera.com/news/2026/8/3/why-does-spain-have-enclaves-in-north-africa?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 5,
-      "story": {
-        "title": "Wildfires still burning in France and Spain amid fears of more to come",
-        "description": "Europe&#039;s warming climate intensifies fires in France and Spain, scorching forests and threatening more communities.",
-        "link": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -252,6 +204,42 @@
       }
     },
     {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 4,
+      "story": {
+        "title": "Why does Spain have ‘enclaves’ in North Africa?",
+        "description": "The Spanish enclaves lie on the northern coast of Africa, bordering Morocco.",
+        "link": "https://www.aljazeera.com/news/2026/8/3/why-does-spain-have-enclaves-in-north-africa?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+        "description": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
+        "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 3,
+      "story": {
+        "title": "Sudan army drone strike on court session kills 35, rights group says",
+        "description": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
+        "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Singapore",
       "lat": 1.35,
       "lon": 103.82,
@@ -264,26 +252,26 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 3,
       "story": {
-        "title": "South Korean shares soar after chip stock rout",
-        "description": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+        "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "First moments of Egypt earthquake caught during livestream",
-        "description": "A magnitude 5.4 earthquake struck Egypt, north of Suez early on Monday, startling a content creator during a livestream.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/first-moments-of-egypt-earthquake-caught-during-livestream?traffic_source=rss",
+        "title": "How Israel and the European far right tried to exploit Ceuta",
+        "description": "A potent narrative is emerging linking migration to anti-Semitism in an effort to undermine pro-Palestinian solidarity.",
+        "link": "https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -300,38 +288,14 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
       "count": 2,
       "story": {
-        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-        "description": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
-        "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 2,
-      "story": {
-        "title": "Sudan army drone strike on court session kills 35, rights group says",
-        "description": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
-        "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 2,
-      "story": {
-        "title": "Malaysian boy on trial for allegedly murdering girl in school",
-        "description": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
-        "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
+        "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+        "description": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
+        "link": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -348,63 +312,15 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 2,
       "story": {
-        "title": "The Chinese robot army transforming the UK's retail industry",
-        "description": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
-        "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+        "title": "South Korean shares soar after chip stock rout",
+        "description": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Hilltop Youth: A group intent on taking over the West Bank by violence",
-        "description": "The Hilltop Youth is a radical religious Zionist group devoted to seizing Palestinian land in the occupied West Bank.",
-        "link": "https://www.aljazeera.com/news/2026/8/3/hilltop-youth-a-group-intent-on-taking-over-the-west-bank-by-violence?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 2,
-      "story": {
-        "title": "North Koreans flood new ‘tourist zone’ beach amid heatwave",
-        "description": "North Koreans flood new ‘tourist zone’ beach amid heatwave",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/north-koreans-flood-new-tourist-zone-beach-amid-heatwave?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Chile",
-      "lat": -35.68,
-      "lon": -71.54,
-      "count": 2,
-      "story": {
-        "title": "Vozinha gets hero’s welcome in Chile after Cape Verde’s historic World Cup",
-        "description": "Vozinha gets hero&#039;s welcome in Chile after Cape Verde’s historic World Cup.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/vozinha-gets-heros-welcome-in-chile-after-cape-verdes-historic-world-cup?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 2,
-      "story": {
-        "title": "Wildfires still burning in France and Spain amid fears of more to come",
-        "description": "Europe&#039;s warming climate intensifies fires in France and Spain, scorching forests and threatening more communities.",
-        "link": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -420,38 +336,38 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
       "count": 2,
       "story": {
-        "title": "All Blacks aim to start South Africa tour at full speed",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/all-blacks-aim-start-south-africa-tour-full-speed-6295471",
-        "source": "CNA"
+        "title": "5.0 magnitude earthquake strikes Egypt",
+        "description": "The quake occurred at 3 a.m. local time about 22 miles north ⁠of the Egyptian city of Suez, the US Geological Survey said.",
+        "link": "https://www.dw.com/en/5-0-magnitude-earthquake-strikes-egypt/a-78210318?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
-      "count": 1,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 2,
       "story": {
-        "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
-        "description": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
-        "link": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Germany: As temperatures rise, so does climate skepticism",
+        "description": "Some 98% of active climate scientists say climate change is happening, and is man-made. Nonetheless, a new study shows the number of climate-change skeptics in Germany has increased. Why is that?",
+        "link": "https://www.dw.com/en/germany-as-temperatures-rise-so-does-climate-skepticism/a-78206354?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Peru",
-      "lat": -9.19,
-      "lon": -75.02,
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
       "count": 1,
       "story": {
-        "title": "Tourist plane crashes in Peru, killing 13",
-        "description": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-        "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+        "title": "Malaysian boy on trial for allegedly murdering girl in school",
+        "description": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
+        "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -468,14 +384,74 @@
       }
     },
     {
-      "name": "Abu Dhabi",
-      "lat": 24.47,
-      "lon": 54.37,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 1,
       "story": {
-        "title": "US cricket player Reddy receives eight-year ban for match-fixing",
-        "description": "ICC Anti-Corruption Tribunal says Akhilesh Reddy guilty of three offences during Abu Dhabi T10 competition in November.",
-        "link": "https://www.aljazeera.com/sports/2026/8/3/us-cricket-player-reddy-receives-eight-year-ban-for-match-fixing?traffic_source=rss",
+        "title": "The Chinese robot army transforming the UK's retail industry",
+        "description": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+        "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Damascus",
+      "lat": 33.5,
+      "lon": 36.3,
+      "count": 1,
+      "story": {
+        "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
+        "description": "Barzani meets Syria&#039;s al-Sharaa in Damascus to discuss SDF integration and Kurdish rights in post-Assad Syria.",
+        "link": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 1,
+      "story": {
+        "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
+        "description": "Barzani meets Syria&#039;s al-Sharaa in Damascus to discuss SDF integration and Kurdish rights in post-Assad Syria.",
+        "link": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
+      "count": 1,
+      "story": {
+        "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
+        "description": "Barzani meets Syria&#039;s al-Sharaa in Damascus to discuss SDF integration and Kurdish rights in post-Assad Syria.",
+        "link": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Romania",
+      "lat": 45.94,
+      "lon": 24.97,
+      "count": 1,
+      "story": {
+        "title": "Romanian navy blasts riverbed to protect nuclear plant",
+        "description": "Romania&#039;s military detonated part of the Danube riverbed to redirect water towards the Cernavoda Nuclear Power Plant.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Who will shape post-war Iran?",
+        "description": "There are competing narratives in Tehran for its post-war recovery.",
+        "link": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -525,6 +501,30 @@
         "description": "The advice from the longtime vaccine critic comes during the worst year for measles in the United States in more than three decades.",
         "link": "https://www.abc.net.au/news/2026-08-03/rfk-jr-us-measles-outbreak-vaccination-warning/106990342",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 1,
+      "story": {
+        "title": "Russia says civilians killed in strike on Black Sea resort",
+        "description": "Moscow has accued Kyiv of stepping up attacks on civilian targets in recent weeks. Meanwhile, Ukrainian President Volodymyr Zelenskyy put Ukraine's chief peace negotiator in charge of foreign intelligence.",
+        "link": "https://www.dw.com/en/russia-says-civilians-killed-in-strike-on-black-sea-resort/a-78219979?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 1,
+      "story": {
+        "title": "Russia: Bridge-building with North Korea",
+        "description": "In the far east, well away from world events, Russia and North Korea are building their first road connection. The project has set alarm bells ringing in Ukraine.",
+        "link": "https://www.dw.com/en/russia-bridge-building-with-north-korea/a-78212053?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
