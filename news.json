@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T17:12:50+00:00",
+  "generated_at": "2026-08-03T19:07:30+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,15 +18,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
-      "description": "Iranians feeling pressure amid US president&#039;s on-again, off-again comments on conflict and negotiations.",
-      "link": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
+      "title": "Can Netanyahu survive Israel’s most consequential election?",
+      "description": "Israelis head to the polls in October for the country&#039;s first election since the war on Gaza began.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
       "source": "Al Jazeera"
     },
     {
-      "title": "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
-      "description": "Second round in regional elections held amid deadly clashes and heightened tensions over demands for electoral reforms.",
-      "link": "https://www.aljazeera.com/news/2026/8/3/protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election?traffic_source=rss",
+      "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
+      "description": "Iranians feeling pressure amid US president&#039;s on-again, off-again comments on conflict and negotiations.",
+      "link": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
@@ -72,10 +72,22 @@
   ],
   "places": [
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 14,
+      "story": {
+        "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+        "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+        "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 14,
       "story": {
         "title": "Australia’s under-16 social media ban failing, study shows: What it means",
         "description": "Australia&#039;s internet regulator revealed in a recent study that teenagers are continuing to use social media despite ban.",
@@ -84,26 +96,26 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 11,
-      "story": {
-        "title": "Russian anti-war politician says he has fled the country",
-        "description": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
-        "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 10,
+      "count": 11,
       "story": {
         "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
         "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
         "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 7,
+      "story": {
+        "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+        "description": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
+        "link": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,26 +132,14 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 7,
-      "story": {
-        "title": "British Airways flight called mayday on approach to Heathrow",
-        "description": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
-        "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 6,
       "story": {
-        "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
-        "description": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
-        "link": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+        "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,51 +156,51 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 5,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 6,
       "story": {
-        "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-        "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "British Airways flight called mayday on approach to Heathrow",
+        "description": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
+        "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 5,
+      "count": 6,
       "story": {
-        "title": "More than 17 killed as Russia and Ukraine trade heavy attacks",
+        "title": "At least 17 killed as Russia and Ukraine trade heavy attacks",
         "description": "Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.",
         "link": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 4,
-      "story": {
-        "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-        "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
-        "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
         "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
         "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 4,
+      "story": {
+        "title": "New illegal Israeli outpost spotted in occupied West Bank",
+        "description": "Palestinians say settlers are establishing a new illegal outpost near Arabuna, Deir Ghazala and Faqqua.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -216,26 +216,26 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 3,
       "story": {
-        "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-        "description": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
-        "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+        "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+        "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
       "count": 3,
       "story": {
-        "title": "Sudan army drone strike on court session kills 35, rights group says",
-        "description": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
-        "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+        "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+        "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+        "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -252,30 +252,6 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 3,
-      "story": {
-        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-        "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
-        "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "How Israel and the European far right tried to exploit Ceuta",
-        "description": "A potent narrative is emerging linking migration to anti-Semitism in an effort to undermine pro-Palestinian solidarity.",
-        "link": "https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
@@ -285,6 +261,30 @@
         "description": "The police operation unfolded at the Entertainment Quarter in Sydney's east, with officers swarming the area following reports a person had a firearm.",
         "link": "https://www.abc.net.au/news/2026-08-03/two-people-arrested-after-fake-gun-incident-at-sydney-moore-park/106992178",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+        "description": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
+        "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 2,
+      "story": {
+        "title": "Sudan army drone strike on court session kills 35, rights group says",
+        "description": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
+        "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -300,38 +300,50 @@
       }
     },
     {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-        "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
-        "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
+        "description": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
+        "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Romania",
+      "lat": 45.94,
+      "lon": 24.97,
       "count": 2,
       "story": {
-        "title": "South Korean shares soar after chip stock rout",
-        "description": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Romanian navy blasts riverbed to protect nuclear plant",
+        "description": "Romania&#039;s military detonated part of the Danube riverbed to redirect water towards the Cernavoda Nuclear Power Plant.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 2,
       "story": {
-        "title": "Canberra private school boys ranked female students",
-        "description": "A prestigious Canberra private school is investigating after male students ranked female students according to appearance and shared the content online.",
-        "link": "https://www.abc.net.au/news/2026-08-03/canberra-private-school-boys-ranked-female-students/106982550",
+        "title": "Indonesians mock Trump-style 'personality politics'",
+        "description": "Indonesian President Prabowo Subianto's repeated controversial comments spark debate over his \"populist\" communication style.",
+        "link": "https://www.abc.net.au/news/2026-08-04/indonesian-president-mocked-over-populist-rhetoric/106965264",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 2,
+      "story": {
+        "title": "'Bohemian' school appoints investigator amid sexual assault allegations",
+        "description": "Six women detail disturbing allegations of abuse and sexualised behaviour from the 1970s through the late 2000s at a controversial alternative school in Melbourne.",
+        "link": "https://www.abc.net.au/news/2026-08-04/fitzroy-community-school-sexual-abuse-grooming-allegations/106859826",
         "source": "ABC News AU"
       }
     },
@@ -348,18 +360,6 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 2,
-      "story": {
-        "title": "Germany: As temperatures rise, so does climate skepticism",
-        "description": "Some 98% of active climate scientists say climate change is happening, and is man-made. Nonetheless, a new study shows the number of climate-change skeptics in Germany has increased. Why is that?",
-        "link": "https://www.dw.com/en/germany-as-temperatures-rise-so-does-climate-skepticism/a-78206354?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Malaysia",
       "lat": 4.21,
       "lon": 101.98,
@@ -372,15 +372,27 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
       "count": 1,
       "story": {
-        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-        "description": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
-        "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+        "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+        "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+        "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 1,
+      "story": {
+        "title": "South Korean shares soar after chip stock rout",
+        "description": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -393,6 +405,18 @@
         "description": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
         "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
+        "description": "US president demands &#039;Total Surrender&#039; amid escalating naval blockade in the crucial Strait of Hormuz.",
+        "link": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -432,30 +456,6 @@
       }
     },
     {
-      "name": "Romania",
-      "lat": 45.94,
-      "lon": 24.97,
-      "count": 1,
-      "story": {
-        "title": "Romanian navy blasts riverbed to protect nuclear plant",
-        "description": "Romania&#039;s military detonated part of the Danube riverbed to redirect water towards the Cernavoda Nuclear Power Plant.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
-      "story": {
-        "title": "Who will shape post-war Iran?",
-        "description": "There are competing narratives in Tehran for its post-war recovery.",
-        "link": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Kremlin",
       "lat": 55.75,
       "lon": 37.62,
@@ -480,6 +480,18 @@
       }
     },
     {
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
+      "count": 1,
+      "story": {
+        "title": "Canberra private school boys ranked female students",
+        "description": "A prestigious Canberra private school is investigating after male students ranked female students according to appearance and shared the content online.",
+        "link": "https://www.abc.net.au/news/2026-08-03/canberra-private-school-boys-ranked-female-students/106982550",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "New Zealand",
       "lat": -41.0,
       "lon": 174.0,
@@ -492,15 +504,15 @@
       }
     },
     {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
+      "name": "Hungary",
+      "lat": 47.16,
+      "lon": 19.5,
       "count": 1,
       "story": {
-        "title": "RFK Jr urges parents to vaccinate kids amid record measles outbreak",
-        "description": "The advice from the longtime vaccine critic comes during the worst year for measles in the United States in more than three decades.",
-        "link": "https://www.abc.net.au/news/2026-08-03/rfk-jr-us-measles-outbreak-vaccination-warning/106990342",
-        "source": "ABC News AU"
+        "title": "Dry Danube River threatens nuclear power in Romania, Hungary",
+        "description": "Hungary's Paks nuclear power plant was operating at about 10% of capacity because of a lack of cooling riverwater. In Romania, the military blew up a rock outcrop in a bid to improve water flow to the Cernavoda plant.",
+        "link": "https://www.dw.com/en/dry-danube-river-threatens-nuclear-power-in-romania-hungary/a-78223402?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -536,18 +548,6 @@
         "title": "Cuba suffers yet another nationwide blackout",
         "description": "Cuba's electricity grid has collapsed again after three nationwide blackouts in July. The power failure comes amid a US-imposed oil blockade on the communist island.",
         "link": "https://www.dw.com/en/cuba-suffers-yet-another-nationwide-blackout/a-78210761?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Athens",
-      "lat": 37.98,
-      "lon": 23.73,
-      "count": 1,
-      "story": {
-        "title": "Man arrested over death of British woman found in suitcase in Athens",
-        "description": "The body of Scottish national Elisabeth-Jane Ross was discovered last month in a suitcase in a derelict building in Athens.",
-        "link": "https://www.dw.com/en/man-arrested-over-death-of-british-woman-found-in-suitcase-in-athens/a-78210183?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
