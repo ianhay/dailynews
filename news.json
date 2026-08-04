@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T23:38:36+00:00",
+  "generated_at": "2026-08-04T03:16:17+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -52,6 +52,12 @@
   ],
   "economy": [
     {
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "description": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
       "title": "UK petrol prices hit highest level since Iran war began",
       "description": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
       "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
@@ -62,12 +68,6 @@
       "description": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
       "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "The 20-somethings betting big on tech stocks",
-      "description": "The BBC hears from people about the risks and rewards of investing in technology shares.",
-      "link": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,11 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 16,
+      "count": 15,
       "story": {
-        "title": "WA's Mid West faces hurdles to becoming Australia's newest oil refinery",
-        "description": "Australia's first new oil refinery in decades is touted for WA. A site under consideration in the state's Mid West faces a big hurdle in connecting to power.",
-        "link": "https://www.abc.net.au/news/2026-08-04/wa-oakajee-site-under-considering-for-oil-refinery/106990138",
+        "title": "Aussie swimmer out of leadership group after reported drinking session",
+        "description": "Australian swimmer Isaac Cooper steps down from the Dolphins's leadership group after he was reportedly out drinking instead of supporting teammates at the Commonwealth Games.",
+        "link": "https://www.abc.net.au/news/2026-08-04/isaac-cooper-australia-leadership-group-commonwealth-games/106994178",
         "source": "ABC News AU"
       }
     },
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 11,
+      "count": 14,
       "story": {
         "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
         "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
@@ -99,7 +99,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
         "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
@@ -111,19 +111,31 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 7,
+      "count": 6,
       "story": {
-        "title": "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics",
-        "description": "Arab Americans in Michigan who withheld support for Kamala Harris in 2024 say they will not back pro-Israel candidates.",
-        "link": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
+        "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+        "description": "Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.",
+        "link": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 5,
+      "story": {
+        "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+        "description": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
+        "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "'What was my fault?': How India's exam paper leak ended young lives",
         "description": "Two families reveal the human toll of India's medical entrance examination paper  leak.",
@@ -132,27 +144,15 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 5,
-      "story": {
-        "title": "At the scene of deadly Moscow bomb blast",
-        "description": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
-        "link": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 4,
       "story": {
-        "title": "Russia says civilians killed in strike on Black Sea resort",
-        "description": "Moscow has accued Kyiv of stepping up attacks on civilian targets in recent weeks. Meanwhile, Ukrainian President Volodymyr Zelenskyy put Ukraine's chief peace negotiator in charge of foreign intelligence.",
-        "link": "https://www.dw.com/en/russia-says-civilians-killed-in-strike-on-black-sea-resort/a-78219979?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+        "description": "Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.",
+        "link": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -168,18 +168,6 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
-      "story": {
-        "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-        "description": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
-        "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -189,6 +177,30 @@
         "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
         "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 3,
+      "story": {
+        "title": "At the scene of deadly Moscow bomb blast",
+        "description": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
+        "link": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 3,
+      "story": {
+        "title": "Death toll from Venezuela earthquakes passes 6,000",
+        "description": "National Assembly President Jorge Rodriguez says 6,125 people confirmed dead as government response faces scrutiny.",
+        "link": "https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -204,27 +216,15 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 3,
       "story": {
-        "title": "Will Israel withdraw from Gaza if Hamas disarms?",
-        "description": "Israel says it has doubts about the Palestinian group laying down its weapons.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "Will Israel withdraw from Gaza if Hamas disarms?",
-        "description": "Israel says it has doubts about the Palestinian group laying down its weapons.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Russia says civilians killed in strike on Black Sea resort",
+        "description": "Moscow has accued Kyiv of stepping up attacks on civilian targets in recent weeks. Meanwhile, Ukrainian President Volodymyr Zelenskyy put Ukraine's chief peace negotiator in charge of foreign intelligence.",
+        "link": "https://www.dw.com/en/russia-says-civilians-killed-in-strike-on-black-sea-resort/a-78219979?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -237,6 +237,42 @@
         "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
         "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
+        "description": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
+        "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 2,
+      "story": {
+        "title": "US stocks near record high, oil falls as Trump claims Iran talks underway",
+        "description": "Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
+        "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
+      "count": 2,
+      "story": {
+        "title": "Does the US blockade on Cuba make America safer?",
+        "description": "Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -264,15 +300,27 @@
       }
     },
     {
-      "name": "Romania",
-      "lat": 45.94,
-      "lon": 24.97,
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
       "count": 2,
       "story": {
-        "title": "Romanian navy blasts riverbed to protect nuclear plant",
-        "description": "Romania&#039;s military detonated part of the Danube riverbed to redirect water towards the Cernavoda Nuclear Power Plant.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "New Zealand climbers rescued from Solomon Islands' highest mountain",
+        "description": "Two New Zealand climbers have been rescued after spending six days stranded on the Solomon Islands' highest mountain.",
+        "link": "https://www.abc.net.au/news/2026-08-04/two-new-zealand-men-rescued-from-solomon-islands-mountain/106993840",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 2,
+      "story": {
+        "title": "Brisbane bus driver who struck and killed pedestrian loses appeal",
+        "description": "Lindsay Francis Selby was found guilty of careless driving causing the death of Tia Cameron last year.",
+        "link": "https://www.abc.net.au/news/2026-08-04/brisbane-bus-driver-fails-to-get-conviction-overturned/106993716",
+        "source": "ABC News AU"
       }
     },
     {
@@ -312,14 +360,26 @@
       }
     },
     {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 2,
       "story": {
-        "title": "Wildfire flares up again in Greece as water bombers deployed",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/world/wildfire-flares-up-again-in-greece-water-bombers-deployed-6296221",
+        "title": "South Korea's Lee urges authorities to step up support as heatwave kills 16",
+        "description": "Temperatures in Yangsan, a southeastern inland city, hit&nbsp;42.5°C on Sunday, the highest in 122 years of weather observations.",
+        "link": "https://www.channelnewsasia.com/east-asia/south-korea-heatwave-kills-16-lee-jae-myung-6296586",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Singapore's Grab lifts 2026 forecasts on solid delivery, ride-hailing demand",
+        "description": "The upbeat projections and a new US$750 million share buyback program pushed shares of the Nasdaq-listed company up 3 per cent in extended trading, but the stock is down more than 26 per cent this year.",
+        "link": "https://www.channelnewsasia.com/business/singapores-grab-lifts-2026-forecasts-solid-delivery-ride-hailing-demand-6296336",
         "source": "CNA"
       }
     },
@@ -348,18 +408,6 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-        "description": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
-        "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
@@ -372,26 +420,14 @@
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
+      "name": "Havana",
+      "lat": 23.13,
+      "lon": -82.38,
       "count": 1,
       "story": {
-        "title": "This farmer wanted to quit the cocaine industry - he couldn't",
-        "description": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
-        "link": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 1,
-      "story": {
-        "title": "Death toll from Venezuela earthquakes passes 6,000",
-        "description": "National Assembly President Jorge Rodriguez says 6,125 people confirmed dead as government response faces scrutiny.",
-        "link": "https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss",
+        "title": "Does the US blockade on Cuba make America safer?",
+        "description": "Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -408,81 +444,45 @@
       }
     },
     {
-      "name": "Damascus",
-      "lat": 33.5,
-      "lon": 36.3,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
-        "description": "Barzani meets Syria&#039;s al-Sharaa in Damascus to discuss SDF integration and Kurdish rights in post-Assad Syria.",
-        "link": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
+        "title": "Will Israel withdraw from Gaza if Hamas disarms?",
+        "description": "Israel says it has doubts about the Palestinian group laying down its weapons.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
-        "description": "Barzani meets Syria&#039;s al-Sharaa in Damascus to discuss SDF integration and Kurdish rights in post-Assad Syria.",
-        "link": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
-      "count": 1,
-      "story": {
-        "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
-        "description": "Barzani meets Syria&#039;s al-Sharaa in Damascus to discuss SDF integration and Kurdish rights in post-Assad Syria.",
-        "link": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "New vision shows moment airborne car hit Brisbane bus",
-        "description": "New CCTV vision, captured from inside the bus, shows the moment the car ploughed into it, its front wheels coming to rest on a bus seat.",
-        "link": "https://www.abc.net.au/news/2026-08-04/qld-new-cctv-airborne-car-hits-bus-rocklea/106993326",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "'Icon of our history': Canberra bus shelters added to heritage register",
-        "description": "Canberra's bus shelters were described as \"concrete monstrosities\" when installed in 1975 but have since been noted for their brutalist architectural style and functionality.",
-        "link": "https://www.abc.net.au/news/2026-08-04/act-canberra-bus-shelters-added-to-heritage-register/106992032",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "From suburban dance school to Anastasia the musical",
-        "description": "Four Adelaide girls have survived gruelling auditions to be selected to perform in Anastasia the musical.",
-        "link": "https://www.abc.net.au/news/2026-08-04/norwood-dance-school-girls-selected-anastasia-the-musical/106987450",
-        "source": "ABC News AU"
+        "title": "US: 25 states sue over Trump's new tariffs",
+        "description": "The coalition of largely Democratic-led states is challenging the Trump administration's argument that tariffs will address imports produced by alleged \"forced labor\" abroad. The White House insists the move is legal.",
+        "link": "https://www.dw.com/en/us-25-states-sue-over-trump-s-new-tariffs/a-78224794?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
       "name": "Hungary",
       "lat": 47.16,
       "lon": 19.5,
+      "count": 1,
+      "story": {
+        "title": "Dry Danube River threatens nuclear power in Romania, Hungary",
+        "description": "Hungary's Paks nuclear power plant was operating at about 10% of capacity because of a lack of cooling riverwater. In Romania, the military blew up a rock outcrop in a bid to improve water flow to the Cernavoda plant.",
+        "link": "https://www.dw.com/en/dry-danube-river-threatens-nuclear-power-in-romania-hungary/a-78223402?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Romania",
+      "lat": 45.94,
+      "lon": 24.97,
       "count": 1,
       "story": {
         "title": "Dry Danube River threatens nuclear power in Romania, Hungary",
@@ -516,18 +516,6 @@
       }
     },
     {
-      "name": "Cuba",
-      "lat": 21.52,
-      "lon": -77.78,
-      "count": 1,
-      "story": {
-        "title": "Cuba suffers yet another nationwide blackout",
-        "description": "Cuba's electricity grid has collapsed again after three nationwide blackouts in July. The power failure comes amid a US-imposed oil blockade on the communist island.",
-        "link": "https://www.dw.com/en/cuba-suffers-yet-another-nationwide-blackout/a-78210761?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Athens",
       "lat": 37.98,
       "lon": 23.73,
@@ -548,6 +536,18 @@
         "title": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
         "description": "Anti-Ukrainian sentiment in Poland is on the rise, with numerous attacks against refugees from the war in Ukraine. Prime Minister Donald Tusk has spoken out against the violence and warned of the danger from Russia.",
         "link": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 1,
+      "story": {
+        "title": "Germany: Islamism and right-wing extremism — a story of mutual radicalization",
+        "description": "Following the attack on a Berlin Pride festival, the focus in Germany is turning to Islamist terrorism. An expert warns: Looking only at Islamists overlooks the parallels with right-wing extremism.",
+        "link": "https://www.dw.com/en/germany-islamism-and-right-wing-extremism-a-story-of-mutual-radicalization/a-78194607?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
