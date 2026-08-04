@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T03:16:17+00:00",
+  "generated_at": "2026-08-04T06:11:47+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+      "description": "Petro accuses programmers of altering vote counts and claims metadata tied to election results was hidden from review.",
+      "link": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
       "description": "Voters in the US state of Michigan will cast ballots in a Democratic Senate primary that could reshape the party.",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
@@ -21,12 +27,6 @@
       "title": "Clergy members arrested while protesting at Senate office",
       "description": "Clergy members were arrested while protesting the Iran war and voting rights concerns at the Senate office.",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Can Netanyahu survive Israel’s most consequential election?",
-      "description": "Israelis head to the polls in October for the country&#039;s first election since the war on Gaza began.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
@@ -38,9 +38,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Infantino opponents threaten 'non co-operation' with Fifa",
-      "description": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Wild police chase in Queensland, Australia ends in two arrests",
+      "description": "A police pursuit in Queensland has ended in two arrests, with authorities taken on a high-speed car chase across Ipswich and Brisbane.",
+      "link": "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -55,34 +55,22 @@
       "title": "US states sue to block Trump tariffs impacting dozens of countries",
       "description": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
       "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
+      "source": "BBC News"
+    },
+    {
+      "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+      "description": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls.",
+      "link": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
     },
     {
       "title": "UK petrol prices hit highest level since Iran war began",
       "description": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
       "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "The Chinese robot army transforming the UK's retail industry",
-      "description": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
-      "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
-    {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 15,
-      "story": {
-        "title": "Aussie swimmer out of leadership group after reported drinking session",
-        "description": "Australian swimmer Isaac Cooper steps down from the Dolphins's leadership group after he was reportedly out drinking instead of supporting teammates at the Commonwealth Games.",
-        "link": "https://www.abc.net.au/news/2026-08-04/isaac-cooper-australia-leadership-group-commonwealth-games/106994178",
-        "source": "ABC News AU"
-      }
-    },
     {
       "name": "Iran",
       "lat": 32.0,
@@ -96,10 +84,22 @@
       }
     },
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 14,
+      "story": {
+        "title": "Watch: Wild police chase in Queensland, Australia ends in two arrests",
+        "description": "A police pursuit in Queensland has ended in two arrests, with authorities taken on a high-speed car chase across Ipswich and Brisbane.",
+        "link": "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 8,
+      "count": 6,
       "story": {
         "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
         "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
@@ -108,10 +108,22 @@
       }
     },
     {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 5,
+      "story": {
+        "title": "US and Japan take action to prop up yen in rare joint move",
+        "description": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+        "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
         "description": "Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.",
@@ -120,14 +132,26 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 5,
       "story": {
-        "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-        "description": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
-        "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+        "title": "Inside 'Kraken's' sting that led to Sydney underworld figure's arrest",
+        "description": "Sam Amine is awaiting sentence in the NSW District Court after pleading guilty to brokering the supply of the drugs and firearm.",
+        "link": "https://www.abc.net.au/news/2026-08-04/nsw-sam-amine-police-court-documents-meth/106995412",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 4,
+      "story": {
+        "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+        "description": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls.",
+        "link": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -137,45 +161,21 @@
       "lon": 78.0,
       "count": 4,
       "story": {
-        "title": "'What was my fault?': How India's exam paper leak ended young lives",
-        "description": "Two families reveal the human toll of India's medical entrance examination paper  leak.",
-        "link": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
+        "title": "Why India's youth anger has become Modi's biggest challenge",
+        "description": "India has the biggest youth population in the world but few are able to find good jobs despite rising education levels.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2gv4dgqv4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 4,
-      "story": {
-        "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
-        "description": "Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.",
-        "link": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 4,
-      "story": {
-        "title": "Germany news: Calls intensify to consider Meta Glasses ban",
-        "description": "Both rights groups and regulators say the new AI tech is dangerous to consumers. At the same time, debate is heating up over pension reforms.",
-        "link": "https://www.dw.com/en/germany-news-calls-intensify-to-consider-meta-glasses-ban/live-78212257?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
       "count": 3,
       "story": {
-        "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-        "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Wild police chase in Queensland, Australia ends in two arrests",
+        "description": "A police pursuit in Queensland has ended in two arrests, with authorities taken on a high-speed car chase across Ipswich and Brisbane.",
+        "link": "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -189,6 +189,42 @@
         "description": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
         "link": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 3,
+      "story": {
+        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
+        "description": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
+        "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 3,
+      "story": {
+        "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+        "description": "Benchmark S&amp;P 500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
+        "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
+      "count": 3,
+      "story": {
+        "title": "Does the US blockade on Cuba make America safer?",
+        "description": "Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -228,6 +264,30 @@
       }
     },
     {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 3,
+      "story": {
+        "title": "Germany news: Calls intensify to consider Meta Glasses ban",
+        "description": "Both rights groups and regulators say the new AI tech is dangerous to consumers. At the same time, debate is heating up over pension reforms.",
+        "link": "https://www.dw.com/en/germany-news-calls-intensify-to-consider-meta-glasses-ban/live-78212257?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 2,
+      "story": {
+        "title": "France wildfires reveal hundreds of WW2 shells in village",
+        "description": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions.",
+        "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Myanmar",
       "lat": 21.9,
       "lon": 95.96,
@@ -240,38 +300,26 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-        "description": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
-        "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "The Chinese robot army transforming the UK's retail industry",
+        "description": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+        "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 2,
       "story": {
-        "title": "US stocks near record high, oil falls as Trump claims Iran talks underway",
-        "description": "Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
-        "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Cuba",
-      "lat": 21.52,
-      "lon": -77.78,
-      "count": 2,
-      "story": {
-        "title": "Does the US blockade on Cuba make America safer?",
-        "description": "Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
+        "title": "Will Israel withdraw from Gaza if Hamas disarms?",
+        "description": "Israel says it has doubts about the Palestinian group laying down its weapons.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -288,18 +336,6 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 2,
-      "story": {
-        "title": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
-        "description": "Bomb disposal operations are continuing in Le Porge, France, to enable residents to return to the village.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "New Zealand",
       "lat": -41.0,
       "lon": 174.0,
@@ -308,30 +344,6 @@
         "title": "New Zealand climbers rescued from Solomon Islands' highest mountain",
         "description": "Two New Zealand climbers have been rescued after spending six days stranded on the Solomon Islands' highest mountain.",
         "link": "https://www.abc.net.au/news/2026-08-04/two-new-zealand-men-rescued-from-solomon-islands-mountain/106993840",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 2,
-      "story": {
-        "title": "Brisbane bus driver who struck and killed pedestrian loses appeal",
-        "description": "Lindsay Francis Selby was found guilty of careless driving causing the death of Tia Cameron last year.",
-        "link": "https://www.abc.net.au/news/2026-08-04/brisbane-bus-driver-fails-to-get-conviction-overturned/106993716",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 2,
-      "story": {
-        "title": "Melbourne public hospital doctors to strike next week",
-        "description": "Doctors at some of Melbourne's biggest public hospitals will walk off the job next week as part of a pay and conditions dispute with the state government.",
-        "link": "https://www.abc.net.au/news/2026-08-04/victorian-doctors-strike-confirmed/106990980",
         "source": "ABC News AU"
       }
     },
@@ -360,63 +372,63 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Hong Kong",
+      "lat": 22.32,
+      "lon": 114.17,
       "count": 2,
       "story": {
-        "title": "South Korea's Lee urges authorities to step up support as heatwave kills 16",
-        "description": "Temperatures in Yangsan, a southeastern inland city, hit&nbsp;42.5°C on Sunday, the highest in 122 years of weather observations.",
-        "link": "https://www.channelnewsasia.com/east-asia/south-korea-heatwave-kills-16-lee-jae-myung-6296586",
+        "title": "Exclusive-Shein seeks $30-$40 billion valuation for August Hong Kong IPO, sources say",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/business/exclusive-shein-seeks-30-40-billion-valuation-august-hong-kong-ipo-sources-say-6296856",
         "source": "CNA"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Singapore's Grab lifts 2026 forecasts on solid delivery, ride-hailing demand",
-        "description": "The upbeat projections and a new US$750 million share buyback program pushed shares of the Nasdaq-listed company up 3 per cent in extended trading, but the stock is down more than 26 per cent this year.",
-        "link": "https://www.channelnewsasia.com/business/singapores-grab-lifts-2026-forecasts-solid-delivery-ride-hailing-demand-6296336",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 2,
-      "story": {
-        "title": "Two people seriously injured as building collapses in inner Sydney",
-        "description": "Two people have been transported to hospital in serious condition.",
-        "link": "https://www.sbs.com.au/news/article/two-rushed-to-hospital-as-building-collapses-in-inner-sydney/ke5204sww",
-        "source": "SBS News"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 1,
       "story": {
-        "title": "Sudan army drone strike on court session kills 35, rights group says",
-        "description": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
-        "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+        "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
+        "description": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 1,
       "story": {
-        "title": "The Chinese robot army transforming the UK's retail industry",
-        "description": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
-        "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
+        "description": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 1,
+      "story": {
+        "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+        "description": "Petro accuses programmers of altering vote counts and claims metadata tied to election results was hidden from review.",
+        "link": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 1,
+      "story": {
+        "title": "Pochettino agrees to coach men’s US Soccer through 2030 World Cup",
+        "description": "Mauricio Pochettino has agreed to extend his tenure as coach of the United States men’s soccer team.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -444,15 +456,27 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
       "count": 1,
       "story": {
-        "title": "Will Israel withdraw from Gaza if Hamas disarms?",
-        "description": "Israel says it has doubts about the Palestinian group laying down its weapons.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Bystanders deprived Canberra man of 'any chance of survival' after overdose",
+        "description": "A coroner finds a group of bystanders, including two workers from a drug harm minimisation organisation, acted in a \"morally blameworthy\" manner after waiting hours to call an ambulance for a Canberra man who fatally ove",
+        "link": "https://www.abc.net.au/news/2026-08-04/act-coroner-bystanders-deprived-man-chance-overdose-survival/106994936",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
+      "count": 1,
+      "story": {
+        "title": "Construction begins on $1.1 billion Mandurah hospital south of Perth",
+        "description": "Construction starts on a new five-storey hospital in Mandurah, south of Perth, at a total cost of more than $1 billion.",
+        "link": "https://www.abc.net.au/news/2026-08-04/construction-begins-on-1-billion-mandurah-hospital/106995616",
+        "source": "ABC News AU"
       }
     },
     {
@@ -524,30 +548,6 @@
         "title": "Man arrested over death of British woman found in suitcase in Athens",
         "description": "The body of Scottish national Elisabeth-Jane Ross was discovered last month in a suitcase in a derelict building in Athens.",
         "link": "https://www.dw.com/en/man-arrested-over-death-of-british-woman-found-in-suitcase-in-athens/a-78210183?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 1,
-      "story": {
-        "title": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
-        "description": "Anti-Ukrainian sentiment in Poland is on the rise, with numerous attacks against refugees from the war in Ukraine. Prime Minister Donald Tusk has spoken out against the violence and warned of the danger from Russia.",
-        "link": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 1,
-      "story": {
-        "title": "Germany: Islamism and right-wing extremism — a story of mutual radicalization",
-        "description": "Following the attack on a Berlin Pride festival, the focus in Germany is turning to Islamist terrorism. An expert warns: Looking only at Islamists overlooks the parallels with right-wing extremism.",
-        "link": "https://www.dw.com/en/germany-islamism-and-right-wing-extremism-a-story-of-mutual-radicalization/a-78194607?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
