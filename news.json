@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T00:56:11+00:00",
+  "generated_at": "2026-08-05T04:17:33+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,21 +18,21 @@
       "source": "BBC Business"
     },
     {
-      "title": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
-      "description": "An official has indicated that the visa revocation does not mean Brazil&#039;s ambassador will be expelled from the US.",
-      "link": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
+      "title": "Armed man arrested at Trump’s LA golf course ahead of president’s visit",
+      "description": "Loaded pistol and rifle among items found in suspect&#039;s pocket, car and home following arrest, police say.",
+      "link": "https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss",
       "source": "Al Jazeera"
     },
     {
-      "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
-      "description": "The funeral for a couple and their toddler took place after they were killed in the US strike on Iran&#039;s Qeshm Island.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
+      "title": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
+      "description": "An official has indicated that the visa revocation does not mean Brazil&#039;s ambassador will be expelled from the US.",
+      "link": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
   "australia": [
     {
-      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
       "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
       "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 16,
+      "count": 15,
       "story": {
         "title": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
         "description": "Bob Montgomery died unexpectedly just a day after finishing what he had called 'One Last Ride'.",
@@ -87,24 +87,36 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 14,
+      "count": 12,
       "story": {
-        "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
-        "description": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
-        "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+        "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+        "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 7,
+      "count": 9,
       "story": {
         "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-        "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+        "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
         "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 7,
+      "story": {
+        "title": "US and Japan take action to prop up yen in rare joint move",
+        "description": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+        "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -126,8 +138,20 @@
       "count": 5,
       "story": {
         "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-        "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+        "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
         "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 4,
+      "story": {
+        "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+        "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+        "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -135,7 +159,7 @@
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
         "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
@@ -156,21 +180,21 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 4,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 3,
       "story": {
-        "title": "US and Japan take action to prop up yen in rare joint move",
-        "description": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-        "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
+        "description": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+        "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
       "count": 3,
       "story": {
         "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
@@ -204,26 +228,14 @@
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 3,
-      "story": {
-        "title": "White House to meet AI firms on advanced model safety",
-        "description": "The White House confirmed Tuesday’s meeting to address advanced model safety amid recent high-profile hacking incidents.",
-        "link": "https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Brisbane",
       "lat": -27.47,
       "lon": 153.03,
       "count": 3,
       "story": {
-        "title": "Breaking: High Court throws out reduced sentence for teen who killed Emma Lovell",
-        "description": "The High Court of Australia throws out a reduced sentence handed to a 17-year-old jailed over the murder of Brisbane woman Emma Lovell.",
-        "link": "https://www.abc.net.au/news/2026-08-05/high-court-throws-reduced-sentence-teen-who-killed-emma-lovell/106998022",
+        "title": "Qld government reveals the cost of upgrading Brisbane's RNA showgrounds",
+        "description": "The Queensland government will spend almost $300 million on upgrades to Brisbane's RNA showgrounds.",
+        "link": "https://www.abc.net.au/news/2026-08-05/qld-brisbane-rna-showgrounds-ekka-upgrade/106998966",
         "source": "ABC News AU"
       }
     },
@@ -233,34 +245,10 @@
       "lon": 151.21,
       "count": 3,
       "story": {
-        "title": "Calls to permanently open historic tunnel in Sydney's Blue Mountains",
-        "description": "The 134-year-old Lapstone Hill Tunnel was used to store munitions in World War II and later became a mushroom farm. Now there are calls to make it a link between two towns in the Lower Blue Mountains.",
-        "link": "https://www.abc.net.au/news/2026-08-05/calls-for-funding-to-open-historic-blue-mountains-tunnel/106993248",
+        "title": "How Australia can harness home support in lead up to Brisbane 2032",
+        "description": "Australia's teams said it was a pleasure to play in front of home support at the World Aquatics Water Polo World Cup in Sydney. Now the governing body says it wants to host more events in the lead up to Brisbane 2032.",
+        "link": "https://www.abc.net.au/news/2026-08-05/water-polo-australia-world-cup-success-brisbane-2032-national/106998168",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 2,
-      "story": {
-        "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-        "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-        "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 2,
-      "story": {
-        "title": "More than 170 migrants rescued after boat catches fire in Channel",
-        "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -288,6 +276,42 @@
       }
     },
     {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 2,
+      "story": {
+        "title": "More than 170 migrants rescued after boat catches fire in Channel",
+        "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 2,
+      "story": {
+        "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
+        "description": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 2,
+      "story": {
+        "title": "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
+        "description": "The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.",
+        "link": "https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
@@ -312,15 +336,15 @@
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Red Cross urges international aid as Sudan crisis deepens",
-        "description": "Charity warns that shrinking humanitarian support could threaten efforts to support communities trying to rebuild lives.",
-        "link": "https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Three teenagers plead not guilty to murdering good Samaritan Aidan Becker",
+        "description": "Police allege three boys and a man attacked and killed Melbourne man Aidan Becker at a suburban train station in March.",
+        "link": "https://www.abc.net.au/news/2026-08-05/aidan-becker-murder-court-not-guilty-plea/106998816",
+        "source": "ABC News AU"
       }
     },
     {
@@ -333,18 +357,6 @@
         "description": "Two years after a student-led uprising toppled PM Sheikh Hasina, critics say Bangladesh's reform momentum is fading as political divisions deepen and key changes stall.",
         "link": "https://www.dw.com/en/is-bangladesh-backtracking-on-post-hasina-reforms/a-78231437?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Commentary: Has Singapore reached a 'when, not if' moment for school attacks?",
-        "description": "Singapore should prepare seriously for the possibility of a school attack, but that does not require turning schools into fortresses, says Kenneth Yeo from the S Rajaratnam School of International Studies.",
-        "link": "https://www.channelnewsasia.com/commentary/singapore-school-attack-security-isa-radicalised-teen-6297456",
-        "source": "CNA"
       }
     },
     {
@@ -368,18 +380,6 @@
         "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
         "description": "It sent rocks and earth crashing on to those praying at an overnight service, the authorities say.",
         "link": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
-        "description": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -420,18 +420,6 @@
       }
     },
     {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
-      "count": 1,
-      "story": {
-        "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-        "description": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
-        "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "London",
       "lat": 51.5,
       "lon": -0.12,
@@ -444,6 +432,18 @@
       }
     },
     {
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
+      "count": 1,
+      "story": {
+        "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+        "description": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
+        "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "Tehran",
       "lat": 35.7,
       "lon": 51.4,
@@ -452,18 +452,6 @@
         "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
         "description": "Iran says talks with Oman are proceeding &#039;positively&#039; as US officials say a deal could be possible soon.",
         "link": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 1,
-      "story": {
-        "title": "One killed, five injured in Russian ballistic missile attack on Kyiv",
-        "description": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.",
-        "link": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -492,15 +480,15 @@
       }
     },
     {
-      "name": "Jordan",
-      "lat": 30.59,
-      "lon": 36.24,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Embattled FIFA boss faces 'blackmail' allegations from ex-staffer",
-        "description": "Former FIFA vice-president Prince Ali bin Al Hussein claims the footballing body withheld prize money from Jordan over an endorsement of Gianni Infantino.",
-        "link": "https://www.abc.net.au/news/2026-08-05/football-fifa-boss-infantino-accused-of-blackmail-jordan-prince/106997580",
-        "source": "ABC News AU"
+        "title": "White House revokes visa of Brazil's ambassador to US",
+        "description": "The move was in response to Brazil delaying formal diplomatic approval of the US ambassador to Brasilia and denying visas to several US diplomats. Brazil has rejected the decision.",
+        "link": "https://www.dw.com/en/white-house-revokes-visa-of-brazil-s-ambassador-to-us/a-78238439?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -522,8 +510,20 @@
       "count": 1,
       "story": {
         "title": "Middle East: India says commercial ship sunk off Yemen",
-        "description": "India reported an attack on a \"defenseless\" commercial ship which caused it to capsize and sink, but noted the crew were safe. Meanwhile, Lebanon and Israel met for talks despite Hezbollah's objections. DW has more.",
+        "description": "India reported an attack on a \"defenseless\" commercial ship which caused it to capsize and sink, but noted the crew were safe. Meanwhile, Lebanon and Israel met for talks despite Hezbollah's objections.",
         "link": "https://www.dw.com/en/middle-east-india-says-commercial-ship-sunk-off-yemen/live-78235099?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 1,
+      "story": {
+        "title": "South Sudan: How climate change can result in toxic water",
+        "description": "Years of flooding have resulted in disastrous water pollution in South Sudan's main oil region. As communities, scientists and health workers scramble for solutions, the long-term impacts of the crisis is yet to emerge.",
+        "link": "https://www.dw.com/en/south-sudan-how-climate-change-can-result-in-toxic-water/a-78193418?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
