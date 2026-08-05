@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T10:10:03+00:00",
+  "generated_at": "2026-08-05T12:24:26+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,15 +18,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
-      "description": "Former Bangladeshi prime minister is likely to announce her return from exile in India despite facing the death penalty.",
-      "link": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss",
+      "title": "In Bandar Abbas, the ceasefire never came",
+      "description": "A single mother from Bandar Abbas reflects on the fear and resilience of living through repeated attacks.",
+      "link": "https://www.aljazeera.com/features/2026/8/5/in-bandar-abbas-the-ceasefire-never-came?traffic_source=rss",
       "source": "Al Jazeera"
     },
     {
-      "title": "FIFA’s Infantino set for crunch meeting after World Cup selloff crisis",
-      "description": "Gianni Infantino under increasing pressure before Wednesday&#039;s FIFA talks after president&#039;s failed World Cup selloff.",
-      "link": "https://www.aljazeera.com/sports/2026/8/5/fifas-infantino-set-for-crunch-meeting-after-world-cup-selloff-crisis?traffic_source=rss",
+      "title": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
+      "description": "Former Bangladeshi prime minister is likely to announce her return from exile in India despite facing the death penalty.",
+      "link": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
@@ -64,10 +64,10 @@
       "source": "BBC News"
     },
     {
-      "title": "US states sue to block Trump tariffs impacting dozens of countries",
-      "description": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
-      "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+      "description": "Elon Musk told investors that people were \"underestimating\" his company.",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,23 +75,35 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 18,
+      "count": 17,
       "story": {
-        "title": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
-        "description": "Bob Montgomery died unexpectedly just a day after finishing what he had called 'One Last Ride'.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&at_campaign=rss",
+        "title": "WA's NAPLAN results trigger 'concern' for year 3s",
+        "description": "Western Australia's NAPLAN results show 40 per cent of year 3 students are struggling with numeracy, but year 9 students are out-performing the national average in every category this year.",
+        "link": "https://www.abc.net.au/news/2026-08-05/western-australia-naplan-results-spark-concern-year-3/106999078",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 9,
+      "story": {
+        "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+        "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
+        "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 8,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 9,
       "story": {
-        "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-        "description": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
-        "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+        "title": "Projectile sinks Indian-flagged ship off Yemen coast",
+        "description": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says.",
+        "link": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -108,38 +120,26 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 8,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 7,
       "story": {
-        "title": "Projectile sinks Indian-flagged ship off Yemen coast",
-        "description": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says.",
-        "link": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
+        "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+        "description": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+        "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 6,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 5,
       "story": {
         "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
         "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
         "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
-      "story": {
-        "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-        "description": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
-        "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,14 +156,14 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 4,
       "story": {
-        "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-        "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
-        "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+        "description": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
+        "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,18 +180,6 @@
       }
     },
     {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 4,
-      "story": {
-        "title": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
-        "description": "Former Bangladeshi prime minister is likely to announce her return from exile in India despite facing the death penalty.",
-        "link": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
@@ -204,39 +192,39 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 3,
       "story": {
-        "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-        "description": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
-        "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+        "title": "Waste workers help find binned €1m lottery ticket in Italy",
+        "description": "The player only realised he binned the life-changing ticket after family told him the numbers he played for years had been drawn.",
+        "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
       "count": 3,
       "story": {
-        "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-        "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
-        "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+        "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+        "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+        "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
       "count": 3,
       "story": {
-        "title": "Massive fire at chemical factory forces evacuations in Brazil",
-        "description": "Massive fire at chemical factory forces evacuations in Brazil",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/massive-fire-at-chemical-factory-forces-evacuations-in-brazil?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Arrests in Egypt after people allegedly impersonate judges",
+        "description": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
+        "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -252,38 +240,38 @@
       }
     },
     {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 2,
       "story": {
-        "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-        "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-        "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+        "title": "Record heatwave in South Korea as temperatures soar to 42.5C",
+        "description": "There have been at least 19 deaths related to the heatwave which has brought the country's hottest day since records began.",
+        "link": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 2,
       "story": {
-        "title": "Arrests in Egypt after people allegedly impersonate judges",
-        "description": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
-        "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+        "description": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
+        "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "How to avoid the worst of the Italian heat",
-        "description": "From supermarkets to night-time tours, experts share how to make the most of Italy during this latest heatwave.",
-        "link": "https://www.bbc.co.uk/news/articles/c05q1gz0p1yo?at_medium=RSS&at_campaign=rss",
+        "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+        "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
+        "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -300,15 +288,39 @@
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
       "count": 2,
       "story": {
-        "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
-        "description": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+        "description": "Disagreements remain in second day of resumed talks over disarming Hezbollah and Israeli withdrawal from South Lebanon.",
+        "link": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Chile",
+      "lat": -35.68,
+      "lon": -71.54,
+      "count": 2,
+      "story": {
+        "title": "Vozinha moves on from World Cup, says ‘Colo-Colo is the best moment’",
+        "description": "Cape Verde&#039;s World Cup goalkeeper Vozinha has been officially unveiled as the newest signing for Chilean club Colo-Colo.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/vozinha-moves-on-from-world-cup-says-colo-colo-is-the-best?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 2,
+      "story": {
+        "title": "India’s severe monsoon season causes more than 100 deaths since July",
+        "description": "Monsoon downpours cause floods and landslides as climate change and El Nino disrupt rainfall patterns.",
+        "link": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -324,18 +336,6 @@
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 2,
-      "story": {
-        "title": "Hip hop artist-turned-novelist wins Miles Franklin award",
-        "description": "Malaysian Australian author Omar Musa has taken out the Miles Franklin Literary Award with his second novel, Fierceland, set between Malaysian Borneo and Sydney.",
-        "link": "https://www.abc.net.au/news/2026-08-05/omar-musa-fierceland-winner-2026-miles-franklin-literary-award/106975328",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
@@ -348,15 +348,15 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Hungary",
+      "lat": 47.16,
+      "lon": 19.5,
       "count": 2,
       "story": {
-        "title": "Brutal killing of Chinese dog and her pups sparks outrage",
-        "description": "Protesters around the world are calling for justice for a Chinese stray dog and her puppies after they were beaten to death and set alight by a group of boys in China.",
-        "link": "https://www.abc.net.au/news/2026-08-05/sydney-protest-stray-dog-wang-wang-animal-cruelty-laws-china/106995496",
-        "source": "ABC News AU"
+        "title": "Hungary's Lake Velence is drying up",
+        "description": "Hungary is feeling the heat. The country's third-largest lake is shrinking, the Danube is running low, and soaring temperatures could force the country's only nuclear power plant to shut down.",
+        "link": "https://www.dw.com/en/hungary-s-lake-velence-is-drying-up/a-78238238?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -372,6 +372,30 @@
       }
     },
     {
+      "name": "European Union",
+      "lat": 50.85,
+      "lon": 4.35,
+      "count": 2,
+      "story": {
+        "title": "China’s grip on drone components complicates Europe’s defence self-reliance - and effort to arm Ukraine",
+        "description": "Kyiv has reportedly secured a European Union carve-out to purchase drone components from China, highlighting Beijing’s deeply embedded role in the supply chain and the strategic influence that position affords, say analy",
+        "link": "https://www.channelnewsasia.com/east-asia/china-ukraine-war-drone-parts-reliance-europe-6301001",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "Pakistan restricts international media reporting",
+        "description": "Anyone working for foreign media, including Pakistanis, will now need permission to report from anywhere outside three major cities.",
+        "link": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Ethiopia",
       "lat": 9.15,
       "lon": 40.49,
@@ -380,18 +404,6 @@
         "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
         "description": "It sent rocks and earth crashing on to those praying at an overnight service, the authorities say.",
         "link": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
-        "description": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -420,39 +432,75 @@
       }
     },
     {
-      "name": "Chile",
-      "lat": -35.68,
-      "lon": -71.54,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 1,
       "story": {
-        "title": "Cape Verde’s World Cup hero, social media sensation Vozinha joins Colo-Colo",
-        "description": "Vozinha says he always believed he was a &#039;big club&#039; player after his move to Colo-Colo in Chile.",
-        "link": "https://www.aljazeera.com/sports/2026/8/5/cape-verdes-world-cup-hero-social-media-sensation-vozinha-joins-colo-colo?traffic_source=rss",
+        "title": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
+        "description": "An agreement could restore shipping through crucial waterway, paving way for peace talks between Tehran and Washington.",
+        "link": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Tokyo",
-      "lat": 35.68,
-      "lon": 139.77,
+      "name": "Istanbul",
+      "lat": 41.0,
+      "lon": 28.98,
       "count": 1,
       "story": {
-        "title": "Why the Trump administration is helping support Japan’s weakening yen",
-        "description": "Washington and Tokyo&#039;s rare coordinated intervention aims to avoid spillover to global financial system.",
-        "link": "https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss",
+        "title": "Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor",
+        "description": "Egypt forward Mohamed Salah arrived in Istanbul on Wednesday to complete his move to Turkiye club Trabzonspor.",
+        "link": "https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Rome",
+      "lat": 41.9,
+      "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "Pakistan and Uganda athletes ‘missing’ after Commonwealth Games",
-        "description": "UK police looking into reports of &#039;missing&#039; athletes who didn&#039;t return home after Commonwealth Games closing ceremony.",
-        "link": "https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss",
+        "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+        "description": "Disagreements remain in second day of resumed talks over disarming Hezbollah and Israeli withdrawal from South Lebanon.",
+        "link": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 1,
+      "story": {
+        "title": "South Africa’s le Clos says home destroyed during Commonwealth record run",
+        "description": "Olympic swimming champion Chad le Clos says his home was destroyed in a fire while he was at the Commonwealth Games.",
+        "link": "https://www.aljazeera.com/sports/2026/8/5/south-africas-le-clos-says-home-destroyed-during-commonwealth-record-run?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 1,
+      "story": {
+        "title": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
+        "description": "Former Bangladeshi prime minister is likely to announce her return from exile in India despite facing the death penalty.",
+        "link": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
+      "count": 1,
+      "story": {
+        "title": "Hip hop artist-turned-novelist wins Miles Franklin award",
+        "description": "Malaysian Australian author Omar Musa has taken out the Miles Franklin Literary Award with his second novel, Fierceland, set between Malaysian Borneo and Sydney.",
+        "link": "https://www.abc.net.au/news/2026-08-05/omar-musa-fierceland-winner-2026-miles-franklin-literary-award/106975328",
+        "source": "ABC News AU"
       }
     },
     {
@@ -480,6 +528,18 @@
       }
     },
     {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 1,
+      "story": {
+        "title": "TikTok influencer shot dead during livestream in Mexico",
+        "description": "Cesar Gastelum, a Mexican influencer with nearly 600,000 followers on TikTok, was shot dead in the middle of a livestream.",
+        "link": "https://www.dw.com/en/tiktok-influencer-shot-dead-during-livestream-in-mexico/a-78241507?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Serbia",
       "lat": 44.02,
       "lon": 21.01,
@@ -488,66 +548,6 @@
         "title": "Low water levels in the Danube revealing Nazi shipwrecks",
         "description": "There are believed to be about 200 Nazi ships on the floor of the Danube near Prahovo, Serbia. Ferries, tourist boats, and shipping have also become severely restricted due to the drought.",
         "link": "https://www.dw.com/en/low-water-levels-in-the-danube-revealing-nazi-shipwrecks/a-78242343?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "South Korea: Police raid Starbucks HQ over 'Tank Day' fiasco",
-        "description": "Starbucks Korea faced major backlash after being accused of trivializing a 1980 massacre. Police say their internal investigation was not thorough enough.",
-        "link": "https://www.dw.com/en/south-korea-police-raid-starbucks-hq-over-tank-day-fiasco/a-78241294?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "White House revokes visa of Brazil's ambassador to US",
-        "description": "The move was in response to Brazil delaying formal diplomatic approval of the US ambassador to Brasilia and denying visas to several US diplomats. Brazil has rejected the decision.",
-        "link": "https://www.dw.com/en/white-house-revokes-visa-of-brazil-s-ambassador-to-us/a-78238439?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Brasilia",
-      "lat": -15.79,
-      "lon": -47.88,
-      "count": 1,
-      "story": {
-        "title": "White House revokes visa of Brazil's ambassador to US",
-        "description": "The move was in response to Brazil delaying formal diplomatic approval of the US ambassador to Brasilia and denying visas to several US diplomats. Brazil has rejected the decision.",
-        "link": "https://www.dw.com/en/white-house-revokes-visa-of-brazil-s-ambassador-to-us/a-78238439?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 1,
-      "story": {
-        "title": "Middle East: India says commercial ship sunk off Yemen",
-        "description": "India reported an attack on a \"defenseless\" commercial ship which caused it to capsize and sink, but noted the crew were safe. Meanwhile, Lebanon and Israel met for talks despite Hezbollah's objections.",
-        "link": "https://www.dw.com/en/middle-east-india-says-commercial-ship-sunk-off-yemen/live-78235099?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "South Sudan: How climate change can result in toxic water",
-        "description": "Years of flooding have resulted in disastrous water pollution in South Sudan's main oil region. As communities, scientists and health workers scramble for solutions, the long-term impacts of the crisis is yet to emerge.",
-        "link": "https://www.dw.com/en/south-sudan-how-climate-change-can-result-in-toxic-water/a-78193418?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
