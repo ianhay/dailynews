@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T04:17:54+00:00",
+  "generated_at": "2026-08-06T07:18:39+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,33 +24,39 @@
       "source": "BBC Business"
     },
     {
-      "title": "Campaigners denied appeal over Gatwick expansion",
-      "description": "An application to stop the two-runway operation is rejected, with judges calling it \"unarguable\".",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx9y7dd27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
+      "title": "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
+      "description": "Presidents of Argentina, Paraguay, Chile and Ecuador, along with Spain’s King Felipe VI, are expected to attend.",
+      "link": "https://www.aljazeera.com/news/2026/8/6/colombia-minister-warns-of-terrorism-threat-at-presidential-inauguration?traffic_source=rss",
+      "source": "Al Jazeera"
     }
   ],
   "australia": [
+    {
+      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+      "description": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Infantino sorry for errors but stays Fifa president",
+      "description": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
       "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
       "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Infantino sorry for errors but stays Fifa president",
-      "description": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Meta says AI model accessed the internet and hacked another firm",
-      "description": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+      "description": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
     {
       "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
       "description": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
@@ -62,20 +68,26 @@
       "description": "Elon Musk told investors that people were \"underestimating\" his company.",
       "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Fashion brand Jaded has ad banned for 'glamorising smoking'",
-      "description": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
-      "link": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 11,
+      "story": {
+        "title": "Australian silicon company forced out of US by 40pc tariffs",
+        "description": "Australia's only silicon producer will exit the US market next week, but the federal government says the Trump administration's move does not undermine the critical minerals agreement between the two countries.",
+        "link": "https://www.abc.net.au/news/2026-08-06/simcoa-australian-silicon-out-of-us-after-additional-tariff/107003162",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 12,
+      "count": 8,
       "story": {
         "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
         "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
@@ -84,38 +96,14 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 11,
-      "story": {
-        "title": "Misogyny a major driver of extremism in young men, royal commission told",
-        "description": "Misogyny and its amplification through the \"manosphere\" may be a key driver of ideologically motivated extremism in young men and boys in Australia, the antisemitism royal commission has heard.",
-        "link": "https://www.abc.net.au/news/2026-08-06/bondi-antisemitism-royal-commission-misogyny-extremism-link/106999870",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
       "count": 6,
       "story": {
-        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-        "description": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
-        "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 6,
-      "story": {
-        "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-        "description": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
-        "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+        "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+        "description": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+        "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -125,9 +113,57 @@
       "lon": 78.0,
       "count": 5,
       "story": {
-        "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
-        "description": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
+        "title": "Indian journalist Tarun Tejpal convicted in rape case",
+        "description": "The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+        "description": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+        "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 5,
+      "story": {
+        "title": "Messi scores his first goals since World Cup as Inter Miami beat San Luis",
+        "description": "Lionel Messi scores his first goals since Argentina&#039;s World Cup final defeat to Spain, as Miami win 4-2 in Leagues Cup.",
+        "link": "https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 4,
+      "story": {
+        "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+        "description": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+        "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 4,
+      "story": {
+        "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+        "description": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+        "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -137,58 +173,10 @@
       "lon": 127.9,
       "count": 4,
       "story": {
-        "title": "Record heatwave in South Korea as temperatures soar to 42.5C",
-        "description": "There have been at least 19 deaths related to the heatwave which has brought the country's hottest day since records began.",
-        "link": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 3,
-      "story": {
-        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-        "description": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
-        "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 3,
-      "story": {
-        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-        "description": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
-        "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 3,
-      "story": {
-        "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-        "description": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
-        "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 3,
-      "story": {
-        "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
-        "description": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "South Korea: Police raid Starbucks HQ over 'Tank Day' fiasco",
+        "description": "Starbucks Korea faced major backlash after being accused of trivializing a 1980 massacre. Police say their internal investigation was not thorough enough.",
+        "link": "https://www.dw.com/en/south-korea-police-raid-starbucks-hq-over-tank-day-fiasco/a-78241294?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -204,14 +192,26 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 3,
       "story": {
-        "title": "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
-        "description": "Presidents of Argentina, Paraguay, Chile and Ecuador, along with Spain’s King Felipe VI, are expected to attend.",
-        "link": "https://www.aljazeera.com/news/2026/8/6/colombia-minister-warns-of-terrorism-threat-at-presidential-inauguration?traffic_source=rss",
+        "title": "Winemakers prosper but veg farms wilt in the drought",
+        "description": "Growers in the West of England search for new crops to grow in a changing climate.",
+        "link": "https://www.bbc.co.uk/news/articles/c141vjlyjgko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 3,
+      "story": {
+        "title": "Carney curses Infantino as FIFA backs its president",
+        "description": "FIFA’s President Gianni Infantino gets the support of executive members at an emergency meeting in Morocco.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -233,10 +233,58 @@
       "lon": 103.82,
       "count": 3,
       "story": {
-        "title": "Founding Prime Minister Lee Kuan Yew's Montblanc pen up for auction again in Singapore",
-        "description": "The silver Montblanc fountain pen, engraved with \"SM Lee Kuan Yew\", was previously sold at the Lee Kuan Yew Family Collection charity auction in 2003.",
-        "link": "https://www.channelnewsasia.com/living/lee-kuan-yew-fountain-pen-hotlotz-auction-6302481",
+        "title": "From giant flag displays to NDP rehearsals: Meet the volunteers behind Singapore's 61st birthday celebrations",
+        "description": "Since 2015, Toa Payoh residents have come together each year to create a National Day flag display, with Singapore flags arranged into a giant number across two HDB blocks to mark the nation's birthday.",
+        "link": "https://www.channelnewsasia.com/singapore/volunteers-behind-singapore-61-birthday-celebrations-6300446",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 2,
+      "story": {
+        "title": "Nigerian security forces rescue more than 300 abductees",
+        "description": "The government says the rescue is the country's largest single-day operation by joint security forces.",
+        "link": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
+      "story": {
+        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+        "description": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+        "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 2,
+      "story": {
+        "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
+        "description": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
+        "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 2,
+      "story": {
+        "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
+        "description": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
+        "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -252,27 +300,63 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 2,
       "story": {
-        "title": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
-        "description": "Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
+        "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
+        "description": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 2,
+      "story": {
+        "title": "Messi scores his first goals since World Cup as Inter Miami beat San Luis",
+        "description": "Lionel Messi scores his first goals since Argentina&#039;s World Cup final defeat to Spain, as Miami win 4-2 in Leagues Cup.",
+        "link": "https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
       "count": 2,
       "story": {
-        "title": "What’s behind US Representative Massie’s claims over crisis at Ceuta?",
-        "description": "Figures like Representative Thomas Massie have questioned whether crisis is related to US support for Morocco.",
-        "link": "https://www.aljazeera.com/news/2026/8/5/whats-behind-us-representative-massies-claims-over-crisis-at-ceuta?traffic_source=rss",
+        "title": "Lightning strike kills Thai footballer during match",
+        "description": "Footage shows the moment a lightning strike hit a football player in southern Thailand, during a semi-final match.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 2,
+      "story": {
+        "title": "Man denies reporting Alan Jones to police in order to 'get money'",
+        "description": "A man accusing Alan Jones of indecently assaulting him as a 17-year-old made a police complaint to \"get money\", the former broadcaster's lawyer has told a Sydney court.",
+        "link": "https://www.abc.net.au/news/2026-08-06/nsw-alan-jones-complainant-accused-get-money-victim-survivor/107005460",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 2,
+      "story": {
+        "title": "US military jammed GPS before medical plane crash",
+        "description": "A federal investigation is underway after a medical plane carrying two nurses and two pilots crashed during a military GPS jamming operation in New Mexico.",
+        "link": "https://www.abc.net.au/news/2026-08-06/military-exercise-gps-jam-plane-crash-new-mexico/107002782",
+        "source": "ABC News AU"
       }
     },
     {
@@ -285,42 +369,6 @@
         "description": "On the anniversary of the atomic bombings, survivors and activists tell DW Japan's military buildup risks eroding its longstanding commitment to pacifism.",
         "link": "https://www.dw.com/en/hiroshima-survivors-warn-against-japan-s-rearmament/a-78249290?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 2,
-      "story": {
-        "title": "A glowing future for nuclear power? Mini reactors explained",
-        "description": "Mini reactors are seen as a flexible energy source. Their promise: abundant energy, cheap, clean and climate-friendly with lower water use. But do the numbers add up? We look at what's behind the SMR hype.",
-        "link": "https://www.dw.com/en/a-glowing-future-for-nuclear-power-mini-reactors-explained/a-77491854?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 1,
-      "story": {
-        "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
-        "description": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
-        "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
-        "description": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
-        "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -360,30 +408,6 @@
       }
     },
     {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 1,
-      "story": {
-        "title": "Lightning strike kills Thai footballer during match",
-        "description": "Footage shows the moment a lightning strike hit a football player in southern Thailand, during a semi-final match.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 1,
-      "story": {
-        "title": "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
-        "description": "Presidents of Argentina, Paraguay, Chile and Ecuador, along with Spain’s King Felipe VI, are expected to attend.",
-        "link": "https://www.aljazeera.com/news/2026/8/6/colombia-minister-warns-of-terrorism-threat-at-presidential-inauguration?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Chile",
       "lat": -35.68,
       "lon": -71.54,
@@ -408,14 +432,14 @@
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 1,
       "story": {
-        "title": "Nigeria announces rescue of 308 kidnapped citizens",
-        "description": "Kidnapping for ransom by armed groups and bandits has become a major crisis in Nigeria.",
-        "link": "https://www.aljazeera.com/news/2026/8/5/nigeria-announces-rescue-of-308-kidnapped-citizens?traffic_source=rss",
+        "title": "Iran war live: Trump denies munitions shortages; Tehran, Oman near deal",
+        "description": "Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -432,6 +456,18 @@
       }
     },
     {
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
+      "count": 1,
+      "story": {
+        "title": "Judges dismiss 'excessive' jail sentence complaint from Cassius Turvey's killer",
+        "description": "One of the men convicted of killing Perth teenager Cassius Turvey has failed in his appeal against his nine-year jail sentence, which he claimed was \"manifestly excessive\".",
+        "link": "https://www.abc.net.au/news/2026-08-06/man-convicted-of-killing-cassius-turvey-has-appeal-dismissed/107004198",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
@@ -444,39 +480,15 @@
       }
     },
     {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
+      "name": "Algeria",
+      "lat": 28.03,
+      "lon": 1.66,
       "count": 1,
       "story": {
-        "title": "Evacuation order issued for Port Adelaide fire burning sulphur",
-        "description": "People within one kilometre of Moonta Street at Port Adelaide are being advised to evacuate immediately due to burning sulphur producing large amount of \"toxic\" smoke.",
-        "link": "https://www.abc.net.au/news/2026-08-06/port-adelaide-structure-fire-burns-sulphur/107003770",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "Youth detention workers strike over safety concerns at Queensland centres",
-        "description": "Employees from the Brisbane, Cleveland and West Moreton Youth Detention Centres, as well as the Wacol Youth Remand Centre, took part in industrial action on Thursday.",
-        "link": "https://www.abc.net.au/news/2026-08-06/youth-detention-workers-strike-at-queensland-centres/107002698",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "Perth paediatrician accused of sexually abusing another seven children",
-        "description": "A paediatrician who allegedly recorded himself abusing children in his clinic is now facing a total of 72 charges relating to 18 alleged victims after an \"extensive investigation\" by police.",
-        "link": "https://www.abc.net.au/news/2026-08-06/perth-paediatrician-chia-liang-saw-facing-more-child-sex-charges/107002658",
-        "source": "ABC News AU"
+        "title": "What's behind the Algeria-Morocco rivalry?",
+        "description": "Morocco and Algeria have been at odds for decades, chiefly over the territory of Western Sahara. But their rivalry now extends far beyond the territory.",
+        "link": "https://www.dw.com/en/what-s-behind-the-algeria-morocco-rivalry/a-78258062?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -497,9 +509,9 @@
       "lon": 21.76,
       "count": 1,
       "story": {
-        "title": "WHO's Tedros vists DR Congo as Ebola outbreak accelerates",
+        "title": "WHO's Tedros visits DR Congo as Ebola outbreak accelerates",
         "description": "The head of the World Health Organization warned that \"we must urgently and massively scale up all our efforts\" against the latest Ebola outbreak, with new cases doubling in some hotspots in the past week alone.",
-        "link": "https://www.dw.com/en/who-s-tedros-vists-dr-congo-as-ebola-outbreak-accelerates/a-78258054?maca=en-rss-en-all-1573-rdf",
+        "link": "https://www.dw.com/en/who-s-tedros-visits-dr-congo-as-ebola-outbreak-accelerates/a-78258054?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -528,25 +540,13 @@
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
-      "count": 1,
-      "story": {
-        "title": "TikTok influencer shot dead during livestream in Mexico",
-        "description": "Cesar Gastelum, a Mexican influencer with nearly 600,000 followers on TikTok, was shot dead in the middle of a livestream.",
-        "link": "https://www.dw.com/en/tiktok-influencer-shot-dead-during-livestream-in-mexico/a-78241507?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Serbia",
       "lat": 44.02,
       "lon": 21.01,
       "count": 1,
       "story": {
         "title": "Low water levels in the Danube revealing Nazi shipwrecks",
-        "description": "There are believed to be about 200 Nazi ships on the floor of the Danube near Prahovo, Serbia. Ferries, tourist boats, and shipping have also become severely restricted due to the drought.",
+        "description": "There are believed to be about 200 Nazi ships on the floor of the Danube near Prahovo, Serbia. Ferries, tourist boats and shipping have also become severely restricted due to the drought.",
         "link": "https://www.dw.com/en/low-water-levels-in-the-danube-revealing-nazi-shipwrecks/a-78242343?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
