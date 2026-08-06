@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T10:11:14+00:00",
+  "generated_at": "2026-08-06T12:27:17+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,11 +75,23 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 11,
+      "count": 12,
       "story": {
         "title": "Iranian footballers who defied Tehran become Australian citizens",
         "description": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran.",
         "link": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 10,
+      "story": {
+        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -108,14 +120,14 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 9,
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 6,
       "story": {
-        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
+        "description": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
+        "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,14 +144,38 @@
       }
     },
     {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 5,
       "story": {
-        "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
-        "description": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
-        "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
+        "description": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
+        "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 5,
+      "story": {
+        "title": "Germany: 10 years of 'Integration Act' for refugees",
+        "description": "The German Integration Act aimed to regulate the integration of recognized refugees following high levels of immigration, facilitating access to the labor market in return for integration efforts.",
+        "link": "https://www.dw.com/en/germany-10-years-of-integration-act-for-refugees/a-78262956?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 3,
+      "story": {
+        "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
+        "description": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
+        "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -147,47 +183,11 @@
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
         "description": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
         "link": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 4,
-      "story": {
-        "title": "Messi scores his first goals since World Cup as Inter Miami beat San Luis",
-        "description": "Lionel Messi scores his first goals since Argentina&#039;s World Cup final defeat to Spain, as Miami win 4-2 in Leagues Cup.",
-        "link": "https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 4,
-      "story": {
-        "title": "Germany arrests Ukrainian national suspected of spying on a defense company in Bavaria",
-        "description": "Investigators say the suspect photographed a Bavarian defense site for a foreign intelligence service in preparation for possible sabotage.",
-        "link": "https://www.dw.com/en/germany-arrests-ukrainian-national-suspected-of-spying-on-a-defense-company-in-bavaria/a-78262186?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 3,
-      "story": {
-        "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
-        "description": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
-        "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -204,18 +204,6 @@
       }
     },
     {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 3,
-      "story": {
-        "title": "Carney curses Infantino as FIFA backs its president",
-        "description": "FIFA’s President Gianni Infantino gets the support of executive members at an emergency meeting in Morocco.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
@@ -224,18 +212,6 @@
         "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
         "description": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
         "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 2,
-      "story": {
-        "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
-        "description": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
-        "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -252,26 +228,38 @@
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
       "count": 2,
       "story": {
-        "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",
-        "description": "In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted.",
-        "link": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Myanmar leader visits Thailand in bid to bolster international legitimacy",
+        "description": "Min Aung Hlaing stressed that his government was focused on ending the civil war and restoring peace.",
+        "link": "https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "South Korea police raid football association over Hong appointment process",
-        "description": "Hong Myung-bo&#039;s appointment under scrutiny amid raids with lack of proper interview process previously alleged.",
-        "link": "https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss",
+        "title": "Video: Wildfires in Washington state force thousands to evacuate homes",
+        "description": "Wildfires in Washington state and California have damaged over a thousand structures.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/video-wildfires-in-washington-state-force-thousands-to-evacuate-homes?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 2,
+      "story": {
+        "title": "Can the US slow China’s robotics and tech rise?",
+        "description": "US curbs on foreign-made robots intensify its wider rivalry with China over AI, chips and industry.",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/6/can-the-us-slow-chinas-robotics-and-tech-rise?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -300,9 +288,9 @@
       }
     },
     {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 2,
       "story": {
         "title": "Messi scores his first goals since World Cup as Inter Miami beat San Luis",
@@ -324,6 +312,30 @@
       }
     },
     {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 2,
+      "story": {
+        "title": "US military jammed GPS before medical plane crash",
+        "description": "A federal investigation is underway after a medical plane carrying two nurses and two pilots crashed during a military GPS jamming operation in New Mexico.",
+        "link": "https://www.abc.net.au/news/2026-08-06/military-exercise-gps-jam-plane-crash-new-mexico/107002782",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 2,
+      "story": {
+        "title": "What's behind the Algeria-Morocco rivalry?",
+        "description": "Morocco and Algeria have been at odds for decades, chiefly over the territory of Western Sahara. But their rivalry now extends far beyond the territory.",
+        "link": "https://www.dw.com/en/what-s-behind-the-algeria-morocco-rivalry/a-78258062?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
@@ -333,18 +345,6 @@
         "description": "On the anniversary of the atomic bombings, survivors and activists tell DW Japan's military buildup risks eroding its longstanding commitment to pacifism.",
         "link": "https://www.dw.com/en/hiroshima-survivors-warn-against-japan-s-rearmament/a-78249290?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 2,
-      "story": {
-        "title": "‘Overkill’: Chinese travellers push back against ‘tacky’ aesthetics taking over scenic spots in China",
-        "description": "Online backlash reflects a growing demand for authentic experiences among travellers rather than destinations designed for virality, experts say. &nbsp;",
-        "link": "https://www.channelnewsasia.com/east-asia/china-tacky-tourist-spots-travellers-6303111",
-        "source": "CNA"
       }
     },
     {
@@ -365,7 +365,19 @@
       "lon": 67.7,
       "count": 1,
       "story": {
-        "title": "Afghan boxer accused of killing Scottish aid worker back in court",
+        "title": "Man charged with killing Scottish aid worker in Greece",
+        "description": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.",
+        "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
+      "count": 1,
+      "story": {
+        "title": "Man charged with killing Scottish aid worker in Greece",
         "description": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.",
         "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
@@ -392,6 +404,18 @@
         "title": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
         "description": "Jacob Zuma was pictured with a businessmen allegedly at the heart of a corruption scandal in South Africa",
         "link": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 1,
+      "story": {
+        "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",
+        "description": "In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted.",
+        "link": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -432,6 +456,30 @@
       }
     },
     {
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
+      "count": 1,
+      "story": {
+        "title": "Myanmar leader visits Thailand in bid to bolster international legitimacy",
+        "description": "Min Aung Hlaing stressed that his government was focused on ending the civil war and restoring peace.",
+        "link": "https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 1,
+      "story": {
+        "title": "South Korea police raid football association over Hong appointment process",
+        "description": "Hong Myung-bo&#039;s appointment under scrutiny amid raids with lack of proper interview process previously alleged.",
+        "link": "https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
@@ -456,38 +504,14 @@
       }
     },
     {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
       "count": 1,
       "story": {
-        "title": "Lightning strike kills Thai footballer during match",
-        "description": "Footage shows the moment a lightning strike hit a football player in southern Thailand, during a semi-final match.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Chile",
-      "lat": -35.68,
-      "lon": -71.54,
-      "count": 1,
-      "story": {
-        "title": "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
-        "description": "Presidents of Argentina, Paraguay, Chile and Ecuador, along with Spain’s King Felipe VI, are expected to attend.",
-        "link": "https://www.aljazeera.com/news/2026/8/6/colombia-minister-warns-of-terrorism-threat-at-presidential-inauguration?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ecuador",
-      "lat": -1.83,
-      "lon": -78.18,
-      "count": 1,
-      "story": {
-        "title": "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
-        "description": "Presidents of Argentina, Paraguay, Chile and Ecuador, along with Spain’s King Felipe VI, are expected to attend.",
-        "link": "https://www.aljazeera.com/news/2026/8/6/colombia-minister-warns-of-terrorism-threat-at-presidential-inauguration?traffic_source=rss",
+        "title": "Messi scores his first goals since World Cup as Inter Miami beat San Luis",
+        "description": "Lionel Messi scores his first goals since Argentina&#039;s World Cup final defeat to Spain, as Miami win 4-2 in Leagues Cup.",
+        "link": "https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -497,8 +521,8 @@
       "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Live: Roos rattle Dogs early as AFL's response to Geelong saga causes confusion",
-        "description": "The Bulldogs take on North Melbourne at Docklands, as the AFL's decision not to sanction Geelong over a concussion waiver leads to more questions than answers. Follow live.",
+        "title": "Live: Roos stun Dogs to blow wildcard wide open, outrage over Cats saga",
+        "description": "North Melbourne ends a seven-year drought against the Western Bulldogs, as the AFL's decision not to sanction Geelong over a concussion waiver leads to more questions than answers. Follow live.",
         "link": "https://www.abc.net.au/news/2026-08-06/afl-round-22-western-bulldogs-kangaroos-live-bog/106994848",
         "source": "ABC News AU"
       }
@@ -516,18 +540,6 @@
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
-      "count": 1,
-      "story": {
-        "title": "US military jammed GPS before medical plane crash",
-        "description": "A federal investigation is underway after a medical plane carrying two nurses and two pilots crashed during a military GPS jamming operation in New Mexico.",
-        "link": "https://www.abc.net.au/news/2026-08-06/military-exercise-gps-jam-plane-crash-new-mexico/107002782",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Perth",
       "lat": -31.95,
       "lon": 115.86,
@@ -537,18 +549,6 @@
         "description": "One of the men convicted of killing Perth teenager Cassius Turvey has failed in his appeal against his nine-year jail sentence, which he claimed was \"manifestly excessive\".",
         "link": "https://www.abc.net.au/news/2026-08-06/man-convicted-of-killing-cassius-turvey-has-appeal-dismissed/107004198",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Algeria",
-      "lat": 28.03,
-      "lon": 1.66,
-      "count": 1,
-      "story": {
-        "title": "What's behind the Algeria-Morocco rivalry?",
-        "description": "Morocco and Algeria have been at odds for decades, chiefly over the territory of Western Sahara. But their rivalry now extends far beyond the territory.",
-        "link": "https://www.dw.com/en/what-s-behind-the-algeria-morocco-rivalry/a-78258062?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     }
   ]
