@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T14:58:25+00:00",
+  "generated_at": "2026-08-07T16:03:20+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Mexico and Peru restore diplomatic relations after asylum row",
+      "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Does Africa still back Infantino as Fifa president?",
       "description": "The African confederation has yet to take an official stance, but where do the key African footballing nations stand on the Infantino saga?",
       "link": "https://www.bbc.co.uk/news/articles/c78g3glpl8wo?at_medium=RSS&at_campaign=rss",
@@ -22,15 +28,15 @@
       "description": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
       "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
-      "description": "Moscow&#039;s troops suffer high rate of losses as Zelenskyy renews air campaign against Russia.",
-      "link": "https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "australia": [
+    {
+      "title": "Seven killed after Thai student opens fire at home and school",
+      "description": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
+      "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
@@ -41,12 +47,6 @@
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
       "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-      "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
-      "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -84,15 +84,15 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
       "count": 7,
       "story": {
-        "title": "German airport drone-bomb: Could Russia be involved?",
-        "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -116,6 +116,18 @@
         "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
         "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
         "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 6,
+      "story": {
+        "title": "German airport drone-bomb: Could Russia be involved?",
+        "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,18 +156,6 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 6,
-      "story": {
-        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
@@ -168,14 +168,26 @@
       }
     },
     {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 5,
+      "story": {
+        "title": "Singapore advance to ASEAN football championship semi-finals after draw with Indonesia",
+        "description": "The Lions are unbeaten in this year's tournament.&nbsp;",
+        "link": "https://www.channelnewsasia.com/sport/football-asean-championship-singapore-indonesia-draw-6306161",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
       "count": 4,
       "story": {
-        "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
-        "description": "Authorities say the teen killed his grandparents at home before gunning down five teachers at his school.",
-        "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+        "title": "Mexico and Peru restore diplomatic relations after asylum row",
+        "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,38 +228,14 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 4,
-      "story": {
-        "title": "With Johor Bahru set to be just a 5-minute train ride away, Singapore merchants need to raise their game",
-        "description": "The impact could ripple beyond shops and restaurants, but analysts say that it also offers Singapore businesses a chance to reinvent themselves through better service, stronger brands and new business models.",
-        "link": "https://www.channelnewsasia.com/today/big-read/johor-bahru-rts-link-singapore-business-shopping-lower-prices-6303161",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
       "count": 3,
       "story": {
-        "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
-        "description": "The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
-      "story": {
-        "title": "Moment earthquake shakes hospital operating room in Japan",
-        "description": "Security camera footage shows doctors shielding a patient on the operating table as last month's magnitude 6.8 quake shook Kumamoto General Hospital.",
-        "link": "https://www.bbc.co.uk/news/videos/c1j1eg31y6no?at_medium=RSS&at_campaign=rss",
+        "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+        "description": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -260,6 +248,18 @@
         "title": "Diego Maradona bloated, bedridden and resigned before death, says masseur",
         "description": "Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.",
         "link": "https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
+      "count": 3,
+      "story": {
+        "title": "Several killed after student opens fire inside Thailand school",
+        "description": "At least eight people were killed and 15 others injured after a student opened fire inside a school in Thailand.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -288,14 +288,26 @@
       }
     },
     {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 2,
       "story": {
-        "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-        "description": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
-        "link": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
+        "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+        "description": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+        "description": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -324,18 +336,6 @@
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 2,
-      "story": {
-        "title": "Ruthless Lions send ominous warning to AFL rivals by dismantling Hawks",
-        "description": "Brisbane shows the rest of the competition why it has won the last two premierships by dominating Hawthorn at the Gabba.",
-        "link": "https://www.abc.net.au/news/2026-08-07/afl-round-22-brisbane-lions-hawthorn-hawks-live-blog/106995760",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Hungary",
       "lat": 47.16,
       "lon": 19.5,
@@ -360,6 +360,18 @@
       }
     },
     {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 2,
+      "story": {
+        "title": "Singapore advance to ASEAN football championship semi-finals after draw with Indonesia",
+        "description": "The Lions are unbeaten in this year's tournament.&nbsp;",
+        "link": "https://www.channelnewsasia.com/sport/football-asean-championship-singapore-indonesia-draw-6306161",
+        "source": "CNA"
+      }
+    },
+    {
       "name": "Malaysia",
       "lat": 4.21,
       "lon": 101.98,
@@ -369,6 +381,18 @@
         "description": "At 23, Ms Tassabell Loh is pursuing the career she's dreamed of since childhood. Working in shipyards across Singapore, Malaysia and Indonesia gave her a firsthand look at the demanding work that keeps ships and offshore",
         "link": "https://www.channelnewsasia.com/today/voices/engineering-career-offshore-maritime-industry-women-6300506",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "Peru",
+      "lat": -9.19,
+      "lon": -75.02,
+      "count": 1,
+      "story": {
+        "title": "Mexico and Peru restore diplomatic relations after asylum row",
+        "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -444,18 +468,6 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Imade",
-        "description": "A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.",
-        "link": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
@@ -516,24 +528,12 @@
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Central Europe sees record temperatures as heatwave continues",
-        "description": "Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.",
-        "link": "https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "United Kingdom",
       "lat": 54.0,
       "lon": -2.0,
       "count": 1,
       "story": {
-        "title": "Saudi Pro League’s England international Toney charged with assault",
+        "title": "Ivan Toney: Saudi Pro League’s England international charged with assault",
         "description": "Ivan Toney charged for an assault that allegedly ​took place on December 6 last year in United Kingdom.",
         "link": "https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss",
         "source": "Al Jazeera"
@@ -547,7 +547,7 @@
       "story": {
         "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
         "description": "The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.",
-        "link": "https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss",
+        "link": "https://www.aljazeera.com/news/2026/8/7/european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss",
         "source": "Al Jazeera"
       }
     }
