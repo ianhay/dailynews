@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:35:16+00:00",
+  "generated_at": "2026-08-08T16:40:22+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,7 +12,7 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
       "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
       "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -32,12 +32,6 @@
   ],
   "australia": [
     {
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
       "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
       "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
@@ -47,6 +41,12 @@
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
       "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+      "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -58,15 +58,15 @@
       "source": "BBC News"
     },
     {
-      "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
-      "description": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Trump imposes 15% tariff on key chip material to counter China",
       "description": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
       "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+      "description": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -84,10 +84,22 @@
       }
     },
     {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 8,
+      "story": {
+        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
         "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
@@ -99,24 +111,12 @@
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
         "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
         "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 8,
-      "story": {
-        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -144,18 +144,6 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 6,
-      "story": {
-        "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
-        "description": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
-        "link": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
@@ -173,8 +161,8 @@
       "lon": 10.4,
       "count": 5,
       "story": {
-        "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
-        "description": "The drone incidents in Europe have ignited fears that Moscow&#039;s war on Kyiv is now entangling NATO nations.",
+        "title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
+        "description": "Drone incidents in Europe igniting fears that Moscow&#039;s war on Kyiv is entangling NATO nations.",
         "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
         "source": "Al Jazeera"
       }
@@ -216,6 +204,18 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 4,
+      "story": {
+        "title": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom",
+        "description": "Saudi Arabia, Turkiye, and Pakistan form a new defence pact, leaving Israel’s response and its implications uncertain.",
+        "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
@@ -228,18 +228,6 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 3,
-      "story": {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Italy",
       "lat": 42.5,
       "lon": 12.5,
@@ -248,6 +236,18 @@
         "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
         "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
         "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 3,
+      "story": {
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -281,8 +281,8 @@
       "lon": 25.49,
       "count": 3,
       "story": {
-        "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
-        "description": "The drone incidents in Europe have ignited fears that Moscow&#039;s war on Kyiv is now entangling NATO nations.",
+        "title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
+        "description": "Drone incidents in Europe igniting fears that Moscow&#039;s war on Kyiv is entangling NATO nations.",
         "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
         "source": "Al Jazeera"
       }
@@ -293,9 +293,21 @@
       "lon": -74.3,
       "count": 2,
       "story": {
-        "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+        "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
         "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
         "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 2,
+      "story": {
+        "title": "The phone book that led us to Assad's spy chief in hiding",
+        "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -336,15 +348,15 @@
       }
     },
     {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 2,
       "story": {
-        "title": "Messi will decide when he retires, says Argentina FA chief",
-        "description": "Retirement rumours surrounded Lionel Messi at last two World Cups, but Argentina FA chief says decision will be his.",
-        "link": "https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Why broadcasting row has Tour de France Femmes fans 'pissed off'",
+        "description": "In the Tour de France Femmes, less than 40 seconds separates the top three riders with only two stages to go. That's just one reason why supporters are questioning why they can't watch the entire race.",
+        "link": "https://www.abc.net.au/news/2026-08-08/tour-de-france-femmes-fans-broadcast-row/107002508",
+        "source": "ABC News AU"
       }
     },
     {
@@ -408,18 +420,6 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 1,
-      "story": {
-        "title": "The phone book that led us to Assad's spy chief in hiding",
-        "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Turkey",
       "lat": 38.96,
       "lon": 35.24,
@@ -480,18 +480,6 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
-        "description": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
-        "link": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Netherlands",
       "lat": 52.13,
       "lon": 5.29,
@@ -516,38 +504,50 @@
       }
     },
     {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 1,
       "story": {
-        "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-        "description": "In an interview with Al Jazeera, Masrour Barzani denies any &#039;pressure&#039; to enter the Iran war despite over 1,000 attacks.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
+        "title": "UNRWA has been with me since birth, I cannot imagine a future without it",
+        "description": "The UN body has been part of the lives of millions of Palestinian refugees. Post-genocide Gaza cannot cope without it",
+        "link": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
-        "description": "The drone incidents in Europe have ignited fears that Moscow&#039;s war on Kyiv is now entangling NATO nations.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
+        "title": "UNRWA has been with me since birth, I cannot imagine a future without it",
+        "description": "The UN body has been part of the lives of millions of Palestinian refugees. Post-genocide Gaza cannot cope without it",
+        "link": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Beirut",
+      "lat": 33.9,
+      "lon": 35.5,
       "count": 1,
       "story": {
-        "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
-        "description": "Last month, Atletico filed a complaint to FIFA over Barcelona allegedly tapping up the 26-year-old forward.",
-        "link": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss",
+        "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
+        "description": "Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.",
+        "link": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 1,
+      "story": {
+        "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
+        "description": "Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.",
+        "link": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
         "source": "Al Jazeera"
       }
     }
