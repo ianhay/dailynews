@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T02:00:29+00:00",
+  "generated_at": "2026-08-08T03:51:41+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 15,
       "story": {
         "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
         "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
@@ -84,14 +84,26 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 7,
+      "story": {
+        "title": "German airport drone-bomb: Could Russia be involved?",
+        "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 6,
       "story": {
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+        "description": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
+        "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -108,27 +120,15 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 6,
-      "story": {
-        "title": "German airport drone-bomb: Could Russia be involved?",
-        "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 5,
       "story": {
-        "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
-        "description": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
-        "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Trump imposes 15% tariff on key chip material to counter China",
+        "description": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
+        "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -156,9 +156,9 @@
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 4,
       "story": {
         "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
@@ -192,18 +192,6 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 4,
-      "story": {
-        "title": "Trump imposes 15% tariff on key chip material to counter China",
-        "description": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
-        "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
@@ -216,14 +204,50 @@
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Dogs to be euthanased after man's death in suspected attack",
+        "description": "Dogs suspected of mauling a man to death at a distinctive large home in south-west Sydney will be euthanased, after also injuring a council worker.",
+        "link": "https://www.abc.net.au/news/2026-08-08/dogs-supected-of-fatal-attack-in-sydney-to-be-euthanased/107012384",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
+      "count": 4,
+      "story": {
+        "title": "Eight dead in mass shooting in Thailand. Here's how it unfolded.",
+        "description": "The Thai Prime Minister has vowed to introduce a new firearms control law after a teenager killed seven people at a high school and a home outside Bangkok.",
+        "link": "https://www.abc.net.au/news/2026-08-08/how-a-thai-teenager-s-deadly-school-rampage-unfolded/107012408",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 3,
       "story": {
-        "title": "Mexico and Peru restore diplomatic relations after asylum row",
-        "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 3,
+      "story": {
+        "title": "Sudan's invisible children - born in war with no legal identity",
+        "description": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
+        "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -252,15 +276,15 @@
       }
     },
     {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 3,
       "story": {
-        "title": "Eight dead in mass shooting in Thailand. Here's how it unfolded.",
-        "description": "The Thai Prime Minister has vowed to introduce a new firearms control law after a teenager killed seven people at a high school and a home outside Bangkok.",
-        "link": "https://www.abc.net.au/news/2026-08-08/how-a-thai-teenager-s-deadly-school-rampage-unfolded/107012408",
-        "source": "ABC News AU"
+        "title": "Where are the HDB blocks in NDP 2000’s Shine On Me music video? Singaporeans think they’ve found them",
+        "description": "Eagle-eyed netizens believe they’ve traced the HDB backdrop behind singer Mavis Hee to Serangoon North – right down to where she may have been standing.",
+        "link": "https://www.channelnewsasia.com/entertainment/ndp-2000-shine-me-music-video-hdb-serangoon-north-6307276",
+        "source": "CNA"
       }
     },
     {
@@ -312,6 +336,18 @@
       }
     },
     {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 2,
+      "story": {
+        "title": "Mexico and Peru restore diplomatic relations after asylum row",
+        "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Seoul",
       "lat": 37.57,
       "lon": 126.98,
@@ -348,15 +384,15 @@
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
       "count": 2,
       "story": {
-        "title": "Sudan's invisible children - born in war with no legal identity",
-        "description": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
-        "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
+        "description": "Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.",
+        "link": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -372,14 +408,14 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Travellers warned of Sydney Airport delays, more than 150 flights impacted",
-        "description": "Delays to dozens of flights in and out of Sydney Airport this morning are impacting thousands of passengers, with Airservices Australia saying it is managing roster issues.",
-        "link": "https://www.abc.net.au/news/2026-08-08/sydney-airport-flight-delays-long-queues-airservices-warns/107012486",
+        "title": "Live: Melbourne's top-four hopes on the line as it hosts Fremantle",
+        "description": "The Dockers make a rare visit to the MCG ahead of finals as the ladder leaders take on Melbourne ahead of the Swans hosting the Power in Sydney. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-08-08/afl-rd-22-live-melb-frem-syd-ptad-geel-ess-adel-rich/107007960",
         "source": "ABC News AU"
       }
     },
@@ -405,30 +441,6 @@
         "description": "From Hungary's accidental solar revolution to marmot crowdfunding and a long-overdue upgrade for Rome's big snake, good news comes in strange packages this week.",
         "link": "https://www.dw.com/en/eco-wins-hungary-goes-solar-marmots-go-viral-and-rome-gets-an-upgrade/a-78281783?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 2,
-      "story": {
-        "title": "Argentina: Milei's property bill triggers protests, anger",
-        "description": "Police clashed with protesters in Buenos Aires after thousands rallied against President Javier Milei's private property bill. The government had already dropped a provision on foreigners buying land in Argentina.",
-        "link": "https://www.dw.com/en/argentina-milei-s-property-bill-triggers-protests-anger/a-78272866?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Two men to be charged over alleged arrangements for Lim Tean to leave Singapore illegally",
-        "description": "Lim Tean was arrested by Malaysian police in Johor Bahru on Thursday after failing to surrender in Singapore to serve jail time.",
-        "link": "https://www.channelnewsasia.com/singapore/lim-tean-arrested-two-men-be-charged-over-alleged-arrangements-lawyer-leave-singapore-illegally-6307161",
-        "source": "CNA"
       }
     },
     {
@@ -492,6 +504,18 @@
       }
     },
     {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 1,
+      "story": {
+        "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
+        "description": "Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Venezuela",
       "lat": 6.4,
       "lon": -66.6,
@@ -524,30 +548,6 @@
         "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
         "description": "New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.",
         "link": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
-      "count": 1,
-      "story": {
-        "title": "Can diplomacy end the conflict in Libya?",
-        "description": "The country has been divided since 2014, with rival governments in the east and west.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 1,
-      "story": {
-        "title": "Contaminated water putting Gaza families at risk",
-        "description": "Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
         "source": "Al Jazeera"
       }
     }
