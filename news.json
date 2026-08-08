@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T21:36:01+00:00",
+  "generated_at": "2026-08-08T22:35:18+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 17,
+      "count": 16,
       "story": {
         "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
         "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 12,
+      "count": 11,
       "story": {
         "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
         "description": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
@@ -99,7 +99,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 11,
+      "count": 10,
       "story": {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
@@ -132,50 +132,26 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 6,
-      "story": {
-        "title": "German airport drone-bomb: Could Russia be involved?",
-        "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 5,
-      "story": {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 5,
-      "story": {
-        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
         "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
         "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 5,
+      "story": {
+        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,9 +168,21 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 5,
+      "story": {
+        "title": "German airport drone-bomb: Could Russia be involved?",
+        "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 4,
       "story": {
         "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
@@ -204,9 +192,9 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 4,
       "story": {
         "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
@@ -216,26 +204,50 @@
       }
     },
     {
+      "name": "Romania",
+      "lat": 45.94,
+      "lon": 24.97,
+      "count": 4,
+      "story": {
+        "title": "Ukraine denies targeting Bulgaria after drone explodes near pipeline",
+        "description": "Ukraine has denied targeting Bulgaria after a drone entered Bulgaria's airspace exploded close to the strategic Trans-Balkan gas pipeline near the Romanian border.",
+        "link": "https://www.abc.net.au/news/2026-08-09/bulgaria-says-drone-explodes-in-its-airspace/107013718",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Bulgaria",
       "lat": 42.73,
       "lon": 25.49,
       "count": 4,
       "story": {
-        "title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
-        "description": "Drone incidents in Europe igniting fears that Moscow&#039;s war on Kyiv is entangling NATO nations.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Ukraine denies targeting Bulgaria after drone explodes near pipeline",
+        "description": "Ukraine has denied targeting Bulgaria after a drone entered Bulgaria's airspace exploded close to the strategic Trans-Balkan gas pipeline near the Romanian border.",
+        "link": "https://www.abc.net.au/news/2026-08-09/bulgaria-says-drone-explodes-in-its-airspace/107013718",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 3,
       "story": {
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,18 +288,6 @@
       }
     },
     {
-      "name": "Romania",
-      "lat": 45.94,
-      "lon": 24.97,
-      "count": 3,
-      "story": {
-        "title": "Ukraine denies targeting Bulgaria after drone explodes near pipeline",
-        "description": "Ukraine has denied targeting Bulgaria after a drone entered Bulgaria's airspace exploded close to the strategic Trans-Balkan gas pipeline near the Romanian border.",
-        "link": "https://www.abc.net.au/news/2026-08-09/bulgaria-says-drone-explodes-in-its-airspace/107013718",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Colombia",
       "lat": 4.57,
       "lon": -74.3,
@@ -312,18 +312,6 @@
       }
     },
     {
-      "name": "Algeria",
-      "lat": 28.03,
-      "lon": 1.66,
-      "count": 2,
-      "story": {
-        "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-        "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
-        "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Syria",
       "lat": 34.8,
       "lon": 38.9,
@@ -336,15 +324,15 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 2,
       "story": {
-        "title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
-        "description": "Drone incidents in Europe igniting fears that Moscow&#039;s war on Kyiv is entangling NATO nations.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Exhausted Vollering reclaims yellow jersey with one stage remaining",
+        "description": "Demi Vollering takes the yellow jersey in the Tour de France Femmes as an exciting final stage looms.",
+        "link": "https://www.abc.net.au/news/2026-08-09/tour-de-france-femmes-demi-vollering-reclaims-yellow/107013888",
+        "source": "ABC News AU"
       }
     },
     {
@@ -396,6 +384,30 @@
       }
     },
     {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Singapore designer Faezah Shaharuddin is taking Malay cultural references to the world through furniture",
+        "description": "From Onde and Agar to Biskut, the Studio Kallang founder draws on childhood memories and Southeast Asian craft traditions to create furniture rooted in her own cultural experience.",
+        "link": "https://www.channelnewsasia.com/people/singapore-designer-faezah-shaharuddin-studio-kallang-furniture-6300731",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 2,
+      "story": {
+        "title": "Narrow win for South Africa over Argentina in gritty clash",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/narrow-win-south-africa-over-argentina-in-gritty-clash-6307946",
+        "source": "CNA"
+      }
+    },
+    {
       "name": "Thailand",
       "lat": 15.87,
       "lon": 100.99,
@@ -440,6 +452,18 @@
         "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
         "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
         "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Algeria",
+      "lat": 28.03,
+      "lon": 1.66,
+      "count": 1,
+      "story": {
+        "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+        "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
+        "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -525,30 +549,6 @@
         "description": "Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.",
         "link": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
-      "count": 1,
-      "story": {
-        "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-        "description": "In an interview with Al Jazeera, Masrour Barzani denies any &#039;pressure&#039; to enter the Iran war despite over 1,000 attacks.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Melbourne Royal Show could cancel poultry exhibition amid bird flu fears",
-        "description": "The Melbourne Royal Show committee is expected to meet as early as Monday to discuss whether poultry exhibitions will take place at this year's show.",
-        "link": "https://www.abc.net.au/news/2026-08-09/melbourne-royal-show-poultry-cancellation-fears-bird-flu/106901840",
-        "source": "ABC News AU"
       }
     }
   ]
