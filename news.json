@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:46:44+00:00",
+  "generated_at": "2026-08-08T19:34:40+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 17,
       "story": {
         "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
         "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
@@ -87,11 +87,23 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 10,
+      "count": 11,
       "story": {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
         "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 10,
+      "story": {
+        "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+        "description": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+        "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -108,33 +120,21 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 9,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 7,
       "story": {
-        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+        "description": "Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where Israeli forces reportedly built an earth barrier.",
+        "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 6,
-      "story": {
-        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
       "count": 6,
       "story": {
         "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
@@ -168,14 +168,14 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 5,
       "story": {
-        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,30 +192,6 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
-      "story": {
-        "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
-        "description": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
-        "link": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 5,
-      "story": {
-        "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
-        "description": "Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
@@ -228,27 +204,51 @@
       }
     },
     {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 4,
-      "story": {
-        "title": "Thailand school shooting death toll rises to nine after girl dies",
-        "description": "Thailand has one of the highest rates of gun ownership in Asia.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 3,
       "story": {
         "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
         "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
         "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
+        "description": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
+        "link": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 3,
+      "story": {
+        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 3,
+      "story": {
+        "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
+        "description": "Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.",
+        "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -264,18 +264,6 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
-      "story": {
-        "title": "Souths hang on to deny Eels remarkable comeback",
-        "description": "South Sydney concedes 24 unanswered second-half points but manage to hold on for a 28-24 victory, which consolidates the Rabbitohs' place in the league's top eight.",
-        "link": "https://www.abc.net.au/news/2026-08-08/nrl-live-updates-storm-sea-eagles-dolphins-broncos-rabbitohs-eel/107012870",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Colombia",
       "lat": 4.57,
       "lon": -74.3,
@@ -288,18 +276,6 @@
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 2,
-      "story": {
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
@@ -308,6 +284,18 @@
         "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
         "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
         "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 2,
+      "story": {
+        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -348,18 +336,6 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
-        "description": "Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Madrid",
       "lat": 40.42,
       "lon": -3.7,
@@ -381,6 +357,18 @@
         "description": "Drone incidents in Europe igniting fears that Moscow&#039;s war on Kyiv is entangling NATO nations.",
         "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 2,
+      "story": {
+        "title": "Souths hang on to deny Eels remarkable comeback",
+        "description": "South Sydney concedes 24 unanswered second-half points but manage to hold on for a 28-24 victory, which consolidates the Rabbitohs' place in the league's top eight.",
+        "link": "https://www.abc.net.au/news/2026-08-08/nrl-live-updates-storm-sea-eagles-dolphins-broncos-rabbitohs-eel/107012870",
+        "source": "ABC News AU"
       }
     },
     {
@@ -453,6 +441,18 @@
         "description": "From Hungary's accidental solar revolution to marmot crowdfunding and a long-overdue upgrade for Rome's big snake, good news comes in strange packages this week.",
         "link": "https://www.dw.com/en/eco-wins-hungary-goes-solar-marmots-go-viral-and-rome-gets-an-upgrade/a-78281783?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
+      "count": 2,
+      "story": {
+        "title": "'Mum, don't call me': Inside Thailand's deadly school shooting",
+        "description": "Nine people are dead and another 23 wounded in Thailand's worst mass shooting since 2022.",
+        "link": "https://www.channelnewsasia.com/asia/thailand-school-shooting-student-witness-6307576",
+        "source": "CNA"
       }
     },
     {
