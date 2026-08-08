@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T16:40:22+00:00",
+  "generated_at": "2026-08-08T17:35:58+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,10 +24,10 @@
       "source": "BBC News"
     },
     {
-      "title": "Mexico and Peru restore diplomatic relations after asylum row",
-      "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
+      "description": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
@@ -38,25 +38,19 @@
       "source": "BBC News"
     },
     {
+      "title": "Messi's father Jorge dies aged 68 after illness",
+      "description": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
       "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-      "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-      "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
-    {
-      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-      "description": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
     {
       "title": "Trump imposes 15% tariff on key chip material to counter China",
       "description": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
@@ -68,6 +62,12 @@
       "description": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
       "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
+      "description": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 16,
+      "count": 14,
       "story": {
         "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
         "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 8,
+      "count": 9,
       "story": {
         "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
         "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
@@ -96,10 +96,34 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 8,
+      "story": {
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 7,
+      "story": {
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
         "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
@@ -111,23 +135,11 @@
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
         "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
         "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 6,
-      "story": {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -137,21 +149,9 @@
       "lon": 78.0,
       "count": 6,
       "story": {
-        "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
-        "description": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
-        "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
-      "story": {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
+        "description": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
+        "link": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -159,12 +159,24 @@
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
+      "count": 6,
+      "story": {
+        "title": "German airport drone-bomb: Could Russia be involved?",
+        "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 5,
       "story": {
-        "title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
-        "description": "Drone incidents in Europe igniting fears that Moscow&#039;s war on Kyiv is entangling NATO nations.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -173,9 +185,21 @@
       "lon": 100.99,
       "count": 5,
       "story": {
-        "title": "Thailand school shooting death toll rises to nine after girl dies",
-        "description": "Thailand has one of the highest rates of gun ownership in Asia.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
+        "title": "What we know so far about the deadly Thailand shooting",
+        "description": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
+        "link": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
+        "description": "Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.",
+        "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -192,27 +216,15 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Serbia",
+      "lat": 44.02,
+      "lon": 21.01,
       "count": 4,
       "story": {
-        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+        "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
+        "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom",
-        "description": "Saudi Arabia, Turkiye, and Pakistan form a new defence pact, leaving Israel’s response and its implications uncertain.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -225,18 +237,6 @@
         "description": "South Sydney concedes 24 unanswered second-half points but manage to hold on for a 28-24 victory, which consolidates the Rabbitohs' place in the league's top eight.",
         "link": "https://www.abc.net.au/news/2026-08-08/nrl-live-updates-storm-sea-eagles-dolphins-broncos-rabbitohs-eel/107012870",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 3,
-      "story": {
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -260,18 +260,6 @@
         "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
         "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
         "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
-      "count": 3,
-      "story": {
-        "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-        "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
-        "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -300,21 +288,9 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 2,
-      "story": {
-        "title": "The phone book that led us to Assad's spy chief in hiding",
-        "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 2,
       "story": {
         "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
@@ -348,6 +324,54 @@
       }
     },
     {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 2,
+      "story": {
+        "title": "The phone book that led us to Assad's spy chief in hiding",
+        "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Bangkok",
+      "lat": 13.75,
+      "lon": 100.5,
+      "count": 2,
+      "story": {
+        "title": "What we know so far about the deadly Thailand shooting",
+        "description": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
+        "link": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
+        "description": "Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.",
+        "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
+        "description": "From the Premier League and La Liga to the UEFA Champions League, which players hold the key to their clubs&#039; season?",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
@@ -360,15 +384,15 @@
       }
     },
     {
-      "name": "Bangkok",
-      "lat": 13.75,
-      "lon": 100.5,
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
       "count": 2,
       "story": {
-        "title": "Nine dead in mass shooting in Thailand. Here's how it unfolded.",
-        "description": "The Thai Prime Minister has vowed to introduce a new firearms control law after a teenager killed nine people at a high school and a home outside Bangkok.",
-        "link": "https://www.abc.net.au/news/2026-08-08/how-a-thai-teenager-s-deadly-school-rampage-unfolded/107012408",
-        "source": "ABC News AU"
+        "title": "Thousands attend Prague Pride parade",
+        "description": "Participants observed a minute of silence in memory of the victims of a van ramming near the CSD parade in Berlin. The march was accompanied by enhanced security measures.",
+        "link": "https://www.dw.com/en/thousands-attend-prague-pride-parade/a-78290467?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -378,7 +402,7 @@
       "count": 2,
       "story": {
         "title": "Bulgaria: Unknown drone explodes near Romanian border",
-        "description": "A drone that entered Bulgaria's airspace exploded near the Romanian border and the Trans-Balkan gas pipeline, the Bulgarian prime minister said.",
+        "description": "A drone that entered Bulgaria's airspace exploded near the Romanian border and the Trans-Balkan gas pipeline, the Bulgarian prime minister said. Bulgaria summoned the Ukrainian ambassador for consultations.",
         "link": "https://www.dw.com/en/bulgaria-unknown-drone-explodes-near-romanian-border/a-78288825?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
@@ -420,6 +444,18 @@
       }
     },
     {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 1,
+      "story": {
+        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Turkey",
       "lat": 38.96,
       "lon": 35.24,
@@ -432,50 +468,14 @@
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 1,
       "story": {
-        "title": "Mexico and Peru restore diplomatic relations after asylum row",
-        "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Peru",
-      "lat": -9.19,
-      "lon": -75.02,
-      "count": 1,
-      "story": {
-        "title": "Mexico and Peru restore diplomatic relations after asylum row",
-        "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Seoul",
-      "lat": 37.57,
-      "lon": 126.98,
-      "count": 1,
-      "story": {
-        "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-        "description": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
-        "link": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-        "description": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
-        "link": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+        "title": "Sudan's invisible children - born in war with no legal identity",
+        "description": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
+        "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -504,14 +504,14 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 1,
       "story": {
-        "title": "UNRWA has been with me since birth, I cannot imagine a future without it",
-        "description": "The UN body has been part of the lives of millions of Palestinian refugees. Post-genocide Gaza cannot cope without it",
-        "link": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
+        "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
+        "description": "Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.",
+        "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
