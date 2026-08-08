@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T09:43:36+00:00",
+  "generated_at": "2026-08-08T10:39:02+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+      "description": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off.",
+      "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
       "description": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
       "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
@@ -22,12 +28,6 @@
       "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
       "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
-      "description": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "australia": [
@@ -44,9 +44,9 @@
       "source": "BBC News"
     },
     {
-      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-      "description": "The student says she feared never seeing her mother again after the attack killed five teachers.",
-      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 15,
+      "count": 17,
       "story": {
         "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
         "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
@@ -87,31 +87,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 10,
-      "story": {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 7,
-      "story": {
-        "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
-        "description": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
-        "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 6,
+      "count": 9,
       "story": {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
@@ -123,7 +99,7 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Trump imposes 15% tariff on key chip material to counter China",
         "description": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
@@ -132,15 +108,63 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 6,
+      "story": {
+        "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+        "description": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
+        "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
+      "count": 6,
+      "story": {
+        "title": "Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit",
+        "description": "Saimoni Vunilagi was hospitalised with symptoms of heatstroke after rugby team training on Monday, but died on Friday.",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/fiji-rugby-player-dies-in-japan-of-suspected-heatstroke-as-high-of-35c-hit?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 5,
       "story": {
-        "title": "Typhoon Dolphin hits Japan, heads towards China",
-        "description": "Five elderly people have suffered non-life-threatening injuries, with three falling due to the wind in Japan.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 5,
+      "story": {
+        "title": "Live: Souths tearing through Eels after extraordinary Battle of Brisbane",
+        "description": "South Sydney is overwhelming Parramatta at Stadium Australia, after the Dolphins secured finals football with a stunning fightback against Brisbane. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-08-08/nrl-live-updates-storm-sea-eagles-dolphins-broncos-rabbitohs-eel/107012870",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 5,
+      "story": {
+        "title": "When German Catholics and Protestants share a church",
+        "description": "Each year, dozens of churches are decommissioned, demolished or repurposed in Germany. But there is a new, unique development.",
+        "link": "https://www.dw.com/en/when-german-catholics-and-protestants-share-a-church/a-78276609?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -156,18 +180,6 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "Dogs to be euthanased after man's death in suspected attack",
-        "description": "Dogs suspected of mauling a man to death at a distinctive large home in south-west Sydney will be euthanased, after also injuring a council worker.",
-        "link": "https://www.abc.net.au/news/2026-08-08/dogs-supected-of-fatal-attack-in-sydney-to-be-euthanased/107012384",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Thailand",
       "lat": 15.87,
       "lon": 100.99,
@@ -180,18 +192,6 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 4,
-      "story": {
-        "title": "Germany debates reintroducing mandatory civilian service",
-        "description": "Social organizations are skeptical about the government's ideas for a civilian service program that youths could choose as an alternative should Germany reinstate mandatory military conscription.",
-        "link": "https://www.dw.com/en/germany-debates-reintroducing-mandatory-civilian-service/a-78264088?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
@@ -200,6 +200,18 @@
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
         "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 3,
+      "story": {
+        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -240,18 +252,6 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 3,
-      "story": {
-        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Rome",
       "lat": 41.9,
       "lon": 12.5,
@@ -285,18 +285,6 @@
         "description": "The 49-year-old woman was arrested on Thursday following investigations into the platform, which is purportedly based in Vietnam.",
         "link": "https://www.channelnewsasia.com/singapore/woman-arrested-in-singapore-part-probe-fun-coffee-investment-scheme-6307426",
         "source": "CNA"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 2,
-      "story": {
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -384,15 +372,15 @@
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
       "count": 2,
       "story": {
-        "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
-        "description": "Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -548,6 +536,18 @@
         "title": "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
         "description": "Rashid Khan forces collapse as Afghanistan beat Ireland by 92 runs in second game of five-match ODI series.",
         "link": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 1,
+      "story": {
+        "title": "Bangladesh say Shakib will not play cricket again after Hasina event",
+        "description": "Shakib Al Hasan says he will return home to face trial if safety assured, but Bangladesh rule out cricket comeback.",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss",
         "source": "Al Jazeera"
       }
     }
