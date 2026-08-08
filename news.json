@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T03:51:41+00:00",
+  "generated_at": "2026-08-08T05:03:22+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
       "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
       "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
       "description": "The student says she feared never seeing her mother again after the attack killed five teachers.",
       "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,11 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 15,
+      "count": 13,
       "story": {
-        "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-        "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
-        "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+        "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
+        "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
+        "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -87,11 +87,23 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 7,
+      "count": 9,
       "story": {
-        "title": "German airport drone-bomb: Could Russia be involved?",
-        "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 6,
+      "story": {
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,42 +132,6 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 5,
-      "story": {
-        "title": "Trump imposes 15% tariff on key chip material to counter China",
-        "description": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
-        "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
-      "story": {
-        "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-        "description": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
-        "link": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 5,
-      "story": {
-        "title": "US appeals court halts White House ballroom construction",
-        "description": "A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
@@ -180,15 +156,15 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 4,
       "story": {
-        "title": "German airport drone-bomb: Could Russia be involved?",
-        "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Trump imposes 15% tariff on key chip material to counter China",
+        "description": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
+        "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -204,15 +180,15 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 4,
       "story": {
-        "title": "Dogs to be euthanased after man's death in suspected attack",
-        "description": "Dogs suspected of mauling a man to death at a distinctive large home in south-west Sydney will be euthanased, after also injuring a council worker.",
-        "link": "https://www.abc.net.au/news/2026-08-08/dogs-supected-of-fatal-attack-in-sydney-to-be-euthanased/107012384",
-        "source": "ABC News AU"
+        "title": "US appeals court halts White House ballroom construction",
+        "description": "A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -228,6 +204,18 @@
       }
     },
     {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 3,
+      "story": {
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Italy",
       "lat": 42.5,
       "lon": 12.5,
@@ -236,18 +224,6 @@
         "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
         "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
         "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 3,
-      "story": {
-        "title": "Sudan's invisible children - born in war with no legal identity",
-        "description": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
-        "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -264,6 +240,30 @@
       }
     },
     {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "Tokyo once had 13,000 geisha. Now that number has plummeted",
+        "description": "Foreign Correspondent secures rare access to the closed world of geisha, Japan's iconic art form struggling to survive.",
+        "link": "https://www.abc.net.au/news/2026-08-08/inside-the-closed-world-of-japans-geisha/106983434",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "Dogs to be euthanased after man's death in suspected attack",
+        "description": "Dogs suspected of mauling a man to death at a distinctive large home in south-west Sydney will be euthanased, after also injuring a council worker.",
+        "link": "https://www.abc.net.au/news/2026-08-08/dogs-supected-of-fatal-attack-in-sydney-to-be-euthanased/107012384",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Bangkok",
       "lat": 13.75,
       "lon": 100.5,
@@ -273,6 +273,18 @@
         "description": "The Thai Prime Minister has vowed to introduce a new firearms control law after a teenager killed seven people at a high school and a home outside Bangkok.",
         "link": "https://www.abc.net.au/news/2026-08-08/how-a-thai-teenager-s-deadly-school-rampage-unfolded/107012408",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 3,
+      "story": {
+        "title": "Germany: Far-right AfD extends its lead in nationwide polls",
+        "description": "In the latest Sunday poll, the AfD continues to pull ahead. And more and more people are against excluding the right-wing populists from decision-making, at least on a case-by-case basis.",
+        "link": "https://www.dw.com/en/germany-far-right-afd-extends-its-lead-in-nationwide-polls/a-78279279?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -320,6 +332,18 @@
         "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
         "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
         "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 2,
+      "story": {
+        "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
+        "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
+        "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -384,6 +408,18 @@
       }
     },
     {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 2,
+      "story": {
+        "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
+        "description": "Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.",
+        "link": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Myanmar",
       "lat": 21.9,
       "lon": 95.96,
@@ -396,15 +432,15 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 2,
       "story": {
-        "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-        "description": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow&#039;s war efforts.",
-        "link": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Perth man charged over alleged car-smashing spree, police chase",
+        "description": "Police charge a 45-year-old who allegedly got out of his car and smashed several stationary vehicles, before leading officers on a wild chase through Perth's northern suburbs.",
+        "link": "https://www.abc.net.au/news/2026-08-08/perth-man-charged-over-car-smashing-and-police-chase/107012862",
+        "source": "ABC News AU"
       }
     },
     {
@@ -413,9 +449,9 @@
       "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Live: Melbourne's top-four hopes on the line as it hosts Fremantle",
-        "description": "The Dockers make a rare visit to the MCG ahead of finals as the ladder leaders take on Melbourne ahead of the Swans hosting the Power in Sydney. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-08-08/afl-rd-22-live-melb-frem-syd-ptad-geel-ess-adel-rich/107007960",
+        "title": "Live: Munster returns as Storm, Sea Eagles face off in Perth",
+        "description": "Melbourne and Manly-Warringah head west to Perth as Saturday's NRL action gets underway. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-08-08/nrl-live-updates-storm-sea-eagles-dolphins-broncos-rabbitohs-eel/107012870",
         "source": "ABC News AU"
       }
     },
@@ -444,18 +480,6 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 2,
-      "story": {
-        "title": "Singapore’s only sake brewery is in Jurong, making pulut hitam sake and winning recognition in Japan",
-        "description": "Reuben Oh and Yumika Yamamoto overcame the challenges of brewing sake in Singapore to create distinctly local expressions now served at Michelin-starred restaurants, recognised in international competitions and supported",
-        "link": "https://www.channelnewsasia.com/experiences/singapore-only-sake-brewery-orchid-jurong-6301606",
-        "source": "CNA"
-      }
-    },
-    {
       "name": "Algeria",
       "lat": 28.03,
       "lon": 1.66,
@@ -476,6 +500,18 @@
         "title": "Mexico and Peru restore diplomatic relations after asylum row",
         "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
         "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 1,
+      "story": {
+        "title": "The phone book that led us to Assad's spy chief in hiding",
+        "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -504,50 +540,14 @@
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
       "count": 1,
       "story": {
-        "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
-        "description": "Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 1,
-      "story": {
-        "title": "ICC body urges Chad and Venezuela to reverse course on withdrawal",
-        "description": "International court&#039;s oversight body warns exits threaten global justice, as US intensifies campaign against tribunal.",
-        "link": "https://www.aljazeera.com/news/2026/8/7/icc-body-urges-chad-and-venezuela-to-reverse-course-on-withdrawal?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Beirut",
-      "lat": 33.9,
-      "lon": 35.5,
-      "count": 1,
-      "story": {
-        "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
-        "description": "New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.",
-        "link": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 1,
-      "story": {
-        "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
-        "description": "New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.",
-        "link": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
+        "title": "Norway Football Federation calls for FIFA president to resign",
+        "description": "Norway’s football federation has called on Gianni Infantino to resign.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
         "source": "Al Jazeera"
       }
     }
