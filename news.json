@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:34:59+00:00",
+  "generated_at": "2026-08-09T08:51:20+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 15,
       "story": {
         "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
         "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
@@ -132,18 +132,6 @@
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
-      "count": 5,
-      "story": {
-        "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-        "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-        "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
@@ -156,27 +144,27 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 5,
       "story": {
-        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+        "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 5,
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 4,
       "story": {
-        "title": "Germany news: Drone incidents prompt security research boost",
-        "description": "Germany is moving to counter the threats posed by drones after a number of security incidents. The CEO of arms giant Rheinmetall says he is not \"chickening out\" despite alleged plots against him. DW has more.",
-        "link": "https://www.dw.com/en/germany-news-drone-incidents-prompt-security-research-boost/live-78287439?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+        "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -188,6 +176,18 @@
         "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
         "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
         "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 4,
+      "story": {
+        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,15 +216,39 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 4,
       "story": {
-        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
-        "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
+        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 4,
+      "story": {
+        "title": "Inside this street food market are signs of a crashing currency",
+        "description": "Indonesia's rupiah has fallen to historic lows against the US dollar, causing damage \"in most of the economy\", analysts say.",
+        "link": "https://www.abc.net.au/news/2026-08-09/currency-rate-against-usd-in-indonesia-hits-record-lows/107008770",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 4,
+      "story": {
+        "title": "Germany news: Drone incidents prompt security research boost",
+        "description": "Germany is moving to counter the threats posed by drones after a number of security incidents. The CEO of arms giant Rheinmetall says he is not \"chickening out\" despite alleged plots against him. DW has more.",
+        "link": "https://www.dw.com/en/germany-news-drone-incidents-prompt-security-research-boost/live-78287439?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -240,14 +264,14 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 3,
       "story": {
-        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -264,26 +288,26 @@
       }
     },
     {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 3,
       "story": {
-        "title": "Lionel Messi returns to Argentina after father Jorge’s death",
-        "description": "Football star Lionel Messi returned to Argentina with his family on Saturday, a day after his father died.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Munster free to play after dangerous contact charge downgraded",
+        "description": "Melbourne Storm five-eighth Cameron Munster avoids suspension after the NRL match review committee downgrades his dangerous contact charge from Saturday's win over Manly.",
+        "link": "https://www.abc.net.au/news/2026-08-09/cameron-munster-dangerous-contact-charge-downgraded/107014712",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 3,
       "story": {
-        "title": "Inside this street food market are signs of a crashing currency",
-        "description": "Indonesia's rupiah has fallen to historic lows against the US dollar, causing damage \"in most of the economy\", analysts say.",
-        "link": "https://www.abc.net.au/news/2026-08-09/currency-rate-against-usd-in-indonesia-hits-record-lows/107008770",
+        "title": "Traffic controller stood down after near-miss at Sydney Airport",
+        "description": "A Jetstar A320 was forced to brake suddenly to avoid colliding with a Boeing 777 on the tarmac at Sydney Airport, with both planes stopping abruptly in an incident that injured a cabin crew worker.",
+        "link": "https://www.abc.net.au/news/2026-08-09/sydney-airport-near-miss-jetstar-qatar-airlines/107014048",
         "source": "ABC News AU"
       }
     },
@@ -300,18 +324,6 @@
       }
     },
     {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 2,
-      "story": {
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
@@ -320,30 +332,6 @@
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
         "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 2,
-      "story": {
-        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Algeria",
-      "lat": 28.03,
-      "lon": 1.66,
-      "count": 2,
-      "story": {
-        "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-        "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
-        "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -384,18 +372,6 @@
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 2,
-      "story": {
-        "title": "Rally demands more police in Melbourne's west after death of shopkeeper",
-        "description": "Community members have rallied in Sunshine to demand stronger bail laws and more police on the beat after the death of Van Viet Truong.",
-        "link": "https://www.abc.net.au/news/2026-08-09/sunshine-community-rally-after-van-viet-truong-death/107014112",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Canberra",
       "lat": -35.28,
       "lon": 149.13,
@@ -408,15 +384,15 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
       "count": 2,
       "story": {
-        "title": "Planes in tarmac near-miss at Sydney Airport",
-        "description": "A Jetstar A320 was forced to brake suddenly to avoid colliding with a Boeing 777 on the tarmac at Sydney Airport, with both planes stopping abruptly in an incident that injured a cabin crew worker.",
-        "link": "https://www.abc.net.au/news/2026-08-09/sydney-airport-near-miss-jetstar-qatar-airlines/107014048",
-        "source": "ABC News AU"
+        "title": "Australia: Jetstar, Qatar Airways planes almost collide on Sydney Airport tarmac",
+        "description": "A flight crew member was injured in a near-miss collision on the runway at Australia's Sydney Airport. An investigation has been launched to determine what caused the incident.",
+        "link": "https://www.dw.com/en/australia-jetstar-qatar-airways-planes-almost-collide-on-sydney-airport-tarmac/a-78293085?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -456,15 +432,15 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 2,
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 1,
       "story": {
-        "title": "South Africa coach pleased with players' form ahead of All Blacks test",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/south-africa-coach-pleased-players-form-ahead-all-blacks-test-6308266",
-        "source": "CNA"
+        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -476,6 +452,18 @@
         "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
         "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
         "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Algeria",
+      "lat": 28.03,
+      "lon": 1.66,
+      "count": 1,
+      "story": {
+        "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+        "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
+        "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -525,6 +513,18 @@
         "description": "Growers in the West of England search for new crops to grow in a changing climate.",
         "link": "https://www.bbc.co.uk/news/articles/c141vjlyjgko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 1,
+      "story": {
+        "title": "Lionel Messi returns to Argentina after father Jorge’s death",
+        "description": "Football star Lionel Messi returned to Argentina with his family on Saturday, a day after his father died.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
