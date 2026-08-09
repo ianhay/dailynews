@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T11:34:49+00:00",
+  "generated_at": "2026-08-09T13:03:09+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,21 +32,21 @@
   ],
   "australia": [
     {
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Ancient Roman shipwreck discovered off Sicily coast",
+      "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Fifa criticises campaign to oust president Infantino",
       "description": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-      "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-      "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-      "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
-      "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 13,
       "story": {
         "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
         "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
@@ -84,10 +84,22 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 9,
+      "story": {
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 10,
+      "count": 8,
       "story": {
         "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
         "description": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
@@ -96,22 +108,10 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 7,
-      "story": {
-        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-        "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
@@ -123,7 +123,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
@@ -135,23 +135,11 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
         "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
         "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 4,
-      "story": {
-        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-        "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -162,7 +150,7 @@
       "count": 4,
       "story": {
         "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-        "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km).",
+        "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 39 sq miles (103 sq km).",
         "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -209,33 +197,57 @@
       "lon": 103.82,
       "count": 4,
       "story": {
-        "title": "NDP 2026 kicks off at National Stadium as Singapore marks 61st birthday",
-        "description": "Watch the parade live on CNA and follow our blog for real-time updates, highlights and key moments.",
+        "title": "Highlights: Fireworks and fanfare for NDP 2026 at the National Stadium",
+        "description": "Singapore marked its 61st birthday with new songs, standout performances and some old favourites.&nbsp;",
         "link": "https://www.channelnewsasia.com/singapore/ndp-2026-national-stadium-watch-live-6300301",
         "source": "CNA"
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 3,
       "story": {
-        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 3,
       "story": {
-        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "title": "Ancient Roman shipwreck discovered off Sicily coast",
+        "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 3,
+      "story": {
+        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+        "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+        "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 3,
+      "story": {
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -260,6 +272,18 @@
         "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
         "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
         "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 3,
+      "story": {
+        "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
+        "description": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
+        "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -300,14 +324,14 @@
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
+      "name": "Dubai",
+      "lat": 25.2,
+      "lon": 55.27,
       "count": 2,
       "story": {
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+        "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -324,14 +348,14 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 2,
       "story": {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -360,15 +384,39 @@
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 2,
       "story": {
-        "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
-        "description": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
-        "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
+        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
+      "count": 2,
+      "story": {
+        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Rome",
+      "lat": 41.9,
+      "lon": 12.5,
+      "count": 2,
+      "story": {
+        "title": "Hundreds forced onto Rome streets amid crackdown on squatted building",
+        "description": "Around 300 residents camp on Rome streets amid crackdown on squatted buildings.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -480,30 +528,6 @@
       }
     },
     {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
-      "count": 1,
-      "story": {
-        "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-        "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Turkey",
-      "lat": 38.96,
-      "lon": 35.24,
-      "count": 1,
-      "story": {
-        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "London",
       "lat": 51.5,
       "lon": -0.12,
@@ -524,30 +548,6 @@
         "title": "The phone book that led us to Assad's spy chief in hiding",
         "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
         "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Bangkok",
-      "lat": 13.75,
-      "lon": 100.5,
-      "count": 1,
-      "story": {
-        "title": "What we know so far about the deadly Thailand shooting",
-        "description": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
-        "link": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 1,
-      "story": {
-        "title": "What we know so far about the deadly Thailand shooting",
-        "description": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
-        "link": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     }
