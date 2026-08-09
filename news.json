@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T14:08:06+00:00",
+  "generated_at": "2026-08-09T15:02:20+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -33,7 +33,7 @@
   "australia": [
     {
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
       "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -75,10 +75,10 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 12,
+      "count": 13,
       "story": {
         "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-        "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+        "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
         "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -92,6 +92,18 @@
         "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
         "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
         "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 10,
+      "story": {
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -123,35 +135,11 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
         "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 6,
-      "story": {
-        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-        "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 5,
-      "story": {
-        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -168,6 +156,18 @@
       }
     },
     {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 4,
+      "story": {
+        "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+        "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 39 sq miles (103 sq km).",
+        "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
@@ -176,6 +176,30 @@
         "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
         "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
         "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 4,
+      "story": {
+        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+        "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,18 +240,6 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 3,
-      "story": {
-        "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-        "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 39 sq miles (103 sq km).",
-        "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
@@ -252,30 +264,6 @@
       }
     },
     {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
-      "count": 3,
-      "story": {
-        "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-        "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
-        "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
-        "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Nigeria",
       "lat": 9.1,
       "lon": 8.7,
@@ -285,6 +273,18 @@
         "description": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
         "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 3,
+      "story": {
+        "title": "Syria says it reached deal with Moscow on future of Russian bases",
+        "description": "Hmeimim airbase and Tartus naval base will become joint training and capacity-building centres under the agreement.",
+        "link": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -336,33 +336,9 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 2,
-      "story": {
-        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
-      "count": 2,
-      "story": {
-        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
       "count": 2,
       "story": {
         "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
@@ -384,6 +360,30 @@
       }
     },
     {
+      "name": "Serbia",
+      "lat": 44.02,
+      "lon": 21.01,
+      "count": 2,
+      "story": {
+        "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+        "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
+        "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 2,
+      "story": {
+        "title": "The phone book that led us to Assad's spy chief in hiding",
+        "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Rome",
       "lat": 41.9,
       "lon": 12.5,
@@ -392,42 +392,6 @@
         "title": "Hundreds forced onto Rome streets amid crackdown on squatted building",
         "description": "Around 300 residents camp on Rome streets amid crackdown on squatted buildings.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 2,
-      "story": {
-        "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
-        "description": "President Volodymyr Zelenskyy accuses Moscow of harming global food security amid a plate of attacks on Odesa&#039;s port.",
-        "link": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 2,
-      "story": {
-        "title": "Women’s Day in South Africa turns 70 with equality still out of reach",
-        "description": "The 1956 march transformed women’s rights and political power, but millions still cannot fully enjoy those gains.",
-        "link": "https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
-      "count": 2,
-      "story": {
-        "title": "Israel advances plan for 627 settler units in occupied West Bank",
-        "description": "New settlement tender in West Bank deepens Israeli efforts to sever Palestinian ties to Jerusalem, officials warn.",
-        "link": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -504,18 +468,6 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Highlights: Fireworks and fanfare for NDP 2026 at the National Stadium",
-        "description": "Singapore marked its 61st birthday with new songs, standout performances and some old favourites.&nbsp;",
-        "link": "https://www.channelnewsasia.com/singapore/ndp-2026-national-stadium-watch-live-6300301",
-        "source": "CNA"
-      }
-    },
-    {
       "name": "Ireland",
       "lat": 53.14,
       "lon": -7.69,
@@ -524,6 +476,18 @@
         "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
         "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
         "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 1,
+      "story": {
+        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -540,6 +504,18 @@
       }
     },
     {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 1,
+      "story": {
+        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "London",
       "lat": 51.5,
       "lon": -0.12,
@@ -549,6 +525,30 @@
         "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
         "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
+      "count": 1,
+      "story": {
+        "title": "Owner of bike maker Raleigh files for insolvency",
+        "description": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 1,
+      "story": {
+        "title": "Winemakers prosper but veg farms wilt in the drought",
+        "description": "Growers in the West of England search for new crops to grow in a changing climate.",
+        "link": "https://www.bbc.co.uk/news/articles/c141vjlyjgko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     }
   ]
