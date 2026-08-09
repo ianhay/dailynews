@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T16:48:26+00:00",
+  "generated_at": "2026-08-09T17:36:18+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 13,
+      "count": 12,
       "story": {
         "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
         "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
@@ -111,7 +111,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 8,
+      "count": 9,
       "story": {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
@@ -144,6 +144,18 @@
       }
     },
     {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 5,
+      "story": {
+        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Italy",
       "lat": 42.5,
       "lon": 12.5,
@@ -168,30 +180,6 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 4,
-      "story": {
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 4,
-      "story": {
-        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -200,6 +188,18 @@
         "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
         "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
         "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 4,
+      "story": {
+        "title": "The phone book that led us to Assad's spy chief in hiding",
+        "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -240,26 +240,14 @@
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 3,
       "story": {
-        "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
-        "description": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
-        "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 3,
-      "story": {
-        "title": "The phone book that led us to Assad's spy chief in hiding",
-        "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+        "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -300,30 +288,6 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
-      "story": {
-        "title": "Australia: Jetstar, Qatar Airways planes almost collide on Sydney Airport tarmac",
-        "description": "A flight crew member was injured in a near-miss collision on the runway at Australia's Sydney Airport. An investigation has been launched to determine what caused the incident.",
-        "link": "https://www.dw.com/en/australia-jetstar-qatar-airways-planes-almost-collide-on-sydney-airport-tarmac/a-78293085?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 2,
-      "story": {
-        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Turkey",
       "lat": 38.96,
       "lon": 35.24,
@@ -360,14 +324,26 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 2,
       "story": {
-        "title": "Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul",
-        "description": "Marmoush scores twice in three minutes as City rallies to beat Atletico in club friendly at the Seoul World Cup stadium.",
-        "link": "https://www.aljazeera.com/sports/2026/8/9/omar-marmoush-scores-two-goals-as-man-city-defeat-atletico-madrid-in-seoul?traffic_source=rss",
+        "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
+        "description": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
+        "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
+      "count": 2,
+      "story": {
+        "title": "Former Iraqi provincial governor arrested as graft crackdown continues",
+        "description": "Ahmed al-Jubouri and a close associate were arrested on charges of misusing contract funds in Saladin province.",
+        "link": "https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -432,9 +408,9 @@
       }
     },
     {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 2,
       "story": {
         "title": "Australia: Jetstar, Qatar Airways planes almost collide on Sydney Airport tarmac",
@@ -492,6 +468,18 @@
       }
     },
     {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Saudi Arabia",
       "lat": 23.9,
       "lon": 45.1,
@@ -543,6 +531,18 @@
       "name": "Seoul",
       "lat": 37.57,
       "lon": 126.98,
+      "count": 1,
+      "story": {
+        "title": "Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul",
+        "description": "Marmoush scores twice in three minutes as City rallies to beat Atletico in club friendly at the Seoul World Cup stadium.",
+        "link": "https://www.aljazeera.com/sports/2026/8/9/omar-marmoush-scores-two-goals-as-man-city-defeat-atletico-madrid-in-seoul?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
       "count": 1,
       "story": {
         "title": "Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul",
