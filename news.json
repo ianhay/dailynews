@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T06:24:20+00:00",
+  "generated_at": "2026-08-09T07:34:59+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -96,10 +96,22 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 7,
+      "story": {
+        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+        "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+        "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
@@ -111,23 +123,11 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
         "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 6,
-      "story": {
-        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-        "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -173,9 +173,9 @@
       "lon": 10.4,
       "count": 5,
       "story": {
-        "title": "Germany: Interior Minister warns of 'daily' hybrid warfare",
-        "description": "German Interior Minister Alexander Dobrindt says attacks by foreign powers have become a constant threat to Germany. His remarks come just days after an explosive-laden drone was found at Leipzig airport.",
-        "link": "https://www.dw.com/en/germany-interior-minister-warns-of-daily-hybrid-warfare/a-78291550?maca=en-rss-en-all-1573-rdf",
+        "title": "Germany news: Drone incidents prompt security research boost",
+        "description": "Germany is moving to counter the threats posed by drones after a number of security incidents. The CEO of arms giant Rheinmetall says he is not \"chickening out\" despite alleged plots against him. DW has more.",
+        "link": "https://www.dw.com/en/germany-news-drone-incidents-prompt-security-research-boost/live-78287439?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -197,8 +197,8 @@
       "lon": -106.3,
       "count": 4,
       "story": {
-        "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-        "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+        "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+        "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km).",
         "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -228,14 +228,14 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+        "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+        "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,18 +276,6 @@
       }
     },
     {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 3,
-      "story": {
-        "title": "What we know about Trump's new US ambassador to Australia",
-        "description": "The new US ambassador to Australia, David Brat, says critical minerals, commercial diplomacy and defence cooperation are his top priorities in Canberra.",
-        "link": "https://www.abc.net.au/news/2026-08-09/who-is-david-brat-new-us-ambassador-to-australia/107012582",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Indonesia",
       "lat": -2.5,
       "lon": 118.0,
@@ -312,18 +300,6 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-        "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Morocco",
       "lat": 31.79,
       "lon": -7.09,
@@ -332,6 +308,18 @@
         "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
         "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
         "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
+      "story": {
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -360,6 +348,18 @@
       }
     },
     {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
+      "count": 2,
+      "story": {
+        "title": "Israel announces tender for 627 settler units in occupied West Bank",
+        "description": "New settlement tender in West Bank deepens Israeli efforts to sever Palestinian ties to Jerusalem, officials warn.",
+        "link": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Hungary",
       "lat": 47.16,
       "lon": 19.5,
@@ -384,15 +384,27 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Crews recover 19 bodies from rubble of destroyed Gaza building",
-        "description": "More than 8,000 people remain missing amid rubble in Gaza, with recovery efforts hindered by a lack of heavy machinery.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Rally demands more police in Melbourne's west after death of shopkeeper",
+        "description": "Community members have rallied in Sunshine to demand stronger bail laws and more police on the beat after the death of Van Viet Truong.",
+        "link": "https://www.abc.net.au/news/2026-08-09/sunshine-community-rally-after-van-viet-truong-death/107014112",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
+      "count": 2,
+      "story": {
+        "title": "What we know about Trump's new US ambassador to Australia",
+        "description": "The new US ambassador to Australia, David Brat, says critical minerals, commercial diplomacy and defence cooperation are his top priorities in Canberra.",
+        "link": "https://www.abc.net.au/news/2026-08-09/who-is-david-brat-new-us-ambassador-to-australia/107012582",
+        "source": "ABC News AU"
       }
     },
     {
@@ -401,7 +413,7 @@
       "lon": 151.21,
       "count": 2,
       "story": {
-        "title": "Planes in tarmac near miss at Sydney Airport",
+        "title": "Planes in tarmac near-miss at Sydney Airport",
         "description": "A Jetstar A320 was forced to brake suddenly to avoid colliding with a Boeing 777 on the tarmac at Sydney Airport, with both planes stopping abruptly in an incident that injured a cabin crew worker.",
         "link": "https://www.abc.net.au/news/2026-08-09/sydney-airport-near-miss-jetstar-qatar-airlines/107014048",
         "source": "ABC News AU"
@@ -441,6 +453,18 @@
         "description": "Spain had warned Italy it would impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, the countries entered a spat after the Ceuta border rush.",
         "link": "https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 2,
+      "story": {
+        "title": "South Africa coach pleased with players' form ahead of All Blacks test",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/south-africa-coach-pleased-players-form-ahead-all-blacks-test-6308266",
+        "source": "CNA"
       }
     },
     {
@@ -516,39 +540,15 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 1,
       "story": {
-        "title": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
-        "description": "Three Colombian tourists are among the victims of Saturday&#039;s crash on mountainside forest of Tijuca National Park.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
+        "title": "Iran war live: Tehran sets Hormuz terms, Houthis claim attack on Saudi site",
+        "description": "IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "Live: Controversial Humphrey goal helps Suns end slide, Eagles host Pies in WA",
-        "description": "A debatable goal from Bailey Humphrey upheld by the ARC proves to be the difference as Gold Coast claims a thriller against GWS. Meanwhile, West Coast hosts an under-strength Collingwood side in Perth. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-08-09/afl-rd-22-live-gws-suns-wce-coll-stk-carl/107008342",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Armed officers to bolster security at Melbourne hospitals under opposition proposal",
-        "description": "Victoria's opposition is pledging to deploy armed law enforcement officers in major hospitals around the state in a bid to curb violence.",
-        "link": "https://www.abc.net.au/news/2026-08-09/opposition-election-pledge-pso-deployed-melbourne-hospitals/107013890",
-        "source": "ABC News AU"
       }
     }
   ]
