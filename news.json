@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T04:00:23+00:00",
+  "generated_at": "2026-08-09T05:29:56+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,21 +32,21 @@
   ],
   "australia": [
     {
+      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+      "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Hundreds arrested over French wildfires, but who is to blame?",
+      "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
       "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
       "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Messi's father Jorge dies aged 68 after illness",
-      "description": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-      "description": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
-      "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 14,
       "story": {
         "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
         "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
@@ -84,22 +84,10 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 9,
-      "story": {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 8,
+      "count": 9,
       "story": {
         "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
         "description": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
@@ -108,9 +96,9 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
       "count": 8,
       "story": {
         "title": "Child among three killed in Russian missile attacks near Kyiv",
@@ -120,27 +108,39 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 6,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 7,
       "story": {
-        "title": "German airport drone-bomb: Could Russia be involved?",
-        "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+        "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+        "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 6,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 7,
       "story": {
-        "title": "Israeli settler attacks rise as West Bank residents lose land",
-        "description": "Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 5,
+      "story": {
+        "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+        "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -156,27 +156,15 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
       "count": 5,
       "story": {
-        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
-      "count": 4,
-      "story": {
-        "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-        "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-        "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Germany: Interior Minister warns of 'daily' hybrid warfare",
+        "description": "German Interior Minister Alexander Dobrindt says attacks by foreign powers have become a constant threat to Germany. His remarks come just days after an explosive-laden drone was found at Leipzig airport.",
+        "link": "https://www.dw.com/en/germany-interior-minister-warns-of-daily-hybrid-warfare/a-78291550?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -204,39 +192,27 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 4,
       "story": {
-        "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-        "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
-        "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 4,
       "story": {
-        "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-        "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
-        "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+        "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 4,
-      "story": {
-        "title": "Crews recover 19 bodies from rubble of destroyed Gaza building",
-        "description": "More than 8,000 people remain missing amid rubble in Gaza, with recovery efforts hindered by lack of heavy machinery.",
-        "link": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -248,6 +224,18 @@
         "title": "Child among three killed in Russian missile attacks near Kyiv",
         "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
         "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 3,
+      "story": {
+        "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+        "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+        "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -264,15 +252,39 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Serbia",
+      "lat": 44.02,
+      "lon": 21.01,
       "count": 3,
       "story": {
-        "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
-        "description": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
-        "link": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
+        "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+        "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
+        "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 3,
+      "story": {
+        "title": "Lionel Messi returns to Argentina after father Jorge’s death",
+        "description": "Football star Lionel Messi returned to Argentina with his family on Saturday, a day after his father died.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 3,
+      "story": {
+        "title": "Crews recover 19 bodies from rubble of destroyed Gaza building",
+        "description": "More than 8,000 people remain missing amid rubble in Gaza, with recovery efforts hindered by a lack of heavy machinery.",
+        "link": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -281,9 +293,9 @@
       "lon": 149.13,
       "count": 3,
       "story": {
-        "title": "Live: Storm star set for ban, Knights take on Raiders",
-        "description": "The Newcastle Knights will look to keep their slim hopes of a top four finish alive when they head to Canberra to take on the Raiders. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-08-09/nrl-live-updates-raiders-knights-dragons-sharks/107014254",
+        "title": "What to know about Trump's pick for US ambassador to Australia",
+        "description": "The new US ambassador to Australia, David Brat, says critical minerals, commercial diplomacy and defence cooperation are his top priorities in Canberra.",
+        "link": "https://www.abc.net.au/news/2026-08-09/who-is-david-brat-new-us-ambassador-to-australia/107012582",
         "source": "ABC News AU"
       }
     },
@@ -300,18 +312,6 @@
       }
     },
     {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 3,
-      "story": {
-        "title": "'Always by my side': Argentina mourns death of Jorge Messi",
-        "description": "Jorge Messi, the father of Argentinian football superstar Lionel, is mourned after dying aged 68 following a short illness.",
-        "link": "https://www.abc.net.au/news/2026-08-09/jorge-messi-dies-aged-68-after-short-illness/107013946",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Singapore",
       "lat": 1.35,
       "lon": 103.82,
@@ -321,6 +321,18 @@
         "description": "This National Day, CNA Lifestyle takes a lighthearted look at the people and memes from Singapore that made their mark around the world.",
         "link": "https://www.channelnewsasia.com/living/viral-singapore-moments-memes-6294871",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+        "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+        "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -360,18 +372,6 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Israeli settler attacks rise as West Bank residents lose land",
-        "description": "Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Hungary",
       "lat": 47.16,
       "lon": 19.5,
@@ -404,18 +404,6 @@
         "title": "Planes in tarmac near miss at Sydney Airport",
         "description": "A Jetstar A320 was forced to brake suddenly to avoid colliding with a Boeing 777 on the tarmac at Sydney Airport, with both planes stopping abruptly in an incident that injured a cabin crew worker.",
         "link": "https://www.abc.net.au/news/2026-08-09/sydney-airport-near-miss-jetstar-qatar-airlines/107014048",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 2,
-      "story": {
-        "title": "Exhausted Vollering reclaims yellow jersey with one stage remaining",
-        "description": "Demi Vollering takes the yellow jersey in the Tour de France Femmes as an exciting final stage looms.",
-        "link": "https://www.abc.net.au/news/2026-08-09/tour-de-france-femmes-demi-vollering-reclaims-yellow/107013888",
         "source": "ABC News AU"
       }
     },
@@ -453,18 +441,6 @@
         "description": "Spain had warned Italy it would impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, the countries entered a spat after the Ceuta border rush.",
         "link": "https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 1,
-      "story": {
-        "title": "Paris tells e-scooter riders to wear safety gear or face fines",
-        "description": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
-        "link": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -528,6 +504,18 @@
       }
     },
     {
+      "name": "Ghana",
+      "lat": 7.95,
+      "lon": -1.02,
+      "count": 1,
+      "story": {
+        "title": "Ghana’s cashew apples get a second life",
+        "description": "A fruit long left to rot could become a new source of income for Ghana’s cashew farmers.",
+        "link": "https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
@@ -540,15 +528,27 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
-        "description": "From the Premier League and La Liga to the UEFA Champions League, which players hold the key to their clubs&#039; season?",
-        "link": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Armed officers to bolster security at Melbourne hospitals under opposition proposal",
+        "description": "Victoria's opposition is pledging to deploy armed law enforcement officers in major hospitals around the state in a bid to curb violence.",
+        "link": "https://www.abc.net.au/news/2026-08-09/opposition-election-pledge-pso-deployed-melbourne-hospitals/107013890",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Bangkok",
+      "lat": 13.75,
+      "lon": 100.5,
+      "count": 1,
+      "story": {
+        "title": "'Don't call me': Thai student messaged mum as she hid from school shooter",
+        "description": "Another student dies from critical wounds after a student opened fire at a high school and his home outside Bangkok on Friday.",
+        "link": "https://www.abc.net.au/news/2026-08-09/thailand-school-shooting-toll-rises/107013920",
+        "source": "ABC News AU"
       }
     }
   ]
