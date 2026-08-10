@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T12:10:07+00:00",
+  "generated_at": "2026-08-10T13:57:18+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -38,15 +38,15 @@
       "source": "BBC News"
     },
     {
-      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
-      "description": "Forensics revealed that the 'realistic' looking body was in fact not human.",
-      "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+      "description": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+      "description": "Forensics revealed that the \"realistic\" looking body was in fact not human.",
+      "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 9,
+      "count": 10,
       "story": {
         "title": "China evacuates one million from homes as massive storm arrives",
         "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
@@ -84,38 +84,38 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 8,
+      "story": {
+        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+        "description": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
-        "description": "Forensics revealed that the 'realistic' looking body was in fact not human.",
+        "description": "Forensics revealed that the \"realistic\" looking body was in fact not human.",
         "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 8,
-      "story": {
-        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-        "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 7,
       "story": {
-        "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
-        "description": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+        "title": "India police fire tear gas at protesters seeking exam reforms",
+        "description": "Thousands of students and job seekers have gathered in Jharkhand state, weeks after the \"cockroach\" protests took place in Delhi.",
+        "link": "https://www.bbc.co.uk/news/articles/c89nkz4vjyxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -123,7 +123,7 @@
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
         "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
@@ -137,9 +137,21 @@
       "lon": 53.0,
       "count": 6,
       "story": {
-        "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-        "description": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
-        "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -149,21 +161,21 @@
       "lon": 31.0,
       "count": 5,
       "story": {
-        "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
-        "description": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
+        "description": "Al Jazeera is given rare access to one of Ukraine&#039;s long-range drone units tasked with targeting Russia.",
+        "link": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
+      "count": 4,
       "story": {
-        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
-        "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
+        "title": "What we know so far about the deadly Thailand shooting",
+        "description": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
+        "link": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,38 +204,14 @@
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
       "count": 3,
       "story": {
-        "title": "Ancient Roman shipwreck discovered off Sicily coast",
-        "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 3,
-      "story": {
-        "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-        "description": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
-        "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 3,
-      "story": {
-        "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
-        "description": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
-        "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+        "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+        "description": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -240,6 +228,18 @@
       }
     },
     {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 2,
+      "story": {
+        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+        "description": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Dubai",
       "lat": 25.2,
       "lon": 55.27,
@@ -252,50 +252,50 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Ecuador",
+      "lat": -1.83,
+      "lon": -78.18,
       "count": 2,
       "story": {
-        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-        "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+        "title": "Ecuador charges ex-minister over presidential candidate assassination case",
+        "description": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
+        "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 2,
       "story": {
-        "title": "The phone book that led us to Assad's spy chief in hiding",
-        "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+        "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
+        "description": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
+        "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Bangkok",
+      "lat": 13.75,
+      "lon": 100.5,
       "count": 2,
       "story": {
-        "title": "Pakistan-administered Kashmir votes in reduced third phase amid unrest",
-        "description": "Voting postponed in seven of 11 Poonch division constituencies as boycott calls and violence mar the region&#039;s elections.",
-        "link": "https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "What we know so far about the deadly Thailand shooting",
+        "description": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
+        "link": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 2,
       "story": {
-        "title": "Trump names Will Scharf as White House counsel ahead of midterms",
-        "description": "Trump has named White House Staff Secretary Will Scharf as White House counsel, starting from September 1.",
-        "link": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss",
+        "title": "June and July hottest on record in Western Europe, monitor says",
+        "description": "The Copernicus Climate Change Service says historically low rainfall has worsened the situation in several countries.",
+        "link": "https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -312,18 +312,6 @@
       }
     },
     {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 2,
-      "story": {
-        "title": "Thailand rocked by second shooting tragedy in three days",
-        "description": "A gunman is arrested after firing shots at a local government office on the outskirts of Bangkok with a former member of parliament accused of killing a former colonel whom he had known for years, and wounding his driver",
-        "link": "https://www.abc.net.au/news/2026-08-10/thailand-second-shooting-in-week-government-office-man-arrested/107021444",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
@@ -333,30 +321,6 @@
         "description": "The Australian prime minister has landed in hot water over a gesture involving two melons, which his office insists was not referring to Japanese Prime Minister Sanae Takaichi's body.",
         "link": "https://www.abc.net.au/news/2026-08-10/taylor-demands-albanese-apologise-to-takaichi/107017790",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 2,
-      "story": {
-        "title": "Real estate agent offers to repair 20 public housing homes for free",
-        "description": "A Canberra real estate agent who was once homeless has offered to fix up 20 public housing properties pro bono, and is calling on the ACT government to agree to the project.",
-        "link": "https://www.abc.net.au/news/2026-08-10/act-campaign-to-renovate-canberra-public-housing-pro-bono/107015858",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 2,
-      "story": {
-        "title": "Ukrainian drone attack kills at least 13 in central Russia",
-        "description": "Ukraine launched hundreds of drones at targets inside Russia, according to Russian officials. The strikes killed more than a dozen in one of Kyiv's deadliest attacks since the Russian invasion began over four years ago.",
-        "link": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -372,14 +336,14 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 1,
       "story": {
-        "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
-        "description": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+        "title": "Evidence that South African special forces murdered top detective shared with BBC",
+        "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+        "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -396,50 +360,26 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "Evidence that South African special forces murdered top detective shared with BBC",
-        "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
-        "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+        "title": "Ancient Roman shipwreck discovered off Sicily coast",
+        "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Ecuador",
-      "lat": -1.83,
-      "lon": -78.18,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 1,
       "story": {
-        "title": "Ecuador charges ex-minister over presidential candidate assassination case",
-        "description": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
-        "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 1,
-      "story": {
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+        "description": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
+        "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -468,14 +408,26 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 1,
       "story": {
-        "title": "June and July hottest on record in Western Europe, monitor says",
-        "description": "The Copernicus Climate Change Service says historically low rainfall has worsened the situation in several countries.",
-        "link": "https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss",
+        "title": "Has the army turned the page on control of western Sudan?",
+        "description": "Sudan&#039;s military repels a series of offensives by the RSF paramilitary in a strategically significant region.",
+        "link": "https://www.aljazeera.com/news/2026/8/10/has-the-sudanese-army-turned-the-page-on-control-of-western-sudan?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Taiwan",
+      "lat": 23.7,
+      "lon": 121.0,
+      "count": 1,
+      "story": {
+        "title": "Taiwan holds military drills to prepare for invasion by China",
+        "description": "Taiwan holds military drills to prepare for invasion by China",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -492,54 +444,6 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
-        "description": "Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says.",
-        "link": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 1,
-      "story": {
-        "title": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
-        "description": "Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says.",
-        "link": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 1,
-      "story": {
-        "title": "Brazilian player falls into tunnel celebrating goal",
-        "description": "Footage shows Brazilian player Jacy Maranhão falling into the players’ tunnel after jumping over advertising boards.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Bangkok",
-      "lat": 13.75,
-      "lon": 100.5,
-      "count": 1,
-      "story": {
-        "title": "Thailand rocked by second shooting tragedy in three days",
-        "description": "A gunman is arrested after firing shots at a local government office on the outskirts of Bangkok with a former member of parliament accused of killing a former colonel whom he had known for years, and wounding his driver",
-        "link": "https://www.abc.net.au/news/2026-08-10/thailand-second-shooting-in-week-government-office-man-arrested/107021444",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Perth",
       "lat": -31.95,
       "lon": 115.86,
@@ -549,6 +453,102 @@
         "description": "Aleesha Gilmore, found not guilty of murdering Perth school boy Cassius Turvey, has avoided an immediate prison term for breaching the terms of her suspended sentence.",
         "link": "https://www.abc.net.au/news/2026-08-10/aleesha-gilmore-avoids-prison-suspended-sentence/107017258",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
+      "count": 1,
+      "story": {
+        "title": "Real estate agent offers to repair 20 public housing homes for free",
+        "description": "A Canberra real estate agent who was once homeless has offered to fix up 20 public housing properties pro bono, and is calling on the ACT government to agree to the project.",
+        "link": "https://www.abc.net.au/news/2026-08-10/act-campaign-to-renovate-canberra-public-housing-pro-bono/107015858",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 1,
+      "story": {
+        "title": "Large earthquake hits western Colombia causing damage",
+        "description": "A powerful earthquake, initially measured at magnitude 7.4, has struck Colombia. Tremors were also felt in neighboring Ecuador, as well as in Panama and Venezuela.",
+        "link": "https://www.dw.com/en/large-earthquake-hits-western-colombia-causing-damage/a-78307841?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Middle East: Iran wants US concessions before opening Hormuz",
+        "description": "Iran's Foreign Ministry reiterated that the US must meet Tehran's demands before the Strait of Hormuz is reopened and that ships transiting through will be expected to pay a fee. Follow DW for more.",
+        "link": "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 1,
+      "story": {
+        "title": "Ukrainian drone attack kills at least 13 in central Russia",
+        "description": "Ukraine launched hundreds of drones at targets inside Russia, according to Russian officials. The strikes killed more than a dozen in one of Kyiv's deadliest attacks since the Russian invasion began over four years ago.",
+        "link": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 1,
+      "story": {
+        "title": "China: Typhoon Dolphin prompts mass evacuation, canceled flights",
+        "description": "Even as it weakens, Typhoon Dolphin is disrupting life in China. Close to 1,500 flights have been canceled in Shanghai while parts of Beijing are under flood alert.",
+        "link": "https://www.dw.com/en/china-typhoon-dolphin-prompts-mass-evacuation-canceled-flights/a-78299416?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 1,
+      "story": {
+        "title": "Syria says deal agreed with Russia on future of military bases",
+        "description": "Under the agreement, Syria will take over management of two Russian bases that were used to support ousted leader Bashar Assad during the Syrian civil war.",
+        "link": "https://www.dw.com/en/syria-says-deal-agreed-with-russia-on-future-of-military-bases/a-78297584?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
+      "count": 1,
+      "story": {
+        "title": "Denmark: Several wounded in suspected gang shooting",
+        "description": "Police said they believed that the incident was linked to a \"settling of scores\" within criminal networks.",
+        "link": "https://www.dw.com/en/denmark-several-wounded-in-suspected-gang-shooting/a-78297276?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
+      "count": 1,
+      "story": {
+        "title": "72-year-old Singaporean man rescued after being kidnapped in Malaysia",
+        "description": "The kidnap-for-ransom syndicate lured the man with a job offer and later demanded S$1 million for his release, according to Malaysian media.&nbsp;&nbsp;",
+        "link": "https://www.channelnewsasia.com/singapore/singaporean-man-kidnapped-malaysia-rescued-kedah-6309741",
+        "source": "CNA"
       }
     }
   ]
