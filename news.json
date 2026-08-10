@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T19:34:40+00:00",
+  "generated_at": "2026-08-10T20:50:48+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -38,15 +38,15 @@
       "source": "BBC News"
     },
     {
-      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-      "description": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "description": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Hundreds arrested over French wildfires, but who is to blame?",
-      "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
+      "description": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,10 +72,34 @@
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 10,
+      "story": {
+        "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+        "description": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+        "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 9,
+      "story": {
+        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+        "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 10,
+      "count": 8,
       "story": {
         "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
         "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
@@ -87,7 +111,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 10,
+      "count": 8,
       "story": {
         "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
         "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
@@ -99,7 +123,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
         "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
@@ -108,51 +132,15 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 8,
-      "story": {
-        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-        "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 8,
-      "story": {
-        "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-        "description": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
-        "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Colombia",
       "lat": 4.57,
       "lon": -74.3,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "111 dead after Colombia quakes leave trail of destruction",
         "description": "At least 111 people are dead after a destructive 7.4 magnitude earthquake hit western Colombia.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 6,
-      "story": {
-        "title": "China evacuates one million from homes as massive storm arrives",
-        "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -180,6 +168,18 @@
       }
     },
     {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 5,
+      "story": {
+        "title": "Trump imposes 15% tariff on key chip material to counter China",
+        "description": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
+        "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
@@ -189,6 +189,18 @@
         "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
         "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 4,
+      "story": {
+        "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+        "description": "The pro-Kremlin nationalist party Rodina accused the Yabloko party of receiving undeclared campaign support.",
+        "link": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -204,18 +216,6 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 3,
-      "story": {
-        "title": "Ukraine kills 13 in drone attack on Russian city of Nizhnekamsk",
-        "description": "Russian investigators say they have opened a criminal case into what they qualified as a terrorist attack 800km east of Moscow, saying that Ukraine had struck residential areas and that a child was among those civilians ",
-        "link": "https://www.abc.net.au/news/2026-08-10/ukraine-kills-13-including-child-in-drone-attack-on-russian-city/107021852",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "South Africa",
       "lat": -30.6,
       "lon": 22.9,
@@ -224,18 +224,6 @@
         "title": "Evidence that South African special forces murdered top detective shared with BBC",
         "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
         "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Shanghai",
-      "lat": 31.23,
-      "lon": 121.47,
-      "count": 2,
-      "story": {
-        "title": "China evacuates one million from homes as massive storm arrives",
-        "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -288,15 +276,15 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 2,
       "story": {
-        "title": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
-        "description": "Iran gained leverage in Hormuz, but its neighbours are reshaping regional security to limit what Tehran can do with it.",
-        "link": "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Forever a Crow, Taylor Walker remains the boy from Broken Hill",
+        "description": "Taylor Walker arrived at the Adelaide Football Club as a 75-kilogram prospect who had only ever wanted to be a footballer. More than 300 AFL games and 700 goals later, he will retire as a club great.",
+        "link": "https://www.abc.net.au/news/2026-08-11/retiring-crow-taylor-walker-went-from-broken-hill-to-afl-star/107016246",
+        "source": "ABC News AU"
       }
     },
     {
@@ -324,30 +312,6 @@
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 2,
-      "story": {
-        "title": "Five accused of using dating apps for homophobic attacks in Melbourne",
-        "description": "The arrest of the five males brings the number of people accused of similar attacks around the state to almost 50.",
-        "link": "https://www.abc.net.au/news/2026-08-10/five-accused-of-homophobic-attacks-in-dandenong/107021732",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 2,
-      "story": {
-        "title": "Thailand rocked by second shooting tragedy in three days",
-        "description": "A gunman is arrested after firing shots at a local government office on the outskirts of Bangkok with a former member of parliament accused of killing a former colonel whom he had known for years, and wounding his driver",
-        "link": "https://www.abc.net.au/news/2026-08-10/thailand-second-shooting-in-week-government-office-man-arrested/107021444",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
@@ -360,15 +324,15 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 2,
       "story": {
-        "title": "US not disengaging from Asia, seeks 'partners, not protectorates', says Pentagon official",
-        "description": "Seeking to counter concerns about Washington's reliability, the Undersecretary of Defense for Policy reiterated the US' interest in the region as he called for greater burden-sharing and \"partnership, not dependency\".",
-        "link": "https://www.channelnewsasia.com/asia/us-asia-partners-defence-power-pentagon-elbridge-colby-6309366",
-        "source": "CNA"
+        "title": "Albanese, Japan's PM and melons: Behind the revived row over podcast remark",
+        "description": "Opposition leader Angus Taylor said comments Anthony Albanese made about a gift from Japan's prime minister were \"insulting\".",
+        "link": "https://www.sbs.com.au/news/article/anthony-albanese-melons-comment-japan-sanae-takaichi/dl1otgfth",
+        "source": "SBS News"
       }
     },
     {
@@ -444,6 +408,30 @@
       }
     },
     {
+      "name": "Kremlin",
+      "lat": 55.75,
+      "lon": 37.62,
+      "count": 1,
+      "story": {
+        "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+        "description": "The pro-Kremlin nationalist party Rodina accused the Yabloko party of receiving undeclared campaign support.",
+        "link": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Migrant children go days without food in Ceuta amid asylum crisis",
+        "description": "A surge of migrant children and families remained in makeshift shelters in Ceuta, Spain’s North African enclave.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/migrant-children-go-days-without-food-in-ceuta-amid-asylum-crisis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Lebanon",
       "lat": 33.85,
       "lon": 35.86,
@@ -452,18 +440,6 @@
         "title": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
         "description": "Reports citing judicial sources say former commercial banker also indicted over alleged financial crimes.",
         "link": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Bogota",
-      "lat": 4.71,
-      "lon": -74.07,
-      "count": 1,
-      "story": {
-        "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 111 dead",
-        "description": "Officials say at least 111 people have been killed in the quake, with some still trapped under rubble.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -492,38 +468,38 @@
       }
     },
     {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "'Unexpected' closure of Adelaide wedding venue leaves couples scrambling",
-        "description": "Many Adelaide couples are scrambling to find a new venue for their weddings after a popular restaurant and cellar door announced its \"unexpected\" closure.",
-        "link": "https://www.abc.net.au/news/2026-08-10/venue-closure-leaves-couples-scrambling/107017416",
+        "title": "What causes those electric-blue flashes at the local boat ramp?",
+        "description": "Videos posted on social media have Brisbane residents heading out to get a glimpse of neon-blue bioluminescence. But what causes it, and is finding it more than blind luck?",
+        "link": "https://www.abc.net.au/news/2026-08-11/what-causes-bioluminescence-brisbane-dinoflagellates/107016454",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Bangkok",
-      "lat": 13.75,
-      "lon": 100.5,
+      "name": "United Kingdom",
+      "lat": 54.0,
+      "lon": -2.0,
       "count": 1,
       "story": {
-        "title": "Thailand rocked by second shooting tragedy in three days",
-        "description": "A gunman is arrested after firing shots at a local government office on the outskirts of Bangkok with a former member of parliament accused of killing a former colonel whom he had known for years, and wounding his driver",
-        "link": "https://www.abc.net.au/news/2026-08-10/thailand-second-shooting-in-week-government-office-man-arrested/107021444",
+        "title": "These men in a Victorian prison are teaching each other to read",
+        "description": "Prisoners in central Victoria are teaching each other to read as part of a phonics-based program adopted from the United Kingdom.",
+        "link": "https://www.abc.net.au/news/2026-08-11/loddon-prison-reading-program-shannon-trust/106990254",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Woman cleared of Cassius Turvey's murder avoids jail for driving with no licence",
-        "description": "Aleesha Gilmore, found not guilty of murdering Perth school boy Cassius Turvey, has avoided an immediate prison term for breaching the terms of her suspended sentence.",
-        "link": "https://www.abc.net.au/news/2026-08-10/aleesha-gilmore-avoids-prison-suspended-sentence/107017258",
+        "title": "Five accused of using dating apps for homophobic attacks in Melbourne",
+        "description": "The arrest of the five males brings the number of people accused of similar attacks around the state to almost 50.",
+        "link": "https://www.abc.net.au/news/2026-08-10/five-accused-of-homophobic-attacks-in-dandenong/107021732",
         "source": "ABC News AU"
       }
     },
@@ -548,6 +524,30 @@
         "title": "Which country is the new Mecca defense pact targeting?",
         "description": "Observers suggest the new alliance between Saudi Arabia, Turkey and Pakistan won't result in any of the countries fighting for each other. Instead it's about preventing Iran and Israel from regional dominance, they say.",
         "link": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
+      "count": 1,
+      "story": {
+        "title": "Which country is the new Mecca defense pact targeting?",
+        "description": "Observers suggest the new alliance between Saudi Arabia, Turkey and Pakistan won't result in any of the countries fighting for each other. Instead it's about preventing Iran and Israel from regional dominance, they say.",
+        "link": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Middle East: Iran wants US concessions before opening Hormuz",
+        "description": "Iran's Foreign Ministry reiterated that the US must meet Tehran's demands before the Strait of Hormuz is reopened. Meanwhile, Germany says Trump's plan for Gaza could get Hamas to put down its weapons. DW has more.",
+        "link": "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
