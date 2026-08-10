@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T16:24:22+00:00",
+  "generated_at": "2026-08-10T17:27:56+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,6 +75,18 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
+      "count": 9,
+      "story": {
+        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+        "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 8,
       "story": {
         "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
@@ -84,14 +96,14 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
       "count": 8,
       "story": {
-        "title": "China evacuates one million from homes as massive storm arrives",
-        "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+        "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+        "description": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -108,26 +120,14 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 7,
       "story": {
-        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-        "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 7,
-      "story": {
-        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-        "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
-        "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+        "title": "China evacuates one million from homes as massive storm arrives",
+        "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,51 +144,39 @@
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
       "count": 6,
       "story": {
-        "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-        "description": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+        "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 6,
-      "story": {
-        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
-        "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 4,
-      "story": {
-        "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
-        "description": "Al Jazeera is given rare access to one of Ukraine&#039;s long-range drone units tasked with targeting Russia.",
-        "link": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
-      "count": 4,
+      "count": 6,
       "story": {
-        "title": "Why the Rhine drought is bad news for Germany’s recovery",
-        "description": "Germany’s inland waterways still move around 5% of the nation’s goods. With the Rhine at a critically low level, DW explores how the drought is hitting the economy where it hurts most.",
+        "title": "Why the Rhine drought is bad news for Germany's recovery",
+        "description": "Germany’s inland waterways still move around 5% of the nation's goods. With the Rhine at a critically low level, DW explores how the drought is hitting the economy where it hurts most.",
         "link": "https://www.dw.com/en/why-the-rhine-drought-is-bad-news-for-germany-s-recovery/a-78300076?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 5,
+      "story": {
+        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+        "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -216,14 +204,14 @@
       }
     },
     {
-      "name": "Ecuador",
-      "lat": -1.83,
-      "lon": -78.18,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 3,
       "story": {
-        "title": "At least 20 killed in Colombia by powerful 7.4-magnitude earthquake",
-        "description": "The powerful 7.4-magnitude earthquake was also felt in neighbouring Ecuador, with Colombia's president vowing a significant government response.",
-        "link": "https://www.abc.net.au/news/2026-08-11/colombia-earthquake-magnitude-7-4-felt-in-ecuador-aftershocks/107022018",
+        "title": "Ukraine kills 13 in drone attack on Russian city of Nizhnekamsk",
+        "description": "Russian investigators say they have opened a criminal case into what they qualified as a terrorist attack 800km east of Moscow, saying that Ukraine had struck residential areas and that a child was among those civilians ",
+        "link": "https://www.abc.net.au/news/2026-08-10/ukraine-kills-13-including-child-in-drone-attack-on-russian-city/107021852",
         "source": "ABC News AU"
       }
     },
@@ -248,6 +236,18 @@
         "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
         "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
         "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 2,
+      "story": {
+        "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
+        "description": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -312,6 +312,42 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
+        "description": "Netanyahu&#039;s declaration has reinforced doubts of lasting calm without Israeli withdrawal, reconstruction and guarantees.",
+        "link": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 2,
+      "story": {
+        "title": "Sudan’s army chief holds unannounced talks on national dialogue",
+        "description": "Al-Burhan engaged in discreet consultations aiming to pave the way for a comprehensive Sudanese dialogue conference.",
+        "link": "https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 2,
+      "story": {
+        "title": "‘They need each other’: What’s behind the new Syria-Russia accord?",
+        "description": "The Syrian-Russian agreement reflects a pragmatic approach redefining past alliances amid shifting geopolitics.",
+        "link": "https://www.aljazeera.com/news/2026/8/10/they-need-each-other-whats-behind-the-new-syria-russia-accord?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Tehran",
       "lat": 35.7,
       "lon": 51.4,
@@ -321,6 +357,18 @@
         "description": "Iran gained leverage in Hormuz, but its neighbours are reshaping regional security to limit what Tehran can do with it.",
         "link": "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ecuador",
+      "lat": -1.83,
+      "lon": -78.18,
+      "count": 2,
+      "story": {
+        "title": "At least 77 dead in Colombia after powerful 7.4-magnitude earthquake",
+        "description": "The powerful 7.4-magnitude earthquake was also felt in neighbouring Ecuador, with Colombia's president vowing a significant government response.",
+        "link": "https://www.abc.net.au/news/2026-08-11/colombia-earthquake-magnitude-7-4-felt-in-ecuador-aftershocks/107022018",
+        "source": "ABC News AU"
       }
     },
     {
@@ -345,18 +393,6 @@
         "description": "The Australian prime minister has landed in hot water over a gesture involving two melons, which his office insists was not referring to Japanese Prime Minister Sanae Takaichi's body.",
         "link": "https://www.abc.net.au/news/2026-08-10/taylor-demands-albanese-apologise-to-takaichi/107017790",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 2,
-      "story": {
-        "title": "Colombia: Several killed after large earthquake rocks region",
-        "description": "A powerful earthquake, initially measured at magnitude 7.4, has struck Colombia, killing at least 20 people. Tremors were also felt in neighboring Ecuador, as well as in Panama and Venezuela.",
-        "link": "https://www.dw.com/en/colombia-several-killed-after-large-earthquake-rocks-region/a-78307841?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -396,18 +432,6 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 1,
-      "story": {
-        "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-        "description": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
-        "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Dublin",
       "lat": 53.35,
       "lon": -6.26,
@@ -420,14 +444,14 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Bogota",
+      "lat": 4.71,
+      "lon": -74.07,
       "count": 1,
       "story": {
-        "title": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
-        "description": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss",
+        "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 47 dead",
+        "description": "Officials say at least 47 people have been killed in the quake, with some still trapped under rubble.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -440,18 +464,6 @@
         "title": "How the US far-right weaponised ‘inshallah’ against Abdul El-Sayed",
         "description": "After his Senate primary win in Michigan, the Egyptian American doctor faced a coordinated digital smear campaign.",
         "link": "https://www.aljazeera.com/news/2026/8/10/how-the-us-far-right-weaponised-inshallah-against-abdul-el-sayed?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Has the army turned the page on control of western Sudan?",
-        "description": "Sudan&#039;s military repels a series of offensives by the RSF paramilitary in a strategically significant region.",
-        "link": "https://www.aljazeera.com/news/2026/8/10/has-the-sudanese-army-turned-the-page-on-control-of-western-sudan?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -536,18 +548,6 @@
         "title": "Which country is the new Mecca defense pact targeting?",
         "description": "Observers suggest the new alliance between Saudi Arabia, Turkey and Pakistan won't result in any of the countries fighting for each other. Instead it's about preventing Iran and Israel from regional dominance, they say.",
         "link": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 1,
-      "story": {
-        "title": "How climate change is reshaping Africa's malaria risk",
-        "description": "Researchers say warming temperatures are altering malaria transmission patterns across Africa, creating new challenges for health systems and disease control.",
-        "link": "https://www.dw.com/en/how-climate-change-is-reshaping-africa-s-malaria-risk/a-78304711?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
