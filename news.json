@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T09:42:27+00:00",
+  "generated_at": "2026-08-10T11:12:53+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,7 +18,7 @@
       "source": "BBC News"
     },
     {
-      "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+      "title": "Ban on 'subscription traps' brought forward by three months",
       "description": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
       "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
@@ -32,21 +32,21 @@
   ],
   "australia": [
     {
+      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
+      "description": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+      "description": "Forensics revealed that the 'realistic' looking body was in fact not human.",
+      "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
       "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "description": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Ancient Roman shipwreck discovered off Sicily coast",
-      "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,10 +72,22 @@
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 9,
+      "story": {
+        "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+        "description": "Forensics revealed that the 'realistic' looking body was in fact not human.",
+        "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
         "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
@@ -99,7 +111,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
         "description": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
@@ -108,14 +120,14 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 8,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 6,
       "story": {
-        "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-        "description": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
-        "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+        "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+        "description": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,26 +144,26 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 5,
       "story": {
-        "title": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say",
+        "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
         "description": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
         "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
       "story": {
-        "title": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say",
-        "description": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+        "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -159,24 +171,12 @@
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Germany news: Low water on Rhine could sever freight route",
         "description": "Germany's inland shipping association has warned that the Rhine could soon become effectively split in two as water levels continue to fall. In Berlin, a man was shot dead near a busy central transport hub. DW has more.",
         "link": "https://www.dw.com/en/germany-news-low-water-on-rhine-could-sever-freight-route/live-78299336?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
-      "count": 3,
-      "story": {
-        "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
-        "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -228,15 +228,27 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 3,
       "story": {
-        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
-        "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "'Unexpected' closure of Adelaide wedding venue leaves couples scrambling",
+        "description": "Many Adelaide couples are scrambling to find a new venue for their weddings after a popular restaurant and cellar door announced its \"unexpected\" closure.",
+        "link": "https://www.abc.net.au/news/2026-08-10/venue-closure-leaves-couples-scrambling/107017416",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Bangkok",
+      "lat": 13.75,
+      "lon": 100.5,
+      "count": 3,
+      "story": {
+        "title": "Thailand rocked by second shooting tragedy in three days",
+        "description": "A gunman is arrested after firing shots at a local government office on the outskirts of Bangkok with a former member of parliament accused of killing a former colonel whom he had known for years, and wounding his driver",
+        "link": "https://www.abc.net.au/news/2026-08-10/thailand-second-shooting-in-week-government-office-man-arrested/107021444",
+        "source": "ABC News AU"
       }
     },
     {
@@ -252,14 +264,14 @@
       }
     },
     {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
+      "name": "Dubai",
+      "lat": 25.2,
+      "lon": 55.27,
       "count": 2,
       "story": {
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+        "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,15 +288,15 @@
       }
     },
     {
-      "name": "Dublin",
-      "lat": 53.35,
-      "lon": -6.26,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 2,
       "story": {
-        "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-        "description": "Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.",
-        "link": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Winemakers prosper but veg farms wilt in the drought",
+        "description": "Growers in the West of England search for new crops to grow in a changing climate.",
+        "link": "https://www.bbc.co.uk/news/articles/c141vjlyjgko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -312,18 +324,6 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 2,
-      "story": {
-        "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
-        "description": "Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.",
-        "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Malaysia",
       "lat": 4.21,
       "lon": 101.98,
@@ -336,14 +336,14 @@
       }
     },
     {
-      "name": "Bangkok",
-      "lat": 13.75,
-      "lon": 100.5,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Thailand rocked by second shooting tragedy in three days",
-        "description": "A gunman is arrested after firing shots at a local government office on the outskirts of Bangkok with a former member of parliament accused of killing a former colonel whom he had known for years, and wounding his driver",
-        "link": "https://www.abc.net.au/news/2026-08-10/thailand-second-shooting-in-week-government-office-man-arrested/107021444",
+        "title": "Five accused of using dating apps for homophobic attacks in Melbourne",
+        "description": "The arrest of the five males brings the number of people accused of similar attacks around the state to almost 50.",
+        "link": "https://www.abc.net.au/news/2026-08-10/five-accused-of-homophobic-attacks-in-dandenong/107021732",
         "source": "ABC News AU"
       }
     },
@@ -372,18 +372,6 @@
       }
     },
     {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 2,
-      "story": {
-        "title": "AGL fined $60k after workers exposed to lead during power plant deactivation",
-        "description": "South Australia's Employment Tribunal has fined energy giant AGL after workers were exposed to lead during a decommissioning project at an Adelaide power station.",
-        "link": "https://www.abc.net.au/news/2026-08-10/agl-torrens-island-power-station-lead-fine-safework/107017322",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Canberra",
       "lat": -35.28,
       "lon": 149.13,
@@ -401,9 +389,9 @@
       "lon": 30.52,
       "count": 2,
       "story": {
-        "title": "Ukrainian drone attack kills at least 12 in central Russia",
-        "description": "Ukraine launched hundreds of drones at targets inside Russia, according to Russian officials. The strikes killed at least 12 people in one of Kyiv's deadliest attacks since the Russian invasion began over four years ago.",
-        "link": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-12-in-central-russia/a-78300485?maca=en-rss-en-all-1573-rdf",
+        "title": "Ukrainian drone attack kills at least 13 in central Russia",
+        "description": "Ukraine launched hundreds of drones at targets inside Russia, according to Russian officials. The strikes killed more than a dozen in one of Kyiv's deadliest attacks since the Russian invasion began over four years ago.",
+        "link": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -420,24 +408,12 @@
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 2,
-      "story": {
-        "title": "Indonesian president nominates acting head to lead central bank",
-        "description": "Destry Damayanti has been nominated as the sole candidate for the job, said a&nbsp;presidential spokesman.",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-central-bank-acting-governor-destry-damayanti-lead-6309361",
-        "source": "CNA"
-      }
-    },
-    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
       "count": 1,
       "story": {
-        "title": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say",
+        "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
         "description": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
         "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
@@ -492,6 +468,30 @@
       }
     },
     {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 1,
+      "story": {
+        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Dublin",
+      "lat": 53.35,
+      "lon": -6.26,
+      "count": 1,
+      "story": {
+        "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
+        "description": "Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.",
+        "link": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Netherlands",
       "lat": 52.13,
       "lon": 5.29,
@@ -500,18 +500,6 @@
         "title": "Owner of bike maker Raleigh files for insolvency",
         "description": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
         "link": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 1,
-      "story": {
-        "title": "Winemakers prosper but veg farms wilt in the drought",
-        "description": "Growers in the West of England search for new crops to grow in a changing climate.",
-        "link": "https://www.bbc.co.uk/news/articles/c141vjlyjgko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
       }
     },
@@ -548,6 +536,18 @@
         "title": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
         "description": "Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says.",
         "link": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 1,
+      "story": {
+        "title": "Brazilian player falls into tunnel celebrating goal",
+        "description": "Footage shows Brazilian player Jacy Maranhão falling into the players’ tunnel after jumping over advertising boards.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss",
         "source": "Al Jazeera"
       }
     }
