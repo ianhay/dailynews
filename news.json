@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T22:44:01+00:00",
+  "generated_at": "2026-08-10T23:40:19+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -44,19 +44,13 @@
       "source": "BBC News"
     },
     {
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "description": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds arrested over French wildfires, but who is to blame?",
+      "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
-    {
-      "title": "Nvidia gets $500bn from major banks to develop AI data centres",
-      "description": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
-    },
     {
       "title": "Trump imposes 15% tariff on key chip material to counter China",
       "description": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
@@ -68,21 +62,15 @@
       "description": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
       "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
+      "description": "Reports citing judicial sources say former commercial banker also indicted over alleged financial crimes.",
+      "link": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss",
+      "source": "Al Jazeera"
     }
   ],
   "places": [
-    {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 9,
-      "story": {
-        "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-        "description": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
-        "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
     {
       "name": "Iran",
       "lat": 32.0,
@@ -96,10 +84,22 @@
       }
     },
     {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 9,
+      "story": {
+        "title": "Moment of terror as powerful earthquake shakes airport in Colombia",
+        "description": "Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
         "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
@@ -111,11 +111,23 @@
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
         "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
         "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 7,
+      "story": {
+        "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+        "description": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+        "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -123,24 +135,12 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
         "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
         "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
-      "count": 7,
-      "story": {
-        "title": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
-        "description": "Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -161,22 +161,10 @@
       "lon": 138.25,
       "count": 5,
       "story": {
-        "title": "Live: Teal MP urges Albanese to 'pick up phone' and apologise for melon gaffe",
-        "description": "Anthony Albanese is again facing calls to personally apologise to his Japanese counterpart over a gesture he made about two melons Sanae Takaichi gifted him. Follow live.",
+        "title": "Live: PM's melon gaffe has been misinterpreted: Gallagher",
+        "description": "Anthony Albanese is again facing calls to personally apologise to his Japanese counterpart over a gesture he made about two melons Sanae Takaichi gifted him, but a government frontbencher insists his remarks have been mi",
         "link": "https://www.abc.net.au/news/2026-08-11/federal-politics-live-blog-august-11/107022468",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
-      "story": {
-        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
-        "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -192,6 +180,18 @@
       }
     },
     {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 4,
+      "story": {
+        "title": "Inside a secret launch site for Ukraine’s deep-strike drones",
+        "description": "AJ&#039;s Audrey MacAlpine reports from a secret launch site in eastern Ukraine, where soldiers prepare long-range drones.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
@@ -204,15 +204,27 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 3,
       "story": {
-        "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-        "description": "The pro-Kremlin nationalist party Rodina accused the Yabloko party of receiving undeclared campaign support.",
-        "link": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+        "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "'A great gift for Sydney': Designs released for new Town Hall Square",
+        "description": "The new public square will be opposite Town Hall in the heart of Sydney's CBD, promising \"the grandeur of a European square\".",
+        "link": "https://www.abc.net.au/news/2026-08-11/designs-released-for-sydney-cbd-town-hall-square-future/107022598",
+        "source": "ABC News AU"
       }
     },
     {
@@ -276,18 +288,6 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Palestinian club football to restart in September after Gaza war suspension",
-        "description": "Palestinian sports leagues, including professional football, were halted due to Israel&#039;s genocidal war on Palestinians.",
-        "link": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Perth",
       "lat": -31.95,
       "lon": 115.86,
@@ -308,30 +308,6 @@
         "title": "This international student helped Bondi attack victims. It could cost him",
         "description": "Abdullah Ashraf, a law student from Pakistan, had his student visa lapse while on compassionate leave from his studies in the aftermath of the Bondi Beach terror attack.",
         "link": "https://www.abc.net.au/news/2026-08-11/nsw-bondi-terror-attack-victim-helper-student-visa-issues/107010864",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 2,
-      "story": {
-        "title": "US music guru casts his verdict on Sydney teen's debut single",
-        "description": "Influential US musician and producer Rick Beato has heaped praise on the debut single by 13-year-old Sydney performer Niko Karolia.",
-        "link": "https://www.abc.net.au/news/2026-08-11/rick-beato-impressed-by-13yo-sydney-singer-niko-karolia/107018364",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 2,
-      "story": {
-        "title": "Quitting dream job over climate fears a 'no-brainer' for former pilot",
-        "description": "Geoff Collis spent 40 years flying high in the sky, but left his dream job to become a baker due to concerns about his role in a warming climate.",
-        "link": "https://www.abc.net.au/news/2026-08-11/eltham-pilot-turned-baker-quit-flying-for-climate-change-vic/106945332",
         "source": "ABC News AU"
       }
     },
@@ -492,26 +468,14 @@
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "Sudan’s army chief holds unannounced talks on national dialogue",
-        "description": "Al-Burhan engaged in discreet consultations aiming to pave the way for a comprehensive Sudanese dialogue conference.",
-        "link": "https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 1,
-      "story": {
-        "title": "‘They need each other’: What’s behind the new Syria-Russia accord?",
-        "description": "The Syrian-Russian agreement reflects a pragmatic approach redefining past alliances amid shifting geopolitics.",
-        "link": "https://www.aljazeera.com/news/2026/8/10/they-need-each-other-whats-behind-the-new-syria-russia-accord?traffic_source=rss",
+        "title": "Palestinian club football to restart in September after Gaza war suspension",
+        "description": "Palestinian sports leagues, including professional football, were halted due to Israel&#039;s genocidal war on Palestinians.",
+        "link": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -533,7 +497,7 @@
       "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "What causes those electric-blue flashes at the local boat ramp?",
+        "title": "Electric-blue glow lights up water around Brisbane",
         "description": "Videos posted on social media show Brisbane residents heading out to get a glimpse of neon-blue bioluminescence. But what causes it, and is finding it more than blind luck?",
         "link": "https://www.abc.net.au/news/2026-08-11/what-causes-bioluminescence-brisbane-dinoflagellates/107016454",
         "source": "ABC News AU"
@@ -549,6 +513,42 @@
         "description": "Prisoners in central Victoria are teaching each other to read as part of a phonics-based program adopted from the United Kingdom.",
         "link": "https://www.abc.net.au/news/2026-08-11/loddon-prison-reading-program-shannon-trust/106990254",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 1,
+      "story": {
+        "title": "Which country is the new Mecca defense pact targeting?",
+        "description": "Observers suggest the new alliance between Saudi Arabia, Turkey and Pakistan won't result in any of the countries fighting for each other. Instead it's about preventing Iran and Israel from regional dominance, they say.",
+        "link": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 1,
+      "story": {
+        "title": "How climate change is reshaping Africa's malaria risk",
+        "description": "Researchers say warming temperatures are altering malaria transmission patterns across Africa, creating new challenges for health systems and disease control.",
+        "link": "https://www.dw.com/en/how-climate-change-is-reshaping-africa-s-malaria-risk/a-78304711?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 1,
+      "story": {
+        "title": "Ukrainian drone attack kills at least 13 in central Russia",
+        "description": "Ukraine launched hundreds of drones at targets inside Russia, according to Russian officials. The strikes killed more than a dozen in one of Kyiv's deadliest attacks since the Russian invasion began over four years ago.",
+        "link": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
