@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T13:57:18+00:00",
+  "generated_at": "2026-08-10T15:08:37+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Ecuador charges ex-minister over presidential candidate assassination case",
-      "description": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
-      "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Ban on 'subscription traps' brought forward by three months",
       "description": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
       "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
@@ -28,9 +22,21 @@
       "description": "A quarter of the UK population – including the new prime minister – have at least one tattoo, but they still divide opinion in the workplace.",
       "link": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
+      "description": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss",
+      "source": "Al Jazeera"
     }
   ],
   "australia": [
+    {
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Former Thai MP allegedly kills official and confesses on YouTube",
       "description": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
@@ -41,12 +47,6 @@
       "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
       "description": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
       "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
-      "description": "Forensics revealed that the \"realistic\" looking body was in fact not human.",
-      "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,10 +72,22 @@
   ],
   "places": [
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 8,
+      "story": {
+        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+        "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 10,
+      "count": 8,
       "story": {
         "title": "China evacuates one million from homes as massive storm arrives",
         "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
@@ -84,58 +96,10 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 8,
-      "story": {
-        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-        "description": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 8,
-      "story": {
-        "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
-        "description": "Forensics revealed that the \"realistic\" looking body was in fact not human.",
-        "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 7,
-      "story": {
-        "title": "India police fire tear gas at protesters seeking exam reforms",
-        "description": "Thousands of students and job seekers have gathered in Jharkhand state, weeks after the \"cockroach\" protests took place in Delhi.",
-        "link": "https://www.bbc.co.uk/news/articles/c89nkz4vjyxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 6,
-      "story": {
-        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-        "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 6,
+      "count": 8,
       "story": {
         "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
         "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
@@ -144,14 +108,62 @@
       }
     },
     {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 7,
+      "story": {
+        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+        "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
+      "count": 7,
+      "story": {
+        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+        "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 7,
+      "story": {
+        "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+        "description": "Forensics revealed that the \"realistic\" looking body was in fact not human.",
+        "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 6,
+      "story": {
+        "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+        "description": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 5,
       "story": {
-        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-        "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+        "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -159,36 +171,12 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
         "description": "Al Jazeera is given rare access to one of Ukraine&#039;s long-range drone units tasked with targeting Russia.",
         "link": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 4,
-      "story": {
-        "title": "What we know so far about the deadly Thailand shooting",
-        "description": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
-        "link": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 4,
-      "story": {
-        "title": "Germany news: Low water on Rhine could sever freight route",
-        "description": "Germany's inland shipping association has warned that the Rhine could soon become effectively split in two as water levels continue to fall. In Berlin, a man was shot dead near a busy central transport hub. DW has more.",
-        "link": "https://www.dw.com/en/germany-news-low-water-on-rhine-could-sever-freight-route/live-78299336?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -204,15 +192,27 @@
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
+      "name": "Dubai",
+      "lat": 25.2,
+      "lon": 55.27,
       "count": 3,
       "story": {
-        "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-        "description": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+        "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+        "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
+      "count": 3,
+      "story": {
+        "title": "Former MP opens fire in Thailand’s second shooting within days",
+        "description": "A second shooting has occurred in Thailand within days after a former MP opened fire outside a government office.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/former-mp-opens-fire-in-thailands-second-shooting-within-days?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -228,38 +228,38 @@
       }
     },
     {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 3,
+      "story": {
+        "title": "Germany news: Low water on Rhine could sever freight route",
+        "description": "Germany's inland shipping association has warned that the Rhine could soon become effectively split in two as water levels continue to fall. In Berlin, a man was shot dead near a busy central transport hub. DW has more.",
+        "link": "https://www.dw.com/en/germany-news-low-water-on-rhine-could-sever-freight-route/live-78299336?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
       "count": 2,
       "story": {
         "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-        "description": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion.",
+        "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
         "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
       "count": 2,
       "story": {
         "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
         "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
         "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ecuador",
-      "lat": -1.83,
-      "lon": -78.18,
-      "count": 2,
-      "story": {
-        "title": "Ecuador charges ex-minister over presidential candidate assassination case",
-        "description": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
-        "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,15 +276,27 @@
       }
     },
     {
-      "name": "Bangkok",
-      "lat": 13.75,
-      "lon": 100.5,
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
       "count": 2,
       "story": {
-        "title": "What we know so far about the deadly Thailand shooting",
-        "description": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
-        "link": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Owner of bike maker Raleigh files for insolvency",
+        "description": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 2,
+      "story": {
+        "title": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
+        "description": "Iran gained leverage in Hormuz, but its neighbours are reshaping regional security to limit what Tehran can do with it.",
+        "link": "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -297,6 +309,18 @@
         "description": "The Copernicus Climate Change Service says historically low rainfall has worsened the situation in several countries.",
         "link": "https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ecuador",
+      "lat": -1.83,
+      "lon": -78.18,
+      "count": 2,
+      "story": {
+        "title": "Colombia hit by 7.4-magnitude earthquake, with injuries and damage reported",
+        "description": "The powerful 7.4-magnitude earthquake was also felt in neighbouring Ecuador, with Colombia's president vowing a significant government response.",
+        "link": "https://www.abc.net.au/news/2026-08-11/colombia-earthquake-magnitude-7-4-felt-in-ecuador-aftershocks/107022018",
+        "source": "ABC News AU"
       }
     },
     {
@@ -348,18 +372,6 @@
       }
     },
     {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 1,
-      "story": {
-        "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
-        "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Italy",
       "lat": 42.5,
       "lon": 12.5,
@@ -396,15 +408,27 @@
       }
     },
     {
-      "name": "Netherlands",
-      "lat": 52.13,
-      "lon": 5.29,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "Owner of bike maker Raleigh files for insolvency",
-        "description": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
+        "description": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 1,
+      "story": {
+        "title": "How the US far-right weaponised ‘inshallah’ against Abdul El-Sayed",
+        "description": "After his Senate primary win in Michigan, the Egyptian American doctor faced a coordinated digital smear campaign.",
+        "link": "https://www.aljazeera.com/news/2026/8/10/how-the-us-far-right-weaponised-inshallah-against-abdul-el-sayed?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -432,15 +456,15 @@
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
+      "name": "Bangkok",
+      "lat": 13.75,
+      "lon": 100.5,
       "count": 1,
       "story": {
-        "title": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
-        "description": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Thailand rocked by second shooting tragedy in three days",
+        "description": "A gunman is arrested after firing shots at a local government office on the outskirts of Bangkok with a former member of parliament accused of killing a former colonel whom he had known for years, and wounding his driver",
+        "link": "https://www.abc.net.au/news/2026-08-10/thailand-second-shooting-in-week-government-office-man-arrested/107021444",
+        "source": "ABC News AU"
       }
     },
     {
@@ -473,21 +497,45 @@
       "lon": -66.6,
       "count": 1,
       "story": {
-        "title": "Large earthquake hits western Colombia causing damage",
-        "description": "A powerful earthquake, initially measured at magnitude 7.4, has struck Colombia. Tremors were also felt in neighboring Ecuador, as well as in Panama and Venezuela.",
-        "link": "https://www.dw.com/en/large-earthquake-hits-western-colombia-causing-damage/a-78307841?maca=en-rss-en-all-1573-rdf",
+        "title": "Colombia: Several killed after large earthquake rocks region",
+        "description": "A powerful earthquake, initially measured at magnitude 7.4, has struck Colombia, killing at least 18 people. Tremors were also felt in neighboring Ecuador, as well as in Panama and Venezuela.",
+        "link": "https://www.dw.com/en/colombia-several-killed-after-large-earthquake-rocks-region/a-78307841?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 1,
       "story": {
-        "title": "Middle East: Iran wants US concessions before opening Hormuz",
-        "description": "Iran's Foreign Ministry reiterated that the US must meet Tehran's demands before the Strait of Hormuz is reopened and that ships transiting through will be expected to pay a fee. Follow DW for more.",
-        "link": "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-rdf",
+        "title": "Which country is the new Mecca defense pact targeting?",
+        "description": "Observers suggest the new alliance between Saudi Arabia, Turkey and Pakistan won't result in any of the countries fighting for each other. Instead it's about preventing Iran and Israel from regional dominance, they say.",
+        "link": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 1,
+      "story": {
+        "title": "Which country is the new Mecca defense pact targeting?",
+        "description": "Observers suggest the new alliance between Saudi Arabia, Turkey and Pakistan won't result in any of the countries fighting for each other. Instead it's about preventing Iran and Israel from regional dominance, they say.",
+        "link": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
+      "count": 1,
+      "story": {
+        "title": "Which country is the new Mecca defense pact targeting?",
+        "description": "Observers suggest the new alliance between Saudi Arabia, Turkey and Pakistan won't result in any of the countries fighting for each other. Instead it's about preventing Iran and Israel from regional dominance, they say.",
+        "link": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -501,54 +549,6 @@
         "description": "Ukraine launched hundreds of drones at targets inside Russia, according to Russian officials. The strikes killed more than a dozen in one of Kyiv's deadliest attacks since the Russian invasion began over four years ago.",
         "link": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 1,
-      "story": {
-        "title": "China: Typhoon Dolphin prompts mass evacuation, canceled flights",
-        "description": "Even as it weakens, Typhoon Dolphin is disrupting life in China. Close to 1,500 flights have been canceled in Shanghai while parts of Beijing are under flood alert.",
-        "link": "https://www.dw.com/en/china-typhoon-dolphin-prompts-mass-evacuation-canceled-flights/a-78299416?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 1,
-      "story": {
-        "title": "Syria says deal agreed with Russia on future of military bases",
-        "description": "Under the agreement, Syria will take over management of two Russian bases that were used to support ousted leader Bashar Assad during the Syrian civil war.",
-        "link": "https://www.dw.com/en/syria-says-deal-agreed-with-russia-on-future-of-military-bases/a-78297584?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
-      "count": 1,
-      "story": {
-        "title": "Denmark: Several wounded in suspected gang shooting",
-        "description": "Police said they believed that the incident was linked to a \"settling of scores\" within criminal networks.",
-        "link": "https://www.dw.com/en/denmark-several-wounded-in-suspected-gang-shooting/a-78297276?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 1,
-      "story": {
-        "title": "72-year-old Singaporean man rescued after being kidnapped in Malaysia",
-        "description": "The kidnap-for-ransom syndicate lured the man with a job offer and later demanded S$1 million for his release, according to Malaysian media.&nbsp;&nbsp;",
-        "link": "https://www.channelnewsasia.com/singapore/singaporean-man-kidnapped-malaysia-rescued-kedah-6309741",
-        "source": "CNA"
       }
     }
   ]
