@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T15:07:48+00:00",
+  "generated_at": "2026-08-11T16:25:55+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -39,7 +39,7 @@
     },
     {
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+      "description": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
       "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -55,7 +55,7 @@
       "title": "France bans unsolicited telemarketing calls",
       "description": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
       "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
+      "source": "BBC News"
     },
     {
       "title": "Iran, US set new conditions during Hormuz talks: What does this mean?",
@@ -64,13 +64,25 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "The Global South’s digital future must not belong to Bezos and Musk",
-      "description": "Satellite internet can close digital divide, but Global South must not trade access for dependence on foreign firms.",
-      "link": "https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss",
-      "source": "Al Jazeera"
+      "title": "Key issues in Zambia's 2026 general election",
+      "description": "Economic recovery, youth turnout, women's representation and judicial independence are among the issues shaping Zambia's vote on Thursday.",
+      "link": "https://www.dw.com/en/key-issues-in-zambia-s-2026-general-election/a-78320087?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
     }
   ],
   "places": [
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 11,
+      "story": {
+        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+        "description": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
     {
       "name": "Australia",
       "lat": -25.0,
@@ -84,26 +96,26 @@
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
-      "count": 9,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 7,
       "story": {
-        "title": "At least 169 killed in Colombia's largest  earthquake in years",
-        "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
-        "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+        "description": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
+        "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 8,
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 6,
       "story": {
-        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-        "description": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Family escapes home during Colombia earthquake",
+        "description": "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years.",
+        "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,23 +123,11 @@
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "The transgender controversy surrounding the WNBA",
         "description": "After the Indiana Fever's Sophie Cunningham said it was \"common sense\" to ban transgender women from women's sports, a row has emerged in the WNBA - with former NBA players saying eligibility rules mean they can enter th",
         "link": "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 6,
-      "story": {
-        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-        "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
-        "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -162,20 +162,20 @@
       "count": 5,
       "story": {
         "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-        "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+        "description": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
         "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
       "count": 5,
       "story": {
-        "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-        "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-        "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+        "title": "Lebanon parliament votes to abolish death penalty",
+        "description": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
+        "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -188,6 +188,18 @@
         "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
         "description": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
         "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 4,
+      "story": {
+        "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+        "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+        "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,6 +228,18 @@
       }
     },
     {
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
+      "count": 3,
+      "story": {
+        "title": "Watch: Tide of rubbish blankets Philippines river",
+        "description": "Workers in Manila waded through the river, collecting waste that washed in during days of heavy rain.",
+        "link": "https://www.bbc.co.uk/news/videos/c5y3vzvnnkro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
@@ -228,62 +252,38 @@
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 3,
-      "story": {
-        "title": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
-        "description": "First responders in Lebanon risk their lives to save others even as Israeli attacks intensify around them.",
-        "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 3,
-      "story": {
-        "title": "Disrupted monsoons force India to face climate threat",
-        "description": "For generations, India has lived by the rhythm of the southwest monsoon. But with the country hit by dry spells, cloudbursts and deadly floods, climate swings now expose the costs of building for yesterday's weather.",
-        "link": "https://www.dw.com/en/disrupted-monsoons-force-india-to-face-climate-threat/a-78324753?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
       "count": 2,
       "story": {
         "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-        "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+        "description": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
         "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 2,
       "story": {
-        "title": "Libyan authorities battle big blaze at major oil refinery",
-        "description": "Monday's drone strike on the Zawiya refinery was the third such incident in two days.",
-        "link": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
+        "title": "France bans unsolicited telemarketing calls",
+        "description": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
+        "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
+      "name": "Hungary",
+      "lat": 47.16,
+      "lon": 19.5,
       "count": 2,
       "story": {
-        "title": "‘Only job I know’: Philippine sailors return to sea despite wartime risks",
-        "description": "Despite risks in the Strait of Hormuz and Black Sea, seafarers from the Philippines are still competing for jobs.",
-        "link": "https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss",
+        "title": "Hungary elects supreme court judge ousted by Orban as new president",
+        "description": "Baka replaces Orban appointee Tamas Sulyok, ousted weeks ago during Tisza’s campaign against Orban-era power structures.",
+        "link": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -324,6 +324,18 @@
       }
     },
     {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 2,
+      "story": {
+        "title": "Disrupted monsoons force India to face climate threat",
+        "description": "For generations, India has lived by the rhythm of the southwest monsoon. But with the country hit by dry spells, cloudbursts and deadly floods, climate swings now expose the costs of building for yesterday's weather.",
+        "link": "https://www.dw.com/en/disrupted-monsoons-force-india-to-face-climate-threat/a-78324753?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
@@ -348,18 +360,6 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 1,
-      "story": {
-        "title": "Canada flight cancelled after child refuses to wear seat belt",
-        "description": "The incident has sparked a debate over child safety and discipline on commercial planes.",
-        "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Thailand",
       "lat": 15.87,
       "lon": 100.99,
@@ -368,6 +368,30 @@
         "title": "Thailand suspends new gun permits after mass shooting",
         "description": "Authorities promise tough new laws in the country, which has high levels of firearms ownership.",
         "link": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Libya",
+      "lat": 26.34,
+      "lon": 17.23,
+      "count": 1,
+      "story": {
+        "title": "Libyan authorities battle big blaze at major oil refinery",
+        "description": "Monday's drone strike on the Zawiya refinery was the third such incident in two days.",
+        "link": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 1,
+      "story": {
+        "title": "Canada flight cancelled after child refuses to wear seat belt",
+        "description": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+        "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -408,39 +432,15 @@
       }
     },
     {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
+      "name": "Manila",
+      "lat": 14.6,
+      "lon": 120.98,
       "count": 1,
       "story": {
-        "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-        "description": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
-        "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Tide of rubbish blankets Philippines river",
+        "description": "Workers in Manila waded through the river, collecting waste that washed in during days of heavy rain.",
+        "link": "https://www.bbc.co.uk/news/videos/c5y3vzvnnkro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
-      "count": 1,
-      "story": {
-        "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-        "description": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
-        "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 1,
-      "story": {
-        "title": "France bans unsolicited telemarketing calls",
-        "description": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
-        "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -468,6 +468,30 @@
       }
     },
     {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "DC residents debate safety gains a year into Trump’s Guard deployment",
+        "description": "Mixed reactions persist in Washington, DC, a year after Trump deployed the National Guard to address crime concerns.",
+        "link": "https://www.aljazeera.com/news/2026/8/11/dc-residents-debate-safety-gains-a-year-into-trumps-guard-deployment?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 1,
+      "story": {
+        "title": "Ten police and 17 “bandits” killed in firefight in northwestern Nigeria",
+        "description": "Police say 17 suspected gang members and two civilians were also killed in Kebbi State.",
+        "link": "https://www.aljazeera.com/news/2026/8/11/dozens-killed-in-firefight-between-nigerian-armed-group-and-police?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "South Africa",
       "lat": -30.6,
       "lon": 22.9,
@@ -476,30 +500,6 @@
         "title": "Late snow blankets parts of southern Africa as winter nears its end",
         "description": "Late-season snow hits South Africa and Lesotho as the Northern Hemisphere swelters in heat and wildfires.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/late-snow-blankets-parts-of-southern-africa-as-winter-nears-its-end?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 1,
-      "story": {
-        "title": "DRC Ebola death toll passes 2,000 amid fastest-growing outbreak on record",
-        "description": "A total of 4,381 cases across five provinces have been confirmed in the Democratic Republic of the Congo as of Tuesday.",
-        "link": "https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 1,
-      "story": {
-        "title": "Bangladesh and India battle to save cricket series after political turmoil",
-        "description": "Bangladesh and India white-ball series under threat due to tensions that arose when Bangladeshi PM Hasina toppled.",
-        "link": "https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
