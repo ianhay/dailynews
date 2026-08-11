@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T10:04:09+00:00",
+  "generated_at": "2026-08-11T11:22:35+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -33,7 +33,7 @@
   "australia": [
     {
       "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "description": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
+      "description": "The US president was part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
       "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -58,48 +58,24 @@
       "source": "BBC Business"
     },
     {
+      "title": "The Global South’s digital future must not belong to Bezos and Musk",
+      "description": "Satellite internet can close digital divide, but Global South must not trade access for dependence on foreign firms.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
       "description": "Kyiv is facing a brutal Russian response as its air defence missile stocks dwindle.",
       "link": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Why the Rhine drought is bad news for Germany's recovery",
-      "description": "Germany’s inland waterways still move around 5% of the nation's goods. With the Rhine at a critically low level, DW explores how the drought is hitting the economy where it hurts most.",
-      "link": "https://www.dw.com/en/why-the-rhine-drought-is-bad-news-for-germany-s-recovery/a-78300076?maca=en-rss-en-all-1573-rdf",
-      "source": "DW"
     }
   ],
   "places": [
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 11,
-      "story": {
-        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-        "description": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
-      "count": 10,
-      "story": {
-        "title": "At least 132 killed in Colombia's largest  earthquake in years",
-        "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
-        "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 10,
+      "count": 12,
       "story": {
         "title": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
         "description": "An ex-Japanese envoy said the \"sexist\" comments \"betrayed the close bond\" between the countries.",
@@ -108,10 +84,22 @@
       }
     },
     {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 10,
+      "story": {
+        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+        "description": "The US president was part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
         "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
@@ -120,14 +108,38 @@
       }
     },
     {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 8,
+      "story": {
+        "title": "At least 132 killed in Colombia's largest  earthquake in years",
+        "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+        "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
         "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
         "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 6,
+      "story": {
+        "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+        "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+        "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -147,7 +159,7 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "The lonely Chinese men being conned by fake brides",
         "description": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China.",
@@ -162,21 +174,9 @@
       "count": 4,
       "story": {
         "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-        "description": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
+        "description": "The US president was part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
         "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "Israeli settler violence is ‘clear state terrorism’",
-        "description": "Israeli settler violence is ‘clear state terrorism’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israeli-settler-violence-is-clear-state?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -185,46 +185,10 @@
       "lon": 10.4,
       "count": 4,
       "story": {
-        "title": "Germany news: Rhine levels could cause production cuts",
+        "title": "Germany news: Some shipping stops as Rhine hits new lows",
         "description": "The summer heat is not only causing water levels in Germany's key river arteries to drop to dangerously low levels, but also contributing to wildfires in several areas. Follow DW for more.",
-        "link": "https://www.dw.com/en/germany-news-rhine-levels-could-cause-production-cuts/live-78313874?maca=en-rss-en-all-1573-rdf",
+        "link": "https://www.dw.com/en/germany-news-some-shipping-stops-as-rhine-hits-new-lows/live-78313874?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 3,
-      "story": {
-        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-        "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
-        "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 3,
-      "story": {
-        "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-        "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-        "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
-      "count": 3,
-      "story": {
-        "title": "Libyan authorities battle big blaze at major oil refinery",
-        "description": "Monday's drone strike on the Zawiya refinery was the third such incident in two days.",
-        "link": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -240,6 +204,18 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 3,
+      "story": {
+        "title": "Israeli settler violence is ‘clear state terrorism’",
+        "description": "Israeli settler violence is ‘clear state terrorism’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israeli-settler-violence-is-clear-state?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
@@ -252,27 +228,63 @@
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
       "count": 3,
       "story": {
-        "title": "Indonesian officials race to contain wildfires as dozens of schools shut",
-        "description": "Cloud-seeding aircraft have been deployed as dozens of schools remain closed due to poor air quality.",
-        "link": "https://www.aljazeera.com/news/2026/8/11/indonesian-officials-race-to-contain-wildfires-as-dozens-of-schools-shut?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Thai ex-lawmaker shoots local official dead over loan",
+        "description": "A former lawmaker confessed to shooting a senior official at a government office over a money dispute, police have said. The incident came just days after Thailand's deadliest shooting in nearly four years.",
+        "link": "https://www.dw.com/en/thai-ex-lawmaker-shoots-local-official-dead-over-loan/a-78300045?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
       "count": 2,
       "story": {
-        "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-        "description": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
-        "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
+        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+        "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+        "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Libya",
+      "lat": 26.34,
+      "lon": 17.23,
+      "count": 2,
+      "story": {
+        "title": "Libyan authorities battle big blaze at major oil refinery",
+        "description": "Monday's drone strike on the Zawiya refinery was the third such incident in two days.",
+        "link": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
+      "count": 2,
+      "story": {
+        "title": "New train service connects Finland and Sweden for first time in decades",
+        "description": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Vietnam",
+      "lat": 14.06,
+      "lon": 108.28,
+      "count": 2,
+      "story": {
+        "title": "Vietnam’s VinSpace announces deal with SpaceX to launch first satellite",
+        "description": "Hanoi-based aerospace firm says it will partner with Elon Musk&#039;s rocket company to deploy satellites next year.",
+        "link": "https://www.aljazeera.com/economy/2026/8/11/vietnams-vinspace-announces-deal-with-spacex-to-launch-first-satellite?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -285,6 +297,18 @@
         "description": "Trump reportedly used catering cart to switch planes, unbeknownst to the press pool and some White House staff.",
         "link": "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 2,
+      "story": {
+        "title": "Syria sentences absent former leader Bashar al-Assad to death",
+        "description": "The 60-year-old, who was president of Syria for 24 years until 2024 before fleeing to Moscow, was found guilty of crimes including killings, torture, and arbitrary arrest.",
+        "link": "https://www.abc.net.au/news/2026-08-11/bashar-al-assad-former-syrian-leader-sentenced-to-death/107026136",
+        "source": "ABC News AU"
       }
     },
     {
@@ -348,18 +372,6 @@
       }
     },
     {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
-      "count": 1,
-      "story": {
-        "title": "New train service connects Finland and Sweden for first time in decades",
-        "description": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Sweden",
       "lat": 60.13,
       "lon": 18.64,
@@ -396,15 +408,75 @@
       }
     },
     {
-      "name": "Dublin",
-      "lat": 53.35,
-      "lon": -6.26,
+      "name": "Dubai",
+      "lat": 25.2,
+      "lon": 55.27,
       "count": 1,
       "story": {
-        "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-        "description": "Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.",
-        "link": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
+        "description": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
+        "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 1,
+      "story": {
+        "title": "DRC Ebola death toll passes 2,000 amid fastest-growing outbreak on record",
+        "description": "A total of 4,381 cases across five provinces have been confirmed in the Democratic Republic of the Congo as of Tuesday.",
+        "link": "https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 1,
+      "story": {
+        "title": "Bangladesh and India battle to save cricket series after political turmoil",
+        "description": "Bangladesh and India white-ball series under threat due to tensions that arose when Bangladeshi PM Hasina toppled.",
+        "link": "https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
+      "count": 1,
+      "story": {
+        "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
+        "description": "Kurdistan Regional Government says 70 percent of its trade has been cut by the regional conflict.",
+        "link": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Hanoi",
+      "lat": 21.03,
+      "lon": 105.85,
+      "count": 1,
+      "story": {
+        "title": "Vietnam’s VinSpace announces deal with SpaceX to launch first satellite",
+        "description": "Hanoi-based aerospace firm says it will partner with Elon Musk&#039;s rocket company to deploy satellites next year.",
+        "link": "https://www.aljazeera.com/economy/2026/8/11/vietnams-vinspace-announces-deal-with-spacex-to-launch-first-satellite?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 1,
+      "story": {
+        "title": "Indonesian officials race to contain wildfires as dozens of schools shut",
+        "description": "Cloud-seeding aircraft have been deployed as dozens of schools remain closed due to poor air quality.",
+        "link": "https://www.aljazeera.com/news/2026/8/11/indonesian-officials-race-to-contain-wildfires-as-dozens-of-schools-shut?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -444,30 +516,6 @@
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "Vine time: Matildas hero seals A-League Women return",
-        "description": "Cortnee Vine is back in the A-League Women while veteran Tameka Yallop departs Brisbane to join another championship contender.",
-        "link": "https://www.abc.net.au/news/2026-08-11/vine-time-matildas-hero-seals-a-league-women-return/107024200",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Vietnam",
-      "lat": 14.06,
-      "lon": 108.28,
-      "count": 1,
-      "story": {
-        "title": "Vietnam's VinSpace taps SpaceX for first satellite launches",
-        "description": "Vietnam's first private space company is turning to Elon Musk's SpaceX to get its first satellites into orbit. The deal comes as Vietnam steps up efforts to build its own space industry and become a regional space power.",
-        "link": "https://www.dw.com/en/vietnam-s-vinspace-taps-spacex-for-first-satellite-launches/a-78315984?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Kremlin",
       "lat": 55.75,
       "lon": 37.62,
@@ -501,54 +549,6 @@
         "description": "Observers suggest the new alliance between Saudi Arabia, Turkey and Pakistan won't result in any of the countries fighting for each other. Instead it's about preventing Iran and Israel from regional dominance, they say.",
         "link": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 1,
-      "story": {
-        "title": "Thai ex-lawmaker shoots local official dead over loan",
-        "description": "A former lawmaker confessed to shooting a senior official at a government office over a money dispute, police have said. The incident came just days after Thailand's deadliest shooting in nearly four years.",
-        "link": "https://www.dw.com/en/thai-ex-lawmaker-shoots-local-official-dead-over-loan/a-78300045?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 1,
-      "story": {
-        "title": "Germany news: Berlin to step up drone security research",
-        "description": "Interior Minister Alexander Dobrindt said Germany is moving to counter the threats posed by drones. Meanwhile, the transport minister said he wants Deutsche Bahn bonuses tied to punctuality targets.",
-        "link": "https://www.dw.com/en/germany-news-berlin-to-step-up-drone-security-research/live-78287439?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "South Africa name Fortuin as skipper for limited-overs trip to Namibia",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/south-africa-name-fortuin-skipper-limited-overs-trip-namibia-6311781",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "South Korea's Lotte Group sells car rental unit to private equity TPG for $925 million",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/business/south-koreas-lotte-group-sells-car-rental-unit-private-equity-tpg-925-million-6311771",
-        "source": "CNA"
       }
     }
   ]
