@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T17:32:40+00:00",
+  "generated_at": "2026-08-12T19:08:46+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -58,7 +58,7 @@
       "source": "BBC News"
     },
     {
-      "title": "Major Russian grain export terminal hit in Ukraine Black Sea port attack",
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
       "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
       "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -72,10 +72,22 @@
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 10,
+      "story": {
+        "title": "Australia's 'number one' solar retailer facing multiple investigations",
+        "description": "Solar Power Nation is spruiked by a number of current and former sports stars but the major retailer is facing investigations in multiple states as consumer complaints rise into the hundreds.",
+        "link": "https://www.abc.net.au/news/2026-08-13/solar-power-nation-complaints-cheaper-home-batteries-program/107006028",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 11,
+      "count": 9,
       "story": {
         "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
         "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
@@ -84,26 +96,26 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 11,
-      "story": {
-        "title": "Eli Lilly boss calls out Australia on Mounjaro and Trump administration over kids vaccines",
-        "description": "Mounjaro is still not available on the PBS as Eli Lilly negotiates price points but the company's CEO says the door remains open.",
-        "link": "https://www.abc.net.au/news/2026-08-12/eli-lillyceo-still-looking-to-bring-mounjaro-to-australia/107030066",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Colombia",
       "lat": 4.57,
       "lon": -74.3,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
         "description": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
         "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 6,
+      "story": {
+        "title": "Israeli settlers besieging Palestinian families in West Bank village",
+        "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+        "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -113,21 +125,9 @@
       "lon": 90.0,
       "count": 6,
       "story": {
-        "title": "Major Russian grain export terminal hit in Ukraine Black Sea port attack",
+        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
         "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
         "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 5,
-      "story": {
-        "title": "Israeli settlers besieging Palestinian families in West Bank village",
-        "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-        "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -135,9 +135,9 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 5,
+      "count": 6,
       "story": {
-        "title": "Major Russian grain export terminal hit in Ukraine Black Sea port attack",
+        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
         "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
         "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
@@ -147,36 +147,12 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
         "description": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
         "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 4,
-      "story": {
-        "title": "Lebanon parliament votes to abolish death penalty",
-        "description": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
-        "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 4,
-      "story": {
-        "title": "Germany: More power for the intelligence agencies",
-        "description": "German intelligence agencies have been calling for more powers in the fight against cyberattacks, terrorism and extremism. Now the government has given the go. Critics warn that red lines are being crossed.",
-        "link": "https://www.dw.com/en/germany-more-power-for-the-intelligence-agencies/a-78341313?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -192,38 +168,26 @@
       }
     },
     {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 3,
       "story": {
-        "title": "Neo-Nazi vandal attack at SA workers club is 'modern-day fascism'",
-        "description": "The vandalism of an Adelaide workers club with Nazi symbols has been condemned by staff who say they are \"appalled\", \"disgusted\" and \"absolutely horrified\" by the incident.",
-        "link": "https://www.abc.net.au/news/2026-08-12/neo-nazi-vandalism-attack-on-semaphore-workers-club/107030448",
-        "source": "ABC News AU"
+        "title": "Mount Etna eruption disrupts travel at Italy’s Catania airport",
+        "description": "Hundreds of passengers have been left stranded at Italy’s Catania airport after Mount Etna erupted.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/mount-etna-eruption-disrupts-travel-at-italys-catania-airport?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
       "count": 3,
       "story": {
-        "title": "Taiwan responds furiously as China, Indonesia plan military exercise off coast",
-        "description": "Taipei says it is seeking clarification from Indonesia after China's defence ministry announced the planned naval drill.",
-        "link": "https://www.abc.net.au/news/2026-08-12/taiwan-condemns-plan-for-china-indonesia-military-exercise/107030316",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 3,
-      "story": {
-        "title": "Pakistan says 3 nationals killed in Houthi Red Sea attack",
-        "description": "Pakistan's foreign minister has said Islamabad \"strongly condemns\" Houthi attacks on commercial vessels while offering condolences to the families of the dead.",
-        "link": "https://www.dw.com/en/pakistan-says-3-nationals-killed-in-houthi-red-sea-attack/a-78330015?maca=en-rss-en-all-1573-rdf",
+        "title": "Europe braces for next heat wave",
+        "description": "More than half the continent, including much of Germany, is set for a third wave of extreme heat this summer. The prolonged hot weather has significantly worsened wildfires and drought conditions across Europe.",
+        "link": "https://www.dw.com/en/europe-braces-for-next-heat-wave/a-78334723?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -264,6 +228,18 @@
       }
     },
     {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 2,
+      "story": {
+        "title": "Lebanon parliament votes to abolish death penalty",
+        "description": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
+        "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
@@ -276,26 +252,14 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
       "count": 2,
       "story": {
-        "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
-        "description": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 2,
-      "story": {
-        "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
-        "description": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
+        "title": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
+        "description": "Outbreak to eclipse West Africa&#039;s Ebola outbreak of 2014 to 2016 if it continues at current pace, WHO chief says.",
+        "link": "https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -312,14 +276,38 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 2,
       "story": {
-        "title": "North Korea tests missile ahead of US-South Korea drills",
-        "description": "The suspected ballistic missile was launched towards Japan and likely fell just outside of its special economic zone, Tokyo said.",
-        "link": "https://www.dw.com/en/north-korea-tests-missile-ahead-of-us-south-korea-drills/a-78329244?maca=en-rss-en-all-1573-rdf",
+        "title": "Neo-Nazi vandal attack at SA workers club is 'modern-day fascism'",
+        "description": "The vandalism of an Adelaide workers club with Nazi symbols has been condemned by staff who say they are \"appalled\", \"disgusted\" and \"absolutely horrified\" by the incident.",
+        "link": "https://www.abc.net.au/news/2026-08-12/neo-nazi-vandalism-attack-on-semaphore-workers-club/107030448",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 2,
+      "story": {
+        "title": "Taiwan responds furiously as China, Indonesia plan military exercise off coast",
+        "description": "Taipei says it is seeking clarification from Indonesia after China's defence ministry announced the planned naval drill.",
+        "link": "https://www.abc.net.au/news/2026-08-12/taiwan-condemns-plan-for-china-indonesia-military-exercise/107030316",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 2,
+      "story": {
+        "title": "Pakistan says 3 nationals killed in Houthi Red Sea attack",
+        "description": "Pakistan's foreign minister has said Islamabad \"strongly condemns\" Houthi attacks on commercial vessels while offering condolences to the families of the dead.",
+        "link": "https://www.dw.com/en/pakistan-says-3-nationals-killed-in-houthi-red-sea-attack/a-78330015?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -408,6 +396,30 @@
       }
     },
     {
+      "name": "Beirut",
+      "lat": 33.9,
+      "lon": 35.5,
+      "count": 1,
+      "story": {
+        "title": "Lebanese families demand release of detainees held by Israel",
+        "description": "Lebanese families rallied in Beirut demanding answers about relatives detained by Israel.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "White House construction project to cost almost $1bn",
+        "description": "The White House defended reports it planned to spend nearly $1bn on controversial construction projects.",
+        "link": "https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Serbia",
       "lat": 44.02,
       "lon": 21.01,
@@ -432,12 +444,36 @@
       }
     },
     {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 1,
+      "story": {
+        "title": "Why has North Korea fired a missile before US-South Korea drills?",
+        "description": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Pyongyang",
       "lat": 39.03,
       "lon": 125.75,
       "count": 1,
       "story": {
-        "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
+        "title": "Why has North Korea fired a missile before US-South Korea drills?",
+        "description": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 1,
+      "story": {
+        "title": "Why has North Korea fired a missile before US-South Korea drills?",
         "description": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.",
         "link": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
         "source": "Al Jazeera"
@@ -456,15 +492,15 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Putin warns of tit-for-tat seizures of European vessels",
-        "description": "If European states seize vessels with Russian cargo, Moscow will respond in kind &#039;wherever necessary&#039;, says Putin.",
-        "link": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Are We OK? Jebediah doco is both nostalgic triumph and cautionary tale",
+        "description": "Nostalgia, addiction, life-long friendship. This doco has it all. But it took both director and iconic Perth music subject 11 years to complete.",
+        "link": "https://www.abc.net.au/news/2026-08-13/jebediah-are-we-ok-documentary-review-miff-arlo-dean-cook-chat/107027518",
+        "source": "ABC News AU"
       }
     },
     {
@@ -504,18 +540,6 @@
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Italy: Etna eruption in Sicily halts Catania flights",
-        "description": "Sicily's Catania airport has suspended flights again as Mount Etna continues to spew lava and volcanic ash. The eruption has disrupted travel during the peak summer holiday season.",
-        "link": "https://www.dw.com/en/italy-etna-eruption-in-sicily-halts-catania-flights/a-78338205?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Saudi Arabia",
       "lat": 23.9,
       "lon": 45.1,
@@ -524,30 +548,6 @@
         "title": "Gulf states scramble for Strait of Hormuz alternative",
         "description": "Saudi Arabia has redirected oil exports away from the Strait of Hormuz, but most Gulf producers still lack a reliable backup option to the world's most important energy choke point.",
         "link": "https://www.dw.com/en/gulf-states-scramble-for-strait-of-hormuz-alternative/a-78336679?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 1,
-      "story": {
-        "title": "Short on US Patriot missiles, Ukraine looks for alternatives",
-        "description": "Russia is putting pressure on Ukraine with ballistic missiles, but Kyiv is short of Patriot interceptors. Domestic production and European alternatives take time. Can Kyiv realistically reduce its dependence on the US?",
-        "link": "https://www.dw.com/en/short-on-us-patriot-missiles-ukraine-looks-for-alternatives/a-78328784?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Islamabad",
-      "lat": 33.7,
-      "lon": 73.06,
-      "count": 1,
-      "story": {
-        "title": "Pakistan says 3 nationals killed in Houthi Red Sea attack",
-        "description": "Pakistan's foreign minister has said Islamabad \"strongly condemns\" Houthi attacks on commercial vessels while offering condolences to the families of the dead.",
-        "link": "https://www.dw.com/en/pakistan-says-3-nationals-killed-in-houthi-red-sea-attack/a-78330015?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
