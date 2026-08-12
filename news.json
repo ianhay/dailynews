@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:10:13+00:00",
+  "generated_at": "2026-08-12T21:22:13+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,12 +32,6 @@
   ],
   "australia": [
     {
-      "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
-      "description": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used.",
-      "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Trump says White House press secretary Karoline Leavitt to leave post",
       "description": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
       "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
@@ -47,6 +41,12 @@
       "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
       "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
       "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
+      "description": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
+      "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,36 +75,12 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 10,
+      "count": 14,
       "story": {
-        "title": "Lucas-Rodd felt 'trans joy' wearing a binder but are they safe to exercise in?",
-        "description": "Binders are popular among trans and gender diverse people, but research is yet to show if they're safe to exercise in. The University of Western Australia has led the largest study so far in the search for answers, and t",
-        "link": "https://www.abc.net.au/news/2026-08-13/binders-exercise-gender-diverse-trans-research-safety-unknown/106990788",
+        "title": "Far reaching impact of El Niño heat explored at Alice Springs summit",
+        "description": "Extreme heat has a ripple effect across every part of life in Central Australia — particularly for those living in poverty — and with an El Niño weather event predicted, experts gathered in Alice Springs this week to str",
+        "link": "https://www.abc.net.au/news/2026-08-13/alice-springs-homelessness-heat-resilience-summit-el-nino-summer/107027868",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 8,
-      "story": {
-        "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-        "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 7,
-      "story": {
-        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-        "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -123,7 +99,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Israeli settlers besieging Palestinian families in West Bank village",
         "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
@@ -135,7 +111,7 @@
       "name": "Colombia",
       "lat": 4.57,
       "lon": -74.3,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
         "description": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
@@ -144,14 +120,14 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 5,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 6,
       "story": {
-        "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
-        "description": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
-        "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+        "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -159,11 +135,47 @@
       "name": "White House",
       "lat": 38.9,
       "lon": -77.03,
-      "count": 3,
+      "count": 5,
       "story": {
         "title": "Trump says White House press secretary Karoline Leavitt to leave post",
         "description": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
         "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 4,
+      "story": {
+        "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+        "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "How a 97-year-old escaped deadly Indian floods on a banana log raft",
+        "description": "A 97-year-old's dramatic rescue captures how Assam's floods are reaching places once thought safe.",
+        "link": "https://www.bbc.co.uk/news/articles/clye8332d63o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 3,
+      "story": {
+        "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+        "description": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
+        "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,18 +192,6 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "How a 97-year-old escaped deadly Indian floods on a banana log raft",
-        "description": "A 97-year-old's dramatic rescue captures how Assam's floods are reaching places once thought safe.",
-        "link": "https://www.bbc.co.uk/news/articles/clye8332d63o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
@@ -201,6 +201,30 @@
         "description": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
         "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 3,
+      "story": {
+        "title": "11-year-old boy shot by Israeli forces in Gaza",
+        "description": "The father of an 11-year-old boy says Israeli forces shot his son in the head and leg in Khan Younis.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 3,
+      "story": {
+        "title": "Can Syria deliver transitional justice?",
+        "description": "A court has sentenced ousted former leader Bashar al-Assad and others to death in absentia.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -324,30 +348,6 @@
       }
     },
     {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 2,
-      "story": {
-        "title": "Neo-Nazi vandal attack at SA workers club is 'modern-day fascism'",
-        "description": "The vandalism of an Adelaide workers club with Nazi symbols has been condemned by staff who say they are \"appalled\", \"disgusted\" and \"absolutely horrified\" by the incident.",
-        "link": "https://www.abc.net.au/news/2026-08-12/neo-nazi-vandalism-attack-on-semaphore-workers-club/107030448",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 2,
-      "story": {
-        "title": "Taiwan responds furiously as China, Indonesia plan military exercise off coast",
-        "description": "Taipei says it is seeking clarification from Indonesia after China's defence ministry announced the planned naval drill.",
-        "link": "https://www.abc.net.au/news/2026-08-12/taiwan-condemns-plan-for-china-indonesia-military-exercise/107030316",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -420,6 +420,42 @@
       }
     },
     {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 1,
+      "story": {
+        "title": "Morocco says working to prevent potential new Ceuta crossings surge",
+        "description": "Morocco Interior Ministry says it has increased security along its borders with the Spanish exclaves Ceuta and Melilla.",
+        "link": "https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Libya",
+      "lat": 26.34,
+      "lon": 17.23,
+      "count": 1,
+      "story": {
+        "title": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
+        "description": "Repeated drone strikes on oil and power infrastructure are deepening Libya&#039;s energy crisis.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Mumbai",
+      "lat": 19.08,
+      "lon": 72.88,
+      "count": 1,
+      "story": {
+        "title": "Deadly India landslide kills at least seven in Mumbai",
+        "description": "Heavy rains triggered a landslide on Wednesday that killed at least seven people in India’s western Maharashtra state.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Beirut",
       "lat": 33.9,
       "lon": 35.5,
@@ -441,54 +477,6 @@
         "description": "Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wrecks of dozens of Nazi-era vessels",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Sudanese army intercepts RSF drones over el-Obeid",
-        "description": "Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "Are We OK? Jebediah doco is both nostalgic triumph and cautionary tale",
-        "description": "Nostalgia, addiction, life-long friendship. This doco has it all. But it took both director and iconic Perth music subject 11 years to complete.",
-        "link": "https://www.abc.net.au/news/2026-08-13/jebediah-are-we-ok-documentary-review-miff-arlo-dean-cook-chat/107027518",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Taipei",
-      "lat": 25.03,
-      "lon": 121.56,
-      "count": 1,
-      "story": {
-        "title": "Taiwan responds furiously as China, Indonesia plan military exercise off coast",
-        "description": "Taipei says it is seeking clarification from Indonesia after China's defence ministry announced the planned naval drill.",
-        "link": "https://www.abc.net.au/news/2026-08-12/taiwan-condemns-plan-for-china-indonesia-military-exercise/107030316",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
-      "count": 1,
-      "story": {
-        "title": "Taiwan responds furiously as China, Indonesia plan military exercise off coast",
-        "description": "Taipei says it is seeking clarification from Indonesia after China's defence ministry announced the planned naval drill.",
-        "link": "https://www.abc.net.au/news/2026-08-12/taiwan-condemns-plan-for-china-indonesia-military-exercise/107030316",
-        "source": "ABC News AU"
       }
     },
     {
@@ -548,6 +536,18 @@
         "title": "Hungary's parliament elects Orban critic as new president",
         "description": "Hungary's parliament has overwhelmingly confirmed Andras Baka, formerly the head of the Supreme Court, to the largely ceremonial role of president. New Prime Minister Peter Magyar controversially removed his predecessor.",
         "link": "https://www.dw.com/en/hungary-s-parliament-elects-orban-critic-as-new-president/a-78325589?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 1,
+      "story": {
+        "title": "Afghanistan five years of Taliban rule: Has Germany kept its promises?",
+        "description": "After the Taliban retook power in Afghanistan on August 15, 2021, Berlin promised to bring all the Afghan local staff members to Germany. But people are still waiting to leave in Pakistan and Afghanistan.",
+        "link": "https://www.dw.com/en/afghanistan-five-years-of-taliban-rule-has-germany-kept-its-promises/a-78319745?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
