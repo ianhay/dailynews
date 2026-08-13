@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T08:38:47+00:00",
+  "generated_at": "2026-08-13T10:13:56+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,15 +32,15 @@
   ],
   "australia": [
     {
-      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-      "description": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "description": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Why are 'human fridges' being sold in Japan?",
-      "description": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
-      "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "description": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -52,7 +52,7 @@
   ],
   "economy": [
     {
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
       "description": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
       "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 19,
+      "count": 22,
       "story": {
         "title": "Australian army whistleblower released on parole after more than two years in jail",
         "description": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
@@ -108,10 +108,22 @@
       }
     },
     {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 7,
+      "story": {
+        "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+        "description": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
+        "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
         "description": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
@@ -120,22 +132,10 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 7,
-      "story": {
-        "title": "Why are 'human fridges' being sold in Japan?",
-        "description": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
-        "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
         "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
@@ -180,27 +180,39 @@
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 4,
-      "story": {
-        "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-        "description": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
-        "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Bangladesh",
       "lat": 23.68,
       "lon": 90.36,
       "count": 4,
       "story": {
-        "title": "Quick hits: A 'peanut' jibe, a Starc record and a brain explosion",
-        "description": "Steve Smith called a Bangladesh bowler a \"peanut\" for making an appeal, but he could probably have labelled a couple of his batting colleagues as such on a dire batting display for Australia. Here are the quick hits from",
-        "link": "https://www.abc.net.au/news/2026-08-13/australia-vs-bangladesh-quick-hits-day-one/107029612",
+        "title": "Bangladesh humble Australia with worst total in contest as Hasan takes 6-55",
+        "description": "Australia dismissed for lowest total against Bangladesh as Hasan Mahmud claims career-best on Day One of first Test.",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/bangladesh-stun-australia-with-worst-total-in-contest-as-hasan-takes-6-55?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Breaking: Third Sydney Airport take-off incident investigated by safety body",
+        "description": "Safety authorities are investigating a third runway incident at Sydney Airport, involving a Qantas flight crossing the path of a Virgin Australia aircraft.",
+        "link": "https://www.abc.net.au/news/2026-08-13/third-sydney-airport-runway-take-off-incident-investigated/107035400",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 3,
+      "story": {
+        "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+        "description": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+        "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -216,15 +228,27 @@
       }
     },
     {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
       "count": 3,
       "story": {
-        "title": "Chinese state-linked observatory sought NZ site, spy agency says",
-        "description": "A Chinese state-linked observatory has sought to install infrastructure at a New Zealand site, the NZ spy agency says.",
-        "link": "https://www.abc.net.au/news/2026-08-13/chinese-state-linked-observatory-sought-nz-site-spy-agency-says/107034742",
-        "source": "ABC News AU"
+        "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
+        "description": "Football&#039;s top official boosted by further support for his presidency after proposed private investment in game nixed.",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/fifas-infantino-backed-by-six-arab-federations-including-qatar-and-morocco?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 3,
+      "story": {
+        "title": "Germany news: Far-right leader backs left-wing populist",
+        "description": "The leader of the far-right AfD in Thuringia, Björn Höcke, has offered to back populist Sahra Wagenknecht as state premier. And heat-related deaths this year are now numbered at some 12,500. DW has more.",
+        "link": "https://www.dw.com/en/germany-news-far-right-leader-backs-left-wing-populist/live-78347793?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -252,14 +276,26 @@
       }
     },
     {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final",
-        "description": "Malawi will face Cameroon in the Women&#039;s Africa Cup of Nations final after respective wins over Algeria and Morocco.",
-        "link": "https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final?traffic_source=rss",
+        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+        "description": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
+        "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
+      "count": 2,
+      "story": {
+        "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
+        "description": "Football&#039;s top official boosted by further support for his presidency after proposed private investment in game nixed.",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/fifas-infantino-backed-by-six-arab-federations-including-qatar-and-morocco?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -276,14 +312,14 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
       "count": 2,
       "story": {
-        "title": "Cult leader 'Little Pebble' found not guilty of grooming 7yo girl",
-        "description": "A Sydney judge finds cult leader William Kamm and his wife not guilty of grooming a seven-year-old girl.",
-        "link": "https://www.abc.net.au/news/2026-08-13/william-kamm-little-pebble-not-guilty-grooming-girl/107016372",
+        "title": "Chinese state-linked observatory sought NZ site, spy agency says",
+        "description": "A Chinese state-linked observatory has sought to install infrastructure at a New Zealand site, the NZ spy agency says.",
+        "link": "https://www.abc.net.au/news/2026-08-13/chinese-state-linked-observatory-sought-nz-site-spy-agency-says/107034742",
         "source": "ABC News AU"
       }
     },
@@ -300,30 +336,6 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 2,
-      "story": {
-        "title": "Europe braces for next heat wave",
-        "description": "More than half the continent, including much of Germany, is set for a third wave of extreme heat this summer. The prolonged hot weather has significantly worsened wildfires and drought conditions across Europe.",
-        "link": "https://www.dw.com/en/europe-braces-for-next-heat-wave/a-78334723?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 2,
-      "story": {
-        "title": "Rescuers comb waters near Bali for 5 missing after ferry blaze",
-        "description": "A total of 211 people were rescued and brought ashore by vessels that rushed to the scene on Wednesday (Aug 12), including a navy ship and another ferry in the vicinity.&nbsp;A 19-year-old Indonesian woman was found dead",
-        "link": "https://www.channelnewsasia.com/asia/bali-ferry-rescuers-5-missing-6316721",
-        "source": "CNA"
-      }
-    },
-    {
       "name": "Kremlin",
       "lat": 55.75,
       "lon": 37.62,
@@ -336,18 +348,6 @@
       }
     },
     {
-      "name": "Tokyo",
-      "lat": 35.68,
-      "lon": 139.77,
-      "count": 1,
-      "story": {
-        "title": "Why are 'human fridges' being sold in Japan?",
-        "description": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
-        "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
@@ -356,18 +356,6 @@
         "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
         "description": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
         "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 1,
-      "story": {
-        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-        "description": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
-        "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -417,6 +405,18 @@
         "description": "Istanbul overtakes Heathrow whose passenger numbers on Middle East routes fell 20.2% year-on-year.",
         "link": "https://www.bbc.co.uk/news/articles/cdx7kwkqqkgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "La Liga: What to know ahead of new 2026-27 football season",
+        "description": "Predictions, news and transfer latest ahead of the new La Liga season, as Barcelona and Real Madrid renew title rivalry.",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/la-liga-what-to-know-ahead-of-new-2026-27-football-season?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -492,38 +492,14 @@
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 1,
-      "story": {
-        "title": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
-        "description": "A partial solar eclipse illuminated Paris’s sky over the city’s iconic Eiffel Tower.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ecuador",
-      "lat": -1.83,
-      "lon": -78.18,
-      "count": 1,
-      "story": {
-        "title": "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
-        "description": "Erling Haaland’s name and image turned up on hundreds of cocaine bricks seized by Ecuadorian police.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Adelaide",
       "lat": -34.93,
       "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Man died amid 'systemic failings' of 'overworked' health system, inquest finds",
-        "description": "Petar Josipovic, who died in the Royal Adelaide Hospital in 2023, could have survived if his high-priority cardiac surgery was performed on time, a coroner finds.",
-        "link": "https://www.abc.net.au/news/2026-08-13/inquest-finds-petar-josipovic-died-after-surgery-delays/107033270",
+        "title": "MotoGP track will 'irrevocably' change parklands, Adelaide mayor says",
+        "description": "The proposed design of the Adelaide street circuit that will host the Australian MotoGP from 2027 will be publicly released in the coming weeks, prompting Lord Mayor Jane Lomax-Smith to sound a warning.",
+        "link": "https://www.abc.net.au/news/2026-08-13/motogp-track-design-release-triggers-parklands-impact-concern/107034776",
         "source": "ABC News AU"
       }
     },
@@ -548,6 +524,30 @@
         "title": "Due to the Iran war, Iraq is running out of money",
         "description": "Because of the blockage of the Strait of Hormuz, Iraq cannot export enough oil to fund the country's huge public sector. Protests have already started. Will the Iran war destabilize Iraq again?",
         "link": "https://www.dw.com/en/due-to-the-iran-war-iraq-is-running-out-of-money/a-78341409?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Austria",
+      "lat": 47.52,
+      "lon": 14.55,
+      "count": 1,
+      "story": {
+        "title": "Mozart tribute ends on sour note after mass figurine theft",
+        "description": "A playful tribute to Mozart has turned into a whodunit after 210 gold-colored figures disappeared from one of Austria's busiest tourist spots. The mass theft forced organizers to end the outdoor display early.",
+        "link": "https://www.dw.com/en/mozart-tribute-ends-on-sour-note-after-mass-figurine-theft/a-78341647?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "Italy: Etna eruption in Sicily halts Catania flights",
+        "description": "Sicily's Catania airport has suspended flights again as Mount Etna continues to spew lava and volcanic ash. The eruption has disrupted travel during the peak summer holiday season.",
+        "link": "https://www.dw.com/en/italy-etna-eruption-in-sicily-halts-catania-flights/a-78338205?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
