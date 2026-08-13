@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T06:58:24+00:00",
+  "generated_at": "2026-08-13T08:38:47+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,13 +24,19 @@
       "source": "BBC News"
     },
     {
-      "title": "'If you're not conservative, don't come here': The town making missiles for Trump",
-      "description": "The president's approval numbers may be down, but in this Tennessee town, his support is as strong as ever.",
-      "link": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+      "description": "Prime Minister Andy Burnham says town centres have been \"hollowed out\" by decades of decline.",
+      "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
+    {
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "description": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Why are 'human fridges' being sold in Japan?",
       "description": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
@@ -42,21 +48,9 @@
       "description": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
       "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-      "description": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
-      "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
-    {
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
     {
       "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
       "description": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
@@ -68,6 +62,12 @@
       "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
       "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 16,
+      "count": 19,
       "story": {
         "title": "Australian army whistleblower released on parole after more than two years in jail",
         "description": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
@@ -89,21 +89,33 @@
       "lon": 90.0,
       "count": 8,
       "story": {
-        "title": "Japan protests against Putin visit to disputed islands",
+        "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
         "description": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
         "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 7,
       "story": {
-        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-        "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-        "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+        "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+        "description": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 7,
+      "story": {
+        "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+        "description": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,14 +132,26 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 6,
       "story": {
-        "title": "Israeli settlers besieging Palestinian families in West Bank village",
-        "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-        "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+        "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+        "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 5,
+      "story": {
+        "title": "Indian actor's video with endangered gibbon sparks investigation",
+        "description": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
+        "link": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,34 +180,10 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 4,
-      "story": {
-        "title": "Israeli settlers besieging Palestinian families in West Bank village",
-        "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-        "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
-      "count": 3,
-      "story": {
-        "title": "Australian army whistleblower released on parole after more than two years in jail",
-        "description": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "White House",
       "lat": 38.9,
       "lon": -77.03,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "Trump says White House press secretary Karoline Leavitt to leave post",
         "description": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
@@ -192,15 +192,15 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 4,
       "story": {
-        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-        "description": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
-        "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Quick hits: A 'peanut' jibe, a Starc record and a brain explosion",
+        "description": "Steve Smith called a Bangladesh bowler a \"peanut\" for making an appeal, but he could probably have labelled a couple of his batting colleagues as such on a dire batting display for Australia. Here are the quick hits from",
+        "link": "https://www.abc.net.au/news/2026-08-13/australia-vs-bangladesh-quick-hits-day-one/107029612",
+        "source": "ABC News AU"
       }
     },
     {
@@ -216,50 +216,26 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
       "count": 3,
       "story": {
-        "title": "Cult leader 'Little Pebble' found not guilty of grooming 7yo girl",
-        "description": "A Sydney judge finds cult leader William Kamm and his wife not guilty of grooming a seven-year-old girl.",
-        "link": "https://www.abc.net.au/news/2026-08-13/william-kamm-little-pebble-not-guilty-grooming-girl/107016372",
+        "title": "Chinese state-linked observatory sought NZ site, spy agency says",
+        "description": "A Chinese state-linked observatory has sought to install infrastructure at a New Zealand site, the NZ spy agency says.",
+        "link": "https://www.abc.net.au/news/2026-08-13/chinese-state-linked-observatory-sought-nz-site-spy-agency-says/107034742",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "India: Data centers boom as water supply runs low",
-        "description": "More than half of India's data centers are in regions that are already water-stressed ― and the country is racing to build more.",
-        "link": "https://www.dw.com/en/india-data-centers-boom-as-water-supply-runs-low/a-78335533?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 3,
-      "story": {
-        "title": "Europe braces for next heat wave",
-        "description": "More than half the continent, including much of Germany, is set for a third wave of extreme heat this summer. The prolonged hot weather has significantly worsened wildfires and drought conditions across Europe.",
-        "link": "https://www.dw.com/en/europe-braces-for-next-heat-wave/a-78334723?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
       "count": 2,
       "story": {
-        "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
-        "description": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
-        "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+        "title": "Australian army whistleblower released on parole after more than two years in jail",
+        "description": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,15 +252,15 @@
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
       "count": 2,
       "story": {
-        "title": "These seaside apartments were a ghost city - then police say scammers moved in",
-        "description": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final",
+        "description": "Malawi will face Cameroon in the Women&#039;s Africa Cup of Nations final after respective wins over Algeria and Morocco.",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -300,39 +276,39 @@
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 2,
       "story": {
-        "title": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
-        "description": "A partial solar eclipse illuminated Paris’s sky over the city’s iconic Eiffel Tower.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
-      "count": 2,
-      "story": {
-        "title": "A second plane of greyhounds lands in Qld after New Zealand racing ban",
-        "description": "A plane containing about 70 greyhounds landed in Toowoomba today after New Zealand's racing ban came into effect.",
-        "link": "https://www.abc.net.au/news/2026-08-13/new-zealand-greyhounds-arrive-in-toowoomba/107033338",
+        "title": "Cult leader 'Little Pebble' found not guilty of grooming 7yo girl",
+        "description": "A Sydney judge finds cult leader William Kamm and his wife not guilty of grooming a seven-year-old girl.",
+        "link": "https://www.abc.net.au/news/2026-08-13/william-kamm-little-pebble-not-guilty-grooming-girl/107016372",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 2,
       "story": {
-        "title": "Bangladesh bowl out Australia for 198 in first test",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/bangladesh-bowl-out-australia-198-in-first-test-6316771",
-        "source": "CNA"
+        "title": "Does the clean energy transition need forever chemicals?",
+        "description": "As nations globally move to ban forever chemicals, should renewable energy technologies be exempt for the sake of saving the climate?",
+        "link": "https://www.dw.com/en/does-the-clean-energy-transition-need-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 2,
+      "story": {
+        "title": "Europe braces for next heat wave",
+        "description": "More than half the continent, including much of Germany, is set for a third wave of extreme heat this summer. The prolonged hot weather has significantly worsened wildfires and drought conditions across Europe.",
+        "link": "https://www.dw.com/en/europe-braces-for-next-heat-wave/a-78334723?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -368,6 +344,30 @@
         "title": "Why are 'human fridges' being sold in Japan?",
         "description": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
         "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 1,
+      "story": {
+        "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+        "description": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
+        "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 1,
+      "story": {
+        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+        "description": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
+        "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -420,6 +420,54 @@
       }
     },
     {
+      "name": "Algeria",
+      "lat": 28.03,
+      "lon": 1.66,
+      "count": 1,
+      "story": {
+        "title": "Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final",
+        "description": "Malawi will face Cameroon in the Women&#039;s Africa Cup of Nations final after respective wins over Algeria and Morocco.",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 1,
+      "story": {
+        "title": "Messi plays in Inter Miami defeat by Leon only hours after retirement hint",
+        "description": "Argentina star Lionel Messi hinted at retirement on Wednesday before featuring in Inter Miami&#039;s defeat by Leon.",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/messi-plays-in-inter-miami-defeat-only-hours-after-retirement-hint?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 1,
+      "story": {
+        "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
+        "description": "Prime Minister Nawaf Salam rejects Israel&#039;s claim that villages destroyed in southern Lebanon were military sites.",
+        "link": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 1,
+      "story": {
+        "title": "Palestinian women in Gaza face legal hurdles in divorce struggles",
+        "description": "Amid legal struggles, Gaza women opt for quicker divorces, sacrificing rights to escape prolonged court battles.",
+        "link": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Washington",
       "lat": 38.9,
       "lon": -77.03,
@@ -444,6 +492,18 @@
       }
     },
     {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 1,
+      "story": {
+        "title": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
+        "description": "A partial solar eclipse illuminated Paris’s sky over the city’s iconic Eiffel Tower.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Ecuador",
       "lat": -1.83,
       "lon": -78.18,
@@ -456,42 +516,6 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
-      "story": {
-        "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
-        "description": "President Trump again insists US has &#039;total control&#039; of strait, while Tehran resolute that the US must meet its demands.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 1,
-      "story": {
-        "title": "Morocco says working to prevent potential new Ceuta crossings surge",
-        "description": "Morocco Interior Ministry says it has increased security along its borders with the Spanish exclaves Ceuta and Melilla.",
-        "link": "https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 1,
-      "story": {
-        "title": "11-year-old boy shot by Israeli forces in Gaza",
-        "description": "The father of an 11-year-old boy says Israeli forces shot his son in the head and leg in Khan Younis.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Adelaide",
       "lat": -34.93,
       "lon": 138.6,
@@ -500,18 +524,6 @@
         "title": "Man died amid 'systemic failings' of 'overworked' health system, inquest finds",
         "description": "Petar Josipovic, who died in the Royal Adelaide Hospital in 2023, could have survived if his high-priority cardiac surgery was performed on time, a coroner finds.",
         "link": "https://www.abc.net.au/news/2026-08-13/inquest-finds-petar-josipovic-died-after-surgery-delays/107033270",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Two Victoria Police officers charged with assault over 2025 arrest",
-        "description": "The two officers are alleged to have unlawfully hit an Indigenous man in the head with a taser and one officer's knee during an arrest last year in Melbourne's east.",
-        "link": "https://www.abc.net.au/news/2026-08-13/victoria-police-officers-assault-allegations-ibac/107033452",
         "source": "ABC News AU"
       }
     },
@@ -533,21 +545,9 @@
       "lon": 43.68,
       "count": 1,
       "story": {
-        "title": "No oil, no salary: Iraqi state employees are feeling the crunch of the Hormuz blockade",
+        "title": "Due to the Iran war, Iraq is running out of money",
         "description": "Because of the blockage of the Strait of Hormuz, Iraq cannot export enough oil to fund the country's huge public sector. Protests have already started. Will the Iran war destabilize Iraq again?",
-        "link": "https://www.dw.com/en/no-oil-no-salary-iraqi-state-employees-are-feeling-the-crunch-of-the-hormuz-blockade/a-78341409?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Austria",
-      "lat": 47.52,
-      "lon": 14.55,
-      "count": 1,
-      "story": {
-        "title": "Mozart tribute ends on sour note after mass figurine theft",
-        "description": "A playful tribute to Mozart has turned into a whodunit after 210 gold-colored figures disappeared from one of Austria's busiest tourist spots. The mass theft forced organizers to end the outdoor display early.",
-        "link": "https://www.dw.com/en/mozart-tribute-ends-on-sour-note-after-mass-figurine-theft/a-78341647?maca=en-rss-en-all-1573-rdf",
+        "link": "https://www.dw.com/en/due-to-the-iran-war-iraq-is-running-out-of-money/a-78341409?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
