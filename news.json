@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T23:11:57+00:00",
+  "generated_at": "2026-08-13T00:08:44+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+      "description": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+      "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Trump says White House press secretary Karoline Leavitt to leave post",
       "description": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
       "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
       "title": "Why are 'human fridges' being sold in Japan?",
       "description": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
       "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 18,
+      "count": 19,
       "story": {
         "title": "Under strain, Australia's world-leading disability support faces major restructure",
         "description": "The NDIS was game-changing for its users - but as costs balloon, its success has led to its downfall.",
@@ -135,7 +135,7 @@
       "name": "White House",
       "lat": 38.9,
       "lon": -77.03,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Trump says White House press secretary Karoline Leavitt to leave post",
         "description": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
@@ -156,30 +156,6 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 4,
-      "story": {
-        "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-        "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
-      "story": {
-        "title": "How a 97-year-old escaped deadly Indian floods on a banana log raft",
-        "description": "A 97-year-old's dramatic rescue captures how Assam's floods are reaching places once thought safe.",
-        "link": "https://www.bbc.co.uk/news/articles/clye8332d63o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
@@ -188,6 +164,18 @@
         "title": "Israeli settlers besieging Palestinian families in West Bank village",
         "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
         "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 3,
+      "story": {
+        "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+        "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -228,18 +216,6 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 3,
-      "story": {
-        "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
-        "description": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
-        "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
@@ -264,6 +240,18 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "Deadly India landslide kills at least seven in Mumbai",
+        "description": "Heavy rains triggered a landslide on Wednesday that killed at least seven people in India’s western Maharashtra state.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Syria",
       "lat": 34.8,
       "lon": 38.9,
@@ -272,18 +260,6 @@
         "title": "Can Syria deliver transitional justice?",
         "description": "A court has sentenced ousted former leader Bashar al-Assad and others to death in absentia.",
         "link": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 3,
-      "story": {
-        "title": "Iceland and Spain plunged into darkness during total solar eclipse",
-        "description": "A total solar eclipse took place in Iceland and Spain as crowds gathered to watch.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/iceland-and-spain-plunged-into-darkness-during-total-solar-eclipse?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -312,6 +288,18 @@
       }
     },
     {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 2,
+      "story": {
+        "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
+        "description": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
+        "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Malaysia",
       "lat": 4.21,
       "lon": 101.98,
@@ -332,6 +320,18 @@
         "title": "PSG win back-to-back UEFA Super Cups with victory over Aston Villa",
         "description": "Kvaratskhelia and Doue earn a win for Paris Saint-Germain as 17-year-old Brian Madjo&#039;s goal is in vain for Aston Villa.",
         "link": "https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Iceland and Spain plunged into darkness during total solar eclipse",
+        "description": "A total solar eclipse took place in Iceland and Spain as crowds gathered to watch.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/iceland-and-spain-plunged-into-darkness-during-total-solar-eclipse?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -360,18 +360,6 @@
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 2,
-      "story": {
-        "title": "Mount Etna eruption disrupts travel at Italy’s Catania airport",
-        "description": "Hundreds of passengers have been left stranded at Italy’s Catania airport after Mount Etna erupted.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/mount-etna-eruption-disrupts-travel-at-italys-catania-airport?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -381,6 +369,18 @@
         "description": "Pakistan's foreign minister has said Islamabad \"strongly condemns\" Houthi attacks on commercial vessels while offering condolences to the families of the dead.",
         "link": "https://www.dw.com/en/pakistan-says-3-nationals-killed-in-houthi-red-sea-attack/a-78330015?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 1,
+      "story": {
+        "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+        "description": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+        "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -480,6 +480,18 @@
       }
     },
     {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 1,
+      "story": {
+        "title": "Live: Australia to bat first against Bangladesh as Darwin hosts historic Test",
+        "description": "Australia takes on Bangladesh in Darwin, the first of two Test matches held in the Top End. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-08-13/live-updates-australia-vs-bangladesh-first-test-day-one/107021750",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
@@ -516,6 +528,18 @@
       }
     },
     {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "Italy: Etna eruption in Sicily halts Catania flights",
+        "description": "Sicily's Catania airport has suspended flights again as Mount Etna continues to spew lava and volcanic ash. The eruption has disrupted travel during the peak summer holiday season.",
+        "link": "https://www.dw.com/en/italy-etna-eruption-in-sicily-halts-catania-flights/a-78338205?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Saudi Arabia",
       "lat": 23.9,
       "lon": 45.1,
@@ -524,30 +548,6 @@
         "title": "Gulf states scramble for Strait of Hormuz alternative",
         "description": "Saudi Arabia has redirected oil exports away from the Strait of Hormuz, but most Gulf producers still lack a reliable backup option to the world's most important energy choke point.",
         "link": "https://www.dw.com/en/gulf-states-scramble-for-strait-of-hormuz-alternative/a-78336679?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 1,
-      "story": {
-        "title": "Short on US Patriot missiles, Ukraine looks for alternatives",
-        "description": "Russia is putting pressure on Ukraine with ballistic missiles, but Kyiv is short of Patriot interceptors. Domestic production and European alternatives take time. Can Kyiv realistically reduce its dependence on the US?",
-        "link": "https://www.dw.com/en/short-on-us-patriot-missiles-ukraine-looks-for-alternatives/a-78328784?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Islamabad",
-      "lat": 33.7,
-      "lon": 73.06,
-      "count": 1,
-      "story": {
-        "title": "Pakistan says 3 nationals killed in Houthi Red Sea attack",
-        "description": "Pakistan's foreign minister has said Islamabad \"strongly condemns\" Houthi attacks on commercial vessels while offering condolences to the families of the dead.",
-        "link": "https://www.dw.com/en/pakistan-says-3-nationals-killed-in-houthi-red-sea-attack/a-78330015?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
