@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:18:56+00:00",
+  "generated_at": "2026-08-13T06:58:24+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 16,
       "story": {
         "title": "Australian army whistleblower released on parole after more than two years in jail",
         "description": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
@@ -84,14 +84,14 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
       "count": 8,
       "story": {
-        "title": "Israeli settlers besieging Palestinian families in West Bank village",
-        "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-        "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+        "title": "Japan protests against Putin visit to disputed islands",
+        "description": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
+        "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -102,20 +102,8 @@
       "count": 7,
       "story": {
         "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-        "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only “destroy Ukraine, not conquer it,” with the war now in its fifth year.",
+        "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
         "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 7,
-      "story": {
-        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-        "description": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
-        "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -123,7 +111,7 @@
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Why are 'human fridges' being sold in Japan?",
         "description": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
@@ -132,22 +120,10 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 6,
-      "story": {
-        "title": "Japan protests Putin visit to disputed islands",
-        "description": "The Russian leader visited the Kuril islands for the first time, according to state media.",
-        "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 5,
       "story": {
         "title": "Israeli settlers besieging Palestinian families in West Bank village",
         "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
@@ -180,15 +156,75 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 4,
+      "story": {
+        "title": "Israeli settlers besieging Palestinian families in West Bank village",
+        "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+        "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
       "count": 3,
       "story": {
-        "title": "11-year-old boy shot by Israeli forces in Gaza",
-        "description": "The father of an 11-year-old boy says Israeli forces shot his son in the head and leg in Khan Younis.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Australian army whistleblower released on parole after more than two years in jail",
+        "description": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 3,
+      "story": {
+        "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+        "description": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+        "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+        "description": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
+        "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 3,
+      "story": {
+        "title": "Discord ordered to suspend livestreams in Brazil",
+        "description": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
+        "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "Cult leader 'Little Pebble' found not guilty of grooming 7yo girl",
+        "description": "A Sydney judge finds cult leader William Kamm and his wife not guilty of grooming a seven-year-old girl.",
+        "link": "https://www.abc.net.au/news/2026-08-13/william-kamm-little-pebble-not-guilty-grooming-girl/107016372",
+        "source": "ABC News AU"
       }
     },
     {
@@ -197,22 +233,10 @@
       "lon": 78.0,
       "count": 3,
       "story": {
-        "title": "Deadly India landslide kills at least seven in Mumbai",
-        "description": "Heavy rains triggered a landslide on Wednesday that killed at least seven people in India’s western Maharashtra state.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 3,
-      "story": {
-        "title": "Can Syria deliver transitional justice?",
-        "description": "A court has sentenced ousted former leader Bashar al-Assad and others to death in absentia.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "India: Data centers boom as water supply runs low",
+        "description": "More than half of India's data centers are in regions that are already water-stressed ― and the country is racing to build more.",
+        "link": "https://www.dw.com/en/india-data-centers-boom-as-water-supply-runs-low/a-78335533?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -228,26 +252,14 @@
       }
     },
     {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "Australian army whistleblower released on parole after more than two years in jail",
-        "description": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-        "description": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
-        "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+        "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+        "description": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
+        "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -264,15 +276,27 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
       "count": 2,
       "story": {
-        "title": "Discord ordered to suspend livestreams in Brazil",
-        "description": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
-        "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "These seaside apartments were a ghost city - then police say scammers moved in",
+        "description": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 2,
+      "story": {
+        "title": "Will the Houthis shut down Saudi Arabian shipping?",
+        "description": "The announcement of a new naval blockade threatens to restart full-scale war between Yemen&#039;s Houthis and Saudi Arabia",
+        "link": "https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -300,27 +324,27 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
       "count": 2,
       "story": {
-        "title": "Alan Jones's defence team accused of trying to intimidate witness",
-        "description": "The broadcaster's defence team is accused by a prosecutor of trying to intimidate a witness during a heated exchange in Alan Jones's indecent assault trial in Sydney.",
-        "link": "https://www.abc.net.au/news/2026-08-13/nsw-alan-jones-trial-witness-complainant-j/107031934",
-        "source": "ABC News AU"
+        "title": "Bangladesh bowl out Australia for 198 in first test",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/bangladesh-bowl-out-australia-198-in-first-test-6316771",
+        "source": "CNA"
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 2,
       "story": {
-        "title": "Pakistan says 3 nationals killed in Houthi Red Sea attack",
-        "description": "Pakistan's foreign minister has said Islamabad \"strongly condemns\" Houthi attacks on commercial vessels while offering condolences to the families of the dead.",
-        "link": "https://www.dw.com/en/pakistan-says-3-nationals-killed-in-houthi-red-sea-attack/a-78330015?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Rescuers comb waters near Bali for 5 missing after ferry blaze",
+        "description": "A total of 211 people were rescued and brought ashore by vessels that rushed to the scene on Wednesday (Aug 12), including a navy ship and another ferry in the vicinity.&nbsp;A 19-year-old Indonesian woman was found dead",
+        "link": "https://www.channelnewsasia.com/asia/bali-ferry-rescuers-5-missing-6316721",
+        "source": "CNA"
       }
     },
     {
@@ -330,7 +354,7 @@
       "count": 1,
       "story": {
         "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-        "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only “destroy Ukraine, not conquer it,” with the war now in its fifth year.",
+        "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
         "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -348,18 +372,6 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 1,
-      "story": {
-        "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
-        "description": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
-        "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Nigeria",
       "lat": 9.1,
       "lon": 8.7,
@@ -368,18 +380,6 @@
         "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
         "description": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
         "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 1,
-      "story": {
-        "title": "These seaside apartments were a ghost city - then police say scammers moved in",
-        "description": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -420,6 +420,30 @@
       }
     },
     {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "The US is now using the ‘terrorist’ label to interfere in Brazil’s election",
+        "description": "The designation of PCC and CV serves to expand Washington’s reach into the country’s politics and security.",
+        "link": "https://www.aljazeera.com/opinions/2026/8/13/the-us-is-now-using-the-terrorist-label-to-interfere-in-brazils-election?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Chile",
+      "lat": -35.68,
+      "lon": -71.54,
+      "count": 1,
+      "story": {
+        "title": "Polls open in Zambia presidential election as economic reforms tested",
+        "description": "The vote will test if incumbent Hakainde Hichilema&#039;s reforms are enough to overcome widespread economic frustration.",
+        "link": "https://www.aljazeera.com/news/2026/8/13/polls-open-in-zambia-presidential-election-as-economic-reforms?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Ecuador",
       "lat": -1.83,
       "lon": -78.18,
@@ -456,38 +480,14 @@
       }
     },
     {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 1,
       "story": {
-        "title": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
-        "description": "Repeated drone strikes on oil and power infrastructure are deepening Libya&#039;s energy crisis.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Mumbai",
-      "lat": 19.08,
-      "lon": 72.88,
-      "count": 1,
-      "story": {
-        "title": "Deadly India landslide kills at least seven in Mumbai",
-        "description": "Heavy rains triggered a landslide on Wednesday that killed at least seven people in India’s western Maharashtra state.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 1,
-      "story": {
-        "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-        "description": "Israeli defence minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
+        "title": "11-year-old boy shot by Israeli forces in Gaza",
+        "description": "The father of an 11-year-old boy says Israeli forces shot his son in the head and leg in Khan Younis.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -516,6 +516,18 @@
       }
     },
     {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 1,
+      "story": {
+        "title": "How North Korea has profited from its support for Russia",
+        "description": "Exceptionally high revenues, particularly from war aid for Russia, are consolidating the power of North Korea's autocratic leader. A small number of people in the country are benefiting from an economic boom.",
+        "link": "https://www.dw.com/en/how-north-korea-has-profited-from-its-support-for-russia/a-78345289?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Iraq",
       "lat": 33.22,
       "lon": 43.68,
@@ -536,18 +548,6 @@
         "title": "Mozart tribute ends on sour note after mass figurine theft",
         "description": "A playful tribute to Mozart has turned into a whodunit after 210 gold-colored figures disappeared from one of Austria's busiest tourist spots. The mass theft forced organizers to end the outdoor display early.",
         "link": "https://www.dw.com/en/mozart-tribute-ends-on-sour-note-after-mass-figurine-theft/a-78341647?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Italy: Etna eruption in Sicily halts Catania flights",
-        "description": "Sicily's Catania airport has suspended flights again as Mount Etna continues to spew lava and volcanic ash. The eruption has disrupted travel during the peak summer holiday season.",
-        "link": "https://www.dw.com/en/italy-etna-eruption-in-sicily-halts-catania-flights/a-78338205?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
