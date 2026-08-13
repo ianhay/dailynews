@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T17:32:11+00:00",
+  "generated_at": "2026-08-13T19:09:18+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Person fined after using foghorn to wake sleeping polar bear",
       "description": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
       "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
       "title": "UK defends seizing shadow fleet tanker after Putin threat",
       "description": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
       "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 16,
+      "count": 18,
       "story": {
         "title": "Australian army whistleblower released on parole after more than two years in jail",
         "description": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
@@ -87,7 +87,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 15,
+      "count": 16,
       "story": {
         "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
         "description": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
@@ -99,7 +99,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
         "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
@@ -111,24 +111,12 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
         "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
         "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 8,
-      "story": {
-        "title": "UK economy grows but experts warn of challenging months ahead",
-        "description": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
-        "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -141,6 +129,18 @@
         "description": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
         "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 7,
+      "story": {
+        "title": "UK economy grows but experts warn of challenging months ahead",
+        "description": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
+        "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -168,15 +168,27 @@
       }
     },
     {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 4,
+      "story": {
+        "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+        "description": "Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.",
+        "link": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Colombia",
       "lat": 4.57,
       "lon": -74.3,
       "count": 4,
       "story": {
-        "title": "Colombia earthquake response tests new far-right government",
-        "description": "Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.",
-        "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "When the earth moves: six major earthquakes of 2026",
+        "description": "Colombia, Venezuela, Mindanao: Thousands have died in powerful earthquakes this year. Six such events show that the magnitude of the quake is not the only factor determining the scale of the disaster.",
+        "link": "https://www.dw.com/en/when-the-earth-moves-six-major-earthquakes-of-2026/a-78358208?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -204,27 +216,27 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 3,
       "story": {
-        "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
-        "description": "Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.",
-        "link": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
+        "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
+        "description": "Ruling latest setback in Trump administration response to Gaza war protests that swept college campuses.",
+        "link": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Bulgaria",
-      "lat": 42.73,
-      "lon": 25.49,
-      "count": 2,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
+      "count": 3,
       "story": {
-        "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-        "description": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
-        "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
+        "description": "The suspect has been identified as a Russian citizen who planned to kill one of Moscow&#039;s critics in Warsaw.",
+        "link": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -236,6 +248,18 @@
         "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
         "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
         "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Bulgaria",
+      "lat": 42.73,
+      "lon": 25.49,
+      "count": 2,
+      "story": {
+        "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+        "description": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+        "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,6 +300,30 @@
       }
     },
     {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 2,
+      "story": {
+        "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
+        "description": "The suspect has been identified as a Russian citizen who planned to kill one of Moscow&#039;s critics in Warsaw.",
+        "link": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Warsaw",
+      "lat": 52.23,
+      "lon": 21.0,
+      "count": 2,
+      "story": {
+        "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
+        "description": "The suspect has been identified as a Russian citizen who planned to kill one of Moscow&#039;s critics in Warsaw.",
+        "link": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Congo",
       "lat": -4.04,
       "lon": 21.76,
@@ -300,18 +348,6 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "Pro-Palestine football fans lament West Ham for signing Manor Solomon",
-        "description": "The 27-year-old Israeli player has used his platform to defend Israel amid the genocide in Gaza.",
-        "link": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -332,18 +368,6 @@
         "title": "Ukrainian defector to Russia killed in bomb attack, Kyiv targets oil refinery",
         "description": "Russian sources claim Robert Shageyev, a former Ukrainian naval officer who defected to Russia in 2014, has been killed.",
         "link": "https://www.abc.net.au/news/2026-08-14/ukrainian-defector-to-russia-killed-sources-say/107035490",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 2,
-      "story": {
-        "title": "Third Sydney Airport take-off incident investigated by safety body",
-        "description": "Safety authorities are investigating a third runway incident at Sydney Airport, involving a Qantas flight crossing the path of a Virgin Australia aircraft.",
-        "link": "https://www.abc.net.au/news/2026-08-13/third-sydney-airport-runway-take-off-incident-investigated/107035400",
         "source": "ABC News AU"
       }
     },
@@ -444,6 +468,30 @@
       }
     },
     {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 1,
+      "story": {
+        "title": "Europe swelters in latest wave of extreme heat",
+        "description": "UK records its hottest day of the year as the temperature in west London reaches 38.1 degrees Celsius.",
+        "link": "https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 1,
+      "story": {
+        "title": "Carrick urges Manchester United to sign more transfers to boost title bid",
+        "description": "United&#039;s preseason outlay pales in comparison with some of their fellow title contenders.",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
@@ -492,18 +540,6 @@
       }
     },
     {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 1,
-      "story": {
-        "title": "Man arrested over alleged Russian plot to kill American citizen in Poland",
-        "description": "Polish Prime Minister Donald Tusk says the attempt is the \"first situation of its kind\" where Russia has ordered the killing of an American citizen on NATO soil.",
-        "link": "https://www.abc.net.au/news/2026-08-14/poland-russia-execution-plot-ukrainian-american/107035856",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
@@ -513,42 +549,6 @@
         "description": "Police converge on a shopping centre in Melbourne's north after shots were fired during an argument between men armed with machetes.",
         "link": "https://www.abc.net.au/news/2026-08-13/shots-fired-as-men-with-machetes-argue-at-craigieburn-shops/107035430",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "MotoGP track will 'irrevocably' change parklands, Adelaide mayor says",
-        "description": "The proposed design of the Adelaide street circuit that will host the Australian MotoGP from 2027 will be publicly released in the coming weeks, prompting Lord Mayor Jane Lomax-Smith to sound a warning.",
-        "link": "https://www.abc.net.au/news/2026-08-13/motogp-track-design-release-triggers-parklands-impact-concern/107034776",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 1,
-      "story": {
-        "title": "Quick hits: A 'peanut' jibe, a Starc record and a brain explosion",
-        "description": "Steve Smith called a Bangladesh bowler a \"peanut\" for making an appeal, but he could probably have labelled a couple of his batting colleagues as such on a dire batting display for Australia. Here are the quick hits from",
-        "link": "https://www.abc.net.au/news/2026-08-13/australia-vs-bangladesh-quick-hits-day-one/107029612",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 1,
-      "story": {
-        "title": "When the earth moves: six major earthquakes of 2026",
-        "description": "Colombia, Venezuela, Mindanao: Thousands have died in powerful earthquakes this year. Six such events show that the magnitude of the quake is not the only factor determining the scale of the disaster.",
-        "link": "https://www.dw.com/en/when-the-earth-moves-six-major-earthquakes-of-2026/a-78358208?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     }
   ]
