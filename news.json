@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T12:11:03+00:00",
+  "generated_at": "2026-08-14T13:55:22+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,19 +18,25 @@
       "source": "BBC News"
     },
     {
+      "title": "Pakistan PM’s ‘red line’ warning to India over water treaty",
+      "description": "Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’",
       "description": "The Israeli PM&#039;s remark comes amid signs of growing tension between Israel and the UK&#039;s Labour government.",
       "link": "https://www.aljazeera.com/news/2026/8/14/israeli-pm-netanyahu-calls-uk-the-islamic-republic-of?traffic_source=rss",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "UK far-right leader Farage re-elected in boycotted by-election",
-      "description": "Nigel Farage re-elected in Clacton by-election after resigning amid scrutiny over his finances.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "australia": [
+    {
+      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "description": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+      "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Person fined after using foghorn to wake sleeping polar bear",
       "description": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
@@ -42,12 +48,6 @@
       "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
       "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-      "description": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
-      "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
@@ -58,15 +58,15 @@
       "source": "BBC News"
     },
     {
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-      "description": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
       "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
       "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "UK economy grows but experts warn of challenging months ahead",
+      "description": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
+      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -80,6 +80,18 @@
         "title": "Australia's game-changing disability support is in crisis – what went wrong?",
         "description": "The programme was game-changing for its users - but as costs balloon, its success has led to its downfall.",
         "link": "https://www.bbc.co.uk/news/articles/c20d8g0qze0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 8,
+      "story": {
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -108,18 +120,6 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 6,
-      "story": {
-        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-        "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -132,26 +132,14 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 6,
-      "story": {
-        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-        "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-        "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
       "count": 6,
       "story": {
-        "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
-        "description": "Ukraine says it has liberated 26 settlements in the south as it retools under heavy bombardment.",
-        "link": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
+        "title": "Russia stance will be defended in court, pledges World Athletics chief Coe",
+        "description": "Russian Athletics has lodged new claim at Court of Arbitration for Sport to challenge sanctions, but WA will fight it.",
+        "link": "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -168,14 +156,26 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 5,
       "story": {
-        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-        "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 5,
+      "story": {
+        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+        "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+        "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,26 +192,14 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 3,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 4,
       "story": {
-        "title": "Stolen Matisse artworks recovered by police in Brazil",
-        "description": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
-        "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-        "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+        "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+        "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -233,10 +221,22 @@
       "lon": 151.21,
       "count": 3,
       "story": {
-        "title": "Live: NRL top eight all but locked in after Souths win",
-        "description": "Barring a mathematical miracle, the NRL's top eight is just about locked in for 2026 after South Sydney downed Canterbury. Follow live.",
+        "title": "NRL top eight all but locked in after Souths win",
+        "description": "Barring a mathematical miracle, the NRL's top eight is just about locked in for 2026 after South Sydney downed Canterbury on Friday night.",
         "link": "https://www.abc.net.au/news/2026-08-14/nrl-live-updates-manly-dolphins-bulldogs-rabbitohs-/107038814",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 2,
+      "story": {
+        "title": "Stolen Matisse artworks recovered by police in Brazil",
+        "description": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+        "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -284,18 +284,6 @@
         "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
         "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
         "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 2,
-      "story": {
-        "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-        "description": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
-        "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -372,6 +360,30 @@
       }
     },
     {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Meet the people keeping dialects and heritage languages alive in Singapore",
+        "description": "Beyond the buzz over Teochew box-office hit&nbsp;Dear You, some Singaporeans are determined not to let dialects and heritage languages&nbsp;fall out of use – by&nbsp;teaching, documenting and speaking them.",
+        "link": "https://www.channelnewsasia.com/today/ground-up/dialect-heritage-language-preservation-hokkien-teochew-baba-malay-malayalam-6316366",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 1,
+      "story": {
+        "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+        "description": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+        "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Greece",
       "lat": 39.07,
       "lon": 21.82,
@@ -408,15 +420,39 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 1,
       "story": {
-        "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-        "description": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
-        "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
+        "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+        "description": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+        "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "Pakistan PM’s ‘red line’ warning to India over water treaty",
+        "description": "Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 1,
+      "story": {
+        "title": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
+        "description": "Thirteen countries have become members of the Saudi-led maritime alliance.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -461,7 +497,7 @@
       "lon": 21.01,
       "count": 1,
       "story": {
-        "title": "A year after student protests that shook Valjevo: Serbia at a crossroads",
+        "title": "A year after student protests shook Valjevo: Serbia at a crossroads",
         "description": "Protests that erupted after railway station canopy collapsed, killing 16, have grown into a broad social movement.",
         "link": "https://www.aljazeera.com/news/2026/8/14/a-year-after-the-violence-in-serbias-valjevo-at-a-crossroads?traffic_source=rss",
         "source": "Al Jazeera"
@@ -492,49 +528,13 @@
       }
     },
     {
-      "name": "Croatia",
-      "lat": 45.1,
-      "lon": 15.2,
-      "count": 1,
-      "story": {
-        "title": "Wildfires force thousands to flee as blazes spread across Europe",
-        "description": "At least a dozen people have reportedly been hospitalised in Croatia after blazes tore into the tourist town of Omis.",
-        "link": "https://www.aljazeera.com/news/2026/8/14/wildfires-force-thousands-to-flee-as-blazes-spread-across-europe?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast",
-        "description": "South Africa and Ghana claim Africa&#039;s two FIFA Intercontinental Playoff spots as Nigeria and Ivory Coast go out.",
-        "link": "https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ghana",
-      "lat": 7.95,
-      "lon": -1.02,
-      "count": 1,
-      "story": {
-        "title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast",
-        "description": "South Africa and Ghana claim Africa&#039;s two FIFA Intercontinental Playoff spots as Nigeria and Ivory Coast go out.",
-        "link": "https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Perth",
       "lat": -31.95,
       "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Live: Dawson shaken up by blow to ribs as Crows fight against Dockers",
-        "description": "Fremantle and Adelaide go head-to-head in Perth in a match that could be a potential dress rehearsal for a finals clash later in the year. Follow live.",
+        "title": "Freo locks up minor premiership after downing Crows in thriller",
+        "description": "Fremantle enhances its premiership credentials by surviving another stiff test against Adelaide at Perth Stadium.",
         "link": "https://www.abc.net.au/news/2026-08-14/afl-round-23-fremantle-dockers-adelaide-crows-live-blog/107040456",
         "source": "ABC News AU"
       }
@@ -545,8 +545,8 @@
       "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Live: Dawson shaken up by blow to ribs as Crows fight against Dockers",
-        "description": "Fremantle and Adelaide go head-to-head in Perth in a match that could be a potential dress rehearsal for a finals clash later in the year. Follow live.",
+        "title": "Freo locks up minor premiership after downing Crows in thriller",
+        "description": "Fremantle enhances its premiership credentials by surviving another stiff test against Adelaide at Perth Stadium.",
         "link": "https://www.abc.net.au/news/2026-08-14/afl-round-23-fremantle-dockers-adelaide-crows-live-blog/107040456",
         "source": "ABC News AU"
       }
