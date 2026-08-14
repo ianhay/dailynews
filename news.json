@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T05:16:16+00:00",
+  "generated_at": "2026-08-14T06:55:09+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 17,
+      "count": 15,
       "story": {
         "title": "Australian army whistleblower released on parole after more than two years in jail",
         "description": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
@@ -84,10 +84,22 @@
       }
     },
     {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 9,
+      "story": {
+        "title": "'Unprecedented' rains in Japan kill four people",
+        "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
         "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
@@ -108,22 +120,10 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 7,
-      "story": {
-        "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-        "description": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-        "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
         "description": "Hear from voters in Kingsport, home to a munitions plant supplying the US military, as tensions over the Iran war spark debate.",
@@ -135,7 +135,7 @@
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
         "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
@@ -147,12 +147,36 @@
       "name": "Singapore",
       "lat": 1.35,
       "lon": 103.82,
+      "count": 6,
+      "story": {
+        "title": "Actor Tay Ping Hui mourns mother, who died of cancer: 'Life without you will never be the same'",
+        "description": "On Instagram, the Singaporean actor opened up about his mother's battle with cancer and why he had stepped back from social media in recent months.",
+        "link": "https://www.channelnewsasia.com/entertainment/tay-ping-hui-mourns-mother-pancreatic-cancer-6319176",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 5,
       "story": {
-        "title": "Man gets jail for burgling homes on first Singapore visit after finding it ‘rich’",
-        "description": "The man stole more than S$100,000 (US$78,000) worth of valuables.",
-        "link": "https://www.channelnewsasia.com/singapore/tourist-burglar-homes-sentosa-serangoon-6319081",
-        "source": "CNA"
+        "title": "Air India to test all pilots for banned substances",
+        "description": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
+        "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Tokyo",
+      "lat": 35.68,
+      "lon": 139.77,
+      "count": 4,
+      "story": {
+        "title": "'Unprecedented' rains in Japan kill four people",
+        "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -164,18 +188,6 @@
         "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
         "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
         "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
-      "story": {
-        "title": "Air India to test all pilots for banned substances",
-        "description": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
-        "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,18 +204,6 @@
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
-      "count": 4,
-      "story": {
-        "title": "Colombia’s rescuers search rubble as hope fades on finding survivors",
-        "description": "The crucial 72-hour window to find survivors has passed, but rescue teams in Colombia keep digging.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/colombias-rescuers-search-rubble-as-hope-fades-on-finding-survivors?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "White House",
       "lat": 38.9,
       "lon": -77.03,
@@ -216,15 +216,15 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
       "count": 3,
       "story": {
-        "title": "Discord ordered to suspend livestreams in Brazil",
-        "description": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
-        "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "North Korea fumes over upcoming US-South Korea military drills",
+        "description": "Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -240,27 +240,15 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
       "count": 3,
       "story": {
-        "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
-        "description": "Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.",
-        "link": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+        "title": "Colombia’s rescuers search rubble as hope fades on finding survivors",
+        "description": "The crucial 72-hour window to find survivors has passed, but rescue teams in Colombia keep digging.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/colombias-rescuers-search-rubble-as-hope-fades-on-finding-survivors?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
-      "story": {
-        "title": "NSW premier 'praying for good news' in search for missing hiker",
-        "description": "Australian Defence Force personnel have joined the search for bushwalker Lily Hooper, who has gone missing while hiking alone in Nattai National Park, south-west of Sydney.",
-        "link": "https://www.abc.net.au/news/2026-08-14/lily-hooper-missing-nattai-national-park-search-adf/107036618",
-        "source": "ABC News AU"
       }
     },
     {
@@ -288,18 +276,6 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 2,
-      "story": {
-        "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
-        "description": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.",
-        "link": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Nigeria",
       "lat": 9.1,
       "lon": 8.7,
@@ -312,27 +288,63 @@
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 2,
       "story": {
-        "title": "What would a North Korean troop surge mean for Ukraine war?",
-        "description": "Ukraine is claiming that North Korea is preparing to send tens of thousands more troops to Russia, where they'll gain valuable battlefield experience.",
-        "link": "https://www.dw.com/en/what-would-a-north-korean-troop-surge-mean-for-ukraine-war/a-78350896?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+        "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
+        "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
       "count": 2,
       "story": {
-        "title": "Malaysia's economy grows 6% year-on-year in Q2, beating expectations",
-        "description": "Malaysia's economy surpassed expectations in the second quarter of 2026, as&nbsp;stronger export growth and steady household spending offset risks arising from the Middle East conflict.&nbsp;",
-        "link": "https://www.channelnewsasia.com/business/malaysia-gdp-economy-q2-2026-6319096",
-        "source": "CNA"
+        "title": "Discord ordered to suspend livestreams in Brazil",
+        "description": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
+        "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 2,
+      "story": {
+        "title": "Water supply for three US states drips down, Lake Mead at record low",
+        "description": "The largest reservoir in the United States, located on the border of Arizona and Nevada, just hit a record low.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
+        "description": "Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.",
+        "link": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 2,
+      "story": {
+        "title": "Does the clean energy transition need forever chemicals?",
+        "description": "As nations globally move to ban forever chemicals, should renewable energy technologies be exempt for the sake of saving the climate?",
+        "link": "https://www.dw.com/en/does-the-clean-energy-transition-need-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -344,6 +356,18 @@
         "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
         "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
         "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 1,
+      "story": {
+        "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
+        "description": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.",
+        "link": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -396,15 +420,15 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Pyongyang",
+      "lat": 39.03,
+      "lon": 125.75,
       "count": 1,
       "story": {
-        "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-        "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
-        "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "North Korea fumes over upcoming US-South Korea military drills",
+        "description": "Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -416,18 +440,6 @@
         "title": "How much power does the US hold in Venezuela?",
         "description": "After Maduro’s removal, US influence in Venezuela soared, but experts say Washington may still have to ‘own’ Venezuela.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_venezuela_-how-much-power-does-the-us-really-hold-140826?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 1,
-      "story": {
-        "title": "Water supply for three US states drips down, Lake Mead at record low",
-        "description": "The largest reservoir in the United States, located on the border of Arizona and Nevada, just hit a record low.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -492,15 +504,15 @@
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Mexico says Colombia rejected its earthquake rescue team",
-        "description": "Colombia denies politics played a role after Mexico said its military rescuers were refused entry.",
-        "link": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Teenager charged over $2m fire that destroyed multiple Melbourne shops",
+        "description": "Police allege the 16-year-old boy rammed a shop on Victoria Street and set a fire that spread through neighbouring businesses.",
+        "link": "https://www.abc.net.au/news/2026-08-14/richmond-victoria-street-fire-charges/107039402",
+        "source": "ABC News AU"
       }
     },
     {
@@ -516,26 +528,14 @@
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
+      "name": "Stockholm",
+      "lat": 59.33,
+      "lon": 18.07,
       "count": 1,
       "story": {
-        "title": "Map finds native water mammal rakali thriving in Melbourne's waterways",
-        "description": "A native water mammal once dismissed as a \"water rat\" is quietly thriving in Melbourne's waterways, according to a new University of Melbourne mapping project.",
-        "link": "https://www.abc.net.au/news/2026-08-14/melbourne-university-map-tracks-native-water-mammal-rakali/107027312",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Tokyo",
-      "lat": 35.68,
-      "lon": 139.77,
-      "count": 1,
-      "story": {
-        "title": "Four dead, thousands stranded as record rain lashes Japan",
-        "description": "Unprecedented rainfall in Japan's Chiba prefecture has stranded thousands of passengers at Tokyo's Narita airport and prompted authorities to issue the highest-level rain warning for the first time.",
-        "link": "https://www.dw.com/en/four-dead-thousands-stranded-as-record-rain-lashes-japan/a-78361113?maca=en-rss-en-all-1573-rdf",
+        "title": "Can childhood trauma be prevented with a drug?",
+        "description": "Researchers in Munich and Stockholm blocked the lifelong social cost of early adversity in mice with a single compound. The catch: it only worked when given during the trauma, not after.",
+        "link": "https://www.dw.com/en/can-childhood-trauma-be-prevented-with-a-drug/a-78301961?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
