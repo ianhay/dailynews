@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T00:08:55+00:00",
+  "generated_at": "2026-08-14T03:07:27+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,9 +24,9 @@
       "source": "BBC News"
     },
     {
-      "title": "What’s at stake in Zambia’s elections?",
-      "description": "The economy dominates voter concerns in the southern African country.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/13/whats-at-stake-in-zambias-elections?traffic_source=rss",
+      "title": "Could Trump actually run for a third term as president?",
+      "description": "Donald Trump says the law stopping him from seeking a third presidential term is ‘very strong’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
@@ -84,10 +84,22 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 9,
+      "story": {
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 10,
+      "count": 8,
       "story": {
         "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
         "description": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
@@ -96,10 +108,22 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 8,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 7,
+      "story": {
+        "title": "UK economy grows but experts warn of challenging months ahead",
+        "description": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
+        "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 6,
       "story": {
         "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
         "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
@@ -120,6 +144,18 @@
       }
     },
     {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 6,
+      "story": {
+        "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+        "description": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
+        "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Colombia",
       "lat": 4.57,
       "lon": -74.3,
@@ -129,42 +165,6 @@
         "description": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
         "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 5,
-      "story": {
-        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-        "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 5,
-      "story": {
-        "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-        "description": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-        "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 5,
-      "story": {
-        "title": "UK economy grows but experts warn of challenging months ahead",
-        "description": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
-        "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -180,39 +180,27 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-        "description": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
-        "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "ADF joins search for 18-year-old bushwalker missing in national park",
+        "description": "Australian Defence Force personnel join the search for bushwalker Lily Hooper, who has gone missing while hiking alone in Nattai National Park, south-west of Sydney.",
+        "link": "https://www.abc.net.au/news/2026-08-14/lily-hooper-missing-nattai-national-park-search-adf/107036618",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 4,
       "story": {
-        "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
-        "description": "Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.",
-        "link": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Romania",
-      "lat": 45.94,
-      "lon": 24.97,
-      "count": 3,
-      "story": {
-        "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-        "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-        "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Concours d’Elegance Singapore brings classic cars, supercars and cinematic spectacle to Gardens by the Bay",
+        "description": "From a 1936 Triumph Dolomite Roadster and a wartime Mercury Eight to modern Ferraris and bespoke McLarens, the event puts automotive history and design on display at IMBA Theatre.",
+        "link": "https://www.channelnewsasia.com/obsessions/concours-delegance-singapore-classic-cars-supercars-6318541",
+        "source": "CNA"
       }
     },
     {
@@ -240,27 +228,39 @@
       }
     },
     {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 3,
+      "name": "Romania",
+      "lat": 45.94,
+      "lon": 24.97,
+      "count": 2,
       "story": {
-        "title": "DR Congo Ebola outbreak spreads to a sixth province",
-        "description": "Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the DRC, according to government figures.",
-        "link": "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+        "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+        "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 2,
       "story": {
-        "title": "Air safety boss 'trying to understand' Sydney Airport incident reporting delay",
-        "description": "A third safety issue on the tarmac at Sydney Airport in recent weeks prompted the nation's air safety boss question why investigators were not notified for four days about another incident on Sunday.",
-        "link": "https://www.abc.net.au/news/2026-08-14/atsb-sydney-airport-third-safety-issue-runway-airservices/107036452",
-        "source": "ABC News AU"
+        "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
+        "description": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.",
+        "link": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 2,
+      "story": {
+        "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+        "description": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
+        "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -276,26 +276,26 @@
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
       "count": 2,
       "story": {
-        "title": "Mexico says Colombia rejected its earthquake rescue team",
-        "description": "Colombia denies politics played a role after Mexico said its military rescuers were refused entry.",
-        "link": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss",
+        "title": "Talks between government and opposition mark a new chapter for Venezuela",
+        "description": "The government of Delcy Rodriguez held its first talks with part of Venezuela&#039;s opposition. But what will they achieve?",
+        "link": "https://www.aljazeera.com/news/longform/2026/8/14/talks-between-government-and-opposition-mark-a-new-chapter-for-venezuela?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "China and Indonesia’s joint naval drills anger Taiwan",
-        "description": "Chinese state media have released footage of a joint naval drill with Indonesia in waters east of Taiwan.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss",
+        "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
+        "description": "Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.",
+        "link": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -348,18 +348,6 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 1,
-      "story": {
-        "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
-        "description": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.",
-        "link": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Bulgaria",
       "lat": 42.73,
       "lon": 25.49,
@@ -393,6 +381,102 @@
         "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
         "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 1,
+      "story": {
+        "title": "Why Osun’s election matters for Nigeria’s 2027 vote",
+        "description": "The result could offer an early signal of shifting alliances and voter sentiment before the presidential race.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/why-osuns-election-matters-for-nigerias-2027-vote?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 1,
+      "story": {
+        "title": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China",
+        "description": "Taipei is seeking to dissolve the China Unification Promotion Party over its alleged ties to Beijing.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/taiwans-white-wolf-leads-lonely-crusade-to-reunify-with-china?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 1,
+      "story": {
+        "title": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China",
+        "description": "Taipei is seeking to dissolve the China Unification Promotion Party over its alleged ties to Beijing.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/taiwans-white-wolf-leads-lonely-crusade-to-reunify-with-china?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Taipei",
+      "lat": 25.03,
+      "lon": 121.56,
+      "count": 1,
+      "story": {
+        "title": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China",
+        "description": "Taipei is seeking to dissolve the China Unification Promotion Party over its alleged ties to Beijing.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/taiwans-white-wolf-leads-lonely-crusade-to-reunify-with-china?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Taiwan",
+      "lat": 23.7,
+      "lon": 121.0,
+      "count": 1,
+      "story": {
+        "title": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China",
+        "description": "Taipei is seeking to dissolve the China Unification Promotion Party over its alleged ties to Beijing.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/taiwans-white-wolf-leads-lonely-crusade-to-reunify-with-china?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’",
+        "description": "Norway’s FM Espen Barth Eide says the Iran war failed to achieve its initial aims and strengthened hardliners in Tehran.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
+      "count": 1,
+      "story": {
+        "title": "Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’",
+        "description": "Norway’s FM Espen Barth Eide says the Iran war failed to achieve its initial aims and strengthened hardliners in Tehran.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 1,
+      "story": {
+        "title": "Mexico says Colombia rejected its earthquake rescue team",
+        "description": "Colombia denies politics played a role after Mexico said its military rescuers were refused entry.",
+        "link": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -444,110 +528,26 @@
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Europe swelters in latest wave of extreme heat",
-        "description": "UK records its hottest day of the year as the temperature in west London reaches 38.1 degrees Celsius.",
-        "link": "https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Map finds native water mammal rakali thriving in Melbourne's waterways",
+        "description": "A native water mammal once dismissed as a \"water rat\" is quietly thriving in Melbourne's waterways, according to a new University of Melbourne mapping project.",
+        "link": "https://www.abc.net.au/news/2026-08-14/melbourne-university-map-tracks-native-water-mammal-rakali/107027312",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Carrick urges Manchester United to sign more transfers to boost title bid",
-        "description": "United&#039;s preseason outlay pales in comparison with some of their fellow title contenders.",
-        "link": "https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 1,
-      "story": {
-        "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
-        "description": "The suspect has been identified as a Russian citizen who planned to kill one of Moscow&#039;s critics in Warsaw.",
-        "link": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Warsaw",
-      "lat": 52.23,
-      "lon": 21.0,
-      "count": 1,
-      "story": {
-        "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
-        "description": "The suspect has been identified as a Russian citizen who planned to kill one of Moscow&#039;s critics in Warsaw.",
-        "link": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 1,
-      "story": {
-        "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
-        "description": "The suspect has been identified as a Russian citizen who planned to kill one of Moscow&#039;s critics in Warsaw.",
-        "link": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
-      "count": 1,
-      "story": {
-        "title": "China and Indonesia’s joint naval drills anger Taiwan",
-        "description": "Chinese state media have released footage of a joint naval drill with Indonesia in waters east of Taiwan.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 1,
-      "story": {
-        "title": "China and Indonesia’s joint naval drills anger Taiwan",
-        "description": "Chinese state media have released footage of a joint naval drill with Indonesia in waters east of Taiwan.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Chile",
-      "lat": -35.68,
-      "lon": -71.54,
-      "count": 1,
-      "story": {
-        "title": "Zambian president Hichilema votes as he seeks second term",
-        "description": "Zambian president Hakainde Hichilema has cast his vote in the capital Lusaka, as he bids for a second term.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 1,
-      "story": {
-        "title": "Live: Australia hunting quick wickets against brave Bangladesh",
-        "description": "Australia looks for quick wickets against Bangladesh on day two of the first Test in Darwin. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-08-14/australia-vs-bangladesh-day-two-live-updates/107034980",
+        "title": "Albanese says Trump considering tariff exemption after phone call",
+        "description": "The prime minister says he has urged Donald Trump to consider giving Australia a full exemption from Washington's sweeping tariffs, or \"at the very least no increase\" from the old 10 per cent rate.",
+        "link": "https://www.abc.net.au/news/2026-08-14/albanese-trump-tariffs-aukus-phone-call/107036526",
         "source": "ABC News AU"
       }
     }
