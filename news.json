@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:01:40+00:00",
+  "generated_at": "2026-08-14T12:11:03+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,22 +12,22 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+      "description": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
+      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’",
+      "description": "The Israeli PM&#039;s remark comes amid signs of growing tension between Israel and the UK&#039;s Labour government.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/israeli-pm-netanyahu-calls-uk-the-islamic-republic-of?traffic_source=rss",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "UK far-right leader Farage re-elected in boycotted by-election",
       "description": "Nigel Farage re-elected in Clacton by-election after resigning amid scrutiny over his finances.",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "What is a ‘ceasefire’ supposed to achieve?",
-      "description": "Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Why is Russia's Yabloko party barred from upcoming election?",
-      "description": "Russia's highest court has banned anti-war opposition party Yabloko from September's parliamentary election. What does this mean for the election campaign, opponents of the war and for the political mood in the country?",
-      "link": "https://www.dw.com/en/why-is-russia-s-yabloko-party-barred-from-upcoming-election/a-78341971?maca=en-rss-en-all-1573-rdf",
-      "source": "DW"
     }
   ],
   "australia": [
@@ -75,11 +75,23 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 16,
+      "count": 17,
       "story": {
         "title": "Australia's game-changing disability support is in crisis – what went wrong?",
         "description": "The programme was game-changing for its users - but as costs balloon, its success has led to its downfall.",
         "link": "https://www.bbc.co.uk/news/articles/c20d8g0qze0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 8,
+      "story": {
+        "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
+        "description": "Hear from voters in Kingsport, home to a munitions plant supplying the US military, as tensions over the Iran war spark debate.",
+        "link": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -96,6 +108,18 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 6,
+      "story": {
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -105,6 +129,30 @@
         "description": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
         "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 6,
+      "story": {
+        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+        "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+        "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 6,
+      "story": {
+        "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
+        "description": "Ukraine says it has liberated 26 settlements in the south as it retools under heavy bombardment.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -132,30 +180,6 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
-      "story": {
-        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-        "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-        "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 5,
-      "story": {
-        "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
-        "description": "Kyiv targets Baltic oil hub and warehouse near Moscow with drones.",
-        "link": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Tokyo",
       "lat": 35.68,
       "lon": 139.77,
@@ -165,42 +189,6 @@
         "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
         "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-        "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 4,
-      "story": {
-        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-        "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 4,
-      "story": {
-        "title": "UK economy grows but experts warn of challenging months ahead",
-        "description": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
-        "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -216,14 +204,14 @@
       }
     },
     {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
-        "description": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
-        "link": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -240,25 +228,13 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 3,
-      "story": {
-        "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-        "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
-        "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
       "count": 3,
       "story": {
-        "title": "Live: Souths on top in tense clash with Dogs",
-        "description": "South Sydney have taken the edge in their pre-finals blockbuster with Canterbury. Follow live.",
+        "title": "Live: NRL top eight all but locked in after Souths win",
+        "description": "Barring a mathematical miracle, the NRL's top eight is just about locked in for 2026 after South Sydney downed Canterbury. Follow live.",
         "link": "https://www.abc.net.au/news/2026-08-14/nrl-live-updates-manly-dolphins-bulldogs-rabbitohs-/107038814",
         "source": "ABC News AU"
       }
@@ -276,6 +252,18 @@
       }
     },
     {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 2,
+      "story": {
+        "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
+        "description": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
+        "link": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Colombia",
       "lat": 4.57,
       "lon": -74.3,
@@ -284,6 +272,18 @@
         "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
         "description": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
         "link": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kremlin",
+      "lat": 55.75,
+      "lon": 37.62,
+      "count": 2,
+      "story": {
+        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+        "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+        "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -297,6 +297,42 @@
         "description": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
         "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 2,
+      "story": {
+        "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+        "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
+        "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
+      "count": 2,
+      "story": {
+        "title": "Rising Australian golfer Bang dies of brain haemorrhage in Thailand aged 18",
+        "description": "Jessica Bang won her first professional event this year but died after collapse in Thailand and emergency surgery.",
+        "link": "https://www.aljazeera.com/sports/2026/8/14/rising-australian-golfer-bang-dies-of-brain-haemorrhage-in-thailand-aged-18?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
+      "story": {
+        "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
+        "description": "Ukraine says it has liberated 26 settlements in the south as it retools under heavy bombardment.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -332,18 +368,6 @@
         "title": "South Korea players want K League season change due to ‘worsening climate’",
         "description": "South Korea football players push for a K League season shift as &#039;punishing heat&#039; hitting summer matches.",
         "link": "https://www.aljazeera.com/sports/2026/8/14/south-korea-players-want-k-league-season-change-due-to-worsening-climate?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 2,
-      "story": {
-        "title": "North Korea fumes over upcoming US-South Korea military drills",
-        "description": "Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -396,33 +420,21 @@
       }
     },
     {
-      "name": "Kremlin",
-      "lat": 55.75,
-      "lon": 37.62,
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-        "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-        "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
+        "description": "Manchester City&#039;s Enzo Maresca coy on the future of midfielder Rodri ahead of Community Shield showdown with Arsenal.",
+        "link": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
-      "count": 1,
-      "story": {
-        "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
-        "description": "Kyiv targets Baltic oil hub and warehouse near Moscow with drones.",
-        "link": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
       "count": 1,
       "story": {
         "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
@@ -516,36 +528,24 @@
       }
     },
     {
-      "name": "Pyongyang",
-      "lat": 39.03,
-      "lon": 125.75,
-      "count": 1,
-      "story": {
-        "title": "North Korea fumes over upcoming US-South Korea military drills",
-        "description": "Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "How much power does the US hold in Venezuela?",
-        "description": "After Maduro’s removal, US influence in Venezuela soared, but experts say Washington may still have to ‘own’ Venezuela.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_venezuela_-how-much-power-does-the-us-really-hold-140826?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Perth",
       "lat": -31.95,
       "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Live: Amiss sparks Freo with three first-term goals after fast Crows start",
+        "title": "Live: Dawson shaken up by blow to ribs as Crows fight against Dockers",
+        "description": "Fremantle and Adelaide go head-to-head in Perth in a match that could be a potential dress rehearsal for a finals clash later in the year. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-08-14/afl-round-23-fremantle-dockers-adelaide-crows-live-blog/107040456",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 1,
+      "story": {
+        "title": "Live: Dawson shaken up by blow to ribs as Crows fight against Dockers",
         "description": "Fremantle and Adelaide go head-to-head in Perth in a match that could be a potential dress rehearsal for a finals clash later in the year. Follow live.",
         "link": "https://www.abc.net.au/news/2026-08-14/afl-round-23-fremantle-dockers-adelaide-crows-live-blog/107040456",
         "source": "ABC News AU"
