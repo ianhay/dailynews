@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T03:47:34+00:00",
+  "generated_at": "2026-08-15T04:37:07+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 9,
+      "count": 10,
       "story": {
         "title": "UK economy grows but experts warn of challenging months ahead",
         "description": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
@@ -99,11 +99,23 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
         "description": "Two families have been trapped in their homes in the occupied West Bank for several days.",
         "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 6,
+      "story": {
+        "title": "'Unprecedented' rain in Japan kills eight people",
+        "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,18 +132,6 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 5,
-      "story": {
-        "title": "'Unprecedented' rain in Japan kills eight people",
-        "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
@@ -140,6 +140,18 @@
         "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
         "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
         "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 5,
+      "story": {
+        "title": "Air India to test all pilots for banned substances",
+        "description": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
+        "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -204,18 +216,6 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "Air India to test all pilots for banned substances",
-        "description": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
-        "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Colombia",
       "lat": 4.57,
       "lon": -74.3,
@@ -228,15 +228,15 @@
       }
     },
     {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 3,
       "story": {
-        "title": "UN urges support for Afghan women’s aid five years into Taliban rule",
-        "description": "More than half of women’s organisations operating in Afghanistan could cease operations within next year: UN Women.",
-        "link": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Who could replace White House Press Secretary Karoline Leavitt?",
+        "description": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
+        "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -336,15 +336,27 @@
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 2,
       "story": {
-        "title": "Who could replace White House Press Secretary Karoline Leavitt?",
-        "description": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
-        "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+        "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
+        "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
+      "count": 2,
+      "story": {
+        "title": "UN urges support for Afghan women’s aid five years into Taliban rule",
+        "description": "More than half of women’s organisations operating in Afghanistan could cease operations within next year: UN Women.",
+        "link": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -432,18 +444,6 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-        "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
-        "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Beirut",
       "lat": 33.9,
       "lon": 35.5,
@@ -476,30 +476,6 @@
         "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
         "description": "The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.",
         "link": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
-        "description": "The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.",
-        "link": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 1,
-      "story": {
-        "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
-        "description": "Young survivors of Israel&#039;s genocidal war in Gaza find safe spaces to process trauma and rediscover joy.",
-        "link": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -545,10 +521,34 @@
       "lon": 90.36,
       "count": 1,
       "story": {
-        "title": "Live: Bangladesh finally all out for 426 after session of Aussie humiliation",
-        "description": "Bangladesh takes an enormous 228-run lead into the second innings in Darwin, with a Steve Smith drop headlining another torrid morning of cricket for the hosts. Follow live.",
+        "title": "Live: Weatherald out for a duck with Australia on the ropes in Darwin",
+        "description": "Jake Weatherald departs for no score, with Bangladesh all over Australia after taking a 228-run lead into the second innings in Darwin. Follow live.",
         "link": "https://www.abc.net.au/news/2026-08-15/australia-vs-bangladesh-day-three-live-updates/107029696",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Kinshasa",
+      "lat": -4.32,
+      "lon": 15.31,
+      "count": 1,
+      "story": {
+        "title": "Congo: Ebola cases are rising at record pace",
+        "description": "The Ebola virus is spreading rapidly in the DRC. In Kinshasa, a city of millions, fears of a serious health crisis are growing. Hospitals are scrambling to prepare for emergencies as best as they can.",
+        "link": "https://www.dw.com/en/congo-ebola-cases-are-rising-at-record-pace/a-78364053?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 1,
+      "story": {
+        "title": "Congo: Ebola cases are rising at record pace",
+        "description": "The Ebola virus is spreading rapidly in the DRC. In Kinshasa, a city of millions, fears of a serious health crisis are growing. Hospitals are scrambling to prepare for emergencies as best as they can.",
+        "link": "https://www.dw.com/en/congo-ebola-cases-are-rising-at-record-pace/a-78364053?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
