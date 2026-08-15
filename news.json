@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:52:05+00:00",
+  "generated_at": "2026-08-15T23:25:32+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 13,
       "story": {
         "title": "Australian state to launch gun buyback after Bondi Beach attack",
         "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 11,
+      "count": 10,
       "story": {
         "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
         "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
@@ -99,7 +99,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 8,
+      "count": 9,
       "story": {
         "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
         "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
@@ -132,6 +132,18 @@
       }
     },
     {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 5,
+      "story": {
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
@@ -141,18 +153,6 @@
         "description": "Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 4,
-      "story": {
-        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -408,6 +408,18 @@
       }
     },
     {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 1,
+      "story": {
+        "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
+        "description": "Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs.",
+        "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Doha",
       "lat": 25.29,
       "lon": 51.53,
@@ -504,30 +516,6 @@
       }
     },
     {
-      "name": "Vienna",
-      "lat": 48.21,
-      "lon": 16.37,
-      "count": 1,
-      "story": {
-        "title": "Vienna woman sues city for discrimination over toilet fees",
-        "description": "An Austrian activist in Vienna is challenging the city over public toilet fees.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Austria",
-      "lat": 47.52,
-      "lon": 14.55,
-      "count": 1,
-      "story": {
-        "title": "Vienna woman sues city for discrimination over toilet fees",
-        "description": "An Austrian activist in Vienna is challenging the city over public toilet fees.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
@@ -543,6 +531,18 @@
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "Key Demon faces nervous MRO wait with AFL finals near after high shot",
+        "description": "Melbourne forward Jacob van Rooyen faces a nervous wait for the match review officer after collecting a \"flat\" Aliir Aliir during the Demons' commanding  20.12 (132) to 8.8 (56) win over Port Adelaide.",
+        "link": "https://www.abc.net.au/news/2026-08-16/jacob-van-rooyen-facers-afl-mro-wait-after-hit-on-aliir-aliir/107043148",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
         "title": "Key Demon faces nervous MRO wait with AFL finals near after high shot",
