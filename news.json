@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T01:43:17+00:00",
+  "generated_at": "2026-08-16T03:05:41+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "BBC seeks to subpoena members in Panorama lawsuit",
+      "description": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
+      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
       "description": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
       "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
@@ -22,12 +28,6 @@
       "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
       "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-      "description": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
-      "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "australia": [
@@ -111,12 +111,24 @@
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
         "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
         "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 5,
+      "story": {
+        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+        "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -128,30 +140,6 @@
         "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
         "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
         "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 5,
-      "story": {
-        "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
-        "description": "Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 4,
-      "story": {
-        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-        "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
-        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -168,15 +156,15 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
       "count": 4,
       "story": {
-        "title": "Adam Driver will play Mister Sinister and Inde Navarrette will go Rogue in Marvel’s X-Men reboot",
-        "description": "Disney's D23 event on Saturday (Aug 15), Singapore time, also saw announcements related to the Star Wars franchise.",
-        "link": "https://www.channelnewsasia.com/entertainment/d23-2026-x-men-frozen-3-star-wars-6321896",
-        "source": "CNA"
+        "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
+        "description": "Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -204,6 +192,18 @@
       }
     },
     {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 3,
+      "story": {
+        "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+        "description": "Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
@@ -213,6 +213,18 @@
         "description": "After the Taliban retook power on August 15, 2021, Berlin promised to bring Afghan staff to Germany. But people are still waiting to leave in Pakistan and Afghanistan.",
         "link": "https://www.dw.com/en/afghan-allies-still-waiting-for-the-safety-germany-promised/a-78319745?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Adam Driver will play Mister Sinister and Inde Navarrette will go Rogue in Marvel’s X-Men reboot",
+        "description": "Disney's D23 event on Saturday (Aug 15), Singapore time, also saw announcements related to the Star Wars franchise.",
+        "link": "https://www.channelnewsasia.com/entertainment/d23-2026-x-men-frozen-3-star-wars-6321896",
+        "source": "CNA"
       }
     },
     {
@@ -276,18 +288,6 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
-        "description": "Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.",
-        "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Egypt",
       "lat": 26.8,
       "lon": 30.8,
@@ -312,6 +312,18 @@
       }
     },
     {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 2,
+      "story": {
+        "title": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
+        "description": "Iran claims Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -321,42 +333,6 @@
         "description": "Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.",
         "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 2,
-      "story": {
-        "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-        "description": "Ukraine used domestically produced Flamingo missiles to hit targets in Russia&#039;s southwestern Samara region.",
-        "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 2,
-      "story": {
-        "title": "NRLW's Roosters fly against Broncos amid controversy",
-        "description": "The Sydney Roosters strengthen their grip on a second consecutive NRLW minor premiership by enacting a modicum of grand final revenge in a 34-20 victory against Brisbane.",
-        "link": "https://www.abc.net.au/news/2026-08-16/nrlw-wrap-roosters-broncos-eels-bulldogs-titans-dragons/107043130",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 2,
-      "story": {
-        "title": "Climate action doesn't seem to be a priority for Germany — despite heat-related deaths and drought. Why aren't more people taking to the streets?",
-        "description": "Climate action does not seem to be a priority for the German government — despite record temperatures, heat-related deaths and drought. Why aren't more people taking to the streets in protest?",
-        "link": "https://www.dw.com/en/climate-action-doesn-t-seem-to-be-a-priority-for-germany-despite-heat-related-deaths-and-drought-why-aren-t-more-people-taking-to-the-streets/a-78374727?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -405,6 +381,18 @@
         "description": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
         "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 1,
+      "story": {
+        "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
+        "description": "Riders say the switch is helping them cut fuel and maintenance costs.",
+        "link": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -461,8 +449,8 @@
       "lon": 51.53,
       "count": 1,
       "story": {
-        "title": "Qatar denies it is detaining three Iranian bomber pilots",
-        "description": "Iran says Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;.",
+        "title": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
+        "description": "Iran claims Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;.",
         "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
         "source": "Al Jazeera"
       }
@@ -516,15 +504,15 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
       "count": 1,
       "story": {
-        "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-        "description": "Ukraine used domestically produced Flamingo missiles to hit targets in Russia&#039;s southwestern Samara region.",
-        "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "These graphs show why Ebola outbreak is on track to be worst in history",
+        "description": "WHO director-general Tedros Adhanom Ghebreyesus says many of the deaths occurring in the Democratic Republic of Congo are happening outside of known transmission chains, meaning the outbreak is a long way from being brou",
+        "link": "https://www.abc.net.au/news/2026-08-16/drc-ebola-outbreak-2026-graphs-case-numbers/107032286",
+        "source": "ABC News AU"
       }
     },
     {
@@ -545,9 +533,21 @@
       "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Menopause and music: pioneer women's health doctor dies at 94",
+        "title": "Obstetrician survived by more than one generation of deeply grateful women",
         "description": "Renowned Perth obstetrician Margaret Smith, who died on July 14, fought long and hard for women's health during her career.",
         "link": "https://www.abc.net.au/news/2026-08-16/margaret-smith-womens-health-pioneer-dies-at-94/107030412",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
+      "count": 1,
+      "story": {
+        "title": "Memory of late partner blooms in sharing wildflowers",
+        "description": "Leonie Aspin shares her wonder of nature and honours the memory of her partner by travelling from New Zealand to rural WA each year as the wildflowers bloom.",
+        "link": "https://www.abc.net.au/news/2026-08-16/new-zealand-to-wa-midwest-wildflowers-tourism/107030124",
         "source": "ABC News AU"
       }
     }
