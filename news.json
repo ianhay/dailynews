@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:35:50+00:00",
+  "generated_at": "2026-08-16T19:25:13+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,8 +32,8 @@
   ],
   "australia": [
     {
-      "title": "Teenager arrested in Virginia State University shooting that injured five",
-      "description": "The 19-year-old, who was not a student at the university, was found hiding in a closet on campus, according to police.",
+      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "description": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
       "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -72,26 +72,26 @@
   ],
   "places": [
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 13,
-      "story": {
-        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 16,
       "story": {
         "title": "Australian state to launch gun buyback after Bondi Beach attack",
         "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
         "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 14,
+      "story": {
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,11 +111,35 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
+      "count": 8,
+      "story": {
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+        "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 7,
       "story": {
         "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
         "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
         "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 7,
+      "story": {
+        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+        "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,30 +156,6 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 6,
-      "story": {
-        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-        "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
-        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 6,
-      "story": {
-        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-        "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
@@ -168,22 +168,10 @@
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 4,
-      "story": {
-        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
         "description": "Israel’s far-right national security minister Itamar Ben-Gvir has called for nightly killings in Gaza.",
@@ -192,26 +180,26 @@
       }
     },
     {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 4,
-      "story": {
-        "title": "Shock defeat to Bangladesh reveals bigger picture hiding in plain sight",
-        "description": "On paper, Australia's full-strength team should have wiped the floor with Bangladesh. But a lack of application to their Test match craft has left Australia vulnerable to teams that are driven to succeed in the longest f",
-        "link": "https://www.abc.net.au/news/2026-08-16/australia-bangladesh-darwin-defeat-problems/107037438",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
         "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
         "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 4,
+      "story": {
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -324,14 +312,26 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 2,
       "story": {
-        "title": "'Eleventh hour' expert submission delays former Sydney nurses' trial",
-        "description": "Former Bankstown Hospital nurses Sarah Abu Lebdeh and Ahmad Rashad Nadir were due to stand trial on August 31, but the date will now likely be pushed back.",
-        "link": "https://www.abc.net.au/news/2026-08-16/trial-ex-sydney-nurses-alleged-threat-israeli-patients-delayed/107043732",
+        "title": "Pakistan doesn't want world to know what these people saw",
+        "description": "After months of an internet and mobile blackout in Pakistan-controlled Kashmir, people on the ground describe scenes of excessive, deadly force by government forces.",
+        "link": "https://www.abc.net.au/news/2026-08-17/pakistan-controlled-kashmir-violent-crackdown-against-protests/107035532",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 2,
+      "story": {
+        "title": "Four paintings by Renaissance artist stolen from Italian museum",
+        "description": "Four artworks by 15th century painter Antonello da Messina have been stolen from a museum overnight according to Italy's culture minister.",
+        "link": "https://www.abc.net.au/news/2026-08-16/italy-stolen-paintings/107044128",
         "source": "ABC News AU"
       }
     },
@@ -345,6 +345,18 @@
         "description": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row.",
         "link": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 2,
+      "story": {
+        "title": "Bangladesh says PM will not visit India until ex-premier Hasina extradited",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/asia/bangladesh-prime-minister-india-visit-hasina-extradited-6322326",
+        "source": "CNA"
       }
     },
     {
@@ -408,18 +420,6 @@
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Four paintings by Renaissance artist stolen from Italian museum",
-        "description": "Four artworks by 15th century painter Antonello da Messina have been stolen from a museum overnight according to Italy's culture minister.",
-        "link": "https://www.abc.net.au/news/2026-08-16/italy-stolen-paintings/107044128",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
@@ -428,18 +428,6 @@
         "title": "Gangland boss Fadi Haddara shot in Melbourne's inner west",
         "description": "Alleged gangland boss Fadi Haddara, the head of his namesake family crime clan, has been shot in Melbourne's inner west.",
         "link": "https://www.abc.net.au/news/2026-08-16/fadi-haddara-shot/107044182",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 1,
-      "story": {
-        "title": "These graphs show why this Ebola outbreak is set to be the worst in history",
-        "description": "WHO director-general Tedros Adhanom Ghebreyesus says many of the deaths occurring in the Democratic Republic of the Congo are happening outside of known transmission chains, meaning the outbreak is a long way from being ",
-        "link": "https://www.abc.net.au/news/2026-08-16/drc-ebola-outbreak-2026-graphs-case-numbers/107032286",
         "source": "ABC News AU"
       }
     },
@@ -509,21 +497,9 @@
       "lon": -77.04,
       "count": 1,
       "story": {
-        "title": "Climate action doesn't seem to be a priority for Germany — despite heat-related deaths and drought. Why aren't more people taking to the streets?",
+        "title": "In Germany, record heat meets climate action fatigue",
         "description": "Climate action does not seem to be a priority for the German government — despite record temperatures, heat-related deaths and drought. Why aren't more people taking to the streets in protest?",
-        "link": "https://www.dw.com/en/climate-action-doesn-t-seem-to-be-a-priority-for-germany-despite-heat-related-deaths-and-drought-why-aren-t-more-people-taking-to-the-streets/a-78374727?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "Afghan allies still waiting for the safety Germany promised",
-        "description": "After the Taliban retook power on August 15, 2021, Berlin promised to bring Afghan staff to Germany. But people are still waiting to leave in Pakistan and Afghanistan.",
-        "link": "https://www.dw.com/en/afghan-allies-still-waiting-for-the-safety-germany-promised/a-78319745?maca=en-rss-en-all-1573-rdf",
+        "link": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -549,6 +525,30 @@
         "description": "The Russian House stands in the heart of Berlin. Critics have long said it's being used to spread propaganda for Putin's Russia. Now, French authorities have said it is being used by the Kremlin for espionage.",
         "link": "https://www.dw.com/en/berlin-s-russian-house-a-hub-for-propaganda-and-espionage/a-73037945?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
+      "count": 1,
+      "story": {
+        "title": "Malaysia’s DAP votes overwhelmingly to stay on in Cabinet, offering reprieve to PM Anwar",
+        "description": "Nearly nine in 10 voted at the Democratic Action Party’s congress for its ministers to remain in the Cabinet, averting a pullout that could have posed a threat to PM Anwar Ibrahim's administration and even forced snap po",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-dap-congress-anthony-loke-government-6322111",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Gymnastics-Spain, Japan and Brazil book 2028 LA Games rhythmic gymnastics group places",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/gymnastics-spain-japan-and-brazil-book-2028-la-games-rhythmic-gymnastics-group-places-6322216",
+        "source": "CNA"
       }
     }
   ]
