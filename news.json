@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T10:52:55+00:00",
+  "generated_at": "2026-08-16T11:25:03+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -99,7 +99,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 8,
+      "count": 9,
       "story": {
         "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
         "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
@@ -159,7 +159,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
         "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
@@ -171,24 +171,12 @@
       "name": "Lebanon",
       "lat": 33.85,
       "lon": 35.86,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
         "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
         "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 4,
-      "story": {
-        "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
-        "description": "‘We were praying for her to faint’.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -237,6 +225,18 @@
         "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
         "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 3,
+      "story": {
+        "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+        "description": "‘We were praying for her to faint’.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -324,18 +324,6 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
-        "description": "Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
@@ -357,6 +345,18 @@
         "description": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row.",
         "link": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
+      "count": 2,
+      "story": {
+        "title": "Malaysia PM Anwar to grant federal constituencies additional US$245,000 each in push for fair politics, needs-based governance",
+        "description": "Parti Keadilan Rakyat president Anwar Ibrahim hit back at accusations of unfairness in allocating funding to opposition-held areas. He also said cooperation with Barisan Nasional at the federal level must be guided by th",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-pkr-anwar-ibrahim-pakatan-harapan-6322121",
+        "source": "CNA"
       }
     },
     {
@@ -444,18 +444,6 @@
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 1,
-      "story": {
-        "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
-        "description": "Riders say the switch is helping them cut fuel and maintenance costs.",
-        "link": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Congo",
       "lat": -4.04,
       "lon": 21.76,
@@ -536,6 +524,18 @@
         "title": "Afghan allies still waiting for the safety Germany promised",
         "description": "After the Taliban retook power on August 15, 2021, Berlin promised to bring Afghan staff to Germany. But people are still waiting to leave in Pakistan and Afghanistan.",
         "link": "https://www.dw.com/en/afghan-allies-still-waiting-for-the-safety-germany-promised/a-78319745?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 1,
+      "story": {
+        "title": "Trump's Latin America allies open arms to Israel",
+        "description": "While ongoing military actions in Gaza and settler attacks on Palestinians in the occupied West Bank have largely isolated Israel globally, Latin America's authoritarian right sees an opening for a strategic alliance.",
+        "link": "https://www.dw.com/en/trump-s-latin-america-allies-open-arms-to-israel/a-78378930?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
