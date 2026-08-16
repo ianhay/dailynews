@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T20:52:38+00:00",
+  "generated_at": "2026-08-16T21:25:44+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 16,
+      "count": 17,
       "story": {
         "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
         "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
@@ -87,7 +87,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 12,
       "story": {
         "title": "Australian state to launch gun buyback after Bondi Beach attack",
         "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
@@ -104,6 +104,18 @@
         "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
         "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
         "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 8,
+      "story": {
+        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+        "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,18 +156,6 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 6,
-      "story": {
-        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-        "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Indonesia",
       "lat": -2.5,
       "lon": 118.0,
@@ -173,9 +173,9 @@
       "lon": 35.2,
       "count": 5,
       "story": {
-        "title": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
-        "description": "Former Israeli captive Rom Braslavski asked Ben Gvir to allow him to execute Palestinian prisoners by hanging.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
+        "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
+        "description": "CCTV from a Palestinian-owned cafe in Iceland shows what appear to be Israeli tourists ripping a framed map of Palestine",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -213,30 +213,6 @@
         "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
         "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 3,
-      "story": {
-        "title": "Discord ordered to suspend livestreams in Brazil",
-        "description": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
-        "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
-      "story": {
-        "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
-        "description": "About 2.5 million people, including Japanese war criminals who fought for the country, are enshrined at Yasukuni.",
-        "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -300,6 +276,18 @@
       }
     },
     {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 2,
+      "story": {
+        "title": "Discord ordered to suspend livestreams in Brazil",
+        "description": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
+        "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "Egypt",
       "lat": 26.8,
       "lon": 30.8,
@@ -315,6 +303,18 @@
       "name": "Tokyo",
       "lat": 35.68,
       "lon": 139.77,
+      "count": 2,
+      "story": {
+        "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+        "description": "About 2.5 million people, including Japanese war criminals who fought for the country, are enshrined at Yasukuni.",
+        "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 2,
       "story": {
         "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
@@ -341,7 +341,7 @@
       "lon": 69.3,
       "count": 2,
       "story": {
-        "title": "Pakistan doesn't want world to know what these people saw",
+        "title": "Pakistan doesn't want the world to know what these people saw",
         "description": "After months of an internet and mobile blackout in Pakistan-controlled Kashmir, people on the ground describe scenes of excessive, deadly force by government forces.",
         "link": "https://www.abc.net.au/news/2026-08-17/pakistan-controlled-kashmir-violent-crackdown-against-protests/107035532",
         "source": "ABC News AU"
@@ -357,18 +357,6 @@
         "description": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row.",
         "link": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 2,
-      "story": {
-        "title": "Man City accept Barcelona bid for Spain midfielder Rodri, say reports",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/man-city-accept-barcelona-bid-spain-midfielder-rodri-say-reports-6322656",
-        "source": "CNA"
       }
     },
     {
@@ -548,6 +536,18 @@
         "title": "Troops from North Korea to boost Russia's Ukraine forces",
         "description": "Intelligence agencies report that North Korea is preparing to send up to 50,000 troops to Russia. But military experts doubt this will make a fundamental difference in the course of Russia's war with Ukraine.",
         "link": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Iran war: Qatar denies holding missing Iranian fighter pilots",
+        "description": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war with Iran. Qatar has denied Iran's claims.",
+        "link": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
