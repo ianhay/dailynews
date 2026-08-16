@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T13:35:50+00:00",
+  "generated_at": "2026-08-16T14:28:25+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -52,12 +52,6 @@
   ],
   "economy": [
     {
-      "title": "BBC visits smouldering Kyiv market after Russian strikes",
-      "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
-      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
       "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
@@ -67,6 +61,12 @@
       "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
       "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
       "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "UK economy grows but experts warn of challenging months ahead",
+      "description": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
+      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -108,18 +108,6 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 7,
-      "story": {
-        "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-        "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
-        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Indonesia",
       "lat": -2.5,
       "lon": 118.0,
@@ -156,10 +144,22 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 5,
+      "story": {
+        "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+        "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
         "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
@@ -192,18 +192,6 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 3,
-      "story": {
-        "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-        "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
-        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Qatar",
       "lat": 25.35,
       "lon": 51.18,
@@ -213,18 +201,6 @@
         "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
         "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
-        "description": "‘We were praying for her to faint’.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -264,6 +240,18 @@
       }
     },
     {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 2,
+      "story": {
+        "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+        "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Poland",
       "lat": 51.9,
       "lon": 19.1,
@@ -300,18 +288,6 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 2,
-      "story": {
-        "title": "BBC visits smouldering Kyiv market after Russian strikes",
-        "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
-        "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
@@ -333,6 +309,30 @@
         "description": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
         "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+        "description": "Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone.",
+        "link": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+        "description": "‘We were praying for her to faint’.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -432,12 +432,24 @@
       }
     },
     {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "Four paintings by Renaissance artist stolen from Italian museum",
+        "description": "Four artworks by 15th century painter Antonello da Messina have been stolen from a museum overnight according to Italy's culture minister.",
+        "link": "https://www.abc.net.au/news/2026-08-16/italy-stolen-paintings/107044128",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Breaking: Gangland boss Fadi Haddara shot in Melbourne's inner west",
+        "title": "Gangland boss Fadi Haddara shot in Melbourne's inner west",
         "description": "Gangland boss Fadi Haddara, the head of his namesake family crime clan, has been shot in Melbourne's inner west.",
         "link": "https://www.abc.net.au/news/2026-08-16/fadi-haddara-shot/107044182",
         "source": "ABC News AU"
@@ -464,18 +476,6 @@
         "title": "Hands On Studio turns 30 as artist hopes Gillard portrait hangs in parliament",
         "description": "Artist Stephen Corsini has been attending Canberra's Hands On Studio for 30 years. He hopes his portrait of Australia's first female prime minister will one day hang in Parliament House.",
         "link": "https://www.abc.net.au/news/2026-08-16/hands-on-studio-celebrates-30-years-julia-gillard-portrait/107041876",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "Obstetrician survived by more than one generation of deeply grateful women",
-        "description": "Renowned Perth obstetrician Margaret Smith, who died on July 14, fought long and hard for women's health during her career.",
-        "link": "https://www.abc.net.au/news/2026-08-16/margaret-smith-womens-health-pioneer-dies-at-94/107030412",
         "source": "ABC News AU"
       }
     },
@@ -540,14 +540,14 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
       "count": 1,
       "story": {
-        "title": "Trump's Latin America allies open arms to Israel",
-        "description": "While ongoing military actions in Gaza and settler attacks on Palestinians in the occupied West Bank have largely isolated Israel globally, Latin America's authoritarian right sees an opening for a strategic alliance.",
-        "link": "https://www.dw.com/en/trump-s-latin-america-allies-open-arms-to-israel/a-78378930?maca=en-rss-en-all-1573-rdf",
+        "title": "Germany increasingly revokes refugee status for Syrians",
+        "description": "In the first half of 2026, 23.2% of reviews ended with protection being revoked or withdrawn, according to a government response to a parliamentary question by the socialist Left Party. DW has more.",
+        "link": "https://www.dw.com/en/germany-increasingly-revokes-refugee-status-for-syrians/live-78378773?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
