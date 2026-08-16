@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T03:05:41+00:00",
+  "generated_at": "2026-08-16T04:09:09+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,7 +12,7 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "BBC seeks to subpoena members in Panorama lawsuit",
+      "title": "BBC seeks to subpoena family members in Panorama lawsuit",
       "description": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
       "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -99,7 +99,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 10,
+      "count": 8,
       "story": {
         "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
         "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
@@ -132,10 +132,22 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 5,
+      "story": {
+        "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
+        "description": "Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Lebanon",
       "lat": 33.85,
       "lon": 35.86,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
         "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
@@ -147,24 +159,12 @@
       "name": "Morocco",
       "lat": 31.79,
       "lon": -7.09,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
         "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
         "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 4,
-      "story": {
-        "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
-        "description": "Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -213,30 +213,6 @@
         "description": "After the Taliban retook power on August 15, 2021, Berlin promised to bring Afghan staff to Germany. But people are still waiting to leave in Pakistan and Afghanistan.",
         "link": "https://www.dw.com/en/afghan-allies-still-waiting-for-the-safety-germany-promised/a-78319745?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
-      "story": {
-        "title": "Adam Driver will play Mister Sinister and Inde Navarrette will go Rogue in Marvel’s X-Men reboot",
-        "description": "Disney's D23 event on Saturday (Aug 15), Singapore time, also saw announcements related to the Star Wars franchise.",
-        "link": "https://www.channelnewsasia.com/entertainment/d23-2026-x-men-frozen-3-star-wars-6321896",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 2,
-      "story": {
-        "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-        "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-        "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -336,6 +312,18 @@
       }
     },
     {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Adam Driver will play Mister Sinister and Inde Navarrette will go Rogue in Marvel’s X-Men reboot",
+        "description": "Disney's D23 event on Saturday (Aug 15), Singapore time, also saw announcements related to the Star Wars franchise.",
+        "link": "https://www.channelnewsasia.com/entertainment/d23-2026-x-men-frozen-3-star-wars-6321896",
+        "source": "CNA"
+      }
+    },
+    {
       "name": "Kabul",
       "lat": 34.53,
       "lon": 69.17,
@@ -345,6 +333,18 @@
         "description": "",
         "link": "https://www.channelnewsasia.com/world/taliban-government-supporters-dance-take-selfies-in-kabul-celebrations-6321626",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
+      "count": 1,
+      "story": {
+        "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+        "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+        "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -480,30 +480,6 @@
       }
     },
     {
-      "name": "Croatia",
-      "lat": 45.1,
-      "lon": 15.2,
-      "count": 1,
-      "story": {
-        "title": "One killed, dozens injured after wildfire hits Croatian coast",
-        "description": "At least one person was killed and around 42 others were injured after a violent wildfire hit a coastal town in Croatia.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
-        "description": "Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue.",
-        "link": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Congo",
       "lat": -4.04,
       "lon": 21.76,
@@ -540,6 +516,18 @@
       }
     },
     {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 1,
+      "story": {
+        "title": "Live: Bangladesh requiring 57 runs for famous victory in Darwin",
+        "description": "Cam Green passes 100 for the first time in over two years, but departs shortly after, with the Australians hurtling towards defeat in Darwin. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-08-16/australia-bangladesh-live-updates-day-four-darwin/107043280",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "New Zealand",
       "lat": -41.0,
       "lon": 174.0,
@@ -549,6 +537,18 @@
         "description": "Leonie Aspin shares her wonder of nature and honours the memory of her partner by travelling from New Zealand to rural WA each year as the wildflowers bloom.",
         "link": "https://www.abc.net.au/news/2026-08-16/new-zealand-to-wa-midwest-wildflowers-tourism/107030124",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 1,
+      "story": {
+        "title": "Climate action doesn't seem to be a priority for Germany — despite heat-related deaths and drought. Why aren't more people taking to the streets?",
+        "description": "Climate action does not seem to be a priority for the German government — despite record temperatures, heat-related deaths and drought. Why aren't more people taking to the streets in protest?",
+        "link": "https://www.dw.com/en/climate-action-doesn-t-seem-to-be-a-priority-for-germany-despite-heat-related-deaths-and-drought-why-aren-t-more-people-taking-to-the-streets/a-78374727?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
