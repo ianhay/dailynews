@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T19:25:13+00:00",
+  "generated_at": "2026-08-16T19:46:54+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -72,6 +72,18 @@
   ],
   "places": [
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 16,
+      "story": {
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
@@ -80,18 +92,6 @@
         "title": "Australian state to launch gun buyback after Bondi Beach attack",
         "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
         "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 14,
-      "story": {
-        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,6 +156,30 @@
       }
     },
     {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 5,
+      "story": {
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 5,
+      "story": {
+        "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+        "description": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.",
+        "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
@@ -168,18 +192,6 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 5,
-      "story": {
-        "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
-        "description": "Israel’s far-right national security minister Itamar Ben-Gvir has called for nightly killings in Gaza.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
@@ -188,18 +200,6 @@
         "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
         "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
         "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 4,
-      "story": {
-        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -297,6 +297,18 @@
         "description": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
         "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 2,
+      "story": {
+        "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+        "description": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.",
+        "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -429,18 +441,6 @@
         "description": "Alleged gangland boss Fadi Haddara, the head of his namesake family crime clan, has been shot in Melbourne's inner west.",
         "link": "https://www.abc.net.au/news/2026-08-16/fadi-haddara-shot/107044182",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 1,
-      "story": {
-        "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
-        "description": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators in Egypt.",
-        "link": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
