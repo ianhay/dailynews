@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T05:02:27+00:00",
+  "generated_at": "2026-08-16T05:55:44+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,16 +18,16 @@
       "source": "BBC News"
     },
     {
-      "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
-      "description": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
-      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
       "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
       "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "description": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+      "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
@@ -52,12 +52,6 @@
   ],
   "economy": [
     {
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "description": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
       "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
@@ -68,6 +62,12 @@
       "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
       "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "UK economy grows but experts warn of challenging months ahead",
+      "description": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
+      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 15,
       "story": {
         "title": "Australian state to launch gun buyback after Bondi Beach attack",
         "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 12,
+      "count": 10,
       "story": {
         "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
         "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
@@ -99,7 +99,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
         "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
@@ -123,12 +123,24 @@
       "name": "Indonesia",
       "lat": -2.5,
       "lon": 118.0,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Rescuers search for survivors of powerful Indonesia earthquake",
         "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
         "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 6,
+      "story": {
+        "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
+        "description": "Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has previously blamed Russia for similar incidents.",
+        "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -144,27 +156,15 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 5,
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 4,
       "story": {
-        "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
-        "description": "Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 3,
-      "story": {
-        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-        "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "How Germany supports recovery of Berlin Pride attack victims",
+        "description": "After a terrorist attack, public attention tends to focus primarily on the perpetrator. But what about the victims? What support can they expect? And what lies ahead for them?",
+        "link": "https://www.dw.com/en/how-germany-supports-recovery-of-berlin-pride-attack-victims/a-78370256?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -176,30 +176,6 @@
         "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
         "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
         "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-        "description": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-        "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
-      "story": {
-        "title": "'Unprecedented' rain in Japan kills eight people",
-        "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,26 +192,38 @@
       }
     },
     {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 3,
       "story": {
-        "title": "Afghan allies still waiting for the safety Germany promised",
-        "description": "After the Taliban retook power on August 15, 2021, Berlin promised to bring Afghan staff to Germany. But people are still waiting to leave in Pakistan and Afghanistan.",
-        "link": "https://www.dw.com/en/afghan-allies-still-waiting-for-the-safety-germany-promised/a-78319745?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Japan aims for Mars' moons to unlock clues to origins of the Solar System",
+        "description": "The unmanned Martian Moons eXploration (MMX), set to blast off from Tanegashima Space Center in the coming months, could also lay the groundwork for humans visiting the red planet.",
+        "link": "https://www.channelnewsasia.com/east-asia/japan-mars-space-mission-martian-moons-exploration-6322126",
+        "source": "CNA"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
       "count": 2,
       "story": {
-        "title": "France's top court blocks social media ban for under-15s",
-        "description": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+        "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
+      "count": 2,
+      "story": {
+        "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+        "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+        "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -248,18 +236,6 @@
         "title": "South Korea proposes talks to officially end war with North",
         "description": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
         "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Tokyo",
-      "lat": 35.68,
-      "lon": 139.77,
-      "count": 2,
-      "story": {
-        "title": "'Unprecedented' rain in Japan kills eight people",
-        "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -288,6 +264,18 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+        "description": "Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -309,6 +297,18 @@
         "description": "Iran claims Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;.",
         "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 2,
+      "story": {
+        "title": "Live: Bangladesh beats Australia by nine wickets in historic Darwin victory",
+        "description": "Bangladesh has comprehensively outplayed Australia, winning by nine wickets in the first Test in Darwin. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-08-16/australia-bangladesh-live-updates-day-four-darwin/107043280",
+        "source": "ABC News AU"
       }
     },
     {
@@ -336,14 +336,14 @@
       }
     },
     {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 1,
       "story": {
-        "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-        "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-        "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+        "title": "France's top court blocks social media ban for under-15s",
+        "description": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -369,6 +369,18 @@
         "description": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
         "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Romania",
+      "lat": 45.94,
+      "lon": 24.97,
+      "count": 1,
+      "story": {
+        "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
+        "description": "Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has previously blamed Russia for similar incidents.",
+        "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -480,18 +492,6 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
-        "description": "The USS Washington&#039;s movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.",
-        "link": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Congo",
       "lat": -4.04,
       "lon": 21.76,
@@ -528,18 +528,6 @@
       }
     },
     {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 1,
-      "story": {
-        "title": "Live: Hazlewood gives Australia hope despite Bangladesh chasing just 57 runs to win",
-        "description": "Australia is bowled out for 284 in its second innings, with Bangladesh within touching distance of a first ever Test win in Australia. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-08-16/australia-bangladesh-live-updates-day-four-darwin/107043280",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "New Zealand",
       "lat": -41.0,
       "lon": 174.0,
@@ -549,6 +537,18 @@
         "description": "Leonie Aspin shares her wonder of nature and honours the memory of her partner by travelling from New Zealand to rural WA each year as the wildflowers bloom.",
         "link": "https://www.abc.net.au/news/2026-08-16/new-zealand-to-wa-midwest-wildflowers-tourism/107030124",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 1,
+      "story": {
+        "title": "Climate action doesn't seem to be a priority for Germany — despite heat-related deaths and drought. Why aren't more people taking to the streets?",
+        "description": "Climate action does not seem to be a priority for the German government — despite record temperatures, heat-related deaths and drought. Why aren't more people taking to the streets in protest?",
+        "link": "https://www.dw.com/en/climate-action-doesn-t-seem-to-be-a-priority-for-germany-despite-heat-related-deaths-and-drought-why-aren-t-more-people-taking-to-the-streets/a-78374727?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
