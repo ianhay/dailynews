@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:35:47+00:00",
+  "generated_at": "2026-08-16T08:36:07+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,12 +32,6 @@
   ],
   "australia": [
     {
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Australian state to launch gun buyback after Bondi Beach attack",
       "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
       "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
@@ -48,9 +42,21 @@
       "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
       "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "description": "The fire burning through the major park was described as the country's worst in recent years.",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+      "description": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
+      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
@@ -62,12 +68,6 @@
       "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
       "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "UK economy grows but experts warn of challenging months ahead",
-      "description": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
-      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 17,
+      "count": 18,
       "story": {
         "title": "Australian state to launch gun buyback after Bondi Beach attack",
         "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
@@ -108,6 +108,18 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 8,
+      "story": {
+        "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+        "description": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
@@ -125,22 +137,22 @@
       "lon": 118.0,
       "count": 7,
       "story": {
-        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-        "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+        "description": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
         "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 6,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 5,
       "story": {
-        "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-        "description": "Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has previously blamed Russia for similar incidents.",
-        "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+        "description": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -164,6 +176,18 @@
         "title": "Bangladesh make history with first-ever Test cricket win in Australia",
         "description": "Bangladesh dominated Australia throughout, and the margin of victory will send shockwaves through the cricketing world.",
         "link": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
+        "description": "Australia will begin buying back guns in November, almost a year after a shooting at Sydney&#039;s Bondi killed 15 people.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -204,6 +228,18 @@
       }
     },
     {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 3,
+      "story": {
+        "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+        "description": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Qatar",
       "lat": 25.35,
       "lon": 51.18,
@@ -216,15 +252,15 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
       "story": {
-        "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
-        "description": "Australia introduced measures to reduce gun ownership following a deadly attack on Sydney&#039;s Bondi Beach last year.",
-        "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+        "description": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -236,18 +272,6 @@
         "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
         "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
         "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 2,
-      "story": {
-        "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-        "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-        "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -312,15 +336,15 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
       "count": 2,
       "story": {
-        "title": "Troops from North Korea to boost Russia's Ukraine forces",
-        "description": "Intelligence agencies report that North Korea is preparing to send up to 50,000 troops to Russia. But military experts doubt that this will make a fundamental difference in the course of Russia's war with Ukraine.",
-        "link": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Memory of late partner blooms in sharing wildflowers",
+        "description": "Leonie Aspin shares her wonder of nature and honours the memory of her partner by travelling from New Zealand to rural WA each year as the wildflowers bloom.",
+        "link": "https://www.abc.net.au/news/2026-08-16/new-zealand-to-wa-midwest-wildflowers-tourism/107030124",
+        "source": "ABC News AU"
       }
     },
     {
@@ -348,15 +372,15 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
+      "count": 1,
       "story": {
-        "title": "Adam Driver will play Mister Sinister and Inde Navarrette will go Rogue in Marvel’s X-Men reboot",
-        "description": "Disney's D23 event on Saturday (Aug 15), Singapore time, also saw announcements related to the Star Wars franchise.",
-        "link": "https://www.channelnewsasia.com/entertainment/d23-2026-x-men-frozen-3-star-wars-6321896",
-        "source": "CNA"
+        "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+        "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+        "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -393,18 +417,6 @@
         "description": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
         "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Romania",
-      "lat": 45.94,
-      "lon": 24.97,
-      "count": 1,
-      "story": {
-        "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-        "description": "Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has previously blamed Russia for similar incidents.",
-        "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -536,18 +548,6 @@
         "title": "Obstetrician survived by more than one generation of deeply grateful women",
         "description": "Renowned Perth obstetrician Margaret Smith, who died on July 14, fought long and hard for women's health during her career.",
         "link": "https://www.abc.net.au/news/2026-08-16/margaret-smith-womens-health-pioneer-dies-at-94/107030412",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
-      "count": 1,
-      "story": {
-        "title": "Memory of late partner blooms in sharing wildflowers",
-        "description": "Leonie Aspin shares her wonder of nature and honours the memory of her partner by travelling from New Zealand to rural WA each year as the wildflowers bloom.",
-        "link": "https://www.abc.net.au/news/2026-08-16/new-zealand-to-wa-midwest-wildflowers-tourism/107030124",
         "source": "ABC News AU"
       }
     }
