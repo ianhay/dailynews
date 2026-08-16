@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T09:32:33+00:00",
+  "generated_at": "2026-08-16T10:28:33+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
         "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
@@ -99,7 +99,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
         "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
@@ -111,7 +111,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
         "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
@@ -156,18 +156,6 @@
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 5,
-      "story": {
-        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
@@ -176,6 +164,18 @@
         "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
         "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
         "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 4,
+      "story": {
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -201,18 +201,6 @@
         "description": "In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.",
         "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 4,
-      "story": {
-        "title": "How Germany supports recovery of Berlin Pride attack victims",
-        "description": "After a terrorist attack, public attention tends to focus primarily on the perpetrator. But what about the victims? What support can they expect? And what lies ahead for them?",
-        "link": "https://www.dw.com/en/how-germany-supports-recovery-of-berlin-pride-attack-victims/a-78370256?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -249,6 +237,18 @@
         "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
         "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 3,
+      "story": {
+        "title": "How Germany supports recovery of Berlin Pride attack victims",
+        "description": "After a terrorist attack, public attention tends to focus primarily on the perpetrator. But what about the victims? What support can they expect? And what lies ahead for them?",
+        "link": "https://www.dw.com/en/how-germany-supports-recovery-of-berlin-pride-attack-victims/a-78370256?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -300,6 +300,30 @@
       }
     },
     {
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 2,
+      "story": {
+        "title": "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa",
+        "description": "The Egyptian forward, who joined the Turkish club on a free transfer, came off the bench early in the second half.",
+        "link": "https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Hungary",
+      "lat": 47.16,
+      "lon": 19.5,
+      "count": 2,
+      "story": {
+        "title": "At least 12 people killed in Hungary bus crash",
+        "description": "Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes.",
+        "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Kabul",
       "lat": 34.53,
       "lon": 69.17,
@@ -324,15 +348,15 @@
       }
     },
     {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
       "count": 2,
       "story": {
-        "title": "Memory of late partner blooms in sharing wildflowers",
-        "description": "Leonie Aspin shares her wonder of nature and honours the memory of her partner by travelling from New Zealand to rural WA each year as the wildflowers bloom.",
-        "link": "https://www.abc.net.au/news/2026-08-16/new-zealand-to-wa-midwest-wildflowers-tourism/107030124",
-        "source": "ABC News AU"
+        "title": "Army drops roses on Syrian crowds in a far cry from war",
+        "description": "Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -408,18 +432,6 @@
       }
     },
     {
-      "name": "Hungary",
-      "lat": 47.16,
-      "lon": 19.5,
-      "count": 1,
-      "story": {
-        "title": "At least 12 people killed in Hungary bus crash",
-        "description": "Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes.",
-        "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
@@ -468,33 +480,9 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 1,
-      "story": {
-        "title": "Army drops roses on Syrian crowds in a far cry from war",
-        "description": "Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Cairo",
       "lat": 30.04,
       "lon": 31.24,
-      "count": 1,
-      "story": {
-        "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
-        "description": "Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.",
-        "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
       "count": 1,
       "story": {
         "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
@@ -548,6 +536,18 @@
         "title": "Iran war: Qatar denies holding missing Iranian fighter pilots",
         "description": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war with Iran. Qatar has denied Iran's claims.",
         "link": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 1,
+      "story": {
+        "title": "Climate action doesn't seem to be a priority for Germany — despite heat-related deaths and drought. Why aren't more people taking to the streets?",
+        "description": "Climate action does not seem to be a priority for the German government — despite record temperatures, heat-related deaths and drought. Why aren't more people taking to the streets in protest?",
+        "link": "https://www.dw.com/en/climate-action-doesn-t-seem-to-be-a-priority-for-germany-despite-heat-related-deaths-and-drought-why-aren-t-more-people-taking-to-the-streets/a-78374727?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
