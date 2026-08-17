@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T20:32:53+00:00",
+  "generated_at": "2026-08-17T21:30:30+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -72,18 +72,6 @@
   ],
   "places": [
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 12,
-      "story": {
-        "title": "Trump envoy hails 'very good' meeting with Netanyahu after Hamas talks on peace plan",
-        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
@@ -96,10 +84,22 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 10,
+      "story": {
+        "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
+        "description": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
         "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
@@ -111,7 +111,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
         "description": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
@@ -132,18 +132,6 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 8,
-      "story": {
-        "title": "Trump envoy hails 'very good' meeting with Netanyahu after Hamas talks on peace plan",
-        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
@@ -152,18 +140,6 @@
         "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
         "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
         "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 7,
-      "story": {
-        "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-        "description": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-        "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,6 +156,30 @@
       }
     },
     {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 6,
+      "story": {
+        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+        "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 6,
+      "story": {
+        "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
+        "description": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
@@ -192,14 +192,14 @@
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 5,
       "story": {
-        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-        "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+        "description": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
+        "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -207,11 +207,23 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Movie that went viral for terrible animation becomes China box office hit",
         "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
         "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
+        "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
+        "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -245,9 +257,21 @@
       "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
-        "description": "US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
+        "title": "Palestinian American reunites with family under siege in West Bank",
+        "description": "Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 3,
+      "story": {
+        "title": "Torrential rains flood homes and roads across Lima, Peru",
+        "description": "Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -288,51 +312,39 @@
       }
     },
     {
-      "name": "Kabul",
-      "lat": 34.53,
-      "lon": 69.17,
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
       "count": 2,
       "story": {
-        "title": "Explosion reported at school in Afghan capital Kabul",
-        "description": "The cause of the blast and the number of casualties have not been confirmed, with the Taliban government yet to comment.",
-        "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
+        "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
+        "description": "UN peacekeeping force recorded an average of 137 projectiles fired daily in the region over the last two weeks.",
+        "link": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Wildfires: Belgium battles blaze, France's Lecornu jeered",
-        "description": "Fires are raging from Belgium to Greece as Europe suffers one of its most severe wildfire seasons to date. The blazes come amid frequent heat waves and drought that studies say are driven by human-induced climate change.",
-        "link": "https://www.dw.com/en/wildfires-belgium-battles-blaze-france-s-lecornu-jeered/a-78397186?maca=en-rss-en-all-1573-rdf",
+        "title": "Creators of Untitled Goose Game turn Australia into a playground",
+        "description": "The Melbourne team behind the award-winning game about a mischievous goose and his antics have now created a co-operative game that sees players escape puzzle rooms in the Victorian wilderness.",
+        "link": "https://www.abc.net.au/news/2026-08-18/the-big-walk-video-game-untitled-goose-game/107045696",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Seoul",
+      "lat": 37.57,
+      "lon": 126.98,
+      "count": 2,
+      "story": {
+        "title": "Trump says US-South Korea military drills to be scaled back",
+        "description": "US President Donald Trump believes annual military drills with South Korea send an \"inappropriate and hostile\" signal to North Korea. Seoul says it is reviewing Trump's remarks.",
+        "link": "https://www.dw.com/en/trump-says-us-south-korea-military-drills-to-be-scaled-back/a-78390592?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "JB-Singapore RTS Link: First look at Bukit Chagar station, and Malaysia’s 25-minute target for commuters",
-        "description": "CNA goes behind the scenes at Johor Bahru’s Bukit Chagar RTS Link station, where high-tech body scanners, an operations command centre and direct links to nearby malls are taking shape ahead of the rail service’s expecte",
-        "link": "https://www.channelnewsasia.com/asia/rts-link-jb-bukit-chagar-station-scanners-6323996",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 1,
-      "story": {
-        "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
-        "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
-        "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -372,6 +384,18 @@
       }
     },
     {
+      "name": "Peru",
+      "lat": -9.19,
+      "lon": -75.02,
+      "count": 1,
+      "story": {
+        "title": "Torrential rains flood homes and roads across Lima, Peru",
+        "description": "Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Kremlin",
       "lat": 55.75,
       "lon": 37.62,
@@ -392,6 +416,18 @@
         "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
         "description": "Family members allege security officers ignored warnings about the man&#039;s hemophilia and subjected him to severe abuse.",
         "link": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Kabul",
+      "lat": 34.53,
+      "lon": 69.17,
+      "count": 1,
+      "story": {
+        "title": "Explosion reported at school in Afghan capital Kabul",
+        "description": "The cause of the blast and the number of casualties have not been confirmed, with the Taliban government yet to comment.",
+        "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -420,15 +456,15 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
+      "name": "Vietnam",
+      "lat": 14.06,
+      "lon": 108.28,
       "count": 1,
       "story": {
-        "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
-        "description": "Brazil’s presidential race is officially underway.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Race to save cherry blossom avenue dedicated to Vietnam vets",
+        "description": "Providing bursts of blooms in spring and a canopy of shade in summer, Bowral's avenue of soldier-like trees is being tested by disease.",
+        "link": "https://www.abc.net.au/news/2026-08-18/race-to-save-cherry-blossoms-bowral-vietnam-war-memorial/105777708",
+        "source": "ABC News AU"
       }
     },
     {
@@ -461,7 +497,7 @@
       "lon": 90.36,
       "count": 1,
       "story": {
-        "title": "Options are slim for new Australia Test cricket batters",
+        "title": "Options slim for new Australia Test cricket batters",
         "description": "Twin failures by Australia batters, Marnus Labuschagne and Jake Weatherald have many pundits calling for them to be dropped for the second Test against Bangladesh. But who are the possible replacements?",
         "link": "https://www.abc.net.au/news/2026-08-18/australia-cricket-batsmen-options-thin/107046784",
         "source": "ABC News AU"
@@ -488,42 +524,6 @@
         "title": "What happens if property prices drop 20pc? Ask New Zealand or Canada",
         "description": "Canada and New Zealand have never recovered from their pre-COVID property market records. It is worthwhile examining what we can learn.",
         "link": "https://www.abc.net.au/news/2026-08-18/what-happens-if-property-prices-fall-20-per-cent-ask-nz-canada/107045250",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Creators of Untitled Goose Game turn Australia into a playground",
-        "description": "The Melbourne team behind the award-winning game about a mischievous goose and his antics have now created a co-operative game that sees players escape puzzle rooms in the Victorian wilderness.",
-        "link": "https://www.abc.net.au/news/2026-08-18/the-big-walk-video-game-untitled-goose-game/107045696",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "Alleged NDIS fraud plot accused had one-way ticket to Nigeria, court hears",
-        "description": "A man charged an alleged $5 million NDIS fraud plot had \"cut ties\" in Adelaide and was preparing to fly to Nigeria before he was arrested on Friday, a court hears",
-        "link": "https://www.abc.net.au/news/2026-08-17/alleged-ndis-fraud-plot-accused-foluso-omole-refused-bail/107047170",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 1,
-      "story": {
-        "title": "Alleged NDIS fraud plot accused had one-way ticket to Nigeria, court hears",
-        "description": "A man charged an alleged $5 million NDIS fraud plot had \"cut ties\" in Adelaide and was preparing to fly to Nigeria before he was arrested on Friday, a court hears",
-        "link": "https://www.abc.net.au/news/2026-08-17/alleged-ndis-fraud-plot-accused-foluso-omole-refused-bail/107047170",
         "source": "ABC News AU"
       }
     },
