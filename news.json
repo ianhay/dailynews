@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:31:47+00:00",
+  "generated_at": "2026-08-17T18:47:33+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "French PM heckled over wildfire response as blazes continue across Europe",
+      "description": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Top Zambian opposition figures arrested days after presidential vote",
       "description": "The leading opposition candidate calls allegations of a planned insurrection \"total fabrications\".",
       "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
@@ -22,12 +28,6 @@
       "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
       "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Changing pubs into homes to be made harder under new rules",
-      "description": "The rules will come into force on Monday along with other changes to planning policy.",
-      "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "australia": [
@@ -38,15 +38,15 @@
       "source": "BBC News"
     },
     {
-      "title": "US hiker dies after being struck by lightning on Mount Etna",
-      "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
-      "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
+      "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
+      "description": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
+      "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "title": "US hiker dies after being struck by lightning on Mount Etna",
+      "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
+      "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -58,36 +58,24 @@
       "source": "BBC News"
     },
     {
-      "title": "BBC visits smouldering Kyiv market after Russian strikes",
-      "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
-      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
       "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+      "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
   "places": [
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 13,
-      "story": {
-        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 12,
+      "count": 11,
       "story": {
         "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
         "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
@@ -96,10 +84,22 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 11,
+      "story": {
+        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 10,
+      "count": 8,
       "story": {
         "title": "Russia and Ukraine trade more deadly strikes",
         "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
@@ -108,14 +108,14 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 8,
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 7,
       "story": {
-        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
+        "description": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
+        "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -128,6 +128,18 @@
         "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
         "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
         "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 7,
+      "story": {
+        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,18 +192,6 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 5,
-      "story": {
-        "title": "Why is Australia's mushroom killer back in court this week?",
-        "description": "The BBC’s Katy Watson explains why triple-murderer Erin Patterson is back in court this week trying to overturn her conviction.",
-        "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
@@ -212,18 +212,6 @@
         "title": "Movie that went viral for terrible animation becomes China box office hit",
         "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
         "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 3,
-      "story": {
-        "title": "Russia and Ukraine trade more deadly strikes",
-        "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,15 +264,27 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 3,
       "story": {
-        "title": "Will Europe hear a landmark Russian climate change case?",
-        "description": "The European Court of Human Rights has dismissed the case, but the plaintiffs aren&#039;t giving up.",
-        "link": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Creators of Untitled Goose Game turn Australia into a playground",
+        "description": "The Melbourne team behind the award-winning game about a mischievous goose and his antics have now created a co-operative game that sees players escape puzzle rooms in the Victorian wilderness.",
+        "link": "https://www.abc.net.au/news/2026-08-18/the-big-walk-video-game-untitled-goose-game/107045696",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
+      "story": {
+        "title": "Russia and Ukraine trade more deadly strikes",
+        "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -312,14 +312,14 @@
       }
     },
     {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
+      "name": "Kabul",
+      "lat": 34.53,
+      "lon": 69.17,
       "count": 2,
       "story": {
-        "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
-        "description": "US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
+        "title": "Explosion reported at school in Afghan capital Kabul",
+        "description": "The cause of the blast and the number of casualties have not been confirmed, with the Taliban government yet to comment.",
+        "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -348,15 +348,15 @@
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 2,
       "story": {
-        "title": "Lawyers push for shorter sentence for rapist Ralph Carr",
-        "description": "Lawyers for convicted rapist Ralph Carr have argued the celebrity agent should receive a reduced jail sentence during a hearing in Melbourne's County Court.",
-        "link": "https://www.abc.net.au/news/2026-08-17/agent-ralph-carr-rape-pre-sentence-hearing-court-vic/107045184",
-        "source": "ABC News AU"
+        "title": "Wildfires: Belgium battles blaze, France's Lecornu jeered",
+        "description": "Fires are raging from Belgium to Greece as Europe suffers one of its most severe wildfire seasons to date. The blazes come amid frequent heat waves and drought that studies say are driven by human-induced climate change.",
+        "link": "https://www.dw.com/en/wildfires-belgium-battles-blaze-france-s-lecornu-jeered/a-78397186?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -408,6 +408,30 @@
       }
     },
     {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 1,
+      "story": {
+        "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
+        "description": "Family members allege security officers ignored warnings about the man&#039;s hemophilia and subjected him to severe abuse.",
+        "link": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 1,
+      "story": {
+        "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
+        "description": "US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "White House",
       "lat": 38.9,
       "lon": -77.03,
@@ -432,6 +456,30 @@
       }
     },
     {
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
+      "count": 1,
+      "story": {
+        "title": "What happens if property prices drop 20pc? Ask New Zealand or Canada",
+        "description": "Canada and New Zealand have never recovered from their pre-COVID property market records. It is worthwhile examining what we can learn.",
+        "link": "https://www.abc.net.au/news/2026-08-18/what-happens-if-property-prices-fall-20-per-cent-ask-nz-canada/107045250",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 1,
+      "story": {
+        "title": "What happens if property prices drop 20pc? Ask New Zealand or Canada",
+        "description": "Canada and New Zealand have never recovered from their pre-COVID property market records. It is worthwhile examining what we can learn.",
+        "link": "https://www.abc.net.au/news/2026-08-18/what-happens-if-property-prices-fall-20-per-cent-ask-nz-canada/107045250",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Nigeria",
       "lat": 9.1,
       "lon": 8.7,
@@ -440,30 +488,6 @@
         "title": "Alleged NDIS fraud plot accused had one-way ticket to Nigeria, court hears",
         "description": "A man charged an alleged $5 million NDIS fraud plot had \"cut ties\" in Adelaide and was preparing to fly to Nigeria before he was arrested on Friday, a court hears",
         "link": "https://www.abc.net.au/news/2026-08-17/alleged-ndis-fraud-plot-accused-foluso-omole-refused-bail/107047170",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "Inquest into patient suicides hears hospital's mental health facility 'over capacity'",
-        "description": "A coronial inquest has begun into three patient suicides within a seven-month period inside the mental health unit of a major Brisbane hospital.",
-        "link": "https://www.abc.net.au/news/2026-08-17/inquest-into-patient-suicides-prince-charles-hospital/107046330",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "Brothers aged two and four kicked by stranger at Canberra shopping centre",
-        "description": "An 18-year-old man accused of kicking two young boys in an unprovoked attack at a Canberra shopping centre has been refused bail.",
-        "link": "https://www.abc.net.au/news/2026-08-17/man-charged-assault-young-boys-canberra-shopping-centre/107045076",
         "source": "ABC News AU"
       }
     },
@@ -524,30 +548,6 @@
         "title": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
         "description": "The meeting comes amid a stalled post-war Gaza plan and after an Israeli minister called for more Palestinians to be killed in the enclave. Meanwhile, Iran says it is finalizing a deal with Oman on the Strait of Hormuz.",
         "link": "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Italy: Thieves steal key Renaissance paintings in Sicily",
-        "description": "Four Renaissance paintings by Antonello da Messina were stolen from his Sicilian hometown on Saturday after surviving earthquakes and centuries of history. Crooks took them while locals celebrated a religious holiday.",
-        "link": "https://www.dw.com/en/italy-thieves-steal-key-renaissance-paintings-in-sicily/a-78389559?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
-        "description": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt.",
-        "link": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
