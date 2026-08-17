@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T16:33:50+00:00",
+  "generated_at": "2026-08-17T17:31:47+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "Russia's prominent anti-war politician jailed for 11 years",
+      "description": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "US hiker dies after being struck by lightning on Mount Etna",
       "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
       "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
       "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
       "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
-      "description": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
-      "link": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -58,36 +58,24 @@
       "source": "BBC News"
     },
     {
+      "title": "BBC visits smouldering Kyiv market after Russian strikes",
+      "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
       "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
-    },
-    {
-      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-      "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
   "places": [
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 11,
-      "story": {
-        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
-        "description": "The US and Oman have been negotiating separately to reopen the Strait of Hormuz, a waterway that has been closed during the war with Iran.",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 10,
+      "count": 13,
       "story": {
         "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
         "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
@@ -96,14 +84,50 @@
       }
     },
     {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 12,
+      "story": {
+        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+        "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 7,
+      "count": 10,
       "story": {
         "title": "Russia and Ukraine trade more deadly strikes",
         "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
         "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 8,
+      "story": {
+        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 7,
+      "story": {
+        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+        "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,14 +144,14 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 6,
       "story": {
-        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-        "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "title": "Russia and Ukraine trade more deadly strikes",
+        "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,62 +168,26 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 6,
-      "story": {
-        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
-      "story": {
-        "title": "Russia and Ukraine trade more deadly strikes",
-        "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 5,
-      "story": {
-        "title": "Movie that went viral for terrible animation becomes China box office hit",
-        "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
-      "story": {
-        "title": "India built the world's biggest digital payments miracle. Now comes the bill",
-        "description": "India's UPI may finally face merchant fees, raising questions over who pays and whether users will resist.",
-        "link": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
         "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
         "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 5,
+      "story": {
+        "title": "Why is Australia's mushroom killer back in court this week?",
+        "description": "The BBC’s Katy Watson explains why triple-murderer Erin Patterson is back in court this week trying to overturn her conviction.",
+        "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,27 +204,27 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 4,
       "story": {
-        "title": "Will Europe hear a landmark Russian climate change case?",
-        "description": "The European Court of Human Rights has dismissed the case, but the plaintiffs aren&#039;t giving up.",
-        "link": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Movie that went viral for terrible animation becomes China box office hit",
+        "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 4,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 3,
       "story": {
-        "title": "Labor and Coalition close in on deal on gambling reforms",
-        "description": "Labor and the Coalition have agreed to establish a single register that would allow Australians to opt out of wagering ads across online platforms, as part of a tentative deal to pass gambling reforms.",
-        "link": "https://www.abc.net.au/news/2026-08-17/labor-gets-coalition-support-for-gambling-laws-after-amendments/107047766",
-        "source": "ABC News AU"
+        "title": "Russia and Ukraine trade more deadly strikes",
+        "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -252,6 +240,18 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "India built the world's biggest digital payments miracle. Now comes the bill",
+        "description": "India's UPI may finally face merchant fees, raising questions over who pays and whether users will resist.",
+        "link": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
@@ -264,27 +264,27 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "JB-Singapore RTS Link: First look at Bukit Chagar station, and Malaysia’s 25-minute target for commuters",
-        "description": "CNA goes behind the scenes at Johor Bahru’s Bukit Chagar RTS Link station, where high-tech body scanners, an operations command centre and direct links to nearby malls are taking shape ahead of the rail service’s expecte",
-        "link": "https://www.channelnewsasia.com/asia/rts-link-jb-bukit-chagar-station-scanners-6323996",
-        "source": "CNA"
+        "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
+        "description": "US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 2,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 3,
       "story": {
-        "title": "Russia and Ukraine trade more deadly strikes",
-        "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Will Europe hear a landmark Russian climate change case?",
+        "description": "The European Court of Human Rights has dismissed the case, but the plaintiffs aren&#039;t giving up.",
+        "link": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -312,14 +312,14 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
       "count": 2,
       "story": {
-        "title": "Global condemnation of Israeli settler violence against Palestinians",
-        "description": "Global condemnation of Israeli settler violence against Palestinians",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss",
+        "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
+        "description": "US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -360,6 +360,18 @@
       }
     },
     {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "JB-Singapore RTS Link: First look at Bukit Chagar station, and Malaysia’s 25-minute target for commuters",
+        "description": "CNA goes behind the scenes at Johor Bahru’s Bukit Chagar RTS Link station, where high-tech body scanners, an operations command centre and direct links to nearby malls are taking shape ahead of the rail service’s expecte",
+        "link": "https://www.channelnewsasia.com/asia/rts-link-jb-bukit-chagar-station-scanners-6323996",
+        "source": "CNA"
+      }
+    },
+    {
       "name": "Ghana",
       "lat": 7.95,
       "lon": -1.02,
@@ -396,6 +408,18 @@
       }
     },
     {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "British PM Burnham duped by White House impostor",
+        "description": "The FBI has warned of &#039;malicious actors&#039; misusing AI to impersonate senior government officials.",
+        "link": "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
@@ -404,18 +428,6 @@
         "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
         "description": "Brazil’s presidential race is officially underway.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
-      "count": 1,
-      "story": {
-        "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
-        "description": "Explosive drones target Iraqi Kurdish PM&#039;s office and security chief&#039;s residence; no casualties reported.",
-        "link": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -524,18 +536,6 @@
         "title": "Italy: Thieves steal key Renaissance paintings in Sicily",
         "description": "Four Renaissance paintings by Antonello da Messina were stolen from his Sicilian hometown on Saturday after surviving earthquakes and centuries of history. Crooks took them while locals celebrated a religious holiday.",
         "link": "https://www.dw.com/en/italy-thieves-steal-key-renaissance-paintings-in-sicily/a-78389559?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 1,
-      "story": {
-        "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
-        "description": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt.",
-        "link": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
