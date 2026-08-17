@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:42:50+00:00",
+  "generated_at": "2026-08-17T14:33:51+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -13,7 +13,7 @@
   "political": [
     {
       "title": "Top Zambian opposition figures arrested days after presidential vote",
-      "description": "The leading opposition candidate calls allegations of a planned insurrection as \"total fabrications\".",
+      "description": "The leading opposition candidate calls allegations of a planned insurrection \"total fabrications\".",
       "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -72,38 +72,38 @@
   ],
   "places": [
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 9,
+      "story": {
+        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 8,
+      "story": {
+        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+        "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Russia and Ukraine trade more deadly strikes",
         "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
         "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 8,
-      "story": {
-        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 8,
-      "story": {
-        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,42 +120,6 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 7,
-      "story": {
-        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-        "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 7,
-      "story": {
-        "title": "Russia and Ukraine trade more deadly strikes",
-        "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 7,
-      "story": {
-        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-        "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
@@ -164,6 +128,42 @@
         "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
         "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
         "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 6,
+      "story": {
+        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 6,
+      "story": {
+        "title": "Russia and Ukraine trade more deadly strikes",
+        "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 6,
+      "story": {
+        "title": "Movie that went viral for terrible animation becomes China box office hit",
+        "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,27 +180,15 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 5,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 6,
       "story": {
-        "title": "Movie that went viral for terrible animation becomes China box office hit",
-        "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 5,
-      "story": {
-        "title": "Will Europe hear a landmark Russian climate change case?",
-        "description": "The European Court of Human Rights has dismissed the case, but the plaintiffs aren&#039;t giving up.",
-        "link": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+        "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+        "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -225,6 +213,18 @@
         "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
         "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 4,
+      "story": {
+        "title": "Will Europe hear a landmark Russian climate change case?",
+        "description": "The European Court of Human Rights has dismissed the case, but the plaintiffs aren&#039;t giving up.",
+        "link": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -300,6 +300,18 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Global condemnation of Israeli settler violence against Palestinians",
+        "description": "Global condemnation of Israeli settler violence against Palestinians",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Seoul",
       "lat": 37.57,
       "lon": 126.98,
@@ -308,18 +320,6 @@
         "title": "Trump scales down war games with South Korea: Why it matters",
         "description": "US president cites Seoul&#039;s reluctance to back his war on Iran, and his warm ties with North Korea&#039;s leader as reasons.",
         "link": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 2,
-      "story": {
-        "title": "Kushner meets Netanyahu to push Trump Gaza plan",
-        "description": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
-        "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -348,15 +348,15 @@
       }
     },
     {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "How Germany supports recovery of Berlin Pride attack victims",
-        "description": "After a terrorist attack, public attention tends to focus primarily on the perpetrator. But what about the victims? What support can they expect? And what lies ahead for them?",
-        "link": "https://www.dw.com/en/how-germany-supports-recovery-of-berlin-pride-attack-victims/a-78370256?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Singapore, China sign pact on peaceful nuclear technology cooperation",
+        "description": "The agreement&nbsp;will support Singapore's efforts to develop independent capabilities to make an objective and technical assessment of the potential deployment of nuclear energy, says MTI.",
+        "link": "https://www.channelnewsasia.com/singapore/nuclear-agreement-china-singapore-mou-6324001",
+        "source": "CNA"
       }
     },
     {
@@ -396,6 +396,18 @@
       }
     },
     {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 1,
+      "story": {
+        "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
+        "description": "Brazil’s presidential race is officially underway.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Iraq",
       "lat": 33.22,
       "lon": 43.68,
@@ -404,18 +416,6 @@
         "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
         "description": "Explosive drones target Iraqi Kurdish PM&#039;s office and security chief&#039;s residence; no casualties reported.",
         "link": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
-      "count": 1,
-      "story": {
-        "title": "Outrage as Colombia’s president hands out footballs as residents await aid",
-        "description": "Outrage as Colombian president hands out footballs in earthquake-hit city where residents say they await urgent aid.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -456,13 +456,25 @@
       }
     },
     {
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
+      "count": 1,
+      "story": {
+        "title": "Norway: World's top wealth fund flags stock market risks",
+        "description": "The head of Norway's sovereign wealth fund has warned that soaring AI-driven stock valuations could trigger a sharp correction. How exposed is the world's largest sovereign wealth fund to a market downturn?",
+        "link": "https://www.dw.com/en/norway-world-s-top-wealth-fund-flags-stock-market-risks/a-78351371?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Taiwan",
       "lat": 23.7,
       "lon": 121.0,
       "count": 1,
       "story": {
         "title": "Indonesia neutrality tested by joint naval drill with China",
-        "description": "Indonesia maintains a non-aligned foreign policy, but Jakarta's limited participation in a low-level naval exercise with China's navy near Taiwan has raised concerns.",
+        "description": "Indonesia maintains a nonaligned foreign policy, but Jakarta's limited participation in a low-level naval exercise with China's navy near Taiwan has raised concerns.",
         "link": "https://www.dw.com/en/indonesia-neutrality-tested-by-joint-naval-drill-with-china/a-78400288?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
@@ -474,7 +486,7 @@
       "count": 1,
       "story": {
         "title": "Indonesia neutrality tested by joint naval drill with China",
-        "description": "Indonesia maintains a non-aligned foreign policy, but Jakarta's limited participation in a low-level naval exercise with China's navy near Taiwan has raised concerns.",
+        "description": "Indonesia maintains a nonaligned foreign policy, but Jakarta's limited participation in a low-level naval exercise with China's navy near Taiwan has raised concerns.",
         "link": "https://www.dw.com/en/indonesia-neutrality-tested-by-joint-naval-drill-with-china/a-78400288?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
@@ -504,18 +516,6 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
-        "description": "The meeting comes amid a stalled post-war Gaza plan and after an Israeli minister called for more Palestinians to be killed in the enclave. Meanwhile, Iran says it is finalizing a deal with Oman on the Strait of Hormuz.",
-        "link": "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Italy",
       "lat": 42.5,
       "lon": 12.5,
@@ -528,9 +528,9 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
       "count": 1,
       "story": {
         "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
@@ -540,14 +540,14 @@
       }
     },
     {
-      "name": "Hungary",
-      "lat": 47.16,
-      "lon": 19.5,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 1,
       "story": {
-        "title": "Bus crash in Hungary kills at least 12",
-        "description": "Police say they have arrested the driver of a bus that crashed in Hungary, killing at least 12 people. The bus was carrying Polish pilgrims, media report.",
-        "link": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-all-1573-rdf",
+        "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
+        "description": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt.",
+        "link": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
