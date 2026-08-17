@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T14:33:51+00:00",
+  "generated_at": "2026-08-17T15:30:32+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,21 +32,21 @@
   ],
   "australia": [
     {
+      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+      "description": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "US hiker dies after being struck by lightning on Mount Etna",
+      "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
+      "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
       "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Movie that went viral for terrible animation becomes China box office hit",
-      "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
-      "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,26 +72,26 @@
   ],
   "places": [
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 9,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 11,
       "story": {
-        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+        "description": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 8,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 10,
       "story": {
-        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-        "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,11 +111,23 @@
       "name": "Indonesia",
       "lat": -2.5,
       "lon": 118.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
         "description": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
         "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 7,
+      "story": {
+        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,18 +144,6 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 6,
-      "story": {
-        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
@@ -156,10 +156,22 @@
       }
     },
     {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 6,
+      "story": {
+        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+        "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+        "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "Movie that went viral for terrible animation becomes China box office hit",
         "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
@@ -171,23 +183,11 @@
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "India built the world's biggest digital payments miracle. Now comes the bill",
         "description": "India's UPI may finally face merchant fees, raising questions over who pays and whether users will resist.",
         "link": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 6,
-      "story": {
-        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-        "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
       }
     },
@@ -204,14 +204,14 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 4,
       "story": {
-        "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
-        "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
-        "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia and Ukraine trade more deadly strikes",
+        "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -240,9 +240,9 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 3,
       "story": {
         "title": "Russia and Ukraine trade more deadly strikes",
@@ -252,14 +252,14 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 3,
       "story": {
-        "title": "Russia and Ukraine trade more deadly strikes",
-        "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
+        "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
+        "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -273,6 +273,18 @@
         "description": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
         "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "JB-Singapore RTS Link: First look at Bukit Chagar station, and Malaysia’s 25-minute target for commuters",
+        "description": "CNA goes behind the scenes at Johor Bahru’s Bukit Chagar RTS Link station, where high-tech body scanners, an operations command centre and direct links to nearby malls are taking shape ahead of the rail service’s expecte",
+        "link": "https://www.channelnewsasia.com/asia/rts-link-jb-bukit-chagar-station-scanners-6323996",
+        "source": "CNA"
       }
     },
     {
@@ -345,18 +357,6 @@
         "description": "Lawyers for convicted rapist Ralph Carr have argued the celebrity agent should receive a reduced jail sentence during a hearing in Melbourne's County Court.",
         "link": "https://www.abc.net.au/news/2026-08-17/agent-ralph-carr-rape-pre-sentence-hearing-court-vic/107045184",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Singapore, China sign pact on peaceful nuclear technology cooperation",
-        "description": "The agreement&nbsp;will support Singapore's efforts to develop independent capabilities to make an objective and technical assessment of the potential deployment of nuclear energy, says MTI.",
-        "link": "https://www.channelnewsasia.com/singapore/nuclear-agreement-china-singapore-mou-6324001",
-        "source": "CNA"
       }
     },
     {
@@ -461,9 +461,9 @@
       "lon": 8.47,
       "count": 1,
       "story": {
-        "title": "Norway: World's top wealth fund flags stock market risks",
+        "title": "Norway wealth fund warns of AI-driven stock market bubble",
         "description": "The head of Norway's sovereign wealth fund has warned that soaring AI-driven stock valuations could trigger a sharp correction. How exposed is the world's largest sovereign wealth fund to a market downturn?",
-        "link": "https://www.dw.com/en/norway-world-s-top-wealth-fund-flags-stock-market-risks/a-78351371?maca=en-rss-en-all-1573-rdf",
+        "link": "https://www.dw.com/en/norway-wealth-fund-warns-of-ai-driven-stock-market-bubble/a-78351371?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
