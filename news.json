@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T03:05:03+00:00",
+  "generated_at": "2026-08-17T04:20:05+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "BBC seeks to subpoena family members in Panorama lawsuit",
-      "description": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
-      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
       "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
       "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
@@ -27,6 +21,12 @@
       "title": "Changing pubs into homes to be made harder under new rules",
       "description": "The rules will come into force on Monday along with other changes to planning policy.",
       "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "description": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+      "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -38,19 +38,25 @@
       "source": "BBC News"
     },
     {
-      "title": "Australian state to launch gun buyback after Bondi Beach attack",
-      "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
-      "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "title": "Thailand has a gun problem - 10 million of them",
+      "description": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
+      "link": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-      "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "description": "From glaciers shrinking to an exposed shipwreck,  satellites capture the impact of extreme heat and drought.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "BBC visits smouldering Kyiv market after Russian strikes",
+      "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
@@ -62,12 +68,6 @@
       "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
       "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "UK economy grows but experts warn of challenging months ahead",
-      "description": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
-      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,23 +75,11 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 20,
+      "count": 19,
       "story": {
         "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
         "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
         "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 12,
-      "story": {
-        "title": "Australian state to launch gun buyback after Bondi Beach attack",
-        "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
-        "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,6 +108,18 @@
       }
     },
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 9,
+      "story": {
+        "title": "How much longer should Australia wait for the social media ban to work?",
+        "description": "If the prime minister is right and there's no time to waste, how much more of it can we spend just waiting for the teen social media ban to work?",
+        "link": "https://www.abc.net.au/news/2026-08-17/teen-social-media-ban-efficacy-sharks-tech-companies/107044990",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
@@ -128,6 +128,18 @@
         "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
         "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
         "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 7,
+      "story": {
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+        "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,14 +156,14 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 6,
       "story": {
-        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-        "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
-        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+        "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -161,9 +173,9 @@
       "lon": 35.2,
       "count": 6,
       "story": {
-        "title": "Israel releases 35 Palestinian prisoners back into Gaza",
-        "description": "Emotional reunions greeted 35 Palestinians prisoners released by Israel into Gaza.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss",
+        "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
+        "description": "Palestinian-American Loui Ridi is flying from the US to Qusra, where Israeli settlers have encircled his family’s home.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -192,30 +204,6 @@
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 4,
-      "story": {
-        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-        "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 4,
-      "story": {
-        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
@@ -225,6 +213,18 @@
         "description": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
         "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 3,
+      "story": {
+        "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
+        "description": "Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -243,6 +243,18 @@
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
+      "count": 2,
+      "story": {
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+        "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 2,
       "story": {
         "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
@@ -284,18 +296,6 @@
         "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
         "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
         "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 2,
-      "story": {
-        "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-        "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-        "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -353,7 +353,7 @@
       "lon": 151.21,
       "count": 2,
       "story": {
-        "title": "Breaking: Sydney Swans players involved in 'alleged incident', club confirms",
+        "title": "Live: Sydney Swans involved in 'alleged incident' as police probe sexual assault",
         "description": "The club says the AFL and authorities have been notified about the alleged incident, as police investigate a report of sexual assault.",
         "link": "https://www.abc.net.au/news/2026-08-17/sydney-swans-afl-footballers-involved-in-incident-in-melbourne/107046058",
         "source": "ABC News AU"
@@ -372,26 +372,14 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 2,
-      "story": {
-        "title": "India: Modi promises free exam coaching, AI training for youth after protests",
-        "description": "Speaking on India's Independence Day, PM Modi announced free online coaching for competitive exams and AI training for 10 million youths, weeks after protests over alleged exam paper leaks and recruitment irregularities.",
-        "link": "https://www.dw.com/en/india-modi-promises-free-exam-coaching-ai-training-for-youth-after-protests/a-78378982?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
       "count": 1,
       "story": {
-        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-        "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
-        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "title": "Thailand has a gun problem - 10 million of them",
+        "description": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
+        "link": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -548,6 +536,18 @@
         "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
         "description": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt.",
         "link": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Hungary",
+      "lat": 47.16,
+      "lon": 19.5,
+      "count": 1,
+      "story": {
+        "title": "Bus crash in Hungary kills at least 12",
+        "description": "Police say they have arrested the driver of a bus that crashed in Hungary, killing at least 12 people. The bus was carrying Polish pilgrims, media report.",
+        "link": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
