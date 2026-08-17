@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:33:47+00:00",
+  "generated_at": "2026-08-17T08:50:58+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Top Zambian opposition figures arrested days after presidential vote",
+      "description": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
       "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
       "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
@@ -21,12 +27,6 @@
       "title": "Changing pubs into homes to be made harder under new rules",
       "description": "The rules will come into force on Monday along with other changes to planning policy.",
       "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
-    },
-    {
-      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-      "description": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
-      "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -52,6 +52,12 @@
   ],
   "economy": [
     {
+      "title": "BBC visits smouldering Kyiv market after Russian strikes",
+      "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
       "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
@@ -62,12 +68,6 @@
       "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
       "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "UK economy grows but experts warn of challenging months ahead",
-      "description": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
-      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,23 +75,11 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 18,
+      "count": 17,
       "story": {
         "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
         "description": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
         "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 8,
-      "story": {
-        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-        "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,10 +108,34 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 7,
+      "story": {
+        "title": "Ukrainian strikes kill six in Russia, acting governor says",
+        "description": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 7,
+      "story": {
+        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+        "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
         "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
@@ -144,30 +156,6 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 6,
-      "story": {
-        "title": "Superwog, Eddie Woo among YouTubers inducted into film and sound archive",
-        "description": "Together, these Youtubers boast more than 84 million subscribers worldwide. Now they're being recognised for their impact on Australian culture.",
-        "link": "https://www.abc.net.au/news/2026-08-17/youtubers-recognised-in-nfsa-archive/107033208",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 5,
-      "story": {
-        "title": "Ukrainian strikes kill six in Russia, acting governor says",
-        "description": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
@@ -180,10 +168,34 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 5,
+      "story": {
+        "title": "India built the world's biggest digital payments miracle. Now comes the bill",
+        "description": "India's UPI may finally face merchant fees, raising questions over who pays and whether users will resist.",
+        "link": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 5,
+      "story": {
+        "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
+        "description": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.",
+        "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Indonesia",
       "lat": -2.5,
       "lon": 118.0,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
         "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
@@ -192,51 +204,39 @@
       }
     },
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 4,
+      "story": {
+        "title": "Superwog, Eddie Woo among YouTubers inducted into film and sound archive",
+        "description": "Together, these Youtubers boast more than 84 million subscribers worldwide. Now they are being recognised for their impact on Australian culture.",
+        "link": "https://www.abc.net.au/news/2026-08-17/youtubers-recognised-in-nfsa-archive/107033208",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
+        "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
+        "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Why Japanese firms are being so slow to use AI",
         "description": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
         "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
-      "story": {
-        "title": "At least seven dead in ‘stampede-like’ incident at India temple",
-        "description": "The fatal incident reportedly took place amid a rush of devotees at a temple in India&#039;s Bihar state.",
-        "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 4,
-      "story": {
-        "title": "Ukraine attacks Wildberries, Russia's biggest online market",
-        "description": "Since mid-July, Ukraine has been targeting warehouses of Russia's largest online retailer Wildberries almost every day. Ukraine says it's disrupting front-line shipments. But experts say it's disrupting Russia's economy.",
-        "link": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 3,
-      "story": {
-        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-        "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -264,27 +264,39 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
-        "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
-        "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "US says dozens of countries helped China dodge Trump's tariffs",
+        "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+        "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
       "count": 2,
       "story": {
-        "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-        "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
+        "description": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
+        "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 2,
+      "story": {
+        "title": "Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title",
+        "description": "The Indomitable Lionesses outshine their opponents to claim first final victory on their fourth attempt in Morocco.",
+        "link": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -300,15 +312,15 @@
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
       "count": 2,
       "story": {
-        "title": "Inquest into patient suicides hears hospital's mental health facility 'over capacity'",
-        "description": "A coronial inquest has begun into three patient suicides within a seven-month period inside the mental health unit of a major Brisbane hospital.",
-        "link": "https://www.abc.net.au/news/2026-08-17/inquest-into-patient-suicides-prince-charles-hospital/107046330",
-        "source": "ABC News AU"
+        "title": "Anwar Ibrahim: Malaysia between the superpowers",
+        "description": "Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.",
+        "link": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -372,15 +384,15 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 1,
       "story": {
-        "title": "US says dozens of countries helped China dodge Trump's tariffs",
-        "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-        "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "BBC visits smouldering Kyiv market after Russian strikes",
+        "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+        "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -456,15 +468,15 @@
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Anwar Ibrahim: Malaysia between the superpowers",
-        "description": "Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.",
-        "link": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Lawyers push for shorter sentence for rapist Ralph Carr",
+        "description": "Lawyers for convicted rapist Ralph Carr have argued the celebrity agent should receive a reduced jail sentence during a hearing in Melbourne's County Court.",
+        "link": "https://www.abc.net.au/news/2026-08-17/agent-ralph-carr-rape-pre-sentence-hearing-court-vic/107045184",
+        "source": "ABC News AU"
       }
     },
     {
@@ -476,6 +488,18 @@
         "title": "Golf course in court as parklands protesters take on SA government",
         "description": "An attempt to halt the state government's redevelopment of the North Adelaide golf course is underway before the Federal Court, where protesters opposed to the parklands project gathered this morning.",
         "link": "https://www.abc.net.au/news/2026-08-17/golf-course-protesters-in-court-amid-adelaide-parklands-dispute/107045550",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 1,
+      "story": {
+        "title": "Inquest into patient suicides hears hospital's mental health facility 'over capacity'",
+        "description": "A coronial inquest has begun into three patient suicides within a seven-month period inside the mental health unit of a major Brisbane hospital.",
+        "link": "https://www.abc.net.au/news/2026-08-17/inquest-into-patient-suicides-prince-charles-hospital/107046330",
         "source": "ABC News AU"
       }
     },
@@ -516,18 +540,6 @@
       }
     },
     {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 1,
-      "story": {
-        "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
-        "description": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt.",
-        "link": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Saudi Arabia",
       "lat": 23.9,
       "lon": 45.1,
@@ -536,18 +548,6 @@
         "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
         "description": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt.",
         "link": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 1,
-      "story": {
-        "title": "Ukraine launches one of its largest attacks of war",
-        "description": "Russia says hundreds of drones targeted Moscow overnight, with six fatalities in the capital and southern Rostov region. Five people were killed in strikes across Ukraine.",
-        "link": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
