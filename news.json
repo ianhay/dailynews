@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:30:32+00:00",
+  "generated_at": "2026-08-17T16:33:50+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,12 +32,6 @@
   ],
   "australia": [
     {
-      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
-      "description": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "US hiker dies after being struck by lightning on Mount Etna",
       "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
       "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
@@ -47,6 +41,12 @@
       "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
       "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
+      "description": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+      "link": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -58,15 +58,15 @@
       "source": "BBC News"
     },
     {
-      "title": "BBC visits smouldering Kyiv market after Russian strikes",
-      "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
-      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
       "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+      "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -77,8 +77,8 @@
       "lon": 53.0,
       "count": 11,
       "story": {
-        "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
-        "description": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
+        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
+        "description": "The US and Oman have been negotiating separately to reopen the Strait of Hormuz, a waterway that has been closed during the war with Iran.",
         "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -99,7 +99,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Russia and Ukraine trade more deadly strikes",
         "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
@@ -108,27 +108,15 @@
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
       "count": 7,
       "story": {
-        "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-        "description": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-        "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 7,
-      "story": {
-        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+        "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+        "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -144,27 +132,39 @@
       }
     },
     {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 6,
+      "story": {
+        "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+        "description": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
+        "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 6,
+      "story": {
+        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "Russia and Ukraine trade more deadly strikes",
         "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
         "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 6,
-      "story": {
-        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-        "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -240,18 +240,6 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 3,
-      "story": {
-        "title": "Russia and Ukraine trade more deadly strikes",
-        "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
@@ -285,6 +273,18 @@
         "description": "CNA goes behind the scenes at Johor Bahru’s Bukit Chagar RTS Link station, where high-tech body scanners, an operations command centre and direct links to nearby malls are taking shape ahead of the rail service’s expecte",
         "link": "https://www.channelnewsasia.com/asia/rts-link-jb-bukit-chagar-station-scanners-6323996",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
+      "story": {
+        "title": "Russia and Ukraine trade more deadly strikes",
+        "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
