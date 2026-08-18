@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T15:36:56+00:00",
+  "generated_at": "2026-08-18T16:37:39+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,15 +18,15 @@
       "source": "BBC News"
     },
     {
-      "title": "French PM heckled over wildfire response as blazes continue across Europe",
-      "description": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Disabled people in England to get 24-hour free bus travel",
       "description": "The change, which has been welcomed by campaign groups, will come into effect in England from April.",
       "link": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Changing pubs into homes to be made harder under new rules",
+      "description": "The rules will come into force on Monday along with other changes to planning policy.",
+      "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -64,13 +64,25 @@
       "source": "BBC News"
     },
     {
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
+      "title": "Palestinian living in caves older than Israel",
+      "description": "Farhan al Rashaydeh lives in a cave in the occupied West Bank with his family.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
+      "source": "Al Jazeera"
     }
   ],
   "places": [
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 11,
+      "story": {
+        "title": "Palestinian living in caves older than Israel",
+        "description": "Farhan al Rashaydeh lives in a cave in the occupied West Bank with his family.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
     {
       "name": "Russia",
       "lat": 61.5,
@@ -84,38 +96,14 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
       "count": 8,
       "story": {
-        "title": "Indian student leader ends hunger strike after 16 days",
-        "description": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
-        "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 8,
-      "story": {
-        "title": "Palestinian-American confronts Israeli settler at his besieged home",
-        "description": "Palestinian-American Loui Abu Ridi confronted an Israeli settler at his home in Qusra, south of Nablus.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 7,
-      "story": {
-        "title": "Inside secret police warehouse as Germany targets small boats gangs",
-        "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-        "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+        "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -123,7 +111,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
         "description": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
@@ -135,7 +123,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
         "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
@@ -144,51 +132,63 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 6,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 7,
       "story": {
-        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-        "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+        "title": "Indian student leader ends hunger strike after 16 days",
+        "description": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
+        "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
       "count": 6,
       "story": {
-        "title": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
-        "description": "The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death",
-        "link": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 4,
-      "story": {
-        "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
-        "description": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Inside secret police warehouse as Germany targets small boats gangs",
+        "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+        "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
-      "count": 4,
+      "count": 5,
       "story": {
-        "title": "Jailed former Pakistan PM Imran Khan moved to hospital over health concerns",
-        "description": "The cricketer-turned-politician has been in jail for three years, convicted in a string of cases he insists are politically motivated.",
-        "link": "https://www.abc.net.au/news/2026-08-19/imran-khan-hospital-cricket-prime-minister-pakistan/107052546",
-        "source": "ABC News AU"
+        "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+        "description": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
+        "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 5,
+      "story": {
+        "title": "Global borrowing costs hit fresh highs",
+        "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
+        "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 5,
+      "story": {
+        "title": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
+        "description": "The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death",
+        "link": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -240,6 +240,30 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 3,
+      "story": {
+        "title": "Palestinian living in caves older than Israel",
+        "description": "Farhan al Rashaydeh lives in a cave in the occupied West Bank with his family.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
+      "count": 3,
+      "story": {
+        "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
+        "description": "Following the start of the US-Israel war on Iran, the first match of the Iranian league was played last week.",
+        "link": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
@@ -261,30 +285,6 @@
         "description": "The Sydney Swans say the players allegedly linked to an incident at a Melbourne hotel \"are in serious breach of expected club behaviour and standards\".",
         "link": "https://www.abc.net.au/news/2026-08-18/sydney-swans-players-in-serious-breach-of-club-standards/107051708",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 2,
-      "story": {
-        "title": "Brazil's President Lula hails oil discovery near Amazon river",
-        "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 2,
-      "story": {
-        "title": "China censors public mourning as it holds former premier's funeral",
-        "description": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
-        "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -320,18 +320,6 @@
         "title": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
         "description": "Former France, Arsenal and Manchester City midfielder Patrick Vieira replaces Pape Thiaw as Senegal coach.",
         "link": "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
-      "count": 2,
-      "story": {
-        "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
-        "description": "Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -372,6 +360,18 @@
       }
     },
     {
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
+      "count": 2,
+      "story": {
+        "title": "Middle East: No talks or conversations with Iran, Trump says",
+        "description": "Trump also claimed that the Strait of Hormuz was \"open and operating,\" contrary to Iranian reports. Meanwhile, Syria, the US and Turkey condemned Israeli strikes on a Syrian airbase. Follow DW for more.",
+        "link": "https://www.dw.com/en/middle-east-no-talks-or-conversations-with-iran-trump-says/live-78419518?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Singapore",
       "lat": 1.35,
       "lon": 103.82,
@@ -384,15 +384,27 @@
       }
     },
     {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 2,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 1,
       "story": {
-        "title": "WHO says Congo Ebola outbreak can still be brought under control within three months",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/world/who-congo-ebola-outbreak-control-three-months-6325631",
-        "source": "CNA"
+        "title": "Brazil's President Lula hails oil discovery near Amazon river",
+        "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 1,
+      "story": {
+        "title": "China censors public mourning as it holds former premier's funeral",
+        "description": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
+        "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -444,6 +456,18 @@
       }
     },
     {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Spain builds tent cities for the thousands stuck in Ceuta",
+        "description": "Spain is building four temporary reception sites with 1,500 places as an estimated 5,000 migrants remain in Ceuta.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Tehran",
       "lat": 35.7,
       "lon": 51.4,
@@ -464,18 +488,6 @@
         "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
         "description": "Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Palestinian-American confronts Israeli settler at his besieged home",
-        "description": "Palestinian-American Loui Abu Ridi confronted an Israeli settler at his home in Qusra, south of Nablus.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -536,18 +548,6 @@
         "title": "Ministers tread carefully as Trump scales back US drills in South Korea",
         "description": "Australia and Japan's defence ministers sit down in Canberra to discuss the rapidly expanding defence ties between the two countries.",
         "link": "https://www.abc.net.au/news/2026-08-18/defence-ministers-tread-carefully-as-trump-scales-back-drills/107050936",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "WA Police appeal for help to find missing 10-year-old girl",
-        "description": "Ten-year-old Lyndel Ningella was last seen in Butler in Perth's north on Saturday afternoon, wearing a black jumper and black shorts.",
-        "link": "https://www.abc.net.au/news/2026-08-18/police-ask-public-help-to-find-missing-girl-lyndel-ningella/107050934",
         "source": "ABC News AU"
       }
     }
