@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:38:43+00:00",
+  "generated_at": "2026-08-18T15:36:56+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Student killed in Philippines Catholic school shooting",
       "description": "The alleged shooter, also a student, later took his own life.",
       "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
       "title": "Indian student leader ends hunger strike after 16 days",
       "description": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
       "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-      "description": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -58,19 +58,43 @@
       "source": "BBC News"
     },
     {
+      "title": "BBC visits smouldering Kyiv market after Russian strikes",
+      "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
       "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Ukraine, Russia trade strikes; Wildberries site hit again",
-      "description": "Ukriane reported 10 dead in a missile strike in the northeastern Kharkiv oblast near the border. Russia, meanwhile, reported more than 600 drones approaching the Moscow area and warned the UK on suppyling drones to Kyiv.",
-      "link": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-rdf",
-      "source": "DW"
     }
   ],
   "places": [
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 9,
+      "story": {
+        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+        "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 8,
+      "story": {
+        "title": "Indian student leader ends hunger strike after 16 days",
+        "description": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
+        "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
     {
       "name": "Israel",
       "lat": 31.5,
@@ -84,38 +108,14 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
       "count": 7,
       "story": {
-        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-        "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 7,
-      "story": {
-        "title": "Indian student leader ends hunger strike after 16 days",
-        "description": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
-        "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 7,
-      "story": {
-        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-        "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+        "title": "Inside secret police warehouse as Germany targets small boats gangs",
+        "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+        "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,14 +132,26 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 6,
       "story": {
-        "title": "Inside secret police warehouse as Germany targets small boats gangs",
-        "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-        "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+        "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 6,
+      "story": {
+        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+        "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,42 +168,6 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
-      "story": {
-        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-        "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Chile",
-      "lat": -35.68,
-      "lon": -71.54,
-      "count": 4,
-      "story": {
-        "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-        "description": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 4,
-      "story": {
-        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-        "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
@@ -204,26 +180,50 @@
       }
     },
     {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 4,
+      "story": {
+        "title": "Jailed former Pakistan PM Imran Khan moved to hospital over health concerns",
+        "description": "The cricketer-turned-politician has been in jail for three years, convicted in a string of cases he insists are politically motivated.",
+        "link": "https://www.abc.net.au/news/2026-08-19/imran-khan-hospital-cricket-prime-minister-pakistan/107052546",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 3,
       "story": {
-        "title": "Student killed in Philippines Catholic school shooting",
-        "description": "The alleged shooter, also a student, later took his own life.",
-        "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
+        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+        "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "Chile",
+      "lat": -35.68,
+      "lon": -71.54,
       "count": 3,
       "story": {
-        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-        "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
+        "description": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 3,
+      "story": {
+        "title": "Watch: Why has Trump shifted on North Korea?",
+        "description": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+        "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -264,26 +264,14 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 3,
-      "story": {
-        "title": "Should India be worried about the Mecca defense pact?",
-        "description": "A defense agreement between Pakistan, Saudi Arabia and Turkey brings Islamabad deeper into the security architecture of the Middle East. How is India planning to respond?",
-        "link": "https://www.dw.com/en/should-india-be-worried-about-the-mecca-defense-pact/a-78415444?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
       "count": 2,
       "story": {
-        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-        "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+        "title": "Brazil's President Lula hails oil discovery near Amazon river",
+        "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -309,6 +297,30 @@
         "description": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
         "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 2,
+      "story": {
+        "title": "Watch: Why has Trump shifted on North Korea?",
+        "description": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+        "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 2,
+      "story": {
+        "title": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
+        "description": "Former France, Arsenal and Manchester City midfielder Patrick Vieira replaces Pape Thiaw as Senegal coach.",
+        "link": "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -360,6 +372,18 @@
       }
     },
     {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Singapore out of ASEAN football championship despite beating Thailand in second leg",
+        "description": "Although this was the Lions' first win against Thailand in about 14 years, they ultimately fell 3-4 on aggregate in the semi-finals.",
+        "link": "https://www.channelnewsasia.com/sport/football-thailand-singapore-asean-championship-semi-finals-6326156",
+        "source": "CNA"
+      }
+    },
+    {
       "name": "Congo",
       "lat": -4.04,
       "lon": 21.76,
@@ -369,6 +393,18 @@
         "description": "",
         "link": "https://www.channelnewsasia.com/world/who-congo-ebola-outbreak-control-three-months-6325631",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
+      "count": 1,
+      "story": {
+        "title": "Student killed in Philippines Catholic school shooting",
+        "description": "The alleged shooter, also a student, later took his own life.",
+        "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -468,18 +504,6 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 1,
-      "story": {
-        "title": "Brazil’s president says Amazon oil is ‘passport to the future’",
-        "description": "Brazil&#039;s president says Amazon oil is ‘passport to the future’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Iraq",
       "lat": 33.22,
       "lon": 43.68,
@@ -525,30 +549,6 @@
         "description": "Ten-year-old Lyndel Ningella was last seen in Butler in Perth's north on Saturday afternoon, wearing a black jumper and black shorts.",
         "link": "https://www.abc.net.au/news/2026-08-18/police-ask-public-help-to-find-missing-girl-lyndel-ningella/107050934",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Islamabad",
-      "lat": 33.7,
-      "lon": 73.06,
-      "count": 1,
-      "story": {
-        "title": "Should India be worried about the Mecca defense pact?",
-        "description": "A defense agreement between Pakistan, Saudi Arabia and Turkey brings Islamabad deeper into the security architecture of the Middle East. How is India planning to respond?",
-        "link": "https://www.dw.com/en/should-india-be-worried-about-the-mecca-defense-pact/a-78415444?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "Should India be worried about the Mecca defense pact?",
-        "description": "A defense agreement between Pakistan, Saudi Arabia and Turkey brings Islamabad deeper into the security architecture of the Middle East. How is India planning to respond?",
-        "link": "https://www.dw.com/en/should-india-be-worried-about-the-mecca-defense-pact/a-78415444?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     }
   ]
