@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:34:16+00:00",
+  "generated_at": "2026-08-19T11:30:21+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -44,13 +44,19 @@
       "source": "BBC News"
     },
     {
-      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-      "description": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
-      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+      "title": "Apparent human remains found in US reservoir as water levels hit record low",
+      "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
+      "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "Humanitarianism is not collapsing. It is being traded and compromised",
+      "description": "This is endangering the lives of humanitarian workers and the vulnerable communities they serve.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss",
+      "source": "Al Jazeera"
+    },
     {
       "title": "Nigeria: Campaign kicks off for 2027 presidential election",
       "description": "Electioneering has begun in Nigeria five months ahead of the presidential poll. The economy and security are expected to be the two main issues for candidates to tussle over.",
@@ -62,12 +68,6 @@
       "description": "Donald Trump said the deal, reached the day before 50% tariffs were set to take effect, could also revive the controversial Keystone XL pipeline project.",
       "link": "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf",
       "source": "DW"
-    },
-    {
-      "title": "Iran warns Gulf countries against helping US after UAE cuts trade ties",
-      "description": "",
-      "link": "https://www.channelnewsasia.com/world/iran-warns-gulf-countries-us-military-uae-cut-trade-ties-6328211",
-      "source": "CNA"
     }
   ],
   "places": [
@@ -84,14 +84,14 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 10,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 8,
       "story": {
-        "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
-        "description": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
-        "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
+        "title": "Husband and mother-in-law charged over Indian bride's death",
+        "description": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
+        "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -108,15 +108,27 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 7,
+      "story": {
+        "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
+        "description": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
+        "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
       "count": 6,
       "story": {
-        "title": "Husband and mother-in-law charged over Indian bride's death",
-        "description": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
-        "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Musiala collapses for Bayern again as ‘neurological disorder’ diagnosed",
+        "description": "Bayern Munich and Germany&#039;s Jamal Musiala collapses on field for second time but &#039;very optimistic&#039; about condition.",
+        "link": "https://www.aljazeera.com/sports/2026/8/19/musiala-collapses-for-bayern-again-as-neurological-disorder-diagnosed?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -132,18 +144,6 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 5,
-      "story": {
-        "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-        "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
-        "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
@@ -152,30 +152,6 @@
         "title": "Why has Russia threatened the UK and what happens next?",
         "description": "UK Prime Minister Andy Burnham has said London will continue \"to support Ukraine 100%\".",
         "link": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 5,
-      "story": {
-        "title": "Musiala collapses for Bayern again as ‘neurological disorder’ diagnosed",
-        "description": "Bayern Munich and Germany&#039;s Jamal Musiala collapses on field for second time but &#039;very optimistic&#039; about condition.",
-        "link": "https://www.aljazeera.com/sports/2026/8/19/musiala-collapses-for-bayern-again-as-neurological-disorder-diagnosed?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 4,
-      "story": {
-        "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-        "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
-        "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -204,14 +180,38 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
       "count": 3,
       "story": {
-        "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
-        "description": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
-        "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 3,
+      "story": {
+        "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+        "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
+        "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 3,
+      "story": {
+        "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+        "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
+        "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -228,30 +228,6 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
-      "story": {
-        "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
-        "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
-        "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 3,
-      "story": {
-        "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
-        "description": "An attack on a village in Nigeria’s central Plateau state has killed at least 25 people.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
@@ -264,15 +240,39 @@
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
+        "description": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
+        "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
+        "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
+        "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Seoul",
+      "lat": 37.57,
+      "lon": 126.98,
+      "count": 2,
+      "story": {
+        "title": "‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?",
+        "description": "Analysts say Trump&#039;s attempted rapprochement with Kim Jong Un is driven by political signals to Pyongyang and Seoul.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -288,15 +288,39 @@
       }
     },
     {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 2,
+      "story": {
+        "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
+        "description": "An attack on a village in Nigeria’s central Plateau state has killed at least 25 people.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Adelaide",
       "lat": -34.93,
       "lon": 138.6,
       "count": 2,
       "story": {
         "title": "Number of trees to be removed from North Adelaide Golf Course 'not certain', court hears",
-        "description": "Government lawyers have contradicted South Australia's Premier over the number of trees to be cut down in the North Adelaide Gold Course redevelopment.",
+        "description": "Government lawyers have contradicted South Australia's premier over the number of trees to be cut down in the North Adelaide Golf Course redevelopment.",
         "link": "https://www.abc.net.au/news/2026-08-19/contradiction-over-number-of-trees-to-be-removed/107053586",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Woman reportedly attacked by wild boar sues NParks, alleging negligence",
+        "description": "Two people are also suing NParks after they allegedly tripped and fell over a temporary cable cover at the Singapore Botanic Gardens.",
+        "link": "https://www.channelnewsasia.com/singapore/nparks-lawsuit-negligence-wild-boar-attack-botanic-gardens-fall-6328201",
+        "source": "CNA"
       }
     },
     {
@@ -396,6 +420,18 @@
       }
     },
     {
+      "name": "Pyongyang",
+      "lat": 39.03,
+      "lon": 125.75,
+      "count": 1,
+      "story": {
+        "title": "‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?",
+        "description": "Analysts say Trump&#039;s attempted rapprochement with Kim Jong Un is driven by political signals to Pyongyang and Seoul.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "White House",
       "lat": 38.9,
       "lon": -77.03,
@@ -440,30 +476,6 @@
         "title": "Lebanon no longer a safe haven for former Syrian regime officials",
         "description": "Figures connected to the former Syrian regime are still in Lebanon but risk being returned.",
         "link": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Seoul",
-      "lat": 37.57,
-      "lon": 126.98,
-      "count": 1,
-      "story": {
-        "title": "South Korea, US scale back annual military drills after Trump’s order",
-        "description": "Seoul says the duration of the annual Ulchi Freedom Shield exercise has been reduced from 11 days to five.",
-        "link": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 1,
-      "story": {
-        "title": "Bali gym owner kicks out three Israeli tourists for links to ‘IDF’",
-        "description": "A gym owner in Indonesia has posted a video on social media explaining why he refused service to three Israeli tourists.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/bali-gym-owner-kicks-out-three-israeli-tourists-for-links-to?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -536,18 +548,6 @@
         "title": "Nord Stream: Second suspect arrested over pipeline blasts",
         "description": "German prosecutors said a Ukrainian suspect was arrested in Croatia. They said that the man, a trained scuba diver, \"is strongly suspected of jointly causing explosions.\"",
         "link": "https://www.dw.com/en/nord-stream-second-suspect-arrested-over-pipeline-blasts/a-78427413?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "Pakistan government to challenge ex-PM Khan hospital move",
-        "description": "Pakistan's Supreme Court ordered jailed former Prime Minister Imran Khan be moved to a private hospital amid concerns about his deteriorating health. The government says it wants the decision to be reviewed.",
-        "link": "https://www.dw.com/en/pakistan-government-to-challenge-ex-pm-khan-hospital-move/a-78421894?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
