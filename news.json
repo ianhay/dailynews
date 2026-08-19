@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T01:38:32+00:00",
+  "generated_at": "2026-08-19T03:03:05+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,9 +12,9 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -32,21 +32,21 @@
   ],
   "australia": [
     {
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "description": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+      "description": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Brazil's President Lula hails oil discovery near Amazon river",
       "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
       "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "ZZ Top drummer Frank Beard dies aged 77",
-      "description": "A statement on the blues-rock band's website said he died on Monday in hospice",
-      "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Judge swapped in Trump's defamation case against BBC",
-      "description": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 11,
+      "count": 10,
       "story": {
         "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
         "description": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 10,
+      "count": 8,
       "story": {
         "title": "The Indian activist jailed after taking on a luxury hotel plan",
         "description": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
@@ -120,26 +120,14 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 5,
-      "story": {
-        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-        "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
       "count": 5,
       "story": {
-        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-        "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+        "title": "Sacked Ukrainian defence minister calls for presidential election",
+        "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+        "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -153,6 +141,18 @@
         "description": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
         "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 4,
+      "story": {
+        "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+        "description": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
+        "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -180,6 +180,42 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 4,
+      "story": {
+        "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
+        "description": "Concern over the security of Europe&#039;s largest nuclear plant has been rife since Russia launched its full-scale war.",
+        "link": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "16yo given silver membership and free alcohol by Sydney casino",
+        "description": "Crown Sydney has been fined $1.75 million after a 16-year-old boy was granted entry to the casino's gaming areas on 19 occasions, given silver membership status, and illegally served free alcohol. The boy also visited Th",
+        "link": "https://www.abc.net.au/news/2026-08-19/nsw-sydney-star-crown-casinos-fined-over-16yo-gambling/107053718",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 3,
+      "story": {
+        "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+        "description": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -192,26 +228,26 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 3,
       "story": {
-        "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-        "description": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
-        "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "New play explores 'lifelong loss' of inter-country adoption through comedy",
+        "description": "Chenturan Aran's acerbic first play, Cut Chilli, was one of the most hyped shows in Sydney in 2024. It just made its debut in Melbourne.",
+        "link": "https://www.abc.net.au/news/2026-08-19/cut-chilli-play-melbourne-chenturan-aran-the-supposed-to-be/106992600",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-        "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+        "title": "China censors public mourning as it holds former premier's funeral",
+        "description": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
+        "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -240,15 +276,27 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Shanghai",
+      "lat": 31.23,
+      "lon": 121.47,
       "count": 2,
       "story": {
-        "title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
-        "description": "Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US &#039;begging&#039; for negotiations.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Chinese robotics giant Unitree soars in stock market debut",
+        "description": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
+        "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+        "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
+        "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -264,18 +312,6 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 2,
-      "story": {
-        "title": "Swans ban five players for remainder of season amid police investigation",
-        "description": "Sydney is set to be without some of its biggest names for the remainder of the 2026 season.",
-        "link": "https://www.abc.net.au/news/2026-08-19/afl-sydney-swans-ban-five-players-amid-police-investigation/107053398",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Norway",
       "lat": 60.47,
       "lon": 8.47,
@@ -288,18 +324,6 @@
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 2,
-      "story": {
-        "title": "Dees star's ban upheld as AFL tribunal rejects biomechanist evidence bid",
-        "description": "The AFL tribunal bars Melbourne from using a biomechanist to defend star forward Jacob van Rooyen as his three-match suspension for striking Aliir Aliir is upheld.",
-        "link": "https://www.abc.net.au/news/2026-08-19/afl-demons-van-rooyen-suspension-upheld-tribunal/107052932",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Turkey",
       "lat": 38.96,
       "lon": 35.24,
@@ -308,6 +332,18 @@
         "title": "Middle East: No talks or conversations with Iran, Trump says",
         "description": "Trump also claimed that the Strait of Hormuz was \"open and operating,\" contrary to Iranian reports. Meanwhile, Syria, the US and Turkey condemned Israeli strikes on a Syrian airbase. DW has more.",
         "link": "https://www.dw.com/en/middle-east-no-talks-or-conversations-with-iran-trump-says/live-78419518?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 2,
+      "story": {
+        "title": "Trump's North Korea overture triggers fears for US alliances",
+        "description": "In announcing scaled back joint military drills with South Korea, the US president appears to be moving toward Pyongyang just as North Korea becomes more emboldened.",
+        "link": "https://www.dw.com/en/trump-s-north-korea-overture-triggers-fears-for-us-alliances/a-78413321?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -329,22 +365,10 @@
       "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "Commentary: Why do unconventional career choices go viral in Singapore?",
-        "description": "Amid layoffs and job insecurity, alternative approaches to work and money are captivating our attention, says writer Annie Tan.",
-        "link": "https://www.channelnewsasia.com/commentary/job-layoff-side-hustle-retire-career-money-6325641",
+        "title": "Iman Fandi performs at Snoop Dogg’s Los Angeles music event, debuts upcoming single",
+        "description": "The 26-year-old Singaporean singer performed at an invitation-only live music event in Los Angeles, California, where she debuted her upcoming single It Is.",
+        "link": "https://www.channelnewsasia.com/entertainment/iman-fandi-snoop-dogg-los-angeles-event-6327301",
         "source": "CNA"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Earthquake rocks Spain's historic Granada, injuring three",
-        "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
-        "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -360,51 +384,39 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "China censors public mourning as it holds former premier's funeral",
-        "description": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
-        "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+        "title": "Earthquake rocks Spain's historic Granada, injuring three",
+        "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+        "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
       "count": 1,
       "story": {
-        "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
-        "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
-        "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "US refineries taking in half of Venezuela’s oil output, official says",
+        "description": "US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 1,
       "story": {
-        "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
-        "description": "Negotiators want a deal to avoid fresh US tariffs - though Canadians are not in the mood to offer many concessions.",
-        "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
-      "count": 1,
-      "story": {
-        "title": "Viral vodka brand Au set to sell for £500m to BuzzBallz owner",
-        "description": "The distinctive gold Au bottles have become a staple of poolside parties in Ibiza and Dubai.",
-        "link": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
+        "description": "Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US &#039;begging&#039; for negotiations.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -444,15 +456,15 @@
       }
     },
     {
-      "name": "Rome",
-      "lat": 41.9,
-      "lon": 12.5,
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
       "count": 1,
       "story": {
-        "title": "More women being diagnosed with POTS but rural patients face extra toll",
-        "description": "Being diagnosed with postural orthostatic tachycardia syndrome in regional Australia means treatment is far away and local understanding of the condition is minimal.",
-        "link": "https://www.abc.net.au/news/2026-08-19/pots-women-diagnosis-rural-regional-patients-healthcare-sa/107016870",
-        "source": "ABC News AU"
+        "title": "German Africa Prize goes to Kenyan social entrepreneur",
+        "description": "Wawira Njiru organizes meals for hundreds of thousands of schoolchildren in Kenya, while at the same time supporting local farmers. For this, she is being honored by the German Africa Foundation.",
+        "link": "https://www.dw.com/en/german-africa-prize-goes-to-kenyan-social-entrepreneur/a-78417681?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -492,18 +504,6 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "Trump's North Korea overture triggers fears for US alliances",
-        "description": "In announcing scaled back joint military drills with South Korea, the US president appears to be moving toward Pyongyang just as North Korea becomes more emboldened.",
-        "link": "https://www.dw.com/en/trump-s-north-korea-overture-triggers-fears-for-us-alliances/a-78413321?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Pyongyang",
       "lat": 39.03,
       "lon": 125.75,
@@ -528,21 +528,21 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 1,
       "story": {
-        "title": "Wildfires: Belgium battles blaze, France's Lecornu jeered",
-        "description": "Fires are raging from Belgium to Greece as Europe suffers one of its most severe wildfire seasons to date. The blazes come amid frequent heat waves and drought that studies say are driven by human-induced climate change.",
-        "link": "https://www.dw.com/en/wildfires-belgium-battles-blaze-france-s-lecornu-jeered/a-78397186?maca=en-rss-en-all-1573-rdf",
+        "title": "Ukraine, Russia trade strikes; Wildberries site hit again",
+        "description": "Ukriane reported 10 dead in a missile strike in the northeastern Kharkiv oblast near the border. Russia, meanwhile, reported more than 600 drones approaching the Moscow area and warned the UK on suppyling drones to Kyiv.",
+        "link": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 1,
       "story": {
         "title": "Wildfires: Belgium battles blaze, France's Lecornu jeered",
