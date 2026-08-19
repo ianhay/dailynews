@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T05:03:50+00:00",
+  "generated_at": "2026-08-19T05:57:21+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 11,
       "story": {
         "title": "Five Australian rules footy players suspended amid police investigation",
         "description": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
         "description": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
@@ -120,6 +120,30 @@
       }
     },
     {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 6,
+      "story": {
+        "title": "Lebanon no longer a safe haven for former Syrian regime officials",
+        "description": "Figures connected to the former Syrian regime are still in Lebanon but risk being returned.",
+        "link": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 5,
+      "story": {
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
@@ -144,42 +168,6 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 4,
-      "story": {
-        "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-        "description": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
-        "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 4,
-      "story": {
-        "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
-        "description": "Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.",
-        "link": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 4,
-      "story": {
-        "title": "Syria opens Assad-era nuclear programme to UN probe",
-        "description": "UN watchdog reports that it found large amounts of material at undisclosed sites in Syria.",
-        "link": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
@@ -189,18 +177,6 @@
         "description": "Hundreds of millions of dollars worth of property, largely in Sydney, has been bought by people who have submitted fake incomes statements and other fraudulent documents to support their borrowing.",
         "link": "https://www.abc.net.au/news/2026-08-19/coordinated-mortgage-fraud-uncovered-austrac-banks-on-notice/107053710",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 3,
-      "story": {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -228,14 +204,26 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 3,
       "story": {
-        "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-        "description": "Concern over the security of Europe&#039;s largest nuclear plant has been rife since Russia launched its full-scale war.",
-        "link": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
+        "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+        "description": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
+        "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 3,
+      "story": {
+        "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
+        "description": "Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -305,10 +293,22 @@
       "lon": 138.25,
       "count": 2,
       "story": {
-        "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+        "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
         "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
         "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Seoul",
+      "lat": 37.57,
+      "lon": 126.98,
+      "count": 2,
+      "story": {
+        "title": "South Korea, US scale back annual military drills after Trump’s order",
+        "description": "Seoul says the duration of the annual Ulchi Freedom Shield exercise has been reduced from 11 days to five.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -333,18 +333,6 @@
         "description": "The strike comes as efforts to push an agreement aimed at ending hostilities remain stalled.",
         "link": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 2,
-      "story": {
-        "title": "Ikitau back in fray as Wallabies eye Argentina tour",
-        "description": "Les Kiss resists any left-field inclusions for the Wallabies' two-Test tour of Argentina, but he will have a welcome selection headache in the midfield.",
-        "link": "https://www.abc.net.au/news/2026-08-19/ikitau-in-wallabies-squad-for-argentina-tour/107054022",
-        "source": "ABC News AU"
       }
     },
     {
@@ -380,6 +368,18 @@
         "title": "Middle East: No talks or conversations with Iran, Trump says",
         "description": "Trump also claimed that the Strait of Hormuz was \"open and operating,\" contrary to Iranian reports. Meanwhile, Syria, the US and Turkey condemned Israeli strikes on a Syrian airbase. DW has more.",
         "link": "https://www.dw.com/en/middle-east-no-talks-or-conversations-with-iran-trump-says/live-78419518?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 2,
+      "story": {
+        "title": "German court convicts Ukrainian man over Russia parcel plot",
+        "description": "The court said the man sent packages with GPS trackers from Germany to Ukraine to scope out potential sabotage targets for Russian secret services.",
+        "link": "https://www.dw.com/en/german-court-convicts-ukrainian-man-over-russia-parcel-plot/a-78414153?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -420,12 +420,24 @@
       }
     },
     {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 1,
+      "story": {
+        "title": "Lebanon no longer a safe haven for former Syrian regime officials",
+        "description": "Figures connected to the former Syrian regime are still in Lebanon but risk being returned.",
+        "link": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Ottawa",
       "lat": 45.42,
       "lon": -75.7,
       "count": 1,
       "story": {
-        "title": "Trump pauses 50 percent tariff on Canada in last-minute deal",
+        "title": "Trump pauses 50-percent tariff on Canada in last-minute deal",
         "description": "Washington and Ottawa announce agreement to delay new tariffs on Canadian exports shortly before midnight deadline.",
         "link": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
         "source": "Al Jazeera"
@@ -456,26 +468,14 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
-        "description": "In an unusually private ceremony, Jose Mourinho has officially begun his second spell as Real Madrid manager.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Seoul",
-      "lat": 37.57,
-      "lon": 126.98,
-      "count": 1,
-      "story": {
-        "title": "Why Seoul has called for peace talks to formally end the Korean War",
-        "description": "South Korean President Lee Jae Myung has once again called for talks to formally end the Korean War which was only frozen and not ended by an armistice in 1953. So how significant is Seoul's offer and what could it mean ",
-        "link": "https://www.abc.net.au/news/2026-08-19/seoul-call-to-end-war-south-north-korea/107045908",
+        "title": "'Difficult to comprehend' that medics didn't notify authorities before fatal crash",
+        "description": "The death of a woman in a two-vehicle crash in Adelaide's north in 2022 came after \"missed opportunities\" to remove driver Tristan Mourant — who \"knew he had medical advice not to drive\" — from the road, a coroner finds.",
+        "link": "https://www.abc.net.au/news/2026-08-19/vision-impaired-driver-tristan-mourant-crash-inquest-findings/107053992",
         "source": "ABC News AU"
       }
     },
@@ -488,6 +488,18 @@
         "title": "Indigenous academic abused by members of pro-Palestinian movement",
         "description": "Academic Marcia Langton tells the antisemitism royal commission she was subjected to racial abuse over her support for Jewish Australians.",
         "link": "https://www.abc.net.au/news/2026-08-19/bondi-royal-antisemitism-commission-marcia-langton/107054326",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 1,
+      "story": {
+        "title": "Ikitau back in fray as Wallabies eye Argentina tour",
+        "description": "Les Kiss resists any left-field inclusions for the Wallabies' two-Test tour of Argentina, but he will have a welcome selection headache in the midfield.",
+        "link": "https://www.abc.net.au/news/2026-08-19/ikitau-in-wallabies-squad-for-argentina-tour/107054022",
         "source": "ABC News AU"
       }
     },
@@ -536,18 +548,6 @@
         "title": "Should India be worried about the Mecca defense pact?",
         "description": "A defense agreement between Pakistan, Saudi Arabia and Turkey brings Islamabad deeper into the security architecture of the Middle East. How is India planning to respond?",
         "link": "https://www.dw.com/en/should-india-be-worried-about-the-mecca-defense-pact/a-78415444?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Pyongyang",
-      "lat": 39.03,
-      "lon": 125.75,
-      "count": 1,
-      "story": {
-        "title": "Trump's North Korea overture triggers fears for US alliances",
-        "description": "In announcing scaled back joint military drills with South Korea, the US president appears to be moving toward Pyongyang just as North Korea becomes more emboldened.",
-        "link": "https://www.dw.com/en/trump-s-north-korea-overture-triggers-fears-for-us-alliances/a-78413321?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
