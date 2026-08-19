@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:42:28+00:00",
+  "generated_at": "2026-08-19T19:30:51+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,16 +18,16 @@
       "source": "BBC News"
     },
     {
+      "title": "Who is Natalie Harp, Trump's right-hand woman?",
+      "description": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+      "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
       "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
       "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "US pressure on Israel needed for peace in Syria",
-      "description": "With Israeli elections approaching, analysts say Netanyahu needs a new escalation, undermining deconfliction efforts.",
-      "link": "https://www.aljazeera.com/features/2026/8/19/us-pressure-on-israel-needed-for-peace-in-syria?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "australia": [
@@ -44,9 +44,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Six tourists and pilot killed in Kenya helicopter crash",
-      "description": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
-      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,22 +72,34 @@
   ],
   "places": [
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 13,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 14,
       "story": {
-        "title": "'Catastrophic' hotel mix-up at the heart of Australia's mushroom murder appeal",
-        "description": "Lawyers for Erin Patterson say her conviction was undermined by a \"catastrophic\" mix-up that led to the jury staying at the same hotel as prosecutors and a key witness.",
-        "link": "https://www.bbc.co.uk/news/videos/c9v4ze2dpdjo?at_medium=RSS&at_campaign=rss",
+        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+        "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
       "count": 12,
+      "story": {
+        "title": "Scam payments lead to an Australian business and its Israeli owner",
+        "description": "An Australian e-learning website was used as a front for scammers selling fraudulent investments, an ABC investigation reveals.",
+        "link": "https://www.abc.net.au/news/2026-08-20/fake-abc-scam-money-trail-leads-to-global-network/106895388",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 9,
       "story": {
         "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
         "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
@@ -99,7 +111,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
         "description": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
@@ -108,34 +120,10 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 8,
-      "story": {
-        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-        "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 8,
-      "story": {
-        "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
-        "description": "A SpaceX rocket that blasted off from Texas in July and crashed into the Indian Ocean hadn't been seen since - but now Christmas Island residents say they have spotted it being towed just off their coast.",
-        "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Families' agonising search for answers as thousands still missing in Gaza",
         "description": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
@@ -156,14 +144,14 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 6,
       "story": {
-        "title": "Sacked Ukrainian defence minister calls for presidential election",
-        "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-        "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
+        "description": "A SpaceX rocket that blasted off from Texas in July and crashed into the Indian Ocean hadn't been seen since - but now Christmas Island residents say they have spotted it being towed just off their coast.",
+        "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,6 +168,18 @@
       }
     },
     {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 4,
+      "story": {
+        "title": "Sacked Ukrainian defence minister calls for presidential election",
+        "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+        "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
@@ -189,6 +189,18 @@
         "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
         "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 4,
+      "story": {
+        "title": "India rout Pakistan at Hockey World Cup 2026 to qualify for second round",
+        "description": "India hold off Pakistan 5-3 to finish second with six points as England top Pool D with nine points from three wins.",
+        "link": "https://www.aljazeera.com/sports/2026/8/19/india-rout-pakistan-at-hockey-world-cup-2026-to-qualify-for-second-round?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -216,26 +228,14 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 3,
       "story": {
-        "title": "India rout Pakistan at Hockey World Cup 2026 to qualify for second round",
-        "description": "India hold off Pakistan 5-3 to finish second with six points as England top Pool D with nine points from three wins.",
-        "link": "https://www.aljazeera.com/sports/2026/8/19/india-rout-pakistan-at-hockey-world-cup-2026-to-qualify-for-second-round?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 3,
-      "story": {
-        "title": "Sacked Ukraine defence minister calls for wartime presidential election",
-        "description": "The poll would represent the first leadership challenge to President Volodymyr Zelenskyy since Russia invaded in 2022, with the ousted defence minister claiming Ukraine faces a \"crisis of governance\".",
-        "link": "https://www.abc.net.au/news/2026-08-19/ex-ukraine-defence-minister-calls-for-wartime-election/107056224",
+        "title": "Kyrgios provisionally suspended after positive cocaine test in Spain",
+        "description": "Australian tennis star Nick Kyrgios has said he tested positive for cocaine on the Spanish island of Mallorca and has issued an apology.",
+        "link": "https://www.abc.net.au/news/2026-08-19/nick-kyrgios-reveals-positive-overseas-test-for-cocaine/107056018",
         "source": "ABC News AU"
       }
     },
@@ -276,38 +276,38 @@
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
       "count": 2,
       "story": {
-        "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
-        "description": "Canada official condemns Israel&#039;s &#039;invasion&#039; of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.",
-        "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
+        "title": "Violence in the New Syria?",
+        "description": "The death of Syrian White Helmets rescuer Mohammad Ghamira after an alleged police beating has sparked protests.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
+      "name": "Madrid",
+      "lat": 40.42,
       "lon": -3.7,
       "count": 2,
       "story": {
-        "title": "Kyrgios provisionally suspended after positive cocaine test in Spain",
-        "description": "Australian tennis star Nick Kyrgios has said he tested positive for cocaine on the Spanish island of Mallorca and has issued an apology.",
-        "link": "https://www.abc.net.au/news/2026-08-19/nick-kyrgios-reveals-positive-overseas-test-for-cocaine/107056018",
-        "source": "ABC News AU"
+        "title": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
+        "description": "Jose Mourinho is back for a second spell at Real Madrid who, he says, didn&#039;t need Barcelona&#039;s new signing Rodri.",
+        "link": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
       "count": 2,
       "story": {
-        "title": "Man sentenced for murder of caring neighbour in Melbourne's outer-east",
-        "description": "The devastated family of a woman stabbed to death by her neighbour, days after she baked him cupcakes, is struggling to understand how a life so precious could be \"valued so little\".",
-        "link": "https://www.abc.net.au/news/2026-08-19/bayswater-murder-sentencing-milorad-zaric-vicki-apostolopoulos/107055300",
+        "title": "Sacked Ukraine defence minister calls for wartime presidential election",
+        "description": "The poll would represent the first leadership challenge to President Volodymyr Zelenskyy since Russia invaded in 2022, with the ousted defence minister claiming Ukraine faces a \"crisis of governance\".",
+        "link": "https://www.abc.net.au/news/2026-08-19/ex-ukraine-defence-minister-calls-for-wartime-election/107056224",
         "source": "ABC News AU"
       }
     },
@@ -341,8 +341,20 @@
       "lon": 37.9,
       "count": 1,
       "story": {
-        "title": "Six tourists and pilot killed in Kenya helicopter crash",
-        "description": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
+        "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+        "description": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
+        "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ecuador",
+      "lat": -1.83,
+      "lon": -78.18,
+      "count": 1,
+      "story": {
+        "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+        "description": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
         "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -396,38 +408,26 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Chile",
+      "lat": -35.68,
+      "lon": -71.54,
       "count": 1,
       "story": {
-        "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-        "description": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
-        "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 1,
-      "story": {
-        "title": "US pressure on Israel needed for peace in Syria",
-        "description": "With Israeli elections approaching, analysts say Netanyahu needs a new escalation, undermining deconfliction efforts.",
-        "link": "https://www.aljazeera.com/features/2026/8/19/us-pressure-on-israel-needed-for-peace-in-syria?traffic_source=rss",
+        "title": "Zambian opposition leader to challenge election result in ⁠court",
+        "description": "Opposition leader claims &#039;serious irregularities&#039; in the vote that handed President Hakainde Hichilema a second term.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
       "count": 1,
       "story": {
-        "title": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
-        "description": "Jose Mourinho is back for a second spell at Real Madrid who, he says, didn&#039;t need Barcelona&#039;s new signing Rodri.",
-        "link": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
+        "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
+        "description": "Canada official condemns Israel&#039;s &#039;invasion&#039; of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -456,18 +456,6 @@
       }
     },
     {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 1,
-      "story": {
-        "title": "Australia's northern bases may be a 'juicy target' but the US is showing interest",
-        "description": "Australia's northern borders are often highlighted as points of weakness but could the United States bolster our defences by making use of bare northern bases?",
-        "link": "https://www.abc.net.au/news/2026-08-19/could-united-states-use-bare-northern-based-for-defence-assets/107017430",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
@@ -488,30 +476,6 @@
         "title": "Messi retirement hint highlights football era nearing an end",
         "description": "Soon after propelling Argentina to a second consecutive World Cup final, Lionel Messi has cast some doubt on his future. While retirement doesn't seem imminent, it still beckons for him and Cristiano Ronaldo.",
         "link": "https://www.dw.com/en/messi-retirement-hint-highlights-football-era-nearing-an-end/a-78415527?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 1,
-      "story": {
-        "title": "Nigeria: Campaign kicks off for 2027 presidential election",
-        "description": "Electioneering has begun in Nigeria five months ahead of the presidential poll. The economy and security are expected to be the two main issues for candidates to tussle over.",
-        "link": "https://www.dw.com/en/nigeria-campaign-kicks-off-for-2027-presidential-election/a-78421873?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 1,
-      "story": {
-        "title": "India news: Several killed in Kolkata hotel fire",
-        "description": "At least nine people have died, including some Bangladeshi nationals, authorities said. Meanwhile, the building's owner was reportedly absconding.",
-        "link": "https://www.dw.com/en/india-news-several-killed-in-kolkata-hotel-fire/live-78421640?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -548,6 +512,18 @@
         "title": "Fastest-growing Ebola outbreak in history leaves 2,300 dead in Congo",
         "description": "The World Health Organization has said the current Ebola outbreak is on track to surpass the deadliest on record.",
         "link": "https://www.sbs.com.au/news/article/fastest-growing-ebola-outbreak-history-leaves-2300-dead-congo/r2hn9s04h",
+        "source": "SBS News"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "Sydney Swans players involved in alleged incident under police investigation",
+        "description": "Police attended an East Melbourne hotel following an incident in the early hours of Monday morning.",
+        "link": "https://www.sbs.com.au/news/article/sydney-swans-players-involved-alleged-incident-under-police-investigation/4bu49e12o",
         "source": "SBS News"
       }
     }
