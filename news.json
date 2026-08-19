@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:30:28+00:00",
+  "generated_at": "2026-08-19T22:30:22+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "description": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
       "description": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
       "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
       "title": "South Korea shortens war games with US, citing Washington request",
       "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-      "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-      "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,10 +75,10 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 15,
+      "count": 14,
       "story": {
         "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-        "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+        "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
         "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -87,23 +87,23 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 15,
+      "count": 14,
       "story": {
-        "title": "Meet the FIFO workers keeping mining towns dancing all night",
-        "description": "Nightclubs and other venues in Western Australia's far north are hiring fly-in-fly-out DJs to attract audiences and keep them coming.",
-        "link": "https://www.abc.net.au/news/2026-08-20/fly-in-fly-out-djs-western-australia-regional-towns/107010826",
-        "source": "ABC News AU"
+        "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+        "description": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 9,
+      "count": 8,
       "story": {
-        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-        "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+        "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+        "description": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,38 +144,26 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 5,
+      "story": {
+        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+        "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "South Korea shortens war games with US, citing Washington request",
         "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
         "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
-      "story": {
-        "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
-        "description": "A SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
-        "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 4,
-      "story": {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "description": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
-        "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,18 +180,6 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 4,
-      "story": {
-        "title": "India rout Pakistan at Hockey World Cup 2026 to qualify for second round",
-        "description": "India hold off Pakistan 5-3 to finish second with six points as England top Pool D with nine points from three wins.",
-        "link": "https://www.aljazeera.com/sports/2026/8/19/india-rout-pakistan-at-hockey-world-cup-2026-to-qualify-for-second-round?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
@@ -216,6 +192,54 @@
       }
     },
     {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 3,
+      "story": {
+        "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+        "description": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
+        "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ecuador",
+      "lat": -1.83,
+      "lon": -78.18,
+      "count": 3,
+      "story": {
+        "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+        "description": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
+        "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
+        "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
+        "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 3,
+      "story": {
+        "title": "Spain plans transfer of 500 migrant children from Ceuta to mainland",
+        "description": "Ceuta leaders want children returned to Morocco, but Madrid says deporting them is &#039;outrageous&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Syria",
       "lat": 34.8,
       "lon": 38.9,
@@ -225,6 +249,42 @@
         "description": "US envoy warns Israel&#039;s strike could have sparked direct confrontation with Turkish forces.",
         "link": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "Longmire reveals 'incredible deep sadness' over Swans' links to police probe",
+        "description": "Sydney's longest-tenured coach, John Longmire, breaks his public silence after five players were suspended by the club.",
+        "link": "https://www.abc.net.au/news/2026-08-20/afl-john-longmire-reaction-sydney-swans-police-investigation/107056540",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 2,
+      "story": {
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -252,30 +312,6 @@
       }
     },
     {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 2,
-      "story": {
-        "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-        "description": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
-        "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ecuador",
-      "lat": -1.83,
-      "lon": -78.18,
-      "count": 2,
-      "story": {
-        "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-        "description": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
-        "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
@@ -288,15 +324,15 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 2,
       "story": {
-        "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
-        "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
-        "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
+        "description": "A SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
+        "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -308,18 +344,6 @@
         "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
         "description": "“You can&#039;t do anything. Just stand here and watch.”\nAl Jazeera’s Ali Hashem watched Israeli attacks near his home town.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 2,
-      "story": {
-        "title": "Spain plans transfer of 500 migrant children from Ceuta to mainland",
-        "description": "Ceuta leaders want children returned to Morocco, but Madrid says deporting them is &#039;outrageous&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -348,14 +372,14 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "Mental health patients still absconding despite recent fatal incidents",
-        "description": "Mental health patients at Cumberland Hospital in Sydney's west have absconded more than a dozen times since February, when two patient escapes were linked to the deaths of three people.",
-        "link": "https://www.abc.net.au/news/2026-08-20/mental-health-patients-escape-cumberland-hospital-despite-review/107055188",
+        "title": "Australia and China cooperate to bust illegal tobacco smuggling syndicate",
+        "description": "Australian Border Force officers are tipped off to containers suspected of carrying illicit tobacco, resulting in millions of cigarettes being seized.",
+        "link": "https://www.abc.net.au/news/2026-08-20/china-and-australia-work-together-on-tobacco-syndicate/107056140",
         "source": "ABC News AU"
       }
     },
@@ -372,6 +396,18 @@
       }
     },
     {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 2,
+      "story": {
+        "title": "Could Pakistan's jailed ex-PM Imran Khan make a new deal?",
+        "description": "The imprisoned former prime minister of Pakistan could be moved to a hospital for medical treatment, ushering speculation over the possibility of new political negotiations.",
+        "link": "https://www.dw.com/en/could-pakistan-s-jailed-ex-pm-imran-khan-make-a-new-deal/a-78429070?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Jerusalem",
       "lat": 31.78,
       "lon": 35.22,
@@ -380,30 +416,6 @@
         "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
         "description": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
         "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -468,14 +480,14 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
       "count": 1,
       "story": {
-        "title": "Australia and China cooperate to bust illegal tobacco smuggling syndicate",
-        "description": "Australian Border Force officers are tipped off to containers suspected of carrying illicit tobacco, resulting in millions of cigarettes being seized.",
-        "link": "https://www.abc.net.au/news/2026-08-20/china-and-australia-work-together-on-tobacco-syndicate/107056140",
+        "title": "Breaking: Prince Harry, Meghan and family to move back to UK, British media reports",
+        "description": "Harry, the younger son of King Charles, and his wife, Meghan, intend to relocate from the US to a private, non-royal residence outside London, according to British media.",
+        "link": "https://www.abc.net.au/news/2026-08-20/prince-harry-and-meghan-markle-move-back-to-uk/107056622",
         "source": "ABC News AU"
       }
     },
@@ -516,39 +528,27 @@
       }
     },
     {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 1,
       "story": {
-        "title": "US and Canada say they are close to final trade deal",
-        "description": "The United States and Canada said they were close to finalising a trade deal after US President Donald Trump delayed new 50 per cent tariffs on Canadian goods.",
-        "link": "https://www.channelnewsasia.com/world/canada-us-trump-carney-trade-deal-tariffs-6329541",
+        "title": "Indonesia’s renewed macaque export push pits research demand against conservation concerns",
+        "description": "Officials say the move benefits local communities and can help manage human-wildlife conflicts, while animal welfare groups warn it risks undermining protection of the species classified by an international conservation ",
+        "link": "https://www.channelnewsasia.com/asia/indonesia-long-tailed-macaque-exports-research-6322256",
         "source": "CNA"
       }
     },
     {
-      "name": "Zagreb",
-      "lat": 45.81,
-      "lon": 15.98,
+      "name": "Seoul",
+      "lat": 37.57,
+      "lon": 126.98,
       "count": 1,
       "story": {
-        "title": "Uber launches autonomous rides in Zagreb, its first in Europe",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/business/uber-launches-autonomous-rides-in-zagreb-its-first-in-europe-6329486",
+        "title": "China considering summit with Seoul in November, South Korean foreign ministry says",
+        "description": "The possible summit was discussed during Chinese Foreign Minister Wang Yi’s visit to Seoul, where he met his South Korean counterpart Cho Hyun.",
+        "link": "https://www.channelnewsasia.com/asia/china-considering-summit-seoul-in-november-south-korean-foreign-ministry-says-6329666",
         "source": "CNA"
-      }
-    },
-    {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 1,
-      "story": {
-        "title": "Criminal networks in crosshairs as Australia and Thailand deepen ties",
-        "description": "From scam syndicates to fuel security, Australia and Thailand have mapped out a closer strategic partnership.",
-        "link": "https://www.sbs.com.au/news/article/australia-thailand-target-scammers-expanded-security-partnership/hfonjrint",
-        "source": "SBS News"
       }
     }
   ]
