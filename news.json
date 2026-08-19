@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T20:34:34+00:00",
+  "generated_at": "2026-08-19T21:30:28+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 14,
+      "count": 15,
       "story": {
         "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
         "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
@@ -87,11 +87,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 15,
       "story": {
-        "title": "'Entire streets' in regional towns miss out on census information in the post",
-        "description": "Some residents of South Australia's largest federal electorate say they are yet to receive census information by post, prompting confusion and concern about the possibility of fines.",
-        "link": "https://www.abc.net.au/news/2026-08-20/parts-of-yorke-peninsula-did-not-receive-census-information/107046428",
+        "title": "Meet the FIFO workers keeping mining towns dancing all night",
+        "description": "Nightclubs and other venues in Western Australia's far north are hiring fly-in-fly-out DJs to attract audiences and keep them coming.",
+        "link": "https://www.abc.net.au/news/2026-08-20/fly-in-fly-out-djs-western-australia-regional-towns/107010826",
         "source": "ABC News AU"
       }
     },
@@ -111,7 +111,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
         "description": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
@@ -125,57 +125,21 @@
       "lon": 10.4,
       "count": 7,
       "story": {
-        "title": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
-        "description": "The suspect was arrested in Croatia a year after another, an ex-army officer, was held and transferred to Germany.",
-        "link": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 6,
-      "story": {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "description": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
-        "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "ICC slams US sanctions on court as 'flagrant attack'",
+        "description": "US President Donald Trump's administration has ramped up its pressure on the International Criminal Court (ICC), accusing it of being \"politicized.\" The EU, France, Germany, Spain and Japan have defended the court.",
+        "link": "https://www.dw.com/en/icc-slams-us-sanctions-on-court-as-flagrant-attack/a-78437476?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "Canada and US say they are finalising a trade deal, but details remain murky",
         "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
         "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
-      "story": {
-        "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
-        "description": "A SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
-        "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 4,
-      "story": {
-        "title": "Sacked Ukrainian defence minister calls for presidential election",
-        "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-        "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,6 +156,42 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
+        "description": "A SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
+        "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 4,
+      "story": {
+        "title": "Families' agonising search for answers as thousands still missing in Gaza",
+        "description": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
+        "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 4,
+      "story": {
+        "title": "Spain plans transfer of 500 migrant children from Ceuta to mainland",
+        "description": "Ceuta leaders want children returned to Morocco, but Madrid says deporting them is &#039;outrageous&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -204,14 +204,14 @@
       }
     },
     {
-      "name": "Croatia",
-      "lat": 45.1,
-      "lon": 15.2,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 3,
       "story": {
-        "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-        "description": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
-        "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+        "title": "Sacked Ukrainian defence minister calls for presidential election",
+        "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+        "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -228,14 +228,14 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Croatia",
+      "lat": 45.1,
+      "lon": 15.2,
       "count": 2,
       "story": {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+        "description": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+        "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -288,6 +288,42 @@
       }
     },
     {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
+        "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
+        "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 2,
+      "story": {
+        "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
+        "description": "“You can&#039;t do anything. Just stand here and watch.”\nAl Jazeera’s Ali Hashem watched Israeli attacks near his home town.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Spain plans transfer of 500 migrant children from Ceuta to mainland",
+        "description": "Ceuta leaders want children returned to Morocco, but Madrid says deporting them is &#039;outrageous&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
@@ -300,14 +336,14 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Sacked Ukraine defence minister calls for wartime presidential election",
-        "description": "The poll would represent the first leadership challenge to President Volodymyr Zelenskyy since Russia invaded in 2022, with the ousted defence minister claiming Ukraine faces a \"crisis of governance\".",
-        "link": "https://www.abc.net.au/news/2026-08-19/ex-ukraine-defence-minister-calls-for-wartime-election/107056224",
+        "title": "Images of suspected hitmen released after Melbourne gangland killing",
+        "description": "Police have released images of men torching a getaway vehicle after the fatal shooting of Melbourne man Athan Boursinos last year.",
+        "link": "https://www.abc.net.au/news/2026-08-20/police-release-cctv-athan-boursinos-murder/107056472",
         "source": "ABC News AU"
       }
     },
@@ -317,21 +353,21 @@
       "lon": 151.21,
       "count": 2,
       "story": {
-        "title": "Graffiti 'wrongly' labelled antisemitic in Sydney spree, judge finds",
-        "description": "A man who admitted to a string of vandalism offences in Sydney's east did not act as an \"antisemitic bigot\" but was a \"vandal for hire\", and is not at risk of committing a serious terrorism offence, according to the stat",
-        "link": "https://www.abc.net.au/news/2026-08-19/graffiti-wrongly-labelled-antisemitic-in-sydney-judge-says/107055692",
+        "title": "Mental health patients still absconding despite recent fatal incidents",
+        "description": "Mental health patients at Cumberland Hospital in Sydney's west have absconded more than a dozen times since February, when two patient escapes were linked to the deaths of three people.",
+        "link": "https://www.abc.net.au/news/2026-08-20/mental-health-patients-escape-cumberland-hospital-despite-review/107055188",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 2,
       "story": {
-        "title": "Ceuta: Madrid to transfer 500 vulnerable youths to mainland",
-        "description": "Spanish officials have come up with a plan to transfer unaccompanied youth in the exclave Ceuta to mainland Spain. Mostly girls, they will be placed in foster homes as well as under government care.",
-        "link": "https://www.dw.com/en/ceuta-madrid-to-transfer-500-vulnerable-youths-to-mainland/a-78437405?maca=en-rss-en-all-1573-rdf",
+        "title": "ICC slams US sanctions on court as 'flagrant attack'",
+        "description": "US President Donald Trump's administration has ramped up its pressure on the International Criminal Court (ICC), accusing it of being \"politicized.\" The EU, France, Germany, Spain and Japan have defended the court.",
+        "link": "https://www.dw.com/en/icc-slams-us-sanctions-on-court-as-flagrant-attack/a-78437476?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -351,6 +387,18 @@
       "name": "Washington",
       "lat": 38.9,
       "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 1,
       "story": {
         "title": "South Korea shortens war games with US, citing Washington request",
@@ -384,18 +432,6 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 1,
-      "story": {
-        "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
-        "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
-        "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Shanghai",
       "lat": 31.23,
       "lon": 121.47,
@@ -405,6 +441,18 @@
         "description": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
         "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 1,
+      "story": {
+        "title": "Spain plans transfer of 500 migrant children from Ceuta to mainland",
+        "description": "Ceuta leaders want children returned to Morocco, but Madrid says deporting them is &#039;outrageous&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -420,27 +468,15 @@
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 1,
       "story": {
-        "title": "Canada boosts Lebanon aid to $50m and condemns Israeli ‘unlawful invasion’",
-        "description": "Canada official condemns Israel&#039;s &#039;invasion&#039; of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.",
-        "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Ceuta: Madrid to transfer 500 vulnerable youths to mainland",
-        "description": "Spanish officials have come up with a plan to transfer unaccompanied youth in the exclave Ceuta to mainland Spain. Mostly girls, they will be placed in foster homes as well as under government care.",
-        "link": "https://www.dw.com/en/ceuta-madrid-to-transfer-500-vulnerable-youths-to-mainland/a-78437405?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Australia and China cooperate to bust illegal tobacco smuggling syndicate",
+        "description": "Australian Border Force officers are tipped off to containers suspected of carrying illicit tobacco, resulting in millions of cigarettes being seized.",
+        "link": "https://www.abc.net.au/news/2026-08-20/china-and-australia-work-together-on-tobacco-syndicate/107056140",
+        "source": "ABC News AU"
       }
     },
     {
@@ -452,6 +488,18 @@
         "title": "Amid extreme heat, water grows scarce around Berlin",
         "description": "Though the German state of Brandenburg that wraps around Berlin is getting drier, it is also home to thirsty industrial plants such as Tesla and Red Bull. Is there enough water to go around?",
         "link": "https://www.dw.com/en/amid-extreme-heat-water-grows-scarce-around-berlin/a-78428993?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 1,
+      "story": {
+        "title": "Germany news: Minister wants to help renters to install AC",
+        "description": "The justice minister wants to make it easier for tenants to install air conditioning or external blinds. Meanwhile, a defense CEO is reportedly in hiding after being warned of Russian plots to kill him. DW has more.",
+        "link": "https://www.dw.com/en/germany-news-minister-wants-to-help-renters-to-install-ac/live-78421815?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -468,15 +516,15 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
       "count": 1,
       "story": {
-        "title": "In drought-stricken France, tankers supply drinking water",
-        "description": "France is seeing water shortages in regions that usually have plenty of supply. This summer's extreme heat is exposing how unprepared much of the country, and Europe, is for increasing water scarcity.",
-        "link": "https://www.dw.com/en/in-drought-stricken-france-tankers-supply-drinking-water/a-78420016?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "US and Canada say they are close to final trade deal",
+        "description": "The United States and Canada said they were close to finalising a trade deal after US President Donald Trump delayed new 50 per cent tariffs on Canadian goods.",
+        "link": "https://www.channelnewsasia.com/world/canada-us-trump-carney-trade-deal-tariffs-6329541",
+        "source": "CNA"
       }
     },
     {
@@ -500,30 +548,6 @@
         "title": "Criminal networks in crosshairs as Australia and Thailand deepen ties",
         "description": "From scam syndicates to fuel security, Australia and Thailand have mapped out a closer strategic partnership.",
         "link": "https://www.sbs.com.au/news/article/australia-thailand-target-scammers-expanded-security-partnership/hfonjrint",
-        "source": "SBS News"
-      }
-    },
-    {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 1,
-      "story": {
-        "title": "Fastest-growing Ebola outbreak in history leaves 2,300 dead in Congo",
-        "description": "The World Health Organization has said the current Ebola outbreak is on track to surpass the deadliest on record.",
-        "link": "https://www.sbs.com.au/news/article/fastest-growing-ebola-outbreak-history-leaves-2300-dead-congo/r2hn9s04h",
-        "source": "SBS News"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Sydney Swans players involved in alleged incident under police investigation",
-        "description": "Police attended an East Melbourne hotel following an incident in the early hours of Monday morning.",
-        "link": "https://www.sbs.com.au/news/article/sydney-swans-players-involved-alleged-incident-under-police-investigation/4bu49e12o",
         "source": "SBS News"
       }
     }
