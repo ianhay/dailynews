@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T11:30:21+00:00",
+  "generated_at": "2026-08-19T12:57:26+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+      "description": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
       "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
       "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
@@ -42,15 +48,15 @@
       "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Apparent human remains found in US reservoir as water levels hit record low",
-      "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
-      "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "Inflation is heating up but don't expect another crisis",
+      "description": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months.",
+      "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
     {
       "title": "Humanitarianism is not collapsing. It is being traded and compromised",
       "description": "This is endangering the lives of humanitarian workers and the vulnerable communities they serve.",
@@ -62,12 +68,6 @@
       "description": "Electioneering has begun in Nigeria five months ahead of the presidential poll. The economy and security are expected to be the two main issues for candidates to tussle over.",
       "link": "https://www.dw.com/en/nigeria-campaign-kicks-off-for-2027-presidential-election/a-78421873?maca=en-rss-en-all-1573-rdf",
       "source": "DW"
-    },
-    {
-      "title": "US, Canada reach deal that pauses 50% tariffs, Trump says",
-      "description": "Donald Trump said the deal, reached the day before 50% tariffs were set to take effect, could also revive the controversial Keystone XL pipeline project.",
-      "link": "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf",
-      "source": "DW"
     }
   ],
   "places": [
@@ -75,23 +75,23 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 16,
+      "count": 14,
       "story": {
-        "title": "Five Australian rules footy players suspended amid police investigation",
-        "description": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
-        "link": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Nick Kyrgios provisionally suspended after positive test for cocaine",
+        "description": "The Australian said he made no excuses but admitted to struggling with the twilight of his career.",
+        "link": "https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 8,
       "story": {
-        "title": "Husband and mother-in-law charged over Indian bride's death",
-        "description": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
-        "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+        "description": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,10 +120,46 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 7,
+      "story": {
+        "title": "Husband and mother-in-law charged over Indian bride's death",
+        "description": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
+        "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 6,
+      "story": {
+        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+        "description": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 5,
+      "story": {
+        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+        "description": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "Musiala collapses for Bayern again as ‘neurological disorder’ diagnosed",
         "description": "Bayern Munich and Germany&#039;s Jamal Musiala collapses on field for second time but &#039;very optimistic&#039; about condition.",
@@ -135,7 +171,7 @@
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "South Korea shortens war games with US, citing Washington request",
         "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
@@ -147,7 +183,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Why has Russia threatened the UK and what happens next?",
         "description": "UK Prime Minister Andy Burnham has said London will continue \"to support Ukraine 100%\".",
@@ -192,39 +228,15 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 3,
       "story": {
-        "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-        "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
-        "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 3,
-      "story": {
-        "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-        "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
-        "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "description": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
-        "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Pakistan challenges top court order to move Imran Khan to private hospital",
+        "description": "Government files a review of Supreme Court order, arguing that the jailed ex-PM should be examined at a public hospital.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -240,18 +252,6 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 2,
-      "story": {
-        "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
-        "description": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
-        "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
@@ -264,14 +264,14 @@
       }
     },
     {
-      "name": "Seoul",
-      "lat": 37.57,
-      "lon": 126.98,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?",
-        "description": "Analysts say Trump&#039;s attempted rapprochement with Kim Jong Un is driven by political signals to Pyongyang and Seoul.",
-        "link": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss",
+        "title": "China’s Unitree soars in market debut as investors bet on humanoid robots",
+        "description": "Unitree shares surge as much as 620 percent amid enthusiasm for burgeoning field of human-like robots.",
+        "link": "https://www.aljazeera.com/economy/2026/8/19/chinas-unitree-soars-in-market-debut-as-investors-bet-on-humanoid-robots?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -288,18 +288,6 @@
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 2,
-      "story": {
-        "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
-        "description": "An attack on a village in Nigeria’s central Plateau state has killed at least 25 people.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Adelaide",
       "lat": -34.93,
       "lon": 138.6,
@@ -309,18 +297,6 @@
         "description": "Government lawyers have contradicted South Australia's premier over the number of trees to be cut down in the North Adelaide Golf Course redevelopment.",
         "link": "https://www.abc.net.au/news/2026-08-19/contradiction-over-number-of-trees-to-be-removed/107053586",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Woman reportedly attacked by wild boar sues NParks, alleging negligence",
-        "description": "Two people are also suing NParks after they allegedly tripped and fell over a temporary cable cover at the Singapore Botanic Gardens.",
-        "link": "https://www.channelnewsasia.com/singapore/nparks-lawsuit-negligence-wild-boar-attack-botanic-gardens-fall-6328201",
-        "source": "CNA"
       }
     },
     {
@@ -348,6 +324,30 @@
       }
     },
     {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 1,
+      "story": {
+        "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
+        "description": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
+        "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 1,
+      "story": {
+        "title": "Helicopter crashes at Mount Ololokwe in Kenya, killing six people",
+        "description": "The Aircraft Accident Investigation Department tells the BBC the identities of those on board are not yet known.",
+        "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Damascus",
       "lat": 33.5,
       "lon": 36.3,
@@ -360,26 +360,14 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
       "count": 1,
       "story": {
-        "title": "Brazil's President Lula hails oil discovery near Amazon river",
-        "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Families' agonising search for answers as thousands still missing in Gaza",
-        "description": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
-        "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+        "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+        "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
+        "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -420,12 +408,24 @@
       }
     },
     {
+      "name": "Seoul",
+      "lat": 37.57,
+      "lon": 126.98,
+      "count": 1,
+      "story": {
+        "title": "‘Tit for tat’: Why is Trump cosying up to North Korea’s Kim Jong Un again?",
+        "description": "Analysts say Trump&#039;s attempted rapprochement with Kim Jong Un is driven by political signals to Pyongyang and Seoul.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Pyongyang",
       "lat": 39.03,
       "lon": 125.75,
       "count": 1,
       "story": {
-        "title": "‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?",
+        "title": "‘Tit for tat’: Why is Trump cosying up to North Korea’s Kim Jong Un again?",
         "description": "Analysts say Trump&#039;s attempted rapprochement with Kim Jong Un is driven by political signals to Pyongyang and Seoul.",
         "link": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss",
         "source": "Al Jazeera"
@@ -464,18 +464,6 @@
         "title": "South Africa to Australia: Why coal profits are surging during Iran war",
         "description": "Coal companies are reporting a huge rise in profits, but analysts say global clean energy transition is still on track.",
         "link": "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 1,
-      "story": {
-        "title": "Lebanon no longer a safe haven for former Syrian regime officials",
-        "description": "Figures connected to the former Syrian regime are still in Lebanon but risk being returned.",
-        "link": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -525,6 +513,18 @@
         "description": "The occupants of the Dunlop house in Canberra's Belconnen district included a young girl.",
         "link": "https://www.abc.net.au/news/2026-08-19/canberra-dunlop-house-fire-hero-neighbour/107054700",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 1,
+      "story": {
+        "title": "Amid extreme heat, water grows scarce around Berlin",
+        "description": "Though the German state of Brandenburg that wraps around Berlin is getting drier, it is also home to thirsty industrial plants such as Tesla and Red Bull. Is there enough water to go around?",
+        "link": "https://www.dw.com/en/amid-extreme-heat-water-grows-scarce-around-berlin/a-78428993?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
