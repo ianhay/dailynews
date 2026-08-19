@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T13:50:58+00:00",
+  "generated_at": "2026-08-19T14:39:13+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,12 +32,6 @@
   ],
   "australia": [
     {
-      "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-      "description": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
-      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
       "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
       "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
@@ -47,6 +41,12 @@
       "title": "South Korea shortens war games with US, citing Washington request",
       "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Six tourists and pilot killed in Kenya helicopter crash",
+      "description": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
+      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -64,10 +64,10 @@
       "source": "BBC Business"
     },
     {
-      "title": "War on Iran: Iran allegedly targets the UAE",
-      "description": "After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss",
-      "source": "Al Jazeera"
+      "title": "Monzo down as some users unable to make card payments or transfers",
+      "description": "The digital bank said it was \"rolling out a fix and moving quickly\" to get the service working again",
+      "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 14,
       "story": {
         "title": "Nick Kyrgios provisionally suspended after positive test for cocaine",
         "description": "The Australian said he made no excuses but admitted to struggling with the twilight of his career.",
@@ -87,10 +87,10 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 10,
+      "count": 9,
       "story": {
-        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-        "description": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+        "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+        "description": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
         "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -104,18 +104,6 @@
         "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
         "description": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
         "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 7,
-      "story": {
-        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-        "description": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
-        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -135,11 +123,23 @@
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "The Indian activist jailed after taking on a luxury hotel plan",
         "description": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
         "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 6,
+      "story": {
+        "title": "Families' agonising search for answers as thousands still missing in Gaza",
+        "description": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
+        "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -161,8 +161,8 @@
       "lon": 34.47,
       "count": 5,
       "story": {
-        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-        "description": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+        "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+        "description": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
         "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -180,22 +180,10 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "Graffiti 'wrongly' labelled antisemitic in Sydney spree, judge finds",
-        "description": "A man who admitted to a string of vandalism offences in Sydney's east did not act as an \"antisemitic bigot\" but was a \"vandal for hire\", and is not at risk of committing a serious terrorism offence, according to the stat",
-        "link": "https://www.abc.net.au/news/2026-08-19/graffiti-wrongly-labelled-antisemitic-in-sydney-judge-says/107055692",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "South Korea shortens war games with US, citing Washington request",
         "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
@@ -207,12 +195,24 @@
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "South Korea shortens war games with US, citing Washington request",
         "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
         "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Graffiti 'wrongly' labelled antisemitic in Sydney spree, judge finds",
+        "description": "A man who admitted to a string of vandalism offences in Sydney's east did not act as an \"antisemitic bigot\" but was a \"vandal for hire\", and is not at risk of committing a serious terrorism offence, according to the stat",
+        "link": "https://www.abc.net.au/news/2026-08-19/graffiti-wrongly-labelled-antisemitic-in-sydney-judge-says/107055692",
+        "source": "ABC News AU"
       }
     },
     {
@@ -273,18 +273,6 @@
         "description": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
         "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 2,
-      "story": {
-        "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
-        "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
-        "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -405,6 +393,18 @@
         "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
         "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 1,
+      "story": {
+        "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
+        "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
+        "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
