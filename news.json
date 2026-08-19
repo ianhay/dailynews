@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T23:27:56+00:00",
+  "generated_at": "2026-08-19T23:51:39+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 14,
+      "count": 12,
       "story": {
         "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
         "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
@@ -87,19 +87,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
-      "story": {
-        "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-        "description": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
-        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 8,
+      "count": 11,
       "story": {
         "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
         "description": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
@@ -111,11 +99,23 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
         "description": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
         "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 7,
+      "story": {
+        "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+        "description": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -135,7 +135,7 @@
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "Canada and US say they are finalising a trade deal, but details remain murky",
         "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
@@ -147,7 +147,7 @@
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
         "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
@@ -159,7 +159,31 @@
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
-      "count": 5,
+      "count": 4,
+      "story": {
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Three Sydney boys charged over alleged group sexual assault of 17yo girl",
+        "description": "A 17-year-old teenage girl was allegedly sexually assaulted by three boys of the same age in Sydney's south-west on the weekend.",
+        "link": "https://www.abc.net.au/news/2026-08-20/nsw-teens-charged-after-17yo-girl-sexually-assaulted-macarthur/107056924",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 3,
       "story": {
         "title": "South Korea shortens war games with US, citing Washington request",
         "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
@@ -204,6 +228,30 @@
       }
     },
     {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 3,
+      "story": {
+        "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
+        "description": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 3,
+      "story": {
+        "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
+        "description": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Madrid",
       "lat": 40.42,
       "lon": -3.7,
@@ -228,30 +276,6 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 3,
-      "story": {
-        "title": "What’s behind Israel’s latest attack on Syria?",
-        "description": "US envoy warns Israel&#039;s strike could have sparked direct confrontation with Turkish forces.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
-      "story": {
-        "title": "Longmire reveals 'deep sadness' over Swans' links to police probe",
-        "description": "Sydney's longest-tenured coach, John Longmire, breaks his public silence after five players were suspended by the club.",
-        "link": "https://www.abc.net.au/news/2026-08-20/afl-john-longmire-reaction-sydney-swans-police-investigation/107056540",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
@@ -260,18 +284,6 @@
         "title": "Sacked Ukrainian defence minister calls for presidential election",
         "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
         "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -333,18 +345,6 @@
         "description": "A SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
         "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 2,
-      "story": {
-        "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
-        "description": "“You can&#039;t do anything. Just stand here and watch.”\nAl Jazeera’s Ali Hashem watched Israeli attacks near his home town.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -456,6 +456,18 @@
       }
     },
     {
+      "name": "Damascus",
+      "lat": 33.5,
+      "lon": 36.3,
+      "count": 1,
+      "story": {
+        "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
+        "description": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Morocco",
       "lat": 31.79,
       "lon": -7.09,
@@ -536,18 +548,6 @@
         "title": "Meet Hong Kong's Kinyan Lam, the LVMH Prize semi-finalist who's redefining slow fashion",
         "description": "Kinyan Lam weaves tradition and nature into modern clothing that stands out for its raw quality and painstakingly handmade beauty.",
         "link": "https://www.channelnewsasia.com/style-beauty/kinyan-lam-slow-fashion-lvmh-prize-6290871",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 1,
-      "story": {
-        "title": "Indonesia’s renewed macaque export push pits research demand against conservation concerns",
-        "description": "Officials say the move benefits local communities and can help manage human-wildlife conflicts, while animal welfare groups warn it risks undermining protection of the species classified by an international conservation ",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-long-tailed-macaque-exports-research-6322256",
         "source": "CNA"
       }
     }
