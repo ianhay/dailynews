@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:40:23+00:00",
+  "generated_at": "2026-08-20T10:36:12+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,15 +18,15 @@
       "source": "BBC News"
     },
     {
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-Zambian minister killed in security raid on opposition",
+      "description": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
+      "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
-      "description": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
-      "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 13,
       "story": {
         "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
         "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
@@ -120,6 +120,30 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 7,
+      "story": {
+        "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+        "description": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
+        "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 6,
+      "story": {
+        "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
@@ -128,30 +152,6 @@
         "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
         "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
         "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 6,
-      "story": {
-        "title": "Four workers dead after being hit by train in Japan",
-        "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 6,
-      "story": {
-        "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-        "description": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
-        "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -165,18 +165,6 @@
         "description": "Germany is grappling with the impacts of damaging storms after a prolonged dry spell. Meanwhile, a CDU politician in Saxony-Anhalt reportedly donated money to the far-right AfD party. Follow along.",
         "link": "https://www.dw.com/en/germany-news-powerful-storms-damage-homes-leave-1-dead/live-78439067?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 5,
-      "story": {
-        "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-        "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -204,6 +192,18 @@
       }
     },
     {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 5,
+      "story": {
+        "title": "Four workers dead after being hit by train in Japan",
+        "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -219,11 +219,11 @@
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
-      "count": 4,
+      "count": 5,
       "story": {
-        "title": "Sex crimes detectives told of drug use in Sydney Swans hotel room",
-        "description": "Detectives investigating a sexual assault scandal engulfing the Sydney Swans have been told some players paid female adult entertainers to consume drugs off their bodies.",
-        "link": "https://www.abc.net.au/news/2026-08-20/sydney-swans-players-police-told-of-drug-use-in-hotel/107059156",
+        "title": "'Completely unacceptable': Albanese lashes AFL over response to Swans scandal",
+        "description": "The Prime Minister has called on the AFL to \"do better\" in response to the Sydney Swans scandal engulfing the league.",
+        "link": "https://www.abc.net.au/news/2026-08-20/albanese-swans-afl-allegations-melons-and-zomi-frankcom/107060154",
         "source": "ABC News AU"
       }
     },
@@ -264,18 +264,6 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
-      "story": {
-        "title": "Singapore's Loh Kean Yew exits BWF World Championships after round of 16 loss to Canada's Victor Lai",
-        "description": "The two last met in last year's World Championships quarter-finals, where the Singaporean also lost by the same score.",
-        "link": "https://www.channelnewsasia.com/sport/loh-kean-yew-exit-world-championships-victor-lai-6330621",
-        "source": "CNA"
-      }
-    },
-    {
       "name": "Kenya",
       "lat": -0.02,
       "lon": 37.9,
@@ -312,6 +300,18 @@
       }
     },
     {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 2,
+      "story": {
+        "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+        "description": "Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.",
+        "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Adelaide",
       "lat": -34.93,
       "lon": 138.6,
@@ -333,6 +333,18 @@
         "description": "US President Donald Trump's administration has ramped up its pressure on the International Criminal Court (ICC), accusing it of being \"politicized.\" The EU, France, Germany, Spain and Japan have defended the court.",
         "link": "https://www.dw.com/en/icc-slams-us-sanctions-on-court-as-flagrant-attack/a-78437476?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Singapore's Loh Kean Yew exits BWF World Championships after round of 16 loss to Canada's Victor Lai",
+        "description": "The two last met in last year's World Championships quarter-finals, where the Singaporean also lost by the same score.",
+        "link": "https://www.channelnewsasia.com/sport/loh-kean-yew-exit-world-championships-victor-lai-6330621",
+        "source": "CNA"
       }
     },
     {
@@ -426,7 +438,7 @@
       "count": 1,
       "story": {
         "title": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
-        "description": "UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.",
+        "description": "UN warns of surging displacement in Kordofan as power and water infrastructure comes under attack in el-Obeid.",
         "link": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
         "source": "Al Jazeera"
       }
@@ -456,18 +468,6 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
-        "description": "Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.",
-        "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Nigeria",
       "lat": 9.1,
       "lon": 8.7,
@@ -480,62 +480,14 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Iran war live: Tehran says Trump’s ‘economic warfare’ will fail",
-        "description": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
-      "story": {
-        "title": "Iran war live: Tehran says Trump’s ‘economic warfare’ will fail",
-        "description": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Live: Storm host Panthers trying to avoid third straight loss in Cleary's milestone",
+        "title": "Live: To'o crosses for first-half hat-trick as Penrith runs riot in Melbourne",
         "description": "The Penrith Panthers are trying to bounce back from back-to-back losses as they take on the Melbourne Storm in Ivan Cleary's milestone 500th game as a coach. Follow live.",
         "link": "https://www.abc.net.au/news/2026-08-20/nrl-live-melbourne-storm-penrith-panthers/107060788",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "Woman allegedly sexually assaulted by stranger while walking on Brisbane street",
-        "description": "Investigators are appealing for information after a woman was allegedly sexually assaulted by a stranger in Brisbane this morning.",
-        "link": "https://www.abc.net.au/news/2026-08-20/qld-sexual-assault-appeal-brookfield/107059766",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
-      "count": 1,
-      "story": {
-        "title": "In moving home, Harry may hope Charles will be more forgiving than William",
-        "description": "While a move to London now brings Meghan and Harry in closer proximity to the royal family, it does not solve the Windsor's complicated dynamics or the deep rift between two brothers.",
-        "link": "https://www.abc.net.au/news/2026-08-20/harry-and-meghan-self-imposed-exile-is-over/107056780",
         "source": "ABC News AU"
       }
     },
@@ -548,6 +500,54 @@
         "title": "Ukraine: Several killed in 'massive' Russian strikes on Kyiv",
         "description": "The strikes on the Ukrainian capital and its surrounding regions also injured dozens, damaged buildings and caused power cuts. In neighboring Poland, the military started preventive operations to protect its airspace.",
         "link": "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "New Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
+      "count": 1,
+      "story": {
+        "title": "India news: US envoy's Kashmir remarks reignite Pakistan row",
+        "description": "US envoy Sergio Gor's remark calling Jammu and Kashmir an \"important part of India,\" triggering a diplomatic spat between Islamabad and New Delhi. DW has the latest.",
+        "link": "https://www.dw.com/en/india-news-us-envoy-s-kashmir-remarks-reignite-pakistan-row/live-78438645?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Islamabad",
+      "lat": 33.7,
+      "lon": 73.06,
+      "count": 1,
+      "story": {
+        "title": "India news: US envoy's Kashmir remarks reignite Pakistan row",
+        "description": "US envoy Sergio Gor's remark calling Jammu and Kashmir an \"important part of India,\" triggering a diplomatic spat between Islamabad and New Delhi. DW has the latest.",
+        "link": "https://www.dw.com/en/india-news-us-envoy-s-kashmir-remarks-reignite-pakistan-row/live-78438645?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "India news: US envoy's Kashmir remarks reignite Pakistan row",
+        "description": "US envoy Sergio Gor's remark calling Jammu and Kashmir an \"important part of India,\" triggering a diplomatic spat between Islamabad and New Delhi. DW has the latest.",
+        "link": "https://www.dw.com/en/india-news-us-envoy-s-kashmir-remarks-reignite-pakistan-row/live-78438645?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 1,
+      "story": {
+        "title": "ICC slams US sanctions on court as 'flagrant attack'",
+        "description": "US President Donald Trump's administration has ramped up its pressure on the International Criminal Court (ICC), accusing it of being \"politicized.\" The EU, France, Germany, Spain and Japan have defended the court.",
+        "link": "https://www.dw.com/en/icc-slams-us-sanctions-on-court-as-flagrant-attack/a-78437476?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
