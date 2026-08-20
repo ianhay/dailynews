@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T20:34:48+00:00",
+  "generated_at": "2026-08-20T21:33:02+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,16 +18,16 @@
       "source": "BBC News"
     },
     {
-      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-      "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-      "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Trump vows tougher economic measures on Iran and supporting countries",
       "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
       "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "US pummels Cuban economy with new sanctions on mining, construction",
+      "description": "US economic restrictions have strained the island&#039;s already fragile economy, prompting blackouts and medical shortages.",
+      "link": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
+      "source": "Al Jazeera"
     }
   ],
   "australia": [
@@ -44,9 +44,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-      "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens dead after boat capsizes in north-western Nigeria",
+      "description": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
+      "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 15,
+      "count": 17,
       "story": {
         "title": "Missing teen hiker found dead in Australian bush after eight-day search",
         "description": "The state premier initially said Lily Hooper had been found alive before police confirmed her death.",
@@ -87,7 +87,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 12,
+      "count": 11,
       "story": {
         "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
         "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
@@ -99,7 +99,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 11,
+      "count": 7,
       "story": {
         "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
         "description": "US Treasury Secretary Scott Bessent  says allies will need to decide whether they \"are with us or against us\".",
@@ -123,32 +123,8 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 7,
-      "story": {
-        "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-        "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
       "count": 6,
       "story": {
-        "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-        "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
-      "story": {
         "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
         "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
         "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
@@ -156,14 +132,14 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 5,
       "story": {
-        "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-        "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-        "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+        "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+        "description": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report.",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,9 +156,33 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 5,
+      "story": {
+        "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+        "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 4,
+      "story": {
+        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+        "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+        "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 4,
       "story": {
         "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
@@ -204,38 +204,26 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 4,
       "story": {
-        "title": "Could US sanctions destroy the International Criminal Court?",
-        "description": "Washington&#039;s new measures against the ICC have been widely condemned but welcomed by Israel.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+        "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+        "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 4,
-      "story": {
-        "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
-        "description": "South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.",
-        "link": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 3,
       "story": {
-        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-        "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+        "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+        "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -252,14 +240,38 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
       "count": 3,
       "story": {
-        "title": "Brook makes Pakistan pay for dropped catch as England dominate first Test",
-        "description": "England were 366-8 at stumps on a rain-marred second day, 195 runs ahead of Pakistan&#039;s meagre first innings of 171.",
-        "link": "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss",
+        "title": "Landslide at unlicensed Colombian gold mine kills 13",
+        "description": "Four members of an indigenous family are among the dead, witnesses said.",
+        "link": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "Four workers dead after being hit by train in Japan",
+        "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 3,
+      "story": {
+        "title": "Could US sanctions destroy the International Criminal Court?",
+        "description": "Washington&#039;s new measures against the ICC have been widely condemned but welcomed by Israel.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -273,6 +285,18 @@
         "description": "Schools across Thailand are carrying out active shooter drills to save lives and spread awareness.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "Swans coach and captain to face media amid unfolding scandal",
+        "description": "Sydney Swans senior coach Dean Cox and captain Callum Mills will face the media this morning as the team prepares to continue with its AFL season amid an unfolding scandal.",
+        "link": "https://www.abc.net.au/news/2026-08-21/swans-scandal-coach-captain-to-face-media/107060944",
+        "source": "ABC News AU"
       }
     },
     {
@@ -300,6 +324,18 @@
       }
     },
     {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 2,
+      "story": {
+        "title": "Assad officer extradited to Syria on war crimes charges for first time",
+        "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Lima",
       "lat": -12.05,
       "lon": -77.04,
@@ -312,21 +348,9 @@
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
-      "count": 2,
-      "story": {
-        "title": "Landslide at unlicensed Colombian gold mine kills 13",
-        "description": "Four members of an indigenous family are among the dead, witnesses said.",
-        "link": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Tokyo",
+      "lat": 35.68,
+      "lon": 139.77,
       "count": 2,
       "story": {
         "title": "Four workers dead after being hit by train in Japan",
@@ -348,6 +372,18 @@
       }
     },
     {
+      "name": "New Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
+      "count": 2,
+      "story": {
+        "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
+        "description": "A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Congo",
       "lat": -4.04,
       "lon": 21.76,
@@ -360,15 +396,15 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
-        "description": "Scott Bessent has not said if countries such as China could be targeted in an effort to economically isolate Tehran.",
-        "link": "https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Police investigate fatal fire at Melbourne caravan park",
+        "description": "Investigators have established a crime scene at a caravan park in Campbellfield after a person died in a fire early this morning.",
+        "link": "https://www.abc.net.au/news/2026-08-21/fatal-fire-caravan-park-campbellfield/107061842",
+        "source": "ABC News AU"
       }
     },
     {
@@ -377,69 +413,33 @@
       "lon": 90.36,
       "count": 2,
       "story": {
-        "title": "Bangladesh elects ruling party veteran Alamgir as president",
-        "description": "Bangladesh elects Mirza Fakhrul Islam Alamgir by parliamentary vote, filling vacancy after Shahabuddin&#039;s resignation.",
-        "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 2,
-      "story": {
-        "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
-        "description": "South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.",
-        "link": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 2,
-      "story": {
-        "title": "'Completely unacceptable': Albanese lashes AFL over response to Swans scandal",
-        "description": "The Prime Minister has called on the AFL to \"do better\" in response to the Sydney Swans scandal engulfing the league.",
-        "link": "https://www.abc.net.au/news/2026-08-20/albanese-swans-afl-allegations-melons-and-zomi-frankcom/107060154",
+        "title": "Test history looms, Renshaw returns as Australia and Bangladesh go again",
+        "description": "Winter cricket continues in the Top End, with Australia looking for a big response in the second Test against Bangladesh in Mackay.",
+        "link": "https://www.abc.net.au/news/2026-08-21/australia-vs-bangladesh-second-test-when-is-it-where-is-it/107060464",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
       "count": 2,
       "story": {
-        "title": "South Africa's ANC faces voter backlash",
-        "description": "Anti-migrant violence, economic stagnation and corruption allegations are eroding support for South Africa's ruling ANC ahead of local elections in November, opening the door to new coalition possibilities.",
-        "link": "https://www.dw.com/en/south-africa-s-anc-faces-voter-backlash/a-78430445?maca=en-rss-en-all-1573-rdf",
+        "title": "North Korea fires possible ballistic missiles toward sea",
+        "description": "The launch came hours after US President Trump announced plans to meet Kim Jong Un later this year.",
+        "link": "https://www.dw.com/en/north-korea-fires-possible-ballistic-missiles-toward-sea/a-78440280?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
       "count": 1,
       "story": {
-        "title": "Assad officer extradited to Syria on war crimes charges for first time",
-        "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Tokyo",
-      "lat": 35.68,
-      "lon": 139.77,
-      "count": 1,
-      "story": {
-        "title": "Four workers dead after being hit by train in Japan",
-        "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Fishermen rescued after five days adrift in cool box",
+        "description": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
+        "link": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -453,6 +453,30 @@
         "description": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
         "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
+      "count": 1,
+      "story": {
+        "title": "US pummels Cuban economy with new sanctions on mining, construction",
+        "description": "US economic restrictions have strained the island&#039;s already fragile economy, prompting blackouts and medical shortages.",
+        "link": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
+        "description": "Scott Bessent has not said if countries such as China could be targeted in an effort to economically isolate Tehran.",
+        "link": "https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -480,30 +504,6 @@
       }
     },
     {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 1,
-      "story": {
-        "title": "Humanoid robots take centre stage in China-US tech race",
-        "description": "Humanoid robots are at the forefront of China’s race for technological supremacy at Beijing’s World Robot Conference.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Pyongyang",
-      "lat": 39.03,
-      "lon": 125.75,
-      "count": 1,
-      "story": {
-        "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
-        "description": "South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.",
-        "link": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Adelaide",
       "lat": -34.93,
       "lon": 138.6,
@@ -512,18 +512,6 @@
         "title": "Runner breaks national record with 436km over 65 hours",
         "description": "Adelaide's Yuko Sato set a new national record for backyard ultramarathon at a recent race in Queensland, running hundreds of kilometres in a 65-hour period.",
         "link": "https://www.abc.net.au/news/2026-08-21/yuko-sato-sets-australian-and-japanese-backyard-ultra-record/107054444",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Rebecca Beeson's remarkable road back to the AFLW",
-        "description": "When Rebecca Beeson steps onto the field in Melbourne on Sunday it will be her 75th AFLW match, but the journey to get there has been one of her greatest challenges.",
-        "link": "https://www.abc.net.au/news/2026-08-21/rebecca-beeson-75-milestone-matches-aflw-gws-giants/107059414",
         "source": "ABC News AU"
       }
     },
@@ -540,15 +528,27 @@
       }
     },
     {
-      "name": "Rome",
-      "lat": 41.9,
-      "lon": 12.5,
+      "name": "Peru",
+      "lat": -9.19,
+      "lon": -75.02,
       "count": 1,
       "story": {
-        "title": "Anthony Hopkins on mortality, music's dark side and its healing power",
-        "description": "Sir Anthony Hopkins opens up about music’s transcendental power, overcoming impostor syndrome, playing Hannibal Lecter and why “life is one long, long goodbye”.",
-        "link": "https://www.abc.net.au/news/2026-08-21/hannibal-actor-sir-anthony-hopkins-new-album-life-is-a-dream/107053960",
-        "source": "ABC News AU"
+        "title": "Peru: Strong earthquake shakes southern Andes",
+        "description": "The quake has a magnitude of 6.7 according to the US Geological Survey, while Peru's Geophysical Institute put the figure even higher. There are no immediate reports of casualties.",
+        "link": "https://www.dw.com/en/peru-strong-earthquake-shakes-southern-andes/a-78450656?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
+      "count": 1,
+      "story": {
+        "title": "How do teenagers keep accessing guns in Southeast Asia?",
+        "description": "Recent deadly shootings in Thailand and the Philippines have put gun laws under scrutiny while raising questions about a broader problem of firearm access, accountability and enforcement.",
+        "link": "https://www.dw.com/en/how-do-teenagers-keep-accessing-guns-in-southeast-asia/a-78446354?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
