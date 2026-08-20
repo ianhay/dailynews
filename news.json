@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:38:55+00:00",
+  "generated_at": "2026-08-20T16:40:21+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 11,
+      "count": 10,
       "story": {
         "title": "Trump vows tougher economic measures on Iran and supporting countries",
         "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
@@ -123,7 +123,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
         "description": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
@@ -137,9 +137,9 @@
       "lon": 10.4,
       "count": 6,
       "story": {
-        "title": "Germany news: Powerful storms turn deadly",
-        "description": "Germany is grappling with the impacts of damaging storms after a prolonged dry spell. Meanwhile, a CDU politician in Saxony-Anhalt reportedly donated money to the far-right AfD. Follow DW for more headlines from Germany.",
-        "link": "https://www.dw.com/en/germany-news-powerful-storms-turn-deadly/live-78439067?maca=en-rss-en-all-1573-rdf",
+        "title": "Drought in Germany and Europe are driving up costs",
+        "description": "Ongoing drought in Europe is causing rivers to dry up and crops to fail. Transport costs are rising and the price of food has exploded. Is inflation due to extreme weather?",
+        "link": "https://www.dw.com/en/drought-in-germany-and-europe-are-driving-up-costs/a-78447266?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -168,6 +168,18 @@
       }
     },
     {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 4,
+      "story": {
+        "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "description": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
+        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
@@ -177,18 +189,6 @@
         "description": "The Prime Minister has called on the AFL to \"do better\" in response to the Sydney Swans scandal engulfing the league.",
         "link": "https://www.abc.net.au/news/2026-08-20/albanese-swans-afl-allegations-melons-and-zomi-frankcom/107060154",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 3,
-      "story": {
-        "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-        "description": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
-        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -204,26 +204,14 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
       "count": 3,
       "story": {
-        "title": "Assad officer extradited to Syria on war crimes charges for first time",
-        "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
-      "story": {
-        "title": "Four workers dead after being hit by train in Japan",
-        "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+        "title": "Landslide at unlicensed Colombian gold mine kills 13",
+        "description": "Four members of an indigenous family are among the dead, witnesses said.",
+        "link": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -245,7 +233,7 @@
       "lon": -77.03,
       "count": 3,
       "story": {
-        "title": "USS Washington arrives in Middle East after aircraft carrier outcry",
+        "title": "USS Washington arrives in Arabian Sea after aircraft carrier outcry",
         "description": "Vessel expected to replace USS Lincoln after reports of dire conditions on board raised questions over US war planning.",
         "link": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss",
         "source": "Al Jazeera"
@@ -264,6 +252,18 @@
       }
     },
     {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 2,
+      "story": {
+        "title": "Assad officer extradited to Syria on war crimes charges for first time",
+        "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Lima",
       "lat": -12.05,
       "lon": -77.04,
@@ -272,6 +272,18 @@
         "title": "Giant whales move into Greenland waters as ice disappears",
         "description": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
         "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "Four workers dead after being hit by train in Japan",
+        "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -300,18 +312,6 @@
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 2,
-      "story": {
-        "title": "Myanmar military chief visits Bangkok as diplomatic offensive continues",
-        "description": "After five years of isolation, Myanmar&#039;s post-coup leadership is trying to boost its legitmacy.",
-        "link": "https://www.aljazeera.com/news/2026/8/20/myanmar-military-chief-visits-bangkok-as-diplomatic-offensive-continues?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
@@ -332,18 +332,6 @@
         "title": "Bangladesh’s government under pressure as youth demand jobs",
         "description": "Six months into Prime Minister Tariq Rahman’s term, Bangladesh faces an energy crisis and rising prices.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 2,
-      "story": {
-        "title": "PSG forced to move opening league match as heatwave in France damages pitch",
-        "description": "Paris Saint-Germain moves its opening league game to Rennes after heatwave causes damage to pitch at Parc des Princes.",
-        "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -372,18 +360,6 @@
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
-      "count": 1,
-      "story": {
-        "title": "Landslide at unlicensed Colombian gold mine kills 13",
-        "description": "Four members of an indigenous family are among the dead, witnesses said.",
-        "link": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Tokyo",
       "lat": 35.68,
       "lon": 139.77,
@@ -405,6 +381,54 @@
         "description": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
         "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 1,
+      "story": {
+        "title": "One geography, two states: Saudi Arabia’s security approach to Sudan",
+        "description": "Riyadh sees Sudan’s unity and stability as inseparable from its own security across the Red Sea.",
+        "link": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
+      "count": 1,
+      "story": {
+        "title": "One geography, two states: Saudi Arabia’s security approach to Sudan",
+        "description": "Riyadh sees Sudan’s unity and stability as inseparable from its own security across the Red Sea.",
+        "link": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 1,
+      "story": {
+        "title": "One geography, two states: Saudi Arabia’s security approach to Sudan",
+        "description": "Riyadh sees Sudan’s unity and stability as inseparable from its own security across the Red Sea.",
+        "link": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Libya",
+      "lat": 26.34,
+      "lon": 17.23,
+      "count": 1,
+      "story": {
+        "title": "Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow?",
+        "description": "The US government is intensifying efforts to unify the country&#039;s two rival governments.",
+        "link": "https://www.aljazeera.com/news/2026/8/20/can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overthrow?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -444,14 +468,14 @@
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
       "count": 1,
       "story": {
-        "title": "PSG forced to move opening league match as heatwave in France damages pitch",
-        "description": "Paris Saint-Germain moves its opening league game to Rennes after heatwave causes damage to pitch at Parc des Princes.",
-        "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
+        "title": "Myanmar military chief visits Bangkok as diplomatic offensive continues",
+        "description": "After five years of isolation, Myanmar&#039;s post-coup leadership is trying to boost its legitmacy.",
+        "link": "https://www.aljazeera.com/news/2026/8/20/myanmar-military-chief-visits-bangkok-as-diplomatic-offensive-continues?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -524,30 +548,6 @@
         "title": "South Africa's ANC faces voter backlash",
         "description": "Anti-migrant violence, economic stagnation and corruption allegations are eroding support for South Africa's ruling ANC ahead of local elections in November, opening the door to new coalition possibilities.",
         "link": "https://www.dw.com/en/south-africa-s-anc-faces-voter-backlash/a-78430445?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 1,
-      "story": {
-        "title": "Ukraine: Several killed in 'massive' Russian strikes on Kyiv",
-        "description": "The strikes on the Ukrainian capital and its surrounding regions also injured dozens, damaged buildings and caused power cuts. In neighboring Poland, the military started preventive operations to protect its airspace.",
-        "link": "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
-      "count": 1,
-      "story": {
-        "title": "India news: US envoy's Kashmir remarks reignite Pakistan row",
-        "description": "US envoy Sergio Gor's remark calling Jammu and Kashmir an \"important part of India,\" triggering a diplomatic spat between Islamabad and New Delhi. DW has the latest.",
-        "link": "https://www.dw.com/en/india-news-us-envoy-s-kashmir-remarks-reignite-pakistan-row/live-78438645?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
