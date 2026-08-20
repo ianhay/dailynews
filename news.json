@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:32:59+00:00",
+  "generated_at": "2026-08-20T23:31:03+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -52,9 +52,9 @@
   ],
   "economy": [
     {
-      "title": "US national debt passes $40tn after doubling in a decade",
-      "description": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
-      "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+      "title": "Why the US economy is ringing alarm bells",
+      "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     },
     {
@@ -64,9 +64,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "I quit my £80,000 job to make ice cream - here's how",
-      "description": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
-      "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
+      "title": "US national debt passes $40tn after doubling in a decade",
+      "description": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+      "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 13,
       "story": {
         "title": "Missing teen hiker found dead in Australian bush after eight-day search",
         "description": "The state premier initially said Lily Hooper had been found alive before police confirmed her death.",
@@ -108,18 +108,6 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 7,
-      "story": {
-        "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-        "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
@@ -132,13 +120,37 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 6,
+      "story": {
+        "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+        "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 5,
+      "story": {
+        "title": "Assad officer extradited to Syria on war crimes charges for first time",
+        "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
       "count": 5,
       "story": {
         "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-        "description": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report.",
+        "description": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party.",
         "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -180,18 +192,6 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 4,
-      "story": {
-        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-        "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
@@ -204,14 +204,26 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 4,
       "story": {
-        "title": "Assad officer extradited to Syria on war crimes charges for first time",
-        "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+        "title": "India's Gen Z are driving up a mega boom in its beauty market",
+        "description": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom.",
+        "link": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 3,
+      "story": {
+        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+        "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+        "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -249,30 +261,6 @@
         "description": "Four members of an indigenous family are among the dead, witnesses said.",
         "link": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
-      "story": {
-        "title": "Four workers dead after being hit by train in Japan",
-        "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "India's Gen Z are driving up a mega boom in its beauty market",
-        "description": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom.",
-        "link": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -336,6 +324,18 @@
       }
     },
     {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "Four workers dead after being hit by train in Japan",
+        "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Congo",
       "lat": -4.04,
       "lon": 21.76,
@@ -344,18 +344,6 @@
         "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
         "description": "WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500.",
         "link": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "Could US sanctions destroy the International Criminal Court?",
-        "description": "Washington&#039;s new measures against the ICC have been widely condemned but welcomed by Israel.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -396,6 +384,18 @@
       }
     },
     {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "This Singaporean's cute cat guitar pickguards have found fans worldwide – even metalheads love them",
+        "description": "She started by painting the pickguard of an old bass guitar she bought on Carousell. Today, Julia Becker’s business ThreeStools has gone viral, attracted customers around the world and built up a two-month waitlist for c",
+        "link": "https://www.channelnewsasia.com/women/julia-becker-threestools-guitar-pickguards-6323201",
+        "source": "CNA"
+      }
+    },
+    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
@@ -432,18 +432,6 @@
       }
     },
     {
-      "name": "Shanghai",
-      "lat": 31.23,
-      "lon": 121.47,
-      "count": 1,
-      "story": {
-        "title": "Chinese robotics giant Unitree soars in stock market debut",
-        "description": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
-        "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Cuba",
       "lat": 21.52,
       "lon": -77.78,
@@ -464,6 +452,18 @@
         "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
         "description": "A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "Could US sanctions destroy the International Criminal Court?",
+        "description": "Washington&#039;s new measures against the ICC have been widely condemned but welcomed by Israel.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -492,15 +492,15 @@
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Jordan",
+      "lat": 30.59,
+      "lon": 36.24,
       "count": 1,
       "story": {
-        "title": "The road to el-Obeid, Sudan’s besieged city sheltering thousands",
-        "description": "Al Jazeera’s AlMigdad Alruhaid travelled along one of the main supply roads to Sudan’s besieged city of el-Obeid.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-road-to-el-obeid-sudans-besieged-city-sheltering-thousands?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Bugs bassist Jordan Brunoli approaching final months of life",
+        "description": "Bugs bassist Jordan Brunoli is focused on making the most of his life right now after being told by his doctor he only has a few months left to live.",
+        "link": "https://www.abc.net.au/news/2026-08-21/hack-jordan-brunoli-cancer-bugs-new-music/107057794",
+        "source": "ABC News AU"
       }
     },
     {
