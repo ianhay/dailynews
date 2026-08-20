@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T23:51:39+00:00",
+  "generated_at": "2026-08-20T01:37:06+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
@@ -22,35 +28,35 @@
       "description": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
       "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-      "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-      "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "australia": [
     {
       "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "description": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+      "description": "Australia's foreign minister says she will summon the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
       "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
       "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-      "description": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
+      "description": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
       "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "South Korea shortens war games with US, citing Washington request",
-      "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-      "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "US national debt passes $40tn after doubling in a decade",
       "description": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
@@ -62,12 +68,6 @@
       "description": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
       "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Inflation is heating up but don't expect another crisis",
-      "description": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months.",
-      "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 12,
+      "count": 13,
       "story": {
         "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
         "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
@@ -87,10 +87,22 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 11,
+      "count": 13,
       "story": {
         "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-        "description": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+        "description": "Australia's foreign minister says she will summon the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 9,
+      "story": {
+        "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+        "description": "Australia's foreign minister says she will summon the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
         "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -99,23 +111,11 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 8,
+      "count": 9,
       "story": {
-        "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
-        "description": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
-        "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 7,
-      "story": {
-        "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-        "description": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
-        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+        "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+        "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,22 +132,10 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 5,
-      "story": {
-        "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-        "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-        "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
         "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
@@ -156,26 +144,14 @@
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 4,
-      "story": {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
-      "count": 4,
+      "count": 5,
       "story": {
-        "title": "Three Sydney boys charged over alleged group sexual assault of 17yo girl",
-        "description": "A 17-year-old teenage girl was allegedly sexually assaulted by three boys of the same age in Sydney's south-west on the weekend.",
-        "link": "https://www.abc.net.au/news/2026-08-20/nsw-teens-charged-after-17yo-girl-sexually-assaulted-macarthur/107056924",
+        "title": "'Fair bit of anger across the whole AFLW' after Swans players allegation",
+        "description": "As the Sydney Swans AFLW side gear up for a historic double header, they have been put under an uncomfortable spotlight through no fault of their own.",
+        "link": "https://www.abc.net.au/news/2026-08-20/aflw-put-under-uncomfortable-spotlight-after-mens-players-saga/107054688",
         "source": "ABC News AU"
       }
     },
@@ -183,7 +159,7 @@
       "name": "Washington",
       "lat": 38.9,
       "lon": -77.03,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "South Korea shortens war games with US, citing Washington request",
         "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
@@ -216,6 +192,54 @@
       }
     },
     {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 3,
+      "story": {
+        "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+        "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+        "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 3,
+      "story": {
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 3,
+      "story": {
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
+        "description": "A SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
+        "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
@@ -225,30 +249,6 @@
         "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
         "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 3,
-      "story": {
-        "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
-        "description": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.",
-        "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 3,
-      "story": {
-        "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
-        "description": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.",
-        "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -288,18 +288,6 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 2,
-      "story": {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Croatia",
       "lat": 45.1,
       "lon": 15.2,
@@ -324,51 +312,27 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
       "count": 2,
       "story": {
-        "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
-        "description": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
-        "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 2,
-      "story": {
-        "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
-        "description": "A SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
-        "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 2,
-      "story": {
-        "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
-        "description": "Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
+        "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
+        "description": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
       "count": 2,
       "story": {
-        "title": "Images of suspected hitmen released after Melbourne gangland killing",
-        "description": "Police have released images of men torching a getaway vehicle after the fatal shooting of Melbourne man Athan Boursinos last year.",
-        "link": "https://www.abc.net.au/news/2026-08-20/police-release-cctv-athan-boursinos-murder/107056472",
-        "source": "ABC News AU"
+        "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
+        "description": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -396,26 +360,14 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 2,
-      "story": {
-        "title": "Could Pakistan's jailed ex-PM Imran Khan make a new deal?",
-        "description": "The imprisoned former prime minister of Pakistan could be moved to a hospital for medical treatment, ushering speculation over the possibility of new political negotiations.",
-        "link": "https://www.dw.com/en/could-pakistan-s-jailed-ex-pm-imran-khan-make-a-new-deal/a-78429070?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
       "count": 1,
       "story": {
-        "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-        "description": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
-        "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+        "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
+        "description": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
+        "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -456,6 +408,30 @@
       }
     },
     {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 1,
+      "story": {
+        "title": "Nigeria’s election campaign begins with Tinubu facing a reform test",
+        "description": "Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.",
+        "link": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+        "description": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Damascus",
       "lat": 33.5,
       "lon": 36.3,
@@ -480,14 +456,14 @@
       }
     },
     {
-      "name": "Chile",
-      "lat": -35.68,
-      "lon": -71.54,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 1,
       "story": {
-        "title": "Zambia opposition leader to challenge Hichilema election victory in court",
-        "description": "Opposition leader claims &#039;serious irregularities&#039; in the vote that handed President Hakainde Hichilema a second term.",
-        "link": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
+        "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
+        "description": "Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -504,6 +480,30 @@
       }
     },
     {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "Images of suspected hitmen released after Melbourne gangland killing",
+        "description": "Police have released images of men torching a getaway vehicle after the fatal shooting of Melbourne man Athan Boursinos last year.",
+        "link": "https://www.abc.net.au/news/2026-08-20/police-release-cctv-athan-boursinos-murder/107056472",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
+      "count": 1,
+      "story": {
+        "title": "Live: Israeli ambassador arrives after being called in by Wong over Frankcom IDF findings",
+        "description": "Israeli ambassador to Australia Hillel Newman has arrived at Parliament House in Canberra after being called in by Foreign Minister Penny Wong. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-08-20/federal-politics-live-blog-zomi-frankcom/107055724",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
@@ -512,6 +512,18 @@
         "title": "Amid extreme heat, water grows scarce around Berlin",
         "description": "Though the German state of Brandenburg that wraps around Berlin is getting drier, it is also home to thirsty industrial plants such as Tesla and Red Bull. Is there enough water to go around?",
         "link": "https://www.dw.com/en/amid-extreme-heat-water-grows-scarce-around-berlin/a-78428993?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "Could Pakistan's jailed ex-PM Imran Khan make a new deal?",
+        "description": "The imprisoned former prime minister of Pakistan could be moved to a hospital for medical treatment, ushering speculation over the possibility of new political negotiations.",
+        "link": "https://www.dw.com/en/could-pakistan-s-jailed-ex-pm-imran-khan-make-a-new-deal/a-78429070?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -537,18 +549,6 @@
         "description": "Soon after propelling Argentina to a second consecutive World Cup final, Lionel Messi has cast some doubt on his future. While retirement doesn't seem imminent, it still beckons for him and Cristiano Ronaldo.",
         "link": "https://www.dw.com/en/messi-retirement-hint-highlights-football-era-nearing-an-end/a-78415527?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Hong Kong",
-      "lat": 22.32,
-      "lon": 114.17,
-      "count": 1,
-      "story": {
-        "title": "Meet Hong Kong's Kinyan Lam, the LVMH Prize semi-finalist who's redefining slow fashion",
-        "description": "Kinyan Lam weaves tradition and nature into modern clothing that stands out for its raw quality and painstakingly handmade beauty.",
-        "link": "https://www.channelnewsasia.com/style-beauty/kinyan-lam-slow-fashion-lvmh-prize-6290871",
-        "source": "CNA"
       }
     }
   ]
