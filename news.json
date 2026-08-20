@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:32:13+00:00",
+  "generated_at": "2026-08-20T12:59:48+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,15 +32,15 @@
   ],
   "australia": [
     {
-      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
       "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
       "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+      "description": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -72,10 +72,22 @@
   ],
   "places": [
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 13,
+      "story": {
+        "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+        "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 12,
       "story": {
         "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
         "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
@@ -96,49 +108,13 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 11,
-      "story": {
-        "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-        "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 8,
-      "story": {
-        "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-        "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
       "count": 7,
       "story": {
-        "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-        "description": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
-        "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 6,
-      "story": {
         "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-        "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+        "description": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
         "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -156,6 +132,30 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 6,
+      "story": {
+        "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+        "description": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
+        "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 5,
+      "story": {
+        "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "description": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
+        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
@@ -164,18 +164,6 @@
         "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
         "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
         "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 5,
-      "story": {
-        "title": "Four workers dead after being hit by train in Japan",
-        "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -204,10 +192,70 @@
       }
     },
     {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 4,
+      "story": {
+        "title": "Four workers dead after being hit by train in Japan",
+        "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 3,
+      "story": {
+        "title": "Assad officer extradited to Syria on war crimes charges for first time",
+        "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 3,
+      "story": {
+        "title": "Bangladesh’s government under pressure as youth demand jobs",
+        "description": "Six months into Prime Minister Tariq Rahman’s term, Bangladesh faces an energy crisis and rising prices.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 3,
+      "story": {
+        "title": "PSG forced to move opening league match as heatwave in France damages pitch",
+        "description": "Paris Saint-Germain moves its opening league game to Rennes after heatwave causes damage to pitch at Parc des Princes.",
+        "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 3,
+      "story": {
+        "title": "North Korea fires missiles into sea as South Korea, US hold military drills",
+        "description": "The ballistic missile launch comes a day after US President Donald Trump said he would visit North Korean leader Kim Jong Un this year.",
+        "link": "https://www.abc.net.au/news/2026-08-20/north-korea-fires-missiles-as-us-holds-military-drills/107061138",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 3,
+      "count": 2,
       "story": {
         "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
         "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
@@ -219,48 +267,12 @@
       "name": "Lima",
       "lat": -12.05,
       "lon": -77.04,
-      "count": 3,
+      "count": 2,
       "story": {
         "title": "Giant whales move into Greenland waters as ice disappears",
         "description": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
         "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
-        "description": "A SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
-        "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 3,
-      "story": {
-        "title": "Carney asks for end to US alcohol ban, province leader says, as trade deal nears",
-        "description": "An agreement preventing a new wave of US tariffs is close and could include an end to Canada's boycott of US whiskey.",
-        "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 3,
-      "story": {
-        "title": "North Korea fires possible ballistic missiles toward sea",
-        "description": "The launch came hours after US President Trump announced plans to meet Kim Jong Un later this year.",
-        "link": "https://www.dw.com/en/north-korea-fires-possible-ballistic-missiles-toward-sea/a-78440280?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -288,39 +300,27 @@
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 2,
       "story": {
-        "title": "How Myanmar’s war drives the Rohingya crisis",
-        "description": "Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar’s civil war.",
-        "link": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Carney asks for end to US alcohol ban, province leader says, as trade deal nears",
+        "description": "An agreement preventing a new wave of US tariffs is close and could include an end to Canada's boycott of US whiskey.",
+        "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 2,
       "story": {
-        "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
-        "description": "The foreign minister says in an interview that Turkish military officials had visited the airbase as part of training.",
-        "link": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 2,
-      "story": {
-        "title": "Bangladesh holds presidential election in first contested vote in 35 years",
-        "description": "BNP&#039;s Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmad, nominee of Jamaat-led 11-party alliance.",
-        "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "India's Gen Z are driving up a mega boom in its beauty market",
+        "description": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom.",
+        "link": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -329,34 +329,10 @@
       "lon": 127.9,
       "count": 2,
       "story": {
-        "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
-        "description": "Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.",
-        "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
+        "title": "Alarms blare in South Korea during annual air raid defence drill",
+        "description": "South Korea has held a nationwide drill simulating an air raid to coincide with joint military exercises with the US.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 2,
-      "story": {
-        "title": "New exclusion zones for adult entertainment venues in Adelaide's CBD",
-        "description": "New adult entertainment services including sex shops will be banned from operating in prominent locations across the Adelaide CBD and North Adelaide, but existing venues will be able to remain.",
-        "link": "https://www.abc.net.au/news/2026-08-20/exclusion-zones-for-new-adult-businesses/107058354",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 2,
-      "story": {
-        "title": "ICC slams US sanctions on court as 'flagrant attack'",
-        "description": "US President Donald Trump's administration has ramped up its pressure on the International Criminal Court (ICC), accusing it of being \"politicized.\" The EU, France, Germany, Spain and Japan have defended the court.",
-        "link": "https://www.dw.com/en/icc-slams-us-sanctions-on-court-as-flagrant-attack/a-78437476?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -377,22 +353,22 @@
       "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "Singapore police say they are looking into iron ore trader Radiant World",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/singapore/singapore-police-say-they-are-looking-iron-ore-trader-radiant-world-6330141",
+        "title": "S$54,000 raised for rower Joan Poh’s World Champs bid; funding remains hurdle for Singapore athletes",
+        "description": "Sports observers say funding constraints and the challenge of balancing sport with careers remain major obstacles for athletes competing at the highest level.",
+        "link": "https://www.channelnewsasia.com/singapore/sport-rowing-world-championships-joan-poh-olympian-team-singapore-athletes-funding-6330526",
         "source": "CNA"
       }
     },
     {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 2,
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 1,
       "story": {
-        "title": "China charges 17 members of Myanmar-based human trafficking ring targeting Chinese citizens",
-        "description": "Chinese actor Wang Xing, whose disappearance near the Thailand-Myanmar border made headlines last year, was among the syndicate’s victims, according to Chinese news outlets.",
-        "link": "https://www.channelnewsasia.com/east-asia/china-myanmar-human-trafficking-ring-17-charged-6330601",
-        "source": "CNA"
+        "title": "Assad officer extradited to Syria on war crimes charges for first time",
+        "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -444,6 +420,30 @@
       }
     },
     {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 1,
+      "story": {
+        "title": "PSG forced to move opening league match as heatwave in France damages pitch",
+        "description": "Paris Saint-Germain moves its opening league game to Rennes after heatwave causes damage to pitch at Parc des Princes.",
+        "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
+      "count": 1,
+      "story": {
+        "title": "How Myanmar’s war drives the Rohingya crisis",
+        "description": "Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar’s civil war.",
+        "link": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Sudan",
       "lat": 12.86,
       "lon": 30.22,
@@ -456,38 +456,26 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 1,
-      "story": {
-        "title": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
-        "description": "Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Seoul",
-      "lat": 37.57,
-      "lon": 126.98,
-      "count": 1,
-      "story": {
-        "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
-        "description": "Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.",
-        "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Live: Third Panther sin-binned as Storm threaten remarkable comeback",
-        "description": "The Penrith Panthers are trying to bounce back from back-to-back losses as they take on the Melbourne Storm in Ivan Cleary's milestone 500th game as a coach. Follow live.",
+        "title": "Storm's finals dream over as Penrith holds on despite triple sin-binning",
+        "description": "The Penrith Panthers hold on to beat the Melbourne Storm 22-14 and end their faint mathematical hopes of making the NRL finals.",
         "link": "https://www.abc.net.au/news/2026-08-20/nrl-live-melbourne-storm-penrith-panthers/107060788",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 1,
+      "story": {
+        "title": "New exclusion zones for adult entertainment venues in Adelaide's CBD",
+        "description": "New adult entertainment services including sex shops will be banned from operating in prominent locations across the Adelaide CBD and North Adelaide, but existing venues will be able to remain.",
+        "link": "https://www.abc.net.au/news/2026-08-20/exclusion-zones-for-new-adult-businesses/107058354",
         "source": "ABC News AU"
       }
     },
@@ -548,6 +536,18 @@
         "title": "India news: US envoy's Kashmir remarks reignite Pakistan row",
         "description": "US envoy Sergio Gor's remark calling Jammu and Kashmir an \"important part of India,\" triggering a diplomatic spat between Islamabad and New Delhi. DW has the latest.",
         "link": "https://www.dw.com/en/india-news-us-envoy-s-kashmir-remarks-reignite-pakistan-row/live-78438645?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Ceuta: Madrid to transfer 500 vulnerable youths to mainland",
+        "description": "Spanish officials have come up with a plan to transfer unaccompanied youth in the exclave Ceuta to mainland Spain. Mostly girls, they will be placed in foster homes as well as under government care.",
+        "link": "https://www.dw.com/en/ceuta-madrid-to-transfer-500-vulnerable-youths-to-mainland/a-78437405?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
