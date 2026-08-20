@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:59:43+00:00",
+  "generated_at": "2026-08-20T07:51:23+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,9 +32,9 @@
   ],
   "australia": [
     {
-      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -44,9 +44,9 @@
       "source": "BBC News"
     },
     {
-      "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,10 +72,10 @@
   ],
   "places": [
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 15,
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 12,
       "story": {
         "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
         "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
@@ -84,10 +84,10 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 15,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 11,
       "story": {
         "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
         "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
@@ -99,7 +99,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "Trump vows tougher economic measures on Iran and supporting countries",
         "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
@@ -108,10 +108,22 @@
       }
     },
     {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 8,
+      "story": {
+        "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
         "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
@@ -120,14 +132,14 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 7,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 6,
       "story": {
-        "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
-        "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+        "title": "Four workers dead after being hit by train in Japan",
+        "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -141,6 +153,18 @@
         "description": "US President Donald Trump's administration has ramped up its pressure on the International Criminal Court (ICC), accusing it of being \"politicized.\" The EU, France, Germany, Spain and Japan have defended the court.",
         "link": "https://www.dw.com/en/icc-slams-us-sanctions-on-court-as-flagrant-attack/a-78437476?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 5,
+      "story": {
+        "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+        "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+        "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -168,87 +192,63 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 5,
-      "story": {
-        "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
-        "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
-        "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
       "count": 4,
       "story": {
-        "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
         "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
         "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 4,
       "story": {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
+        "description": "A SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
+        "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 4,
-      "story": {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 3,
-      "story": {
-        "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-        "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-        "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 3,
-      "story": {
-        "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
-        "description": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Sex crimes detectives told of drug use in Sydney Swans hotel room",
+        "description": "Detectives investigating a sexual assault scandal engulfing the Sydney Swans have been told some players paid female adult entertainers to consume drugs off their bodies.",
+        "link": "https://www.abc.net.au/news/2026-08-20/sydney-swans-players-police-told-of-drug-use-in-hotel/107059156",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
       "count": 3,
       "story": {
-        "title": "Royal commission witness in tense exchange over 'legitimate state' claims",
-        "description": "The witness, a Sydney researcher, questioned Israel's right to exist and was quizzed on her views comparing zionism to violent extremism.",
-        "link": "https://www.abc.net.au/news/2026-08-20/bondi-royal-commission-antisemitism-rita-jabri-markwell-/107059294",
-        "source": "ABC News AU"
+        "title": "Bangladesh holds presidential election in first contested vote in 35 years",
+        "description": "BNP&#039;s Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmed, nominee of Jamaat-led 11-party alliance.",
+        "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 3,
+      "story": {
+        "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+        "description": "Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.",
+        "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -257,10 +257,22 @@
       "lon": 103.82,
       "count": 3,
       "story": {
-        "title": "New Mofusand and Starbucks Singapore merchandise launching on Aug 25",
-        "description": "The Singapore-exclusive merchandise includes cat wristlets, plush keychains, drinkware and blind box keychains.",
-        "link": "https://www.channelnewsasia.com/dining/mofusand-starbucks-singapore-new-merchandise-6330396",
+        "title": "Singapore and India discuss bilateral cooperation on semiconductors, food security at ministerial meeting",
+        "description": "The two countries signed Memorandums of Understanding on food safety and maritime heritage at the fourth India-Singapore Ministerial Roundtable held in Singapore.",
+        "link": "https://www.channelnewsasia.com/singapore/india-singapore-semiconductors-food-safety-6330246",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "Tokyo",
+      "lat": 35.68,
+      "lon": 139.77,
+      "count": 2,
+      "story": {
+        "title": "Four workers dead after being hit by train in Japan",
+        "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -308,43 +320,7 @@
         "title": "Canada and US say they are finalising a trade deal",
         "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
         "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 2,
-      "story": {
-        "title": "India's Gen Z are driving up a mega boom in its beauty market",
-        "description": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom.",
-        "link": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 2,
-      "story": {
-        "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
-        "description": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.",
-        "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -360,18 +336,6 @@
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 2,
-      "story": {
-        "title": "Woman sexually assaulted by stranger while walking on Brisbane street",
-        "description": "Investigators are appealing for information after a woman was sexually assaulted by a stranger in Brisbane this morning.",
-        "link": "https://www.abc.net.au/news/2026-08-20/qld-sexual-assault-appeal-brookfield/107059766",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "London",
       "lat": 51.5,
       "lon": -0.12,
@@ -381,30 +345,6 @@
         "description": "While a move to London now brings Meghan and Harry in closer proximity to the royal family, it does not solve the Windsor's complicated dynamics or the deep rift between two brothers.",
         "link": "https://www.abc.net.au/news/2026-08-20/harry-and-meghan-self-imposed-exile-is-over/107056780",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 2,
-      "story": {
-        "title": "Four people requiring medical treatment after Perth hospital ICU fire",
-        "description": "Four people have required medical treatment after a fire broke out in the intensive care unit of Fiona Stanley Hospital.",
-        "link": "https://www.abc.net.au/news/2026-08-20/fire-at-icu-in-perth-s-fiona-stanley-hospital-forces-evacuation/107058760",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 2,
-      "story": {
-        "title": "Bangladesh lawmakers set to elect Alamgir president",
-        "description": "With the ruling party holding more than a two-thirds majority in parliament, the veteran BNP politician is expected to secure the largely ceremonial presidency.",
-        "link": "https://www.dw.com/en/bangladesh-lawmakers-set-to-elect-alamgir-president/a-78438534?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -429,6 +369,18 @@
         "description": "US President Donald Trump's administration has ramped up its pressure on the International Criminal Court (ICC), accusing it of being \"politicized.\" The EU, France, Germany, Spain and Japan have defended the court.",
         "link": "https://www.dw.com/en/icc-slams-us-sanctions-on-court-as-flagrant-attack/a-78437476?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 2,
+      "story": {
+        "title": "South Korea estimates North Korea has up to 120 nuclear warheads, far above Trump's figure",
+        "description": "Defence Minister Ahn Gyu-back told lawmakers that North Korea was generally believed to have around 80 to 120 warheads, after US President Donald Trump commented a day earlier that Pyongyang possessed 57 \"very powerful n",
+        "link": "https://www.channelnewsasia.com/east-asia/north-korea-south-120-nuclear-warheads-trump-6330321",
+        "source": "CNA"
       }
     },
     {
@@ -468,30 +420,6 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "'I was born in South Africa', says beauty queen facing legal bid to deport her",
-        "description": "Chidimma Adetshina is challenging efforts to have her deported from South Africa, which she says is her home.",
-        "link": "https://www.bbc.co.uk/news/articles/cj364xxr5ngo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
-      "count": 1,
-      "story": {
-        "title": "Trump administration can target Ethiopians for deportation",
-        "description": "Judge Brian Murphy cleared the way for the Trump administration to cancel Temporary Protected Status for Ethiopians living in the US.",
-        "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Shanghai",
       "lat": 31.23,
       "lon": 121.47,
@@ -501,6 +429,18 @@
         "description": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
         "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 1,
+      "story": {
+        "title": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
+        "description": "UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.",
+        "link": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -528,6 +468,42 @@
       }
     },
     {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "Iran war live: Tehran says Trump’s ‘crushing economic’ measures will fail",
+        "description": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Iran war live: Tehran says Trump’s ‘crushing economic’ measures will fail",
+        "description": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 1,
+      "story": {
+        "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
+        "description": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.",
+        "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Damascus",
       "lat": 33.5,
       "lon": 36.3,
@@ -549,6 +525,30 @@
         "description": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.",
         "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 1,
+      "story": {
+        "title": "Woman sexually assaulted by stranger while walking on Brisbane street",
+        "description": "Investigators are appealing for information after a woman was sexually assaulted by a stranger in Brisbane this morning.",
+        "link": "https://www.abc.net.au/news/2026-08-20/qld-sexual-assault-appeal-brookfield/107059766",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
+      "count": 1,
+      "story": {
+        "title": "Four people requiring medical treatment after Perth hospital ICU fire",
+        "description": "Four people have required medical treatment after a fire broke out in the intensive care unit of Fiona Stanley Hospital.",
+        "link": "https://www.abc.net.au/news/2026-08-20/fire-at-icu-in-perth-s-fiona-stanley-hospital-forces-evacuation/107058760",
+        "source": "ABC News AU"
       }
     }
   ]
