@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:58:58+00:00",
+  "generated_at": "2026-08-21T11:35:09+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,13 +24,19 @@
       "source": "BBC News"
     },
     {
-      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-      "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-      "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "Trump vows tougher economic measures on Iran and supporting countries",
+      "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
+    {
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
       "description": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
@@ -41,12 +47,6 @@
       "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
       "description": "The collection documents key moments in Gandhi’s freedom movement as well as his personal relationship with close aide.",
       "link": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Australian hiker's body recovered as officials apologise for misreporting she was alive",
-      "description": "The body of Lily Hooper, 18, has been airlifted from a national park in the Southern Highlands following an eight-day search.",
-      "link": "https://www.bbc.co.uk/news/articles/c0rdk5kg4r4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -99,11 +99,23 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "How much could Trump's 'economic D-Day' hurt Iran?",
         "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
         "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 5,
+      "story": {
+        "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+        "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,18 +132,6 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
-      "story": {
-        "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
-        "description": "The collection documents key moments in Gandhi’s freedom movement as well as his personal relationship with close aide.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Hong Kong",
       "lat": 22.32,
       "lon": 114.17,
@@ -144,15 +144,15 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 4,
       "story": {
-        "title": "Australia charges man for passing Ukrainian military intel to Russia",
-        "description": "Police allege Australian-Russian citizen joined Ukrainian military seeking to send information to Russian intelligence.",
-        "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
+        "description": "The collection documents key moments in Gandhi’s freedom movement as well as his personal relationship with close aide.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -204,18 +204,6 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
-      "story": {
-        "title": "Japan executes man who killed five in Pachinko parlour fire",
-        "description": "This is the first time since June 2025 that the country has enacted capital punishment.",
-        "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Thailand",
       "lat": 15.87,
       "lon": 100.99,
@@ -237,6 +225,42 @@
         "description": "With the battle for third spot coming down to percentage, Brisbane Lions will have to put their foot down against Collingwood to get a big break over rivals Hawthorn. Follow live.",
         "link": "https://www.abc.net.au/news/2026-08-21/afl-rd-24-live-magpies-lions/107063430",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Singapore government beta testing new chatbot to make official information more accessible",
+        "description": "The chatbot is not a replacement for helplines or for officers who speak with members of the public, said GovTech Singapore and the&nbsp;Public Service Division.",
+        "link": "https://www.channelnewsasia.com/singapore/ai-chatbot-government-information-6333261",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 2,
+      "story": {
+        "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+        "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "Japan executes man who killed five in Pachinko parlour fire",
+        "description": "This is the first time since June 2025 that the country has enacted capital punishment.",
+        "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -342,21 +366,9 @@
       "count": 2,
       "story": {
         "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
-        "description": "As Donald Trump claims a meeting is planned with Kim Jong Un, North Korea's response sends a signal it wants maximum concessions in return for talks with the US.",
+        "description": "As Donald Trump claims a meeting is planned with Kim Jong Un, North Korea's response sends a signal that it wants maximum concessions in return for talks with the US.",
         "link": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Singaporean man, 56, jailed 14 days and fined US$1,733 for insulting Islam in Johor",
-        "description": "In a video that went viral, Mohamed Anim Atam was recorded by an e-hailing driver making remarks about the Quran while travelling in Johor Bahru.",
-        "link": "https://www.channelnewsasia.com/asia/malaysia-johor-bahru-singaporean-jailed-insulting-islam-quran-6333141",
-        "source": "CNA"
       }
     },
     {
@@ -377,10 +389,10 @@
       "lon": 31.0,
       "count": 1,
       "story": {
-        "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-        "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-        "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Russia ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
+        "description": "Deputy Foreign Minister Sergey Ryabkov suggests Moscow is eager for the US to revive its support for Russian agenda.",
+        "link": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -480,42 +492,6 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Iran war live: Tehran says planned US sanctions threaten global economy",
-        "description": "Iran says Washington&#039;s warning of an &#039;economic D-Day&#039; threatens the entire global economy.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
-      "story": {
-        "title": "Iran war live: Tehran says planned US sanctions threaten global economy",
-        "description": "Iran says Washington&#039;s warning of an &#039;economic D-Day&#039; threatens the entire global economy.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-        "description": "Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.",
-        "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Canberra",
       "lat": -35.28,
       "lon": 149.13,
@@ -525,6 +501,18 @@
         "description": "Brisbane mounts a stunning second-half fightback to deny Josh Papali'i a win in his final game at Canberra Stadium. Follow live.",
         "link": "https://www.abc.net.au/news/2026-08-21/nrl-live-raiders-broncos-dolphins-eels/107065550",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 1,
+      "story": {
+        "title": "DRC Ebola outbreak 'growing exponentially,' UN says",
+        "description": "The Ebola outbreak in the DRC is rapidly spreading in an area \"bigger than France,\" according to a senior UN official. The WHO is providing the country with thousands of vaccine doses in a bid to contain the virus.",
+        "link": "https://www.dw.com/en/drc-ebola-outbreak-growing-exponentially-un-says/a-78457248?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -548,6 +536,18 @@
         "title": "Ronaldinho to make football comeback aged 46",
         "description": "More than a decade after his last professional appearance, Brazilian superstar Ronaldinho is set for a comeback. The former world player of the year is to play in Italy’s third tier.",
         "link": "https://www.dw.com/en/ronaldinho-to-make-football-comeback-aged-46/a-78453950?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 1,
+      "story": {
+        "title": "Why is Israel's military presence growing in Syria?",
+        "description": "The recent Israeli attack on a Syrian airbase is just one of many Israeli incursions into Syria. In southern Syria, locals say Israeli troops have detained them, destroyed infrastructure and set up military bases.",
+        "link": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
