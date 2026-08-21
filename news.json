@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:29:24+00:00",
+  "generated_at": "2026-08-21T23:53:36+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -87,7 +87,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 12,
+      "count": 11,
       "story": {
         "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
@@ -99,7 +99,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 11,
+      "count": 10,
       "story": {
         "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
         "description": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
@@ -132,18 +132,6 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 6,
-      "story": {
-        "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-        "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-        "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
@@ -168,6 +156,18 @@
       }
     },
     {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 5,
+      "story": {
+        "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
+        "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
+        "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
@@ -176,6 +176,30 @@
         "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
         "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 4,
+      "story": {
+        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+        "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+        "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
+        "description": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
+        "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -204,18 +228,6 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 3,
-      "story": {
-        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-        "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-        "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
@@ -228,22 +240,10 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
-        "description": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
-        "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
         "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
@@ -473,7 +473,7 @@
       "lon": 90.36,
       "count": 1,
       "story": {
-        "title": "Live: History looms in Mackay as Australia looks for response against Bangladesh",
+        "title": "Live: Australia wins the toss, bowls first as it looks for response against Bangladesh",
         "description": "Mackay's Harrup Park becomes the 12th Australian venue to host a Test match, with Australia desperate for an improved performance in the second and final Test against Bangladesh. Follow live.",
         "link": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-live-updates-second-test-day-one/107063906",
         "source": "ABC News AU"
