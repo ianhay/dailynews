@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:34:17+00:00",
+  "generated_at": "2026-08-21T18:44:08+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,15 +32,15 @@
   ],
   "australia": [
     {
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
       "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
       "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+      "description": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
+      "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 16,
       "story": {
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
@@ -87,7 +87,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 11,
+      "count": 12,
       "story": {
         "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
@@ -99,11 +99,11 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 11,
       "story": {
-        "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-        "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+        "title": "Russian double-tap drone strike kills 14 in Ukrainian mall, officials say",
+        "description": "Another 121 people, including 22 children, were injured when the shopping centre was hit, according to the regional head.",
+        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,7 +111,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "How much could Trump's 'economic D-Day' hurt Iran?",
         "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
@@ -135,7 +135,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home",
         "description": "Shakhtar have not played at home since 2014 when Russia annexed the Donetsk region and now switch to Stamford Bridge.",
@@ -156,26 +156,38 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 4,
-      "story": {
-        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-        "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-        "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
         "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
+        "description": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
+        "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 3,
+      "story": {
+        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+        "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+        "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,6 +204,18 @@
       }
     },
     {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 3,
+      "story": {
+        "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+        "description": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
+        "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -200,30 +224,6 @@
         "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
         "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
         "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 3,
-      "story": {
-        "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
-        "description": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe.",
-        "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
-        "description": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
-        "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -245,46 +245,10 @@
       "lon": 18.64,
       "count": 3,
       "story": {
-        "title": "Several people injured in sword attack at school in Sweden",
+        "title": "At least three injured in sword attack at school in Sweden",
         "description": "One person has been taken into custody after the attack at a high school in Fagersta, local authorities said.",
         "link": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 3,
-      "story": {
-        "title": "McKenna, Morris magic lifts Lions to vital big win over Pies",
-        "description": "Brisbane Lions put the foot down against Collingwood, with magic from Conor McKenna and Logan Morris seeing the premiers take a strong grip on third spot.",
-        "link": "https://www.abc.net.au/news/2026-08-21/afl-rd-24-live-magpies-lions/107063430",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 2,
-      "story": {
-        "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-        "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Hong Kong",
-      "lat": 22.32,
-      "lon": 114.17,
-      "count": 2,
-      "story": {
-        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-        "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-        "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -300,15 +264,15 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 2,
       "story": {
-        "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-        "description": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+        "description": "Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?",
+        "link": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -360,6 +324,18 @@
       }
     },
     {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 2,
+      "story": {
+        "title": "McKenna, Morris magic lifts Lions to vital big win over Pies",
+        "description": "Brisbane Lions put the foot down against Collingwood, with magic from Conor McKenna and Logan Morris seeing the premiers take a strong grip on third spot.",
+        "link": "https://www.abc.net.au/news/2026-08-21/afl-rd-24-live-magpies-lions/107063430",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
@@ -381,6 +357,18 @@
         "description": "As Donald Trump claims a meeting is planned with Kim Jong Un, North Korea's response sends a signal that it wants maximum concessions in return for talks with the US.",
         "link": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Hong Kong",
+      "lat": 22.32,
+      "lon": 114.17,
+      "count": 1,
+      "story": {
+        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+        "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+        "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -408,27 +396,63 @@
       }
     },
     {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 1,
+      "story": {
+        "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
+        "description": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe.",
+        "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 1,
+      "story": {
+        "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+        "description": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Nigeria",
       "lat": 9.1,
       "lon": 8.7,
       "count": 1,
       "story": {
-        "title": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
-        "description": "The overloaded boat was taking people, including many children, to farms to harvest rice.",
-        "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+        "title": "Why Nigeria's one-time political giant may face extinction",
+        "description": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
+        "link": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
       "count": 1,
       "story": {
-        "title": "Japan executes man who killed five in Pachinko parlour fire",
-        "description": "This is the first time since June 2025 that the country has enacted capital punishment.",
-        "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Fishermen rescued after five days adrift in cool box",
+        "description": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
+        "link": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Bulgaria",
+      "lat": 42.73,
+      "lon": 25.49,
+      "count": 1,
+      "story": {
+        "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+        "description": "Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?",
+        "link": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -456,18 +480,6 @@
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 1,
-      "story": {
-        "title": "China rejects US claim that Myanmar analyst wrongfully detained",
-        "description": "Min Zin was arrested on June 3 after the Chinese government invited him to attend a conference.",
-        "link": "https://www.aljazeera.com/news/2026/8/21/china-rejects-us-claim-that-myanmar-analyst-wrongfully-detained?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Canberra",
       "lat": -35.28,
       "lon": 149.13,
@@ -489,30 +501,6 @@
         "description": "Australia have resisted the temptation to play four specialist fast bowlers against Bangladesh in the second Test in Mackay, as captain Pat Cummins confirmed Matt Renshaw would open the batting.",
         "link": "https://www.abc.net.au/news/2026-08-21/australia-names-team-for-second-test-against-bangladesh/107065120",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "Man, 47, charged with threatening to kill Pauline Hanson",
-        "description": "Anton Raymond Illich is accused of threatening the life of the One Nation leader by posting on social media he would \"hunt her down and kill her\", a Perth court has heard.",
-        "link": "https://www.abc.net.au/news/2026-08-21/man-charged-threatening-to-kill-one-nation-pauline-hanson/107064290",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
-      "story": {
-        "title": "Iran's president: Time to end war in 'position of strength'",
-        "description": "Iranian media cite Masoud Pezeshkian as saying it would be a good time to end the war with the US, \"as we are in a position of strength and dignity.\" He also said Tehran would never \"bow to intimidation.\"",
-        "link": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -548,6 +536,18 @@
         "title": "Why is Israel's military presence growing in Syria?",
         "description": "The recent Israeli attack on a Syrian airbase is just one of many Israeli incursions into Syria. In southern Syria, locals say Israeli troops have detained them, destroyed infrastructure and set up military bases.",
         "link": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 1,
+      "story": {
+        "title": "How Europe can better protect against extreme wildfires",
+        "description": "In another summer of European wildfires that have even seen wetlands burning, scientists say the situation is set to worsen in the future. What's needed is fire prevention and climate protection.",
+        "link": "https://www.dw.com/en/how-europe-can-better-protect-against-extreme-wildfires/a-78435243?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
