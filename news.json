@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T07:02:39+00:00",
+  "generated_at": "2026-08-21T08:06:55+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "How much could Trump's 'economic D-Day' hurt Iran?",
       "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
       "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
@@ -21,12 +27,6 @@
       "title": "US sanctions more Cuban companies and officials",
       "description": "An international socialist institute and Cuba's construction ministry are subject to the latest US sanctions, Marco Rubio announces.",
       "link": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
-      "description": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
-      "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -52,6 +52,12 @@
   ],
   "economy": [
     {
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "How much could Trump's 'economic D-Day' hurt Iran?",
       "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
       "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
@@ -62,12 +68,6 @@
       "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
       "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Walmart sales under strain as US shoppers pull back",
-      "description": "High gas prices and weaker pharmacy sales pushed Walmart's growth to its slowest pace in six years",
-      "link": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 17,
+      "count": 15,
       "story": {
         "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
         "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
@@ -87,23 +87,11 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 8,
+      "count": 11,
       "story": {
-        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-        "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 7,
-      "story": {
-        "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-        "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,6 +120,18 @@
       }
     },
     {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 6,
+      "story": {
+        "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+        "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
@@ -156,27 +156,15 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 5,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 4,
       "story": {
-        "title": "Assad officer extradited to Syria on war crimes charges for first time",
-        "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
-      "story": {
-        "title": "'This is a united club': Swans AFLW captain and coach speak to media",
-        "description": "Sydney Swans AFLW captain Lucy McEvoy says her players have had \"open conversations\" in the wake of the scandal that has engulfed the club and led to five men's players being suspended for the rest of the season.",
-        "link": "https://www.abc.net.au/news/2026-08-21/sydney-swans-aflw-addresss-media-amid-club-scandal/107063448",
-        "source": "ABC News AU"
       }
     },
     {
@@ -188,6 +176,30 @@
         "title": "Hong Kong's Tiananmen activists guilty in national security trial",
         "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
         "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 4,
+      "story": {
+        "title": "Assad officer extradited to Syria on war crimes charges for first time",
+        "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 3,
+      "story": {
+        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+        "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+        "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,15 +228,15 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 3,
       "story": {
-        "title": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
-        "description": "Amputee children in Gaza are learning to swim as part of a programme helping them rebuild confidence and mobility.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Fix schools, say India's 'cockroach' protesters. Schoolchildren agree",
+        "description": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
+        "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -233,7 +245,7 @@
       "lon": 90.36,
       "count": 3,
       "story": {
-        "title": "Lyon retains spot as Australia opt against all-pace attack",
+        "title": "Australia names team for second Test against Bangladesh",
         "description": "Australia have resisted the temptation to play four specialist fast bowlers against Bangladesh in the second Test in Mackay, as captain Pat Cummins confirmed Matt Renshaw would open the batting.",
         "link": "https://www.abc.net.au/news/2026-08-21/australia-names-team-for-second-test-against-bangladesh/107065120",
         "source": "ABC News AU"
@@ -249,18 +261,6 @@
         "description": "In an email sent to YouTube Premium subscribers in Singapore, the video platform announced it will be raising prices for the service.",
         "link": "https://www.channelnewsasia.com/living/youtube-premium-singapore-price-increase-6332871",
         "source": "CNA"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 2,
-      "story": {
-        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-        "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -312,18 +312,6 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 2,
-      "story": {
-        "title": "Fix schools, say India's 'cockroach' protesters. Schoolchildren agree",
-        "description": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
-        "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Afghanistan",
       "lat": 33.9,
       "lon": 67.7,
@@ -348,18 +336,6 @@
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 2,
-      "story": {
-        "title": "Community pantry dobbed in to council for being on public kerbside",
-        "description": "A neighbourhood pantry that provides free food to struggling families has been reported to the Brisbane City Council for being on a public kerbside.",
-        "link": "https://www.abc.net.au/news/2026-08-21/food-pantry-dobbed-in-to-brisbane-council/107054698",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Perth",
       "lat": -31.95,
       "lon": 115.86,
@@ -368,6 +344,18 @@
         "title": "Man, 47, charged with threatening to kill Pauline Hanson",
         "description": "Anton Raymond Illich is accused of threatening the life of the One Nation leader by posting on social media he would \"hunt her down and kill her\", a Perth court has heard.",
         "link": "https://www.abc.net.au/news/2026-08-21/man-charged-threatening-to-kill-one-nation-pauline-hanson/107064290",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 2,
+      "story": {
+        "title": "'This is a united club': Swans AFLW captain and coach speak to media",
+        "description": "Sydney Swans AFLW captain Lucy McEvoy says her players have had \"open conversations\" in the wake of the scandal that has engulfed the club and led to five men's players being suspended for the rest of the season.",
+        "link": "https://www.abc.net.au/news/2026-08-21/sydney-swans-aflw-addresss-media-amid-club-scandal/107063448",
         "source": "ABC News AU"
       }
     },
@@ -384,9 +372,9 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
         "title": "Germany condemns Israeli minister's Gaza 'killings' remarks",
@@ -548,6 +536,18 @@
         "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
         "description": "A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tokyo",
+      "lat": 35.68,
+      "lon": 139.77,
+      "count": 1,
+      "story": {
+        "title": "Four railway workers killed by express train at station in Japan",
+        "description": "Four railway workers spraying herbicide on tracks north of Tokyo were killed by an express train.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss",
         "source": "Al Jazeera"
       }
     }
