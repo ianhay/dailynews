@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T21:55:07+00:00",
+  "generated_at": "2026-08-21T22:30:43+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 18,
+      "count": 16,
       "story": {
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
@@ -192,6 +192,30 @@
       }
     },
     {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "History made as Tasmanian red wins top gong at prestigious wine show",
+        "description": "The winner of the prestigious Sydney Royal Wine Show is a red with an unusual origin.",
+        "link": "https://www.abc.net.au/news/rural/2026-08-22/sydney-royal-wine-show-marks-200-years/106965776",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 4,
+      "story": {
+        "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
+        "description": "As Donald Trump claims a meeting is planned with Kim Jong Un, North Korea's response sends a signal that it wants maximum concessions in return for talks with the US.",
+        "link": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
@@ -216,30 +240,6 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 3,
-      "story": {
-        "title": "Migrants clash with French police as they attempt to cross the Channel",
-        "description": "French border police clashed with migrants in northern France on Friday, as they intercepted a small boat.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 3,
-      "story": {
-        "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
-        "description": "As Donald Trump claims a meeting is planned with Kim Jong Un, North Korea's response sends a signal that it wants maximum concessions in return for talks with the US.",
-        "link": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -248,6 +248,18 @@
         "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
         "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
         "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 2,
+      "story": {
+        "title": "Watch: Fishermen rescued after five days adrift in cool box",
+        "description": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
+        "link": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,18 +288,6 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 2,
-      "story": {
-        "title": "Fiddler on the Roof features an usher turned actor in starring role",
-        "description": "Ellen Ebbs has made her main stage debut in Fiddler on the Roof at Theatre Royal Sydney, where she previously cleaned the stalls and made cocktails as an usher.",
-        "link": "https://www.abc.net.au/news/2026-08-22/ellen-ebbs-actor-fiddler-on-the-roof-usher-theatre-royal-sydney/107065114",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
@@ -296,6 +296,18 @@
         "title": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
         "description": "Ukraine has imposed sanctions on the hit Russian children's cartoon \"Masha and the Bear,\" a step towards banning it. The culture minister called the show propaganda. Russia said the move showed Kyiv's \"ugly nature.\"",
         "link": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 2,
+      "story": {
+        "title": "France issues warning over thousands of substandard condoms",
+        "description": "French anti-fraud and health agencies have issued a recall order for roughly 260,000 condoms. They advised users to consider sexually transmitted infection and pregnancy tests amid risks of bursting or perforations.",
+        "link": "https://www.dw.com/en/france-issues-warning-over-thousands-of-substandard-condoms/a-78462877?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -356,18 +368,6 @@
         "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
         "description": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
         "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
-      "count": 1,
-      "story": {
-        "title": "Watch: Fishermen rescued after five days adrift in cool box",
-        "description": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
-        "link": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -468,6 +468,18 @@
       }
     },
     {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 1,
+      "story": {
+        "title": "Argentina star hit with one of the biggest bans in World Cup history",
+        "description": "Argentina's Leandro Paredes is banned from playing for his country for 10 games after striking Spanish opponents after the final whistle in the World Cup final.",
+        "link": "https://www.abc.net.au/news/2026-08-22/fifa-hands-argentina-star-leando-paredes-10-match-ban/107066632",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Adelaide",
       "lat": -34.93,
       "lon": 138.6,
@@ -536,18 +548,6 @@
         "title": "German army helps Poland construct a defensive barrier against Russia",
         "description": "Poland is building a defense system along its northern and eastern borders to protect itself from Russia. Since June, German sappers have been assisting their NATO ally with the construction of the East Shield.",
         "link": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Ceuta: Spanish police arrest 5 alleged migrant traffickers",
-        "description": "The arrests come after Spain's North African exclave saw a deadly border surge in late July, when tens of thousands of migrants entered Ceuta.",
-        "link": "https://www.dw.com/en/ceuta-spanish-police-arrest-5-alleged-migrant-traffickers/a-78458143?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
