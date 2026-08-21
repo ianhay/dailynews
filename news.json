@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T20:31:29+00:00",
+  "generated_at": "2026-08-21T21:29:50+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,10 +24,10 @@
       "source": "BBC News"
     },
     {
-      "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
-      "description": "Premier Wab Kinew's comments signal a tough battle for Prime Minister Mark Carney to get buy-in from Canadians on a possible trade deal with the US.",
-      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
+      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
+      "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
+      "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
     }
   ],
   "australia": [
@@ -64,10 +64,10 @@
       "source": "BBC News"
     },
     {
-      "title": "Why the US economy is ringing alarm bells",
-      "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
+      "description": "Premier Wab Kinew's comments signal a tough battle for Prime Minister Mark Carney to get buy-in from Canadians on a possible trade deal with the US.",
+      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 18,
+      "count": 21,
       "story": {
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
@@ -84,22 +84,10 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 14,
-      "story": {
-        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-        "description": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
-        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 13,
+      "count": 15,
       "story": {
         "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
@@ -108,15 +96,27 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 8,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 11,
       "story": {
-        "title": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
-        "description": "A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing 14 people and injuring over 100",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+        "description": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 7,
+      "story": {
+        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+        "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -132,14 +132,14 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 6,
       "story": {
-        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-        "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -168,14 +168,14 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 5,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 6,
       "story": {
-        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
+        "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
+        "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,18 +216,6 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 3,
-      "story": {
-        "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-        "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
@@ -237,6 +225,30 @@
         "description": "French border police clashed with migrants in northern France on Friday, as they intercepted a small boat.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 3,
+      "story": {
+        "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
+        "description": "As Donald Trump claims a meeting is planned with Kim Jong Un, North Korea's response sends a signal that it wants maximum concessions in return for talks with the US.",
+        "link": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 2,
+      "story": {
+        "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+        "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -276,18 +288,6 @@
       }
     },
     {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 2,
-      "story": {
-        "title": "'Bittersweet': Vulnerable moment becomes national prize-winning photo",
-        "description": "Nathan Beard captured a private moment while visiting his beloved aunt in Thailand earlier this year. She died before he this week won the National Photographic Prize.",
-        "link": "https://www.abc.net.au/news/2026-08-21/melbourne-artist-wins-national-photographic-prize/107065054",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
@@ -308,18 +308,6 @@
         "title": "Germany investigates arms cache found in woods near Berlin",
         "description": "Handguns and ammunition were found in a forest near Berlin last year. German authorities suspect they were to be used for assassinations on behalf of Russian intelligence.",
         "link": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 2,
-      "story": {
-        "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
-        "description": "As Donald Trump claims a meeting is planned with Kim Jong Un, North Korea's response sends a signal that it wants maximum concessions in return for talks with the US.",
-        "link": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -372,42 +360,6 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
-        "description": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe.",
-        "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-        "description": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 1,
-      "story": {
-        "title": "Why Nigeria's one-time political giant may face extinction",
-        "description": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
-        "link": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Mexico",
       "lat": 23.6,
       "lon": -102.5,
@@ -417,6 +369,30 @@
         "description": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
         "link": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Tunis",
+      "lat": 36.81,
+      "lon": 10.18,
+      "count": 1,
+      "story": {
+        "title": "Tunisian protesters call for President Kais Saied to step down",
+        "description": "Hundreds of Tunisians took to the streets of the capital Tunis on Thursday, calling for president Kais Saied to leave.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tunisia",
+      "lat": 33.89,
+      "lon": 9.54,
+      "count": 1,
+      "story": {
+        "title": "Tunisian protesters call for President Kais Saied to step down",
+        "description": "Hundreds of Tunisians took to the streets of the capital Tunis on Thursday, calling for president Kais Saied to leave.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -492,15 +468,27 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "What to know about the Freedom 250 Grand Prix, Trump’s capital car race",
-        "description": "The president says the 147-lap race will be an event &#039;like no other&#039; as drivers zip through Washington, DC.",
-        "link": "https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Victorian premier vows to open 10 free dental clinics",
+        "description": "Ben Carroll vows to create seven free walk-in dental clinics in metropolitan Melbourne and three in regional Victoria if he wins the November election.",
+        "link": "https://www.abc.net.au/news/2026-08-22/victorian-government-promises-free-public-dental-clinics/107065478",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
+      "count": 1,
+      "story": {
+        "title": "Guilt and isolation: Genocide survivors on adjusting to life in Australia",
+        "description": "The Rohingya, a Muslim ethnic group, have lived in mainly Buddhist Myanmar for centuries, where they have suffered killings, forced evictions and other atrocities.",
+        "link": "https://www.abc.net.au/news/2026-08-22/rohingya-genocide-community-australia/107058060",
+        "source": "ABC News AU"
       }
     },
     {
@@ -510,20 +498,8 @@
       "count": 1,
       "story": {
         "title": "Israel's impunity has been virtually unaffected by collective concern",
-        "description": "Even the United States is now criticising Israel's ongoing settler violence in the West Bank as Benjamin Netanyahu, once the 'Trump whisperer', becomes the Trump ignorer.",
+        "description": "Even the United States is now criticising Israel's ongoing settler violence in the West Bank as Benjamin Netanyahu, once the \"Trump whisperer\", becomes the Trump ignorer.",
         "link": "https://www.abc.net.au/news/2026-08-22/israel-gaza-west-bank-zomi-frankcom-mike-huckabee-netanyahu/107058398",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "McKenna, Morris magic lifts Lions to vital big win over Pies",
-        "description": "Brisbane Lions put the foot down against Collingwood, with magic from Conor McKenna and Logan Morris seeing the premiers take a strong grip on third spot.",
-        "link": "https://www.abc.net.au/news/2026-08-21/afl-rd-24-live-magpies-lions/107063430",
         "source": "ABC News AU"
       }
     },
@@ -548,6 +524,30 @@
         "title": "German army helps Poland construct a defensive barrier against Russia",
         "description": "Poland is building a defense system along its northern and eastern borders to protect itself from Russia. Since June, German sappers have been assisting their NATO ally with the construction of the East Shield.",
         "link": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Ceuta: Spanish police arrest 5 alleged migrant traffickers",
+        "description": "The arrests come after Spain's North African exclave saw a deadly border surge in late July, when tens of thousands of migrants entered Ceuta.",
+        "link": "https://www.dw.com/en/ceuta-spanish-police-arrest-5-alleged-migrant-traffickers/a-78458143?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 1,
+      "story": {
+        "title": "Ronaldinho to make football comeback aged 46",
+        "description": "More than a decade after his last professional appearance, Brazilian superstar Ronaldinho is set for a comeback. The former world player of the year is to play in Italy’s third tier.",
+        "link": "https://www.dw.com/en/ronaldinho-to-make-football-comeback-aged-46/a-78453950?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
