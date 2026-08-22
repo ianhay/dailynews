@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T15:50:00+00:00",
+  "generated_at": "2026-08-22T16:30:40+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 17,
+      "count": 16,
       "story": {
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
@@ -87,7 +87,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 12,
+      "count": 15,
       "story": {
         "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
@@ -111,7 +111,7 @@
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
         "description": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
@@ -132,10 +132,22 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 6,
+      "story": {
+        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
         "description": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
@@ -147,23 +159,11 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "How much could Trump's 'economic D-Day' hurt Iran?",
         "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
         "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 5,
-      "story": {
-        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,18 +192,6 @@
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 4,
-      "story": {
-        "title": "Fourteen killed in strike on Myanmar monastery",
-        "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-        "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
@@ -228,6 +216,18 @@
       }
     },
     {
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
+      "count": 3,
+      "story": {
+        "title": "Fourteen killed in strike on Myanmar monastery",
+        "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+        "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -237,6 +237,18 @@
         "description": "Narendra Modi's new, more casual online persona is drawing attention from young Indians - but also plenty of scepticism.",
         "link": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
+        "description": "Designed to stop heatstroke in its tracks, the &quot;Do Hiemon Box&quot; delivers rapid, targeted cooling during extreme weather.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -312,26 +324,14 @@
       }
     },
     {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 2,
-      "story": {
-        "title": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
-        "description": "Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.",
-        "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
       "count": 2,
       "story": {
-        "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
-        "description": "Frances Tiafoe and Brandon Nakashima set up one all-American men&#039;s semifinal, Coco Gauff and Jessica Pegula also win.",
-        "link": "https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss",
+        "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
+        "description": "An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.",
+        "link": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -344,6 +344,18 @@
         "title": "Adelaide lacrosse community turns out to support girl, 5, with leukaemia",
         "description": "Support has poured in from across SA's lacrosse community for the family of a five-year-old girl diagnosed with acute myeloid leukaemia this week.",
         "link": "https://www.abc.net.au/news/2026-08-22/margot-whinnen-leukaemia-story/107067090",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 2,
+      "story": {
+        "title": "For years, one man spearheaded a Nigerian government agency that didn't exist",
+        "description": "The Nigerian government has opened investigations into two government agencies after they were both found to be fake.",
+        "link": "https://www.abc.net.au/news/2026-08-22/fake-government-agencies-nigeria-pfipc-adeniyi-adeyemi/107067044",
         "source": "ABC News AU"
       }
     },
@@ -369,18 +381,6 @@
         "description": "The Wallaroos' 100th Test match, and the Test debut of Australia's all-time leading rugby 7s try-scorer, has been soured by a dominant New Zealand performance in Auckland.",
         "link": "https://www.abc.net.au/news/2026-08-22/australia-wallaroos-new-zealand-black-ferns-test/107066896",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 2,
-      "story": {
-        "title": "North Korea says record-high Japan defence budget would risk 'turmoil'",
-        "description": "While not yet finalised, the move \"clearly signifies a dangerous expansion of the war budget that will bring new turmoil to the region and the world\", KCNA said.",
-        "link": "https://www.channelnewsasia.com/east-asia/north-korea-japan-record-high-budget-turmoil-6334851",
-        "source": "CNA"
       }
     },
     {
@@ -480,30 +480,6 @@
       }
     },
     {
-      "name": "Tripoli",
-      "lat": 32.89,
-      "lon": 13.19,
-      "count": 1,
-      "story": {
-        "title": "Libya’s brain drain, 15 years after Tripoli fell",
-        "description": "Professionals who left a country in turmoil say they are unlikely to return as more in Libya could be planning to leave.",
-        "link": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
-      "count": 1,
-      "story": {
-        "title": "Libya’s brain drain, 15 years after Tripoli fell",
-        "description": "Professionals who left a country in turmoil say they are unlikely to return as more in Libya could be planning to leave.",
-        "link": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "United States",
       "lat": 39.8,
       "lon": -98.5,
@@ -512,18 +488,6 @@
         "title": "US, Canada fail to reach tariff deal, deepen trade war",
         "description": "The United States and Canada have failed to reach a trade deal, and the US says it will impose 50 per cent tariffs on some imports from Canada.",
         "link": "https://www.abc.net.au/news/2026-08-22/us-imposes-tariffs-on-20-billion-worth-of-canadian-products/107067128",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 1,
-      "story": {
-        "title": "For years, one man spearheaded a Nigerian government agency that didn't exist",
-        "description": "The Nigerian government has opened investigations into two government agencies after they were both found to be fake.",
-        "link": "https://www.abc.net.au/news/2026-08-22/fake-government-agencies-nigeria-pfipc-adeniyi-adeyemi/107067044",
         "source": "ABC News AU"
       }
     },
@@ -548,6 +512,42 @@
         "title": "Small German airplane crashes in Croatia, killing 2",
         "description": "The two-seater motor glider went down in the Velebit mountains, near Zadar, killing both passengers.",
         "link": "https://www.dw.com/en/small-german-airplane-crashes-in-croatia-killing-2/a-78467649?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Mumbai",
+      "lat": 19.08,
+      "lon": 72.88,
+      "count": 1,
+      "story": {
+        "title": "India news: Gandhi's handwritten notes sold for $1.7 million at Mumbai auction",
+        "description": "A collection of notes written by Mahatma Gandhi has fetched the highest ever price for an Indian historical document in Mumbai. Meanwhile, a reported visit by Bangladesh's Tarique Rahman remains in doubt. DW has more.",
+        "link": "https://www.dw.com/en/india-news-gandhi-s-handwritten-notes-sold-for-1-7-million-at-mumbai-auction/live-78466889?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 1,
+      "story": {
+        "title": "India news: Gandhi's handwritten notes sold for $1.7 million at Mumbai auction",
+        "description": "A collection of notes written by Mahatma Gandhi has fetched the highest ever price for an Indian historical document in Mumbai. Meanwhile, a reported visit by Bangladesh's Tarique Rahman remains in doubt. DW has more.",
+        "link": "https://www.dw.com/en/india-news-gandhi-s-handwritten-notes-sold-for-1-7-million-at-mumbai-auction/live-78466889?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Sweden",
+      "lat": 60.13,
+      "lon": 18.64,
+      "count": 1,
+      "story": {
+        "title": "Sweden: One killed in school sword attack",
+        "description": "Police have said they have arrested an individual who stabbed several people, killing one person, with a sword at a high school in central Sweden.",
+        "link": "https://www.dw.com/en/sweden-one-killed-in-school-sword-attack/a-78460421?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
