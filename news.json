@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:53:36+00:00",
+  "generated_at": "2026-08-22T01:35:49+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,13 +24,19 @@
       "source": "BBC News"
     },
     {
-      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-      "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-      "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "Trump vows tougher economic measures on Iran and supporting countries",
+      "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
+    {
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
       "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
@@ -42,15 +48,15 @@
       "description": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
       "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
-      "description": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
-      "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+      "description": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
@@ -62,12 +68,6 @@
       "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
       "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
-      "description": "Premier Wab Kinew's comments signal a tough battle for Prime Minister Mark Carney to get buy-in from Canadians on a possible trade deal with the US.",
-      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 15,
+      "count": 17,
       "story": {
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
@@ -87,7 +87,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 11,
+      "count": 9,
       "story": {
         "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
@@ -99,11 +99,23 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
         "description": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
         "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 8,
+      "story": {
+        "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+        "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+        "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -113,9 +125,9 @@
       "lon": -106.3,
       "count": 6,
       "story": {
-        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-        "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+        "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+        "description": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+        "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,50 +144,26 @@
       }
     },
     {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 5,
+      "story": {
+        "title": "Third woman engages lawyer over 'incredibly traumatic' Sydney Swans scandal",
+        "description": "A lawyer representing a third woman involved in the Sydney Swans scandal says a potential civil lawsuit is being looked at.",
+        "link": "https://www.abc.net.au/news/2026-08-22/third-woman-legal-representation-civil-sydney-swans-scandal/107066742",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
         "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 5,
-      "story": {
-        "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-        "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-        "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
-      "story": {
-        "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-        "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-        "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 4,
-      "story": {
-        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -197,22 +185,10 @@
       "lon": 78.0,
       "count": 4,
       "story": {
-        "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
-        "description": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
-        "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
+        "title": "Modi spent years building his strong image - why is he making Gen Z reels now?",
+        "description": "Narendra Modi's new, more casual online persona is drawing attention from young Indians - but also plenty of scepticism.",
+        "link": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "Lions coach 'feels sorry' for Swans as likely finals clash looms",
-        "description": "Brisbane Lions coach Chris Fagan describes the Sydney Swans scandal as a \"head-scratcher\", with the two teams likely to meet in the AFL qualifying final.",
-        "link": "https://www.abc.net.au/news/2026-08-22/afl-brisbane-lions-coach-chris-fagan-feels-sorry-sydney-swans/107066662",
-        "source": "ABC News AU"
       }
     },
     {
@@ -228,10 +204,70 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 3,
+      "story": {
+        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 3,
+      "story": {
+        "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+        "description": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
+      "count": 3,
+      "story": {
+        "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
+        "description": "More than 100 people were in the monastery for a religious retreat, according to a local resident.",
+        "link": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 3,
+      "story": {
+        "title": "Live: Starc claims five wickets inside first hour during brilliant new ball spell in Mackay",
+        "description": "Mitch Starc tears through the Bangladesh top order with five wickets in just 22 balls to leave the tourists floundering on day one of the second Test. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-live-updates-second-test-day-one/107063906",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "The debate on traditional gender roles has taken a turn",
+        "description": "A new study suggests that a larger proportion of younger men in Singapore hold traditional views of masculinity than older generations. CNA TODAY looks into what is shaping these beliefs and what this means for men and w",
+        "link": "https://www.channelnewsasia.com/today/big-read/masculinity-traditional-norms-household-responsibilities-sexual-consent-6330311",
+        "source": "CNA"
+      }
+    },
+    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
-      "count": 3,
+      "count": 2,
       "story": {
         "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
         "description": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
@@ -240,14 +276,14 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 3,
+      "name": "Hong Kong",
+      "lat": 22.32,
+      "lon": 114.17,
+      "count": 2,
       "story": {
-        "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-        "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+        "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+        "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -264,14 +300,14 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
-        "description": "A Ghouta tunnel used during Assad’s siege is now a museum, 13 years after government forces’ deadly sarin gas attack.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
+        "title": "Iranian president says time to end war with US from ‘position of strength’",
+        "description": "Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.",
+        "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -312,30 +348,6 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "A dinner that's also a play at Michelin-starred Nouri, where chef Ivan Brehm turns actor as you eat",
-        "description": "Restaurant Nouri and Checkpoint Theatre have joined forces to create what is probably Singapore's first true fusion of fine dining and theatre. The 10-course, three-hour experience pairs each course with a chapter from c",
-        "link": "https://www.channelnewsasia.com/dining/nouri-ivan-brehm-checkpoint-theatre-6332646",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Hong Kong",
-      "lat": 22.32,
-      "lon": 114.17,
-      "count": 1,
-      "story": {
-        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-        "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-        "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Congo",
       "lat": -4.04,
       "lon": 21.76,
@@ -368,6 +380,18 @@
         "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
         "description": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
         "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+        "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -432,30 +456,6 @@
       }
     },
     {
-      "name": "Ankara",
-      "lat": 39.93,
-      "lon": 32.86,
-      "count": 1,
-      "story": {
-        "title": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
-        "description": "Netanyahu and Erdogan trade insults as Ankara seeks warrant for Israel&#039;s attacks on Global Sumud Flotilla activists.",
-        "link": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Espanyol vs Real Madrid: La Liga – prediction, lineups, teams",
-        "description": "Real Madrid kickoff their campaign at Espanyol in Barcelona as Jose Mourinho&#039;s targets winning La Liga return.",
-        "link": "https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
@@ -464,18 +464,6 @@
         "title": "Japan executes man convicted of killing five in pachinko fire",
         "description": "A man who killed five people by setting fire to a pachinko parlour in Osaka in 2009 has been hanged in Japan's first execution by Sanae Takaichi's government.",
         "link": "https://www.abc.net.au/news/2026-08-22/japan-executes-man-convicted-fire-pachinko-osaka/107066666",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 1,
-      "story": {
-        "title": "Live: Australia wins the toss, bowls first as it looks for response against Bangladesh",
-        "description": "Mackay's Harrup Park becomes the 12th Australian venue to host a Test match, with Australia desperate for an improved performance in the second and final Test against Bangladesh. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-live-updates-second-test-day-one/107063906",
         "source": "ABC News AU"
       }
     },
@@ -528,15 +516,15 @@
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
+      "name": "Ottawa",
+      "lat": 45.42,
+      "lon": -75.7,
       "count": 1,
       "story": {
-        "title": "Guilt and isolation: Genocide survivors on adjusting to life in Australia",
-        "description": "The Rohingya, a Muslim ethnic group, have lived in mainly Buddhist Myanmar for centuries, where they have suffered killings, forced evictions and other atrocities.",
-        "link": "https://www.abc.net.au/news/2026-08-22/rohingya-genocide-community-australia/107058060",
-        "source": "ABC News AU"
+        "title": "Canada says more work needed as US trade deal deadline looms",
+        "description": "Washington ‌and ​Ottawa are pushing to finalize an agreement before steep new US tariffs were due to kick in on Saturday. President Donald Trump has said the US \"should be able to have a deal with Canada.\"",
+        "link": "https://www.dw.com/en/canada-says-more-work-needed-as-us-trade-deal-deadline-looms/a-78466352?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -548,6 +536,18 @@
         "title": "Sweden: One killed in school sword attack",
         "description": "Police have said they have arrested an individual who stabbed several people, killing one person, with a sword at a high school in central Sweden.",
         "link": "https://www.dw.com/en/sweden-one-killed-in-school-sword-attack/a-78460421?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
+      "count": 1,
+      "story": {
+        "title": "German army helps Poland construct a defensive barrier against Russia",
+        "description": "Poland is building a defense system along its northern and eastern borders to protect itself from Russia. Since June, German sappers have been assisting their NATO ally with the construction of the East Shield.",
+        "link": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
