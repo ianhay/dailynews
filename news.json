@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:35:49+00:00",
+  "generated_at": "2026-08-22T02:59:14+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 17,
+      "count": 19,
       "story": {
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
@@ -87,7 +87,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 9,
+      "count": 10,
       "story": {
         "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
@@ -99,9 +99,9 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 10,
       "story": {
-        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+        "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
         "description": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
         "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
@@ -156,6 +156,18 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 4,
+      "story": {
+        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
@@ -192,6 +204,30 @@
       }
     },
     {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 4,
+      "story": {
+        "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+        "description": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 4,
+      "story": {
+        "title": "Live: Australia into the tail after Starc's five-wicket new ball spell",
+        "description": "Pat Cummins gets in on the act after Mitch Starc tore through the Bangladesh top order with five wickets in 22 balls, leaving the tourists floundering early on day one of the second Test. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-live-updates-second-test-day-one/107063906",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
@@ -201,54 +237,6 @@
         "description": "As Donald Trump claims a meeting is planned with Kim Jong Un, North Korea's response sends a signal that it wants maximum concessions in return for talks with the US.",
         "link": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 3,
-      "story": {
-        "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
-        "description": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 3,
-      "story": {
-        "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
-        "description": "More than 100 people were in the monastery for a religious retreat, according to a local resident.",
-        "link": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 3,
-      "story": {
-        "title": "Live: Starc claims five wickets inside first hour during brilliant new ball spell in Mackay",
-        "description": "Mitch Starc tears through the Bangladesh top order with five wickets in just 22 balls to leave the tourists floundering on day one of the second Test. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-live-updates-second-test-day-one/107063906",
-        "source": "ABC News AU"
       }
     },
     {
@@ -288,6 +276,18 @@
       }
     },
     {
+      "name": "Peru",
+      "lat": -9.19,
+      "lon": -75.02,
+      "count": 2,
+      "story": {
+        "title": "Peru earthquake damages buildings and causes power cuts",
+        "description": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says.",
+        "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Mexico",
       "lat": 23.6,
       "lon": -102.5,
@@ -309,6 +309,30 @@
         "description": "Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.",
         "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
+      "count": 2,
+      "story": {
+        "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
+        "description": "More than 100 people were in the monastery for a religious retreat, according to a local resident.",
+        "link": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 2,
+      "story": {
+        "title": "Family worried for man missing since Melbourne shooting",
+        "description": "The family of Khaled Malas, who has not been seen for several days, say they hold grave fears for his welfare.",
+        "link": "https://www.abc.net.au/news/2026-08-22/wildwood-shooting-missing-man-khaled-malas/107066842",
+        "source": "ABC News AU"
       }
     },
     {
@@ -356,18 +380,6 @@
         "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
         "description": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
         "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Peru",
-      "lat": -9.19,
-      "lon": -75.02,
-      "count": 1,
-      "story": {
-        "title": "Peru earthquake damages buildings and causes power cuts",
-        "description": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says.",
-        "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -432,27 +444,15 @@
       }
     },
     {
-      "name": "Tripoli",
-      "lat": 32.89,
-      "lon": 13.19,
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
       "count": 1,
       "story": {
-        "title": "Libya rivals test a new path towards unity, 15 years after Gadaffi downfall",
-        "description": "Fifteen years since Tripoli fell, Libyan parties are finally working towards unity.",
-        "link": "https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
-      "count": 1,
-      "story": {
-        "title": "Libya rivals test a new path towards unity, 15 years after Gadaffi downfall",
-        "description": "Fifteen years since Tripoli fell, Libyan parties are finally working towards unity.",
-        "link": "https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Live text: Wallaroos face Black Ferns in historic 100th Test",
+        "description": "Australia will play its historic 100th women's rugby union Test, facing New Zealand in Auckland.",
+        "link": "https://www.abc.net.au/news/2026-08-22/australia-wallaroos-new-zealand-black-ferns-test/107066896",
+        "source": "ABC News AU"
       }
     },
     {
@@ -504,18 +504,6 @@
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Victorians to access free dental clinics under latest election promise",
-        "description": "Ben Carroll vows to create seven free walk-in dental clinics in metropolitan Melbourne and three in regional Victoria if he wins the November election.",
-        "link": "https://www.abc.net.au/news/2026-08-22/victorian-government-promises-free-public-dental-clinics/107065478",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Ottawa",
       "lat": 45.42,
       "lon": -75.7,
@@ -548,6 +536,18 @@
         "title": "German army helps Poland construct a defensive barrier against Russia",
         "description": "Poland is building a defense system along its northern and eastern borders to protect itself from Russia. Since June, German sappers have been assisting their NATO ally with the construction of the East Shield.",
         "link": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Iran's president: Time to end war in 'position of strength'",
+        "description": "Iranian media cite Masoud Pezeshkian as saying it would be a good time to end the war with the US, \"as we are in a position of strength and dignity.\" He also said Tehran would never \"bow to intimidation.\"",
+        "link": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
