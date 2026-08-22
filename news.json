@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:53:45+00:00",
+  "generated_at": "2026-08-22T11:25:36+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 23,
+      "count": 21,
       "story": {
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
@@ -135,7 +135,7 @@
       "name": "Bangladesh",
       "lat": 23.68,
       "lon": 90.36,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
         "description": "Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.",
@@ -216,6 +216,18 @@
       }
     },
     {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 4,
+      "story": {
+        "title": "Japan executes man convicted of killing five in pachinko fire",
+        "description": "A man who killed five people by setting fire to a pachinko parlour in Osaka in 2009 has been hanged in Japan's first execution by Sanae Takaichi's government.",
+        "link": "https://www.abc.net.au/news/2026-08-22/japan-executes-man-convicted-fire-pachinko-osaka/107066666",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
@@ -240,39 +252,15 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
-      "story": {
-        "title": "Japan executes man convicted of killing five in pachinko fire",
-        "description": "A man who killed five people by setting fire to a pachinko parlour in Osaka in 2009 has been hanged in Japan's first execution by Sanae Takaichi's government.",
-        "link": "https://www.abc.net.au/news/2026-08-22/japan-executes-man-convicted-fire-pachinko-osaka/107066666",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
       "count": 3,
       "story": {
         "title": "Ukraine: Russia steps up attacks as German Foreign Minister Johan Wadephul visits Kyiv",
-        "description": "German Foreign Minister Johann Wadephul arrived in Kyiv by a special train, just days ahead of Ukraine's 35th independence day. His visit comes as two Ukrainians were killed overnight in Russian attacks.",
+        "description": "German Foreign Minister Johann Wadephul has traveled to Kyiv ahead of Ukraine's 35th Independence Day. His visit comes as two Ukrainians were killed overnight in Russian attacks.",
         "link": "https://www.dw.com/en/ukraine-russia-steps-up-attacks-as-german-foreign-minister-johan-wadephul-visits-kyiv/a-78467414?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
-      "story": {
-        "title": "‘Being a player is my passion’: Keisuke Honda targets Singapore Premier League title with FC Jurong",
-        "description": "Honda also said that his long-term goal remains to be the head coach of the Japan national team.",
-        "link": "https://www.channelnewsasia.com/sport/keisuke-honda-singapore-premier-league-fc-jurong-6334741",
-        "source": "CNA"
       }
     },
     {
@@ -377,9 +365,21 @@
       "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Live: Dogs leave Dees' top-six hopes in tatters with win as Cats host Tigers",
+        "title": "Live: Dogs leave Dees' top-six hopes in tatters as Cats, Crows lead",
         "description": "The Western Bulldogs hold off a fast-finishing Melbourne at the MCG as Geelong hosts Richmond at Kardinia Park looking to leapfrog the Dees into a top-six spot. Follow live.",
         "link": "https://www.abc.net.au/news/2026-08-22/afl-rd-24-live-carl-fre-mel-wb-geel-rich-adel-gws/107064452",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
+      "count": 2,
+      "story": {
+        "title": "Wallaroos hammered in historic 100th Test by ruthless Black Ferns",
+        "description": "The Wallaroos' 100th Test match, and the Test debut of Australia's all-time leading rugby 7s try-scorer, has been soured by a dominant New Zealand performance in Auckland.",
+        "link": "https://www.abc.net.au/news/2026-08-22/australia-wallaroos-new-zealand-black-ferns-test/107066896",
         "source": "ABC News AU"
       }
     },
@@ -393,6 +393,30 @@
         "description": "Handguns and ammunition were found in a forest near Berlin last year. German authorities suspect they were to be used for assassinations on behalf of Russian intelligence.",
         "link": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 2,
+      "story": {
+        "title": "North Korea says record-high Japan defence budget would risk 'turmoil'",
+        "description": "While not yet finalised, the move \"clearly signifies a dangerous expansion of the war budget that will bring new turmoil to the region and the world\", KCNA said.",
+        "link": "https://www.channelnewsasia.com/east-asia/north-korea-japan-record-high-budget-turmoil-6334851",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "‘Being a player is my passion’: Keisuke Honda targets Singapore Premier League title with FC Jurong",
+        "description": "Honda also said that his long-term goal remains to be the head coach of the Japan national team.",
+        "link": "https://www.channelnewsasia.com/sport/keisuke-honda-singapore-premier-league-fc-jurong-6334741",
+        "source": "CNA"
       }
     },
     {
@@ -524,30 +548,6 @@
         "title": "US, Canada fail to reach tariff deal, deepen trade war",
         "description": "The United States and Canada have failed to reach a trade deal, and the US says it will impose 50 per cent tariffs on some imports from Canada.",
         "link": "https://www.abc.net.au/news/2026-08-22/us-imposes-tariffs-on-20-billion-worth-of-canadian-products/107067128",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "Adelaide lacrosse community turns out to support girl, 5, with leukaemia",
-        "description": "Support has poured in from across SA's lacrosse community for the family of a five-year-old girl diagnosed with acute myeloid leukaemia this week.",
-        "link": "https://www.abc.net.au/news/2026-08-22/margot-whinnen-leukaemia-story/107067090",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
-      "count": 1,
-      "story": {
-        "title": "Wallaroos hammered in historic 100th Test by ruthless Black Ferns",
-        "description": "The Wallaroos' 100th Test match, and the Test debut of Australia's all-time leading rugby 7s try-scorer, has been soured by a dominant New Zealand performance in Auckland.",
-        "link": "https://www.abc.net.au/news/2026-08-22/australia-wallaroos-new-zealand-black-ferns-test/107066896",
         "source": "ABC News AU"
       }
     }
