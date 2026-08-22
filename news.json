@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T23:26:23+00:00",
+  "generated_at": "2026-08-22T23:48:27+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -87,7 +87,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 15,
+      "count": 16,
       "story": {
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
@@ -144,22 +144,10 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 5,
-      "story": {
-        "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-        "description": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
-        "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "Hong Kong's Tiananmen activists guilty in national security trial",
         "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
@@ -171,12 +159,24 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "How much could Trump's 'economic D-Day' hurt Iran?",
         "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
         "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 5,
+      "story": {
+        "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+        "description": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
+        "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -312,6 +312,18 @@
       }
     },
     {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 2,
+      "story": {
+        "title": "Live: Green the key as Australia looks to extend lead on day two",
+        "description": "Cam Green is looking to combine with Australia's lower order as day two begins in Mackay, after a frenetic 18-wicket opening day against Bangladesh. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-08-23/australia-vs-bangladesh-live-updates-second-test-day-two/107065186",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
@@ -353,9 +365,9 @@
       "lon": 13.4,
       "count": 2,
       "story": {
-        "title": "Germany investigates arms cache found in woods near Berlin",
-        "description": "Handguns and ammunition were found in a forest near Berlin last year. Reports say German authorities suspect they were to be used for assassinations on behalf of Russian intelligence.",
-        "link": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-rdf",
+        "title": "Industry and residents clash over water near Berlin",
+        "description": "The state surrounding Berlin is drying out, but local Tesla and Red Bull plants are looking to expand. Is Brandenburg running out of water to share?",
+        "link": "https://www.dw.com/en/industry-and-residents-clash-over-water-near-berlin/a-78428993?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -531,18 +543,6 @@
       "name": "Mumbai",
       "lat": 19.08,
       "lon": 72.88,
-      "count": 1,
-      "story": {
-        "title": "India news: Gandhi's handwritten notes sold for $1.7 million at Mumbai auction",
-        "description": "A collection of notes written by Mahatma Gandhi has fetched the highest ever price for an Indian historical document in Mumbai. Meanwhile, a reported visit by Bangladesh's Tarique Rahman remains in doubt. DW has more.",
-        "link": "https://www.dw.com/en/india-news-gandhi-s-handwritten-notes-sold-for-1-7-million-at-mumbai-auction/live-78466889?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
       "count": 1,
       "story": {
         "title": "India news: Gandhi's handwritten notes sold for $1.7 million at Mumbai auction",
