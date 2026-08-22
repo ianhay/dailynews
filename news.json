@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:48:32+00:00",
+  "generated_at": "2026-08-22T12:49:48+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -84,6 +84,30 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 10,
+      "story": {
+        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 10,
+      "story": {
+        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+        "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
@@ -96,51 +120,15 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 9,
-      "story": {
-        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 8,
-      "story": {
-        "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-        "description": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
-        "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "How much could Trump's 'economic D-Day' hurt Iran?",
         "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
         "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 7,
-      "story": {
-        "title": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
-        "description": "Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.",
-        "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -152,6 +140,18 @@
         "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
         "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 6,
+      "story": {
+        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+        "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,14 +180,26 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 6,
       "story": {
-        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
-        "description": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
-        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "title": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
+        "description": "Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.",
+        "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 4,
+      "story": {
+        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+        "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -228,18 +240,6 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-        "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "South Africa",
       "lat": -30.6,
       "lon": 22.9,
@@ -249,6 +249,18 @@
         "description": "Zolani Tete, who held WBF flyweight and WBO bantamweight world titles, killed at his home in Eastern Cape, South Africa.",
         "link": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
+      "count": 3,
+      "story": {
+        "title": "Myanmar military airstrike kills 14 at Buddhist monastery: reports",
+        "description": "Around 100 people were attending a meditation retreat in central Myanmar when the building was targeted by military planes, witnesses said.",
+        "link": "https://www.dw.com/en/myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports/a-78468290?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -300,18 +312,6 @@
       }
     },
     {
-      "name": "Peru",
-      "lat": -9.19,
-      "lon": -75.02,
-      "count": 2,
-      "story": {
-        "title": "Peru earthquake damages buildings and causes power cuts",
-        "description": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says.",
-        "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -353,10 +353,22 @@
       "lon": 12.5,
       "count": 2,
       "story": {
-        "title": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
+        "title": "At least 14 people missing after migrant boat headed for Italy capsizes",
         "description": "Thousands of people have died since 2014 trying to cross the Mediterranean Sea and reach Europe.",
         "link": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 2,
+      "story": {
+        "title": "Adelaide lacrosse community turns out to support girl, 5, with leukaemia",
+        "description": "Support has poured in from across SA's lacrosse community for the family of a five-year-old girl diagnosed with acute myeloid leukaemia this week.",
+        "link": "https://www.abc.net.au/news/2026-08-22/margot-whinnen-leukaemia-story/107067090",
+        "source": "ABC News AU"
       }
     },
     {
@@ -365,7 +377,7 @@
       "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Live: Dogs leave Dees' top-six hopes in tatters as Cats, Crows lead",
+        "title": "Live: Tex farewelling Adelaide Oval in style as Cats locking in top six",
         "description": "The Western Bulldogs hold off a fast-finishing Melbourne at the MCG as Geelong hosts Richmond at Kardinia Park looking to leapfrog the Dees into a top-six spot. Follow live.",
         "link": "https://www.abc.net.au/news/2026-08-22/afl-rd-24-live-carl-fre-mel-wb-geel-rich-adel-gws/107064452",
         "source": "ABC News AU"
@@ -420,15 +432,15 @@
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 2,
+      "name": "Peru",
+      "lat": -9.19,
+      "lon": -75.02,
+      "count": 1,
       "story": {
-        "title": "Myanmar military airstrike on monastery kills 14: witnesses",
-        "description": "The attack hit a monastery hall around 9am on Friday, killing 11 men and three women, according to a rebel fighter who witnessed the aftermath.",
-        "link": "https://www.channelnewsasia.com/asia/myanmar-military-airstrike-monastery-kills-14-6334766",
-        "source": "CNA"
+        "title": "Peru earthquake damages buildings and causes power cuts",
+        "description": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says.",
+        "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -441,6 +453,18 @@
         "description": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
         "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 1,
+      "story": {
+        "title": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
+        "description": "Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt&#039;s 100m record in Beijing, says state media.",
+        "link": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -504,42 +528,6 @@
       }
     },
     {
-      "name": "Tunis",
-      "lat": 36.81,
-      "lon": 10.18,
-      "count": 1,
-      "story": {
-        "title": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
-        "description": "Thousands of people have died since 2014 trying to cross the Mediterranean Sea and reach Europe.",
-        "link": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tunisia",
-      "lat": 33.89,
-      "lon": 9.54,
-      "count": 1,
-      "story": {
-        "title": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
-        "description": "Thousands of people have died since 2014 trying to cross the Mediterranean Sea and reach Europe.",
-        "link": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Iranian president says time to end war with US from ‘position of strength’",
-        "description": "Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.",
-        "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "United States",
       "lat": 39.8,
       "lon": -98.5,
@@ -548,6 +536,18 @@
         "title": "US, Canada fail to reach tariff deal, deepen trade war",
         "description": "The United States and Canada have failed to reach a trade deal, and the US says it will impose 50 per cent tariffs on some imports from Canada.",
         "link": "https://www.abc.net.au/news/2026-08-22/us-imposes-tariffs-on-20-billion-worth-of-canadian-products/107067128",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 1,
+      "story": {
+        "title": "Lions coach 'feels sorry' for Swans as likely finals clash looms",
+        "description": "Brisbane Lions coach Chris Fagan describes the Sydney Swans scandal as a \"head-scratcher\", with the two teams likely to meet in the AFL qualifying final.",
+        "link": "https://www.abc.net.au/news/2026-08-22/afl-brisbane-lions-coach-chris-fagan-feels-sorry-sydney-swans/107066662",
         "source": "ABC News AU"
       }
     }
