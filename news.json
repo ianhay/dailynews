@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T16:30:40+00:00",
+  "generated_at": "2026-08-22T17:26:17+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -13,13 +13,13 @@
   "political": [
     {
       "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "description": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
+      "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
       "title": "Carney faces crucial test after walking away from Trump's deal",
-      "description": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
       "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -53,7 +53,7 @@
   "economy": [
     {
       "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "description": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
+      "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -64,13 +64,25 @@
       "source": "BBC News"
     },
     {
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+      "description": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "places": [
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 16,
+      "story": {
+        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
     {
       "name": "Australia",
       "lat": -25.0,
@@ -80,18 +92,6 @@
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
         "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 15,
-      "story": {
-        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,10 +111,10 @@
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-        "description": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
+        "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
         "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -135,7 +135,7 @@
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
@@ -152,18 +152,6 @@
         "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
         "description": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
         "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 6,
-      "story": {
-        "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-        "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-        "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,6 +180,18 @@
       }
     },
     {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 5,
+      "story": {
+        "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+        "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+        "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
@@ -201,18 +201,6 @@
         "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
         "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 4,
-      "story": {
-        "title": "Ukraine's deadly strikes on Russia open 'Pandora's Box', Putin says",
-        "description": "Ukraine has launched drone attacks targeting a Russian oil refinery and a online retail warehouse, while Russia continues its campaign of missile attacks on Kyiv.",
-        "link": "https://www.abc.net.au/news/2026-08-22/civilians-killed-in-ukrainian-drone-strikes-over-russia-/107067556",
-        "source": "ABC News AU"
       }
     },
     {
@@ -264,27 +252,15 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 3,
       "story": {
-        "title": "Former world champion boxer Zolani Tete shot and killed in South Africa",
-        "description": "Zolani Tete, who held WBF flyweight and WBO bantamweight world titles, killed at his home in Eastern Cape, South Africa.",
-        "link": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
-      "story": {
-        "title": "The Singaporean who gets mistaken for a foreigner while running his family's Fuzhou oyster cake stall",
-        "description": "He once envisioned himself travelling the world as an esports emcee. Now, Mr Deitrich Mohan is embracing his roots and tells CNA TODAY that he hopes to take his family hawker business at Maxwell Food Centre to its 100th ",
-        "link": "https://www.channelnewsasia.com/today/up-close/maxwell-food-centre-hawker-fuzhou-oyster-cake-mixed-race-6328021",
-        "source": "CNA"
+        "title": "Ukraine: Russia steps up attacks as German Foreign Minister Johan Wadephul visits Kyiv",
+        "description": "German Foreign Minister Johann Wadephul has traveled to Kyiv ahead of Ukraine's 35th Independence Day. A Russian missile attack killed at least 2 people as Wadephul met with President Volodymyr Zelenskyy.",
+        "link": "https://www.dw.com/en/ukraine-russia-steps-up-attacks-as-german-foreign-minister-johan-wadephul-visits-kyiv/a-78467414?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -324,6 +300,18 @@
       }
     },
     {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 2,
+      "story": {
+        "title": "South Korea sending first container ship through Arctic route",
+        "description": "PanStar Acro, bound for Europe via Arctic, is testing whether a route opened by melting sea ice is commercially viable.",
+        "link": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
@@ -333,6 +321,30 @@
         "description": "An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.",
         "link": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 2,
+      "story": {
+        "title": "Canada will impose retaliatory tariffs on US, prime minister says",
+        "description": "Negotiations over the United States' newly announced tariffs on Canada have fallen apart, as Canadian Prime Minister Mark Carney says the countries won't \"return to our old relationship\".",
+        "link": "https://www.abc.net.au/news/2026-08-23/canada-to-impose-retaliatory-tariffs-on-us-goods/107067920",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 2,
+      "story": {
+        "title": "Zolani Tete shot dead outside his home in South Africa",
+        "description": "Former world boxing champion Zolani \"Last Born\" Tete has been shot dead outside his home in South Africa's Eastern Cape province.",
+        "link": "https://www.abc.net.au/news/2026-08-22/south-africas-former-world-boxing-champion-zolani-tete-shot-dead/107067524",
+        "source": "ABC News AU"
       }
     },
     {
@@ -384,6 +396,18 @@
       }
     },
     {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "The Singaporean who gets mistaken for a foreigner while running his family's Fuzhou oyster cake stall",
+        "description": "He once envisioned himself travelling the world as an esports emcee. Now, Mr Deitrich Mohan is embracing his roots and tells CNA TODAY that he hopes to take his family hawker business at Maxwell Food Centre to its 100th ",
+        "link": "https://www.channelnewsasia.com/today/up-close/maxwell-food-centre-hawker-fuzhou-oyster-cake-mixed-race-6328021",
+        "source": "CNA"
+      }
+    },
+    {
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
@@ -402,7 +426,7 @@
       "count": 1,
       "story": {
         "title": "Carney faces crucial test after walking away from Trump's deal",
-        "description": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+        "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
         "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -417,6 +441,18 @@
         "description": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says.",
         "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Espanyol vs Real Madrid LIVE: La Liga",
+        "description": "Follow updates as Jose Mourinho returns to lead Madrid - including the build-up, analysis and live text commentary.",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -480,18 +516,6 @@
       }
     },
     {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 1,
-      "story": {
-        "title": "US, Canada fail to reach tariff deal, deepen trade war",
-        "description": "The United States and Canada have failed to reach a trade deal, and the US says it will impose 50 per cent tariffs on some imports from Canada.",
-        "link": "https://www.abc.net.au/news/2026-08-22/us-imposes-tariffs-on-20-billion-worth-of-canadian-products/107067128",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
@@ -524,30 +548,6 @@
         "title": "India news: Gandhi's handwritten notes sold for $1.7 million at Mumbai auction",
         "description": "A collection of notes written by Mahatma Gandhi has fetched the highest ever price for an Indian historical document in Mumbai. Meanwhile, a reported visit by Bangladesh's Tarique Rahman remains in doubt. DW has more.",
         "link": "https://www.dw.com/en/india-news-gandhi-s-handwritten-notes-sold-for-1-7-million-at-mumbai-auction/live-78466889?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 1,
-      "story": {
-        "title": "India news: Gandhi's handwritten notes sold for $1.7 million at Mumbai auction",
-        "description": "A collection of notes written by Mahatma Gandhi has fetched the highest ever price for an Indian historical document in Mumbai. Meanwhile, a reported visit by Bangladesh's Tarique Rahman remains in doubt. DW has more.",
-        "link": "https://www.dw.com/en/india-news-gandhi-s-handwritten-notes-sold-for-1-7-million-at-mumbai-auction/live-78466889?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Sweden",
-      "lat": 60.13,
-      "lon": 18.64,
-      "count": 1,
-      "story": {
-        "title": "Sweden: One killed in school sword attack",
-        "description": "Police have said they have arrested an individual who stabbed several people, killing one person, with a sword at a high school in central Sweden.",
-        "link": "https://www.dw.com/en/sweden-one-killed-in-school-sword-attack/a-78460421?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
