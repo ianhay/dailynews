@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T14:51:16+00:00",
+  "generated_at": "2026-08-22T15:26:57+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "description": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
@@ -21,13 +27,7 @@
       "title": "How much could Trump's 'economic D-Day' hurt Iran?",
       "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
       "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Trump vows tougher economic measures on Iran and supporting countries",
-      "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
+      "source": "BBC News"
     }
   ],
   "australia": [
@@ -38,7 +38,7 @@
       "source": "BBC News"
     },
     {
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
       "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
       "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -64,10 +64,10 @@
       "source": "BBC News"
     },
     {
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "description": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
     }
   ],
   "places": [
@@ -99,7 +99,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 11,
+      "count": 12,
       "story": {
         "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
         "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
@@ -152,7 +152,7 @@
         "title": "How much could Trump's 'economic D-Day' hurt Iran?",
         "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
         "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "source": "BBC News"
       }
     },
     {
@@ -276,15 +276,15 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 2,
       "story": {
-        "title": "North Korea says record-high Japan defence budget would risk 'turmoil'",
-        "description": "While not yet finalised, the move \"clearly signifies a dangerous expansion of the war budget that will bring new turmoil to the region and the world\", KCNA said.",
-        "link": "https://www.channelnewsasia.com/east-asia/north-korea-japan-record-high-budget-turmoil-6334851",
-        "source": "CNA"
+        "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+        "description": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
+        "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -308,18 +308,6 @@
         "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
         "description": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
         "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 2,
-      "story": {
-        "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-        "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -384,6 +372,18 @@
       }
     },
     {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "North Korea says record-high Japan defence budget would risk 'turmoil'",
+        "description": "While not yet finalised, the move \"clearly signifies a dangerous expansion of the war budget that will bring new turmoil to the region and the world\", KCNA said.",
+        "link": "https://www.channelnewsasia.com/east-asia/north-korea-japan-record-high-budget-turmoil-6334851",
+        "source": "CNA"
+      }
+    },
+    {
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
@@ -396,14 +396,14 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-        "description": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
-        "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+        "title": "Carney faces crucial test after walking away from Trump's deal",
+        "description": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+        "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -420,15 +420,15 @@
       }
     },
     {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
       "count": 1,
       "story": {
-        "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
-        "description": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
-        "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
+        "description": "Syria condemns attack in southwest as a &#039;flagrant violation of sovereignty&#039; and a &#039;blatant breach of international law&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -468,6 +468,18 @@
       }
     },
     {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
+        "description": "Party launches legal action after authorities take ex-PM to ⁠state hospital for check-up ⁠before returning him to jail.",
+        "link": "https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Tripoli",
       "lat": 32.89,
       "lon": 13.19,
@@ -488,18 +500,6 @@
         "title": "Libya’s brain drain, 15 years after Tripoli fell",
         "description": "Professionals who left a country in turmoil say they are unlikely to return as more in Libya could be planning to leave.",
         "link": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 1,
-      "story": {
-        "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
-        "description": "Conflict with Israel derails Lebanon&#039;s economic recovery as inflation and consumer prices rise, the global lender says.",
-        "link": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
