@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T14:28:55+00:00",
+  "generated_at": "2026-08-23T14:54:12+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,19 +75,19 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 13,
       "story": {
-        "title": "Immersive experiences at heart of Powerhouse Parramatta grand opening",
-        "description": "As the grand opening of Powerhouse Parramatta nears, installation of more than 3,000 objects sourced from Australia and around the world continues.",
-        "link": "https://www.abc.net.au/news/2026-08-23/powerhouse-parramatta-reveals-exhibitions-ahead-november-opening/107068486",
-        "source": "ABC News AU"
+        "title": "Man completes 2,800 mile scoot across Australia",
+        "description": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
+        "link": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
-      "count": 9,
+      "count": 10,
       "story": {
         "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
         "description": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
@@ -99,11 +99,35 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 10,
       "story": {
         "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
         "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
         "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 10,
+      "story": {
+        "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
+        "description": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
+        "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 8,
+      "story": {
+        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+        "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,18 +144,6 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 8,
-      "story": {
-        "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
-        "description": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
-        "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Singapore",
       "lat": 1.35,
       "lon": 103.82,
@@ -141,18 +153,6 @@
         "description": "The Panama‑flagged Ocean Winner had 24 people on board when it sank in the Bay of Bengal. The ship is thought to have been carrying iron ore from India to Singapore.",
         "link": "https://www.dw.com/en/search-resumes-for-22-crew-after-cargo-ship-sinks-off-india/a-78472142?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 7,
-      "story": {
-        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-        "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-        "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -204,18 +204,6 @@
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 3,
-      "story": {
-        "title": "Fourteen killed in strike on Myanmar monastery",
-        "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-        "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
@@ -224,6 +212,18 @@
         "title": "Heavy Israeli air strike hits warehouse in central Gaza",
         "description": "Heavy Israeli air strike hits warehouse in central Gaza",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 3,
+      "story": {
+        "title": "Can Iran retaliate against countries that join US ‘economic war’?",
+        "description": "Iran warns that countries backing US economic sanctions will be considered an enemy of Tehran.",
+        "link": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -276,6 +276,18 @@
       }
     },
     {
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
+      "count": 2,
+      "story": {
+        "title": "Fourteen killed in strike on Myanmar monastery",
+        "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+        "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -288,26 +300,14 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 2,
-      "story": {
-        "title": "Can Iran retaliate against countries that join US ‘economic war’?",
-        "description": "Iran warns that countries backing US economic sanctions will be considered an enemy of Tehran.",
-        "link": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
       "count": 2,
       "story": {
-        "title": "Industry and residents clash over water near Berlin",
-        "description": "The state surrounding Berlin is drying out, but local Tesla and Red Bull plants are looking to expand. Is Brandenburg running out of water to share?",
-        "link": "https://www.dw.com/en/industry-and-residents-clash-over-water-near-berlin/a-78428993?maca=en-rss-en-all-1573-rdf",
+        "title": "Germany investigates arms cache found in woods near Berlin",
+        "description": "Handguns and ammunition were found in a forest near Berlin last year. Reports say German authorities suspect they were to be used for assassinations on behalf of Russian intelligence.",
+        "link": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -332,6 +332,18 @@
         "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
         "description": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of  56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
+      "count": 1,
+      "story": {
+        "title": "Man completes 2,800 mile scoot across Australia",
+        "description": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
+        "link": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -537,18 +549,6 @@
         "description": "Flooding across Caracas, Venezuela, after heavy rains",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "Hundreds walk through Brookfield after alleged early morning sexual assault",
-        "description": "Hundreds of people walked through the Brisbane suburb of Brookfield in a show of strength and solidarity after the alleged early morning sexual assault of a 23-year-old woman.",
-        "link": "https://www.abc.net.au/news/2026-08-23/solidarity-walk-brookfield-brisbane-after-alleged-sexual-assault/107068630",
-        "source": "ABC News AU"
       }
     }
   ]
