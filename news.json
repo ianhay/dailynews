@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:54:20+00:00",
+  "generated_at": "2026-08-23T07:38:07+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
-      "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Carney faces crucial test after walking away from Trump's deal",
       "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
       "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
@@ -28,6 +22,12 @@
       "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "Mayors to get powers to overrule local councils on planning decisions",
+      "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+      "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
@@ -52,8 +52,8 @@
   ],
   "economy": [
     {
-      "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
-      "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -72,22 +72,10 @@
   ],
   "places": [
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 14,
-      "story": {
-        "title": "Syria says Israeli strike near Damascus violation of international law",
-        "description": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-        "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 17,
       "story": {
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
@@ -96,15 +84,27 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 12,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 13,
       "story": {
-        "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
-        "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "title": "Syria says Israeli strike near Damascus violation of international law",
+        "description": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+        "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 11,
+      "story": {
+        "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
+        "description": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
+        "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -120,15 +120,15 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 10,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 9,
       "story": {
-        "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-        "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-        "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+        "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -204,6 +204,18 @@
       }
     },
     {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 4,
+      "story": {
+        "title": "Starc takes 10 as Australia hand Bangladesh innings defeat in second Test",
+        "description": "Australia bounce back after losing first Test, bowling out the visitors for 64 and 95 to win by an innings and 51 runs.",
+        "link": "https://www.aljazeera.com/sports/2026/8/23/starc-takes-10-as-australia-hand-bangladesh-innings-defeat-in-second-test?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
@@ -225,18 +237,6 @@
         "description": "The Panama‑flagged Ocean Winner reportedly had a crew of 24, at least two of whom appear to have been rescued. The ship is thought to have been carrying iron ore from India to Singapore.",
         "link": "https://www.dw.com/en/cargo-vessel-sinks-off-indian-coast/a-78472142?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 3,
-      "story": {
-        "title": "Syria says Israeli strike near Damascus violation of international law",
-        "description": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-        "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -276,15 +276,27 @@
       }
     },
     {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 3,
       "story": {
-        "title": "Australia thrash Bangladesh by innings and 51 runs in Mackay to tie series",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/australia-thrash-bangladesh-innings-and-51-runs-in-mackay-tie-series-6335641",
+        "title": "'Keep up the spirit': Indonesian teenage 'Superman' joins wildfire fight",
+        "description": "Fires between January and July burned more than 200,000 hectares of land - an area three times the size of the capital Jakarta, the Indonesian government said this week.",
+        "link": "https://www.channelnewsasia.com/asia/indonesia-kalimantan-forest-fire-superman-teenager-6335686",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 2,
+      "story": {
+        "title": "Syria says Israeli strike near Damascus violation of international law",
+        "description": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+        "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -348,6 +360,18 @@
       }
     },
     {
+      "name": "Jakarta",
+      "lat": -6.2,
+      "lon": 106.85,
+      "count": 2,
+      "story": {
+        "title": "'Keep up the spirit': Indonesian teenage 'Superman' joins wildfire fight",
+        "description": "Fires between January and July burned more than 200,000 hectares of land - an area three times the size of the capital Jakarta, the Indonesian government said this week.",
+        "link": "https://www.channelnewsasia.com/asia/indonesia-kalimantan-forest-fire-superman-teenager-6335686",
+        "source": "CNA"
+      }
+    },
+    {
       "name": "Tokyo",
       "lat": 35.68,
       "lon": 139.77,
@@ -356,18 +380,6 @@
         "title": "5.9 magnitude earthquake hits Japan, dozens injured",
         "description": "The late-night quake disrupted regional train services in Tokyo on Sunday morning, according to East Japan Railway Company.&nbsp;",
         "link": "https://www.channelnewsasia.com/east-asia/japan-tokyo-earthquake-train-service-disrupted-6335551",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 2,
-      "story": {
-        "title": "‘This is our home’: The women fighting a company’s land claim on Indonesia’s Pari Island",
-        "description": "Pari Island is at the centre of a decade-long land dispute which has seen local residents attempting to defend their community land rights against PT Bumi Pari Asri which says it owns about 90 per cent of the island via ",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-pari-island-women-jakarta-environment-advocacy-6332926",
         "source": "CNA"
       }
     },
@@ -521,9 +533,9 @@
       "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
-        "description": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying that tariffs would follow the collapse of talks.",
-        "link": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-rdf",
+        "title": "Trump hits out at Canada over retaliatory tariffs",
+        "description": "Donald Trump has accused Canada of treating US farmers unfairly for years as a trade standoff between Ottawa and Washington escalates. Both sides are threatening new tariffs after the collapse of talks on Friday.",
+        "link": "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -533,21 +545,9 @@
       "lon": -75.7,
       "count": 1,
       "story": {
-        "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
-        "description": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying that tariffs would follow the collapse of talks.",
-        "link": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 1,
-      "story": {
-        "title": "Nigeria: Jihadis kidnap dozens during Friday prayers",
-        "description": "Witnesses said men carrying guns and machetes set upon two villages in Niger State. Many details about the attack have yet to be confirmed by police.",
-        "link": "https://www.dw.com/en/nigeria-jihadis-kidnap-dozens-during-friday-prayers/a-78471356?maca=en-rss-en-all-1573-rdf",
+        "title": "Trump hits out at Canada over retaliatory tariffs",
+        "description": "Donald Trump has accused Canada of treating US farmers unfairly for years as a trade standoff between Ottawa and Washington escalates. Both sides are threatening new tariffs after the collapse of talks on Friday.",
+        "link": "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
