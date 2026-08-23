@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T03:08:44+00:00",
+  "generated_at": "2026-08-23T04:10:38+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 16,
+      "count": 15,
       "story": {
         "title": "Syria says Israeli strike near Damascus violation of international law",
         "description": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
@@ -87,11 +87,23 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 15,
       "story": {
         "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
         "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 12,
+      "story": {
+        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -105,18 +117,6 @@
         "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
         "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 11,
-      "story": {
-        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-        "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -228,15 +228,27 @@
       }
     },
     {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 3,
       "story": {
-        "title": "Live: Starc produces more new-ball magic to have Bangladesh teetering on day two",
-        "description": "Mitchell Starc takes wickets with back-to-back balls after Australia takes a commanding 146-run lead into the second innings in Mackay. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-08-23/australia-vs-bangladesh-live-updates-second-test-day-two/107065186",
+        "title": "Father leaves 7yo son behind on Mount Fuji to continue climb",
+        "description": "Japanese police say they gave the man a stern warning about leaving his child at the sixth station of the mountain climb.",
+        "link": "https://www.abc.net.au/news/2026-08-23/father-leaves-son-behind-on-mount-fuji-climb/107068276",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Cargo vessel sinks off Indian coast",
+        "description": "The Panama‑flagged Ocean Winner reportedly had a crew of 24, at least two of whom appear to have been rescued. The ship is thought to have been carrying iron ore from India to Singapore.",
+        "link": "https://www.dw.com/en/cargo-vessel-sinks-off-indian-coast/a-78472142?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -324,26 +336,14 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
       "count": 2,
       "story": {
-        "title": "Father leaves 7yo son behind on Mount Fuji to continue climb",
-        "description": "Japanese police say they gave the man a stern warning about leaving his child at the sixth station of the mountain climb.",
-        "link": "https://www.abc.net.au/news/2026-08-23/father-leaves-son-behind-on-mount-fuji-climb/107068276",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Cargo vessel sinks off Indian coast",
-        "description": "The Panama‑flagged Ocean Winner reportedly had a crew of 24, at least two of whom appear to have been rescued. The ship is thought to have been carrying iron ore from India to Singapore.",
-        "link": "https://www.dw.com/en/cargo-vessel-sinks-off-indian-coast/a-78472142?maca=en-rss-en-all-1573-rdf",
+        "title": "India news: Gandhi's handwritten notes sold for $1.7 million at Mumbai auction",
+        "description": "A collection of notes written by Mahatma Gandhi has fetched the highest ever price for an Indian historical document in Mumbai. Meanwhile, a reported visit by Bangladesh's Tarique Rahman remains in doubt. DW has more.",
+        "link": "https://www.dw.com/en/india-news-gandhi-s-handwritten-notes-sold-for-1-7-million-at-mumbai-auction/live-78466889?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -357,6 +357,18 @@
         "description": "Handguns and ammunition were found in a forest near Berlin last year. Reports say German authorities suspect they were to be used for assassinations on behalf of Russian intelligence.",
         "link": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Tokyo",
+      "lat": 35.68,
+      "lon": 139.77,
+      "count": 2,
+      "story": {
+        "title": "5.9 magnitude earthquake hits Japan, dozens injured",
+        "description": "The late-night quake disrupted regional train services in Tokyo on Sunday morning, according to East Japan Railway Company.&nbsp;",
+        "link": "https://www.channelnewsasia.com/east-asia/japan-tokyo-earthquake-train-service-disrupted-6335551",
+        "source": "CNA"
       }
     },
     {
@@ -452,18 +464,6 @@
         "title": "Envoy says Israel did not give the US notice before strikes on Syrian base",
         "description": "US official Tom Barrack has criticised Israel for failing to give his country adequate warning, a claim Tel Aviv denies.",
         "link": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 1,
-      "story": {
-        "title": "Seven killed, including two police officers, in UK ‘wrong-side’ car crash",
-        "description": "Accident follows similar crashes in Ireland where police highlighted social media trend driving in opposite direction.",
-        "link": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
