@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:54:22+00:00",
+  "generated_at": "2026-08-24T10:41:45+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Mayors to get powers to overrule local councils on planning decisions",
       "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
       "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
@@ -28,9 +22,21 @@
       "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
       "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
+      "description": "&#039;Coalition of the Willing&#039; leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks.",
+      "link": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
+      "source": "Al Jazeera"
     }
   ],
   "australia": [
+    {
+      "title": "Zambia courts sealed off as election petition deadline looms",
+      "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Australian shark attack victim grateful for 'second chance at life'",
       "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
@@ -41,12 +47,6 @@
       "title": "Guinea rubbish landfill collapse kills 31",
       "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
       "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "France links sharp rise in drownings to heatwaves",
-      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -64,13 +64,25 @@
       "source": "BBC News"
     },
     {
-      "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
-      "description": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
-      "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
+      "title": "'Half my business will be gone' - Firms in Canada and US fear trade war",
+      "description": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
     }
   ],
   "places": [
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 14,
+      "story": {
+        "title": "Iran faces 'economic D-Day', US Treasury Secretary warns",
+        "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+        "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
     {
       "name": "Australia",
       "lat": -25.0,
@@ -84,22 +96,10 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 12,
-      "story": {
-        "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
-        "description": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
-        "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 10,
+      "count": 11,
       "story": {
         "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
         "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
@@ -111,12 +111,12 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 10,
       "story": {
-        "title": "EU, Russian aircraft help Serbia battle wildfires",
-        "description": "EU crews and a Russian aircraft help Serbia fight major wildfires as extreme heat fuels fires across the Balkans.",
-        "link": "https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+        "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+        "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -125,9 +125,9 @@
       "lon": 105.0,
       "count": 6,
       "story": {
-        "title": "Nearly three million Teslas recalled in China over hidden door handles",
-        "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+        "title": "China probes use of formaldehyde to keep cabbages fresh",
+        "description": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
+        "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,15 +144,15 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 5,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 4,
       "story": {
-        "title": "NDR 2026: Singapore's new western island could pave way for nuclear power, experts say",
-        "description": "Defence experts also say Pulau Tekong could become a broader Singapore Armed Forces training hub, beyond its current role as a basic military training site.",
-        "link": "https://www.channelnewsasia.com/singapore/national-day-rally-2026-new-western-island-nuclear-tekong-6337191",
-        "source": "CNA"
+        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+        "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -164,6 +164,18 @@
         "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
         "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
         "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "Frustration builds in Indiana town struggling without power for 12 days",
+        "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+        "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,27 +192,15 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 3,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 4,
       "story": {
-        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-        "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 3,
-      "story": {
-        "title": "Robot boxing, football and sprinting at World Humanoid Games",
-        "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-        "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "SUSS drops AI detector as more Singapore universities question reliability of such tools",
+        "description": "NUS, SUTD and SIT do not use automated AI detectors, while SMU says such tools are only one input when investigating possible misconduct.&nbsp;",
+        "link": "https://www.channelnewsasia.com/singapore/ai-detection-tool-university-cheating-plagiarism-suss-nus-sutd-sit-smu-6337431",
+        "source": "CNA"
       }
     },
     {
@@ -212,30 +212,6 @@
         "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
         "description": "Exerting maximum economic pressure on Tehran would risk blowback from Beijing.",
         "link": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 3,
-      "story": {
-        "title": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
-        "description": "The settlement threatens Palestinian statehood. But it could help Israel&#039;s PM, other far-right leaders before elections.",
-        "link": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 3,
-      "story": {
-        "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
-        "description": "&#039;Coalition of the Willing&#039; leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks.",
-        "link": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -264,38 +240,38 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
       "count": 2,
       "story": {
-        "title": "Frustration builds in Indiana town struggling without power for 12 days",
-        "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-        "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+        "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+        "description": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
+        "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
       "count": 2,
       "story": {
-        "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-        "description": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
-        "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
+        "title": "Robot boxing, football and sprinting at World Humanoid Games",
+        "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+        "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 2,
       "story": {
-        "title": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
-        "description": "The religious figure faced various charges, including inciting violence and providing legitimacy to the al-Assad regime.",
-        "link": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss",
+        "title": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
+        "description": "The settlement threatens Palestinian statehood. But it could help Israel&#039;s PM, other far-right leaders before elections.",
+        "link": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -308,6 +284,18 @@
         "title": "The right to health in Gaza is now a privilege",
         "description": "The devastated healthcare system cannot reach Gaza’s most vulnerable – those who live in displacement camps",
         "link": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
+      "story": {
+        "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
+        "description": "&#039;Coalition of the Willing&#039; leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks.",
+        "link": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -360,6 +348,18 @@
       }
     },
     {
+      "name": "Chile",
+      "lat": -35.68,
+      "lon": -71.54,
+      "count": 1,
+      "story": {
+        "title": "Zambia courts sealed off as election petition deadline looms",
+        "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+        "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "South Africa",
       "lat": -30.6,
       "lon": 22.9,
@@ -408,27 +408,27 @@
       }
     },
     {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
       "count": 1,
       "story": {
-        "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-        "description": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
-        "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+        "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+        "description": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
+        "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 1,
       "story": {
-        "title": "Carney faces crucial test after walking away from Trump's deal",
-        "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-        "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Macron and MBS attend Esports World Cup closing ceremony",
+        "description": "Saudi Arabia, which founded the event, is spending billions to become a global gaming and esports power.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -464,6 +464,18 @@
         "title": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
         "description": "The settlement threatens Palestinian statehood. But it could help Israel&#039;s PM, other far-right leaders before elections.",
         "link": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 1,
+      "story": {
+        "title": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
+        "description": "Judge Fakhr al-Din al-Aryan sentenced Hassoun to life in prison for crimes including inciting violence.",
+        "link": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -512,18 +524,6 @@
         "title": "Maradona’s ‘Hand of God’ ball from Mexico sells for $3.35m",
         "description": "Maradona’s 1986 World Cup ball sold for $3.35m. He used his hand to score against England, dubbing it the ‘Hand of God’.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-mardona-ball-sold-clip?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Jordan",
-      "lat": 30.59,
-      "lon": 36.24,
-      "count": 1,
-      "story": {
-        "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
-        "description": "Syria&#039;s foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border.",
-        "link": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
