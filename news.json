@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T15:10:46+00:00",
+  "generated_at": "2026-08-24T16:05:03+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -84,10 +84,34 @@
       }
     },
     {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 12,
+      "story": {
+        "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+        "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 11,
+      "story": {
+        "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+        "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 11,
+      "count": 10,
       "story": {
         "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
         "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
@@ -99,35 +123,11 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 10,
+      "count": 8,
       "story": {
         "title": "Nearly three million Teslas recalled in China over hidden door handles",
         "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
         "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 9,
-      "story": {
-        "title": "Ukraine’s offensive against Russia causes petrol panic across Central Asia",
-        "description": "War-induced shortages set off cross-border fuel runs and deepen energy problems for Russia&#039;s allies.",
-        "link": "https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 8,
-      "story": {
-        "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-        "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-        "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,42 +192,6 @@
       }
     },
     {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 4,
-      "story": {
-        "title": "Robot boxing, football and sprinting at World Humanoid Games",
-        "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-        "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 4,
-      "story": {
-        "title": "US threatens toughest sanctions yet against Iran: What we know",
-        "description": "Tehran has threatened to retaliate against any country that joins new US economic measures.",
-        "link": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 4,
-      "story": {
-        "title": "Singapore urges Israel to halt planned West Bank settlements",
-        "description": "The proposed construction in the E1 area would \"further fragment the West Bank and severely undermine the prospects for a viable two-state solution\", says a spokesperson for Singapore's Ministry of Foreign Affairs.",
-        "link": "https://www.channelnewsasia.com/singapore/singapore-mfa-urges-israel-halt-west-bank-settlements-e1-east-jerusalem-6338101",
-        "source": "CNA"
-      }
-    },
-    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
@@ -240,6 +204,18 @@
       }
     },
     {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 3,
+      "story": {
+        "title": "US threatens toughest sanctions yet against Iran: What we know",
+        "description": "Tehran has threatened to retaliate against any country that joins new US economic measures.",
+        "link": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
@@ -249,6 +225,30 @@
         "description": "Another Bundesliga season arrives, but are the golden years of Germany's top football league already over, and what can it do to change its course?",
         "link": "https://www.dw.com/en/the-new-bundesliga-season-is-here-but-has-the-glow-gone/a-78062032?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Singapore urges Israel to halt planned West Bank settlements",
+        "description": "The proposed construction in the E1 area would \"further fragment the West Bank and severely undermine the prospects for a viable two-state solution\", says a spokesperson for Singapore's Ministry of Foreign Affairs.",
+        "link": "https://www.channelnewsasia.com/singapore/singapore-mfa-urges-israel-halt-west-bank-settlements-e1-east-jerusalem-6338101",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 2,
+      "story": {
+        "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+        "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -285,6 +285,30 @@
         "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
         "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 2,
+      "story": {
+        "title": "Robot boxing, football and sprinting at World Humanoid Games",
+        "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+        "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
+        "description": "Waves of settler attacks, aided by Israel&#039;s military, increasingly fit the definition of a pogrom.",
+        "link": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -332,18 +356,6 @@
         "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
         "description": "Saudi crown prince and French president are set to sign several agreements on health, transport and energy.",
         "link": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
-        "description": "Israel has threatened Palestinian groups against launching &#039;kites, drones, and balloons&#039; from the war-torn enclave.",
-        "link": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -480,30 +492,6 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
-        "description": "Argentinian striker was targeted by fans while warming up and jeered again after coming on in the 66th minute.",
-        "link": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 1,
-      "story": {
-        "title": "Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League",
-        "description": "Brazil&#039;s Alison Dos Santos beats world record holder Karsten Warholm in a thrilling 400m hurdles final at the meet.",
-        "link": "https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Perth",
       "lat": -31.95,
       "lon": 115.86,
@@ -543,6 +531,18 @@
       "name": "Netherlands",
       "lat": 52.13,
       "lon": 5.29,
+      "count": 1,
+      "story": {
+        "title": "Dutch pull out of 'no longer neutral' Eurovision",
+        "description": "The Netherlands will not participate in the 2027 Eurovision Song Contest in Bulgaria, the state broadcaster has said, citing divisions over the situation in Gaza. It's the second time the country is boycotting the event.",
+        "link": "https://www.dw.com/en/dutch-pull-out-of-no-longer-neutral-eurovision/a-78482430?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Bulgaria",
+      "lat": 42.73,
+      "lon": 25.49,
       "count": 1,
       "story": {
         "title": "Dutch pull out of 'no longer neutral' Eurovision",
