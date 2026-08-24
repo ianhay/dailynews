@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T17:59:23+00:00",
+  "generated_at": "2026-08-24T18:53:39+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,16 +18,16 @@
       "source": "BBC Business"
     },
     {
+      "title": "Kidnappers release video showing hundreds abducted from Nigerian mosque",
+      "description": "Mass kidnappings highlight Nigeria&#039;s security crisis in the north as elections approach.",
+      "link": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Israeli strike on Gaza shelter extends casualty list",
       "description": "More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.",
       "link": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Burnham likens Ukraine fight to British stand against Nazis",
-      "description": "Andy Burnham's first trip abroad as prime minister includes co-chairing a meeting of the Coalition of the Willing and holding talks with Volodymyr Zelenskyy. The visit comes on Ukraine's Independence Day. DW has more.",
-      "link": "https://www.dw.com/en/burnham-likens-ukraine-fight-to-british-stand-against-nazis/live-78479580?maca=en-rss-en-all-1573-rdf",
-      "source": "DW"
     }
   ],
   "australia": [
@@ -96,6 +96,18 @@
       }
     },
     {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 11,
+      "story": {
+        "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+        "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+        "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
@@ -111,35 +123,11 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 11,
+      "count": 9,
       "story": {
         "title": "Nearly three million Teslas recalled in China over hidden door handles",
         "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
         "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 10,
-      "story": {
-        "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-        "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-        "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 6,
-      "story": {
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,18 +144,6 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
-      "story": {
-        "title": "The formidable challenges facing new Tata boss",
-        "description": "Corporate India's most coveted top job is open. But finding a new leader for Tata Sons is no easy task.",
-        "link": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
@@ -180,9 +156,9 @@
       }
     },
     {
-      "name": "Gaza",
+      "name": "Israel",
       "lat": 31.5,
-      "lon": 34.47,
+      "lon": 34.75,
       "count": 4,
       "story": {
         "title": "Israel warns of 'forceful' response to kites flown from Gaza",
@@ -204,15 +180,39 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "The formidable challenges facing new Tata boss",
+        "description": "Corporate India's most coveted top job is open. But finding a new leader for Tata Sons is no easy task.",
+        "link": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 3,
       "story": {
-        "title": "Israeli strike on Gaza shelter extends casualty list",
-        "description": "More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.",
-        "link": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
+      "count": 3,
+      "story": {
+        "title": "King of Norway's health has worsened, palace says",
+        "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+        "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -236,18 +236,6 @@
         "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
         "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
         "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Norway",
-      "lat": 60.47,
-      "lon": 8.47,
-      "count": 2,
-      "story": {
-        "title": "King of Norway's health has worsened, palace says",
-        "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
-        "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -312,6 +300,18 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Israeli strike on Gaza shelter extends casualty list",
+        "description": "More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.",
+        "link": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Tehran",
       "lat": 35.7,
       "lon": 51.4,
@@ -336,18 +336,6 @@
       }
     },
     {
-      "name": "Vietnam",
-      "lat": 14.06,
-      "lon": 108.28,
-      "count": 2,
-      "story": {
-        "title": "Rain and flooding from Typhoon Narra hits China and Vietnam",
-        "description": "Rain and flooding from Typhoon Narra hits China and Vietnam",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Syria",
       "lat": 34.8,
       "lon": 38.9,
@@ -357,30 +345,6 @@
         "description": "‘Barrel bomb mufti’ sentenced to life in Syria",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 2,
-      "story": {
-        "title": "Redland City Council reveals plans for 62ha precinct including lagoon",
-        "description": "Acting Mayor Julie Talty says the outdoor lagoon will be \"better than Brisbane's\" South Bank Beach.",
-        "link": "https://www.abc.net.au/news/2026-08-24/redlands-reveals-birkdale-community-precinct-plans/107071974",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 2,
-      "story": {
-        "title": "Family of NDIS client who died after serious neglect shares heartbreak",
-        "description": "The uncle of Adelaide woman Ann Marie Smith, who died from severe neglect, has told a court he hopes his nightmares \"frequent\" the directors of her former NDIS provider.",
-        "link": "https://www.abc.net.au/news/2026-08-24/ann-marie-smith-family-suffer-heartbreak-daily/107071054",
-        "source": "ABC News AU"
       }
     },
     {
@@ -468,6 +432,18 @@
       }
     },
     {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 1,
+      "story": {
+        "title": "Kidnappers release video showing hundreds abducted from Nigerian mosque",
+        "description": "Mass kidnappings highlight Nigeria&#039;s security crisis in the north as elections approach.",
+        "link": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Tokyo",
       "lat": 35.68,
       "lon": 139.77,
@@ -492,6 +468,18 @@
       }
     },
     {
+      "name": "Vietnam",
+      "lat": 14.06,
+      "lon": 108.28,
+      "count": 1,
+      "story": {
+        "title": "Rain and flooding from Typhoon Narra hits China and Vietnam",
+        "description": "Rain and flooding from Typhoon Narra hits China and Vietnam",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Saudi Arabia",
       "lat": 23.9,
       "lon": 45.1,
@@ -504,15 +492,27 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Jordan",
+      "lat": 30.59,
+      "lon": 36.24,
       "count": 1,
       "story": {
-        "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
-        "description": "The cancellation follows Trump&#039;s surprise order last week to scale back a separate annual joint military drill.",
-        "link": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Whistleblower alleges ex-ATO boss avoided paying tax while at KPMG",
+        "description": "Former tax commissioner Chris Jordan is accused of receiving more than $1 million in \"secret commissions\" during his time at KPMG in the 1990s, according to documents seen by the ABC.",
+        "link": "https://www.abc.net.au/news/2026-08-25/whistleblower-alleges-chris-jordan-avoided-paying-tax-kpmg/107063824",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 1,
+      "story": {
+        "title": "Redland City Council reveals plans for 62ha precinct including lagoon",
+        "description": "Acting Mayor Julie Talty says the outdoor lagoon will be \"better than Brisbane's\" South Bank Beach.",
+        "link": "https://www.abc.net.au/news/2026-08-24/redlands-reveals-birkdale-community-precinct-plans/107071974",
+        "source": "ABC News AU"
       }
     },
     {
@@ -528,18 +528,6 @@
       }
     },
     {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 1,
-      "story": {
-        "title": "Trump's 300,000 tonne beef import plan cops backlash",
-        "description": "Beef prices are on the rise in the United States, but President Donald Trump's plan to reduce them faces backlash from US cattle ranchers.",
-        "link": "https://www.abc.net.au/news/2026-08-24/donald-trump-imported-beef-plan-backlash/107071868",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Ottawa",
       "lat": 45.42,
       "lon": -75.7,
@@ -548,6 +536,18 @@
         "title": "Trump says Canada to face 50% auto, steel tariffs from 2027",
         "description": "The latest threat comes after the neighbors failed to reach a deal to avert a 50% US levy on a range of other Canadian goods. Ottawa says it plans to impose retaliatory tariffs.",
         "link": "https://www.dw.com/en/trump-says-canada-to-face-50-auto-steel-tariffs-from-2027/a-78487268?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
+      "count": 1,
+      "story": {
+        "title": "Dutch pull out of 'no longer neutral' Eurovision",
+        "description": "The Netherlands will not participate in the 2027 Eurovision Song Contest in Bulgaria, the state broadcaster has said, citing divisions over the situation in Gaza. It's the second time the country is boycotting the event.",
+        "link": "https://www.dw.com/en/dutch-pull-out-of-no-longer-neutral-eurovision/a-78482430?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
