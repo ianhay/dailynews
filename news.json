@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T01:42:52+00:00",
+  "generated_at": "2026-08-24T03:09:16+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Mayors to get powers to overrule local councils on planning decisions",
       "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
       "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
@@ -28,6 +22,12 @@
       "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
       "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
+      "description": "House Speaker Mike Johnson, a Trump ally, admits it &#039;would be helpful&#039; if conflict ends before elections in November.",
+      "link": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
+      "source": "Al Jazeera"
     }
   ],
   "australia": [
@@ -58,8 +58,8 @@
       "source": "BBC News"
     },
     {
-      "title": "Shein aims for almost $27bn valuation in 1 September stock market debut",
-      "description": "The valuation is much lower than $100bn reached in a round of private fundraising in 2022.",
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
       "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     },
@@ -75,11 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 17,
+      "count": 18,
       "story": {
-        "title": "Man completes 2,800 mile scoot across Australia",
-        "description": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
-        "link": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
+        "title": "Australian shark attack victim grateful for 'second chance at life'",
+        "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
+        "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -87,24 +87,12 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 12,
+      "count": 11,
       "story": {
         "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
         "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
         "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 11,
-      "story": {
-        "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
-        "description": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
-        "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -117,6 +105,18 @@
         "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
         "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 10,
+      "story": {
+        "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
+        "description": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
+        "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -135,7 +135,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Syria says Israeli strike near Damascus violation of international law",
         "description": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
@@ -147,11 +147,23 @@
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
         "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
         "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "Frustration builds in Indiana town struggling without power for 12 days",
+        "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+        "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,27 +192,15 @@
       }
     },
     {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 3,
+      "name": "Hong Kong",
+      "lat": 22.32,
+      "lon": 114.17,
+      "count": 4,
       "story": {
-        "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-        "description": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
-        "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "Frustration builds in Indiana town struggling without power for 12 days",
-        "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-        "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Shein aims for almost $27bn valuation in stock market debut",
+        "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+        "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -221,10 +221,22 @@
       "lon": 51.4,
       "count": 3,
       "story": {
-        "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
-        "description": "Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran&#039;s services.",
+        "title": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
+        "description": "US Treasury Secretary Scott Bessent says Washington aims to &#039;sever every economic lifeline&#039; that sustains Iran.",
         "link": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 3,
+      "story": {
+        "title": "New 40km/h zone possible for busy retail strip",
+        "description": "Commuters passing through North Adelaide could be slowing down through one of its main thoroughfares, if the Adelaide City Council supports a motion to drop the speed limit to 40km/h.",
+        "link": "https://www.abc.net.au/news/2026-08-24/north-adelaide-o-connell-street-speed-limit-reduction/107062168",
+        "source": "ABC News AU"
       }
     },
     {
@@ -252,6 +264,18 @@
       }
     },
     {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 2,
+      "story": {
+        "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+        "description": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
+        "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Buenos Aires",
       "lat": -34.6,
       "lon": -58.38,
@@ -272,6 +296,18 @@
         "title": "Fourteen killed in strike on Myanmar monastery",
         "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
         "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 2,
+      "story": {
+        "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+        "description": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
+        "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -305,9 +341,9 @@
       "lon": 30.52,
       "count": 2,
       "story": {
-        "title": "Ukraine: UK Prime Minister Andy Burnham to visit Kyiv in show of support on Ukraine's Independence Day",
+        "title": "Ukraine: UK PM Andy Burnham to visit Kyiv in show of support",
         "description": "Andy Burnham's first trip abroad as PM will see him co-chair a meeting of Ukraine's main backers and meet with Volodymyr Zelenskyy. The visit comes as Ukraine marks its 35th independence day. DW has more.",
-        "link": "https://www.dw.com/en/ukraine-uk-prime-minister-andy-burnham-to-visit-kyiv-in-show-of-support-on-ukraine-s-independence-day/live-78479580?maca=en-rss-en-all-1573-rdf",
+        "link": "https://www.dw.com/en/ukraine-uk-pm-andy-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -321,18 +357,6 @@
         "description": "The state surrounding Berlin is drying out, but local Tesla and Red Bull plants are looking to expand. Is Brandenburg running out of water to share?",
         "link": "https://www.dw.com/en/industry-and-residents-clash-over-water-near-berlin/a-78428993?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Hong Kong",
-      "lat": 22.32,
-      "lon": 114.17,
-      "count": 2,
-      "story": {
-        "title": "Alibaba set to open down 8% in Hong Kong after $10.2 billion share placement plan",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/business/alibaba-set-open-down-8-in-hong-kong-after-102-billion-share-placement-plan-6336746",
-        "source": "CNA"
       }
     },
     {
@@ -416,30 +440,6 @@
         "title": "Robot boxing, football and sprinting at World Humanoid Games",
         "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
         "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 1,
-      "story": {
-        "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-        "description": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
-        "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Carney faces crucial test after walking away from Trump's deal",
-        "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-        "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -540,15 +540,15 @@
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
-        "description": "Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macron and Mohammed bin Salman&#039;s discussions.",
-        "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Breaking: Five arrested as police raid CFMEU headquarters in Melbourne",
+        "description": "Detectives from Taskforce Hawk executed warrants at the construction union headquarters and five other properties this morning.",
+        "link": "https://www.abc.net.au/news/2026-08-24/cfmeu-headquarters-raided-five-arrested/107071276",
+        "source": "ABC News AU"
       }
     }
   ]
