@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:04:53+00:00",
+  "generated_at": "2026-08-24T07:39:06+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Mayors to get powers to overrule local councils on planning decisions",
       "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
       "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
@@ -22,12 +28,6 @@
       "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
       "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "‘We know this movie’: Iran mocks latest US sanctions",
-      "description": "Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the &#039;same movie on repeat&#039;.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "australia": [
@@ -75,23 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 17,
+      "count": 14,
       "story": {
         "title": "Australian shark attack victim grateful for 'second chance at life'",
         "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
         "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 12,
-      "story": {
-        "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
-        "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,11 +99,23 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
+      "count": 10,
+      "story": {
+        "title": "EU, Russian aircraft help Serbia battle wildfires",
+        "description": "EU crews and a Russian aircraft help Serbia fight major wildfires as extreme heat fuels fires across the Balkans.",
+        "link": "https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 9,
       "story": {
-        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-        "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
-        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+        "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -123,7 +123,7 @@
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
         "description": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
@@ -132,15 +132,15 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 7,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 6,
       "story": {
-        "title": "Syria says Israeli strike near Damascus violation of international law",
-        "description": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-        "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Search resumes for 22 crew after cargo ship sinks off India",
+        "description": "The Panama‑flagged Ocean Winner had 24 people on board when it sank in the Bay of Bengal. The ship is thought to have been carrying iron ore from India to Singapore.",
+        "link": "https://www.dw.com/en/search-resumes-for-22-crew-after-cargo-ship-sinks-off-india/a-78472142?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -168,30 +168,6 @@
       }
     },
     {
-      "name": "Hong Kong",
-      "lat": 22.32,
-      "lon": 114.17,
-      "count": 4,
-      "story": {
-        "title": "Shein aims for almost $27bn valuation in stock market debut",
-        "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
-        "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
-      "story": {
-        "title": "Frustration builds in Indiana town struggling without power for 12 days",
-        "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-        "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Washington",
       "lat": 38.9,
       "lon": -77.03,
@@ -204,14 +180,74 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 4,
       "story": {
-        "title": "Syria says Israeli strike near Damascus violation of international law",
-        "description": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-        "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+        "title": "Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?",
+        "description": "Pakistan says it can offer a channel between Tehran and Washington, but analysts differ over how much influence it has.",
+        "link": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 4,
+      "story": {
+        "title": "Family of NDIS client who died after serious neglect shares heartbreak",
+        "description": "The uncle of Adelaide woman Ann Marie Smith, who died from severe neglect, has told a court he hopes his nightmares \"frequent\" the directors of her former NDIS provider.",
+        "link": "https://www.abc.net.au/news/2026-08-24/ann-marie-smith-family-suffer-heartbreak-daily/107071054",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 4,
+      "story": {
+        "title": "Germany news: State premier visits VW for crisis talks",
+        "description": "Political leaders are visiting car giant Volkswagen for crisis talks, while Chancellor Friedrich Merz meets party colleagues after a testing summer. DW has more.",
+        "link": "https://www.dw.com/en/germany-news-state-premier-visits-vw-for-crisis-talks/live-78480873?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Hong Kong",
+      "lat": 22.32,
+      "lon": 114.17,
+      "count": 3,
+      "story": {
+        "title": "Shein aims for almost $27bn valuation in stock market debut",
+        "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+        "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 3,
+      "story": {
+        "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+        "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "Frustration builds in Indiana town struggling without power for 12 days",
+        "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+        "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -221,21 +257,21 @@
       "lon": 30.52,
       "count": 3,
       "story": {
-        "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
-        "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
+        "description": "&#039;Coalition of the Willing&#039; leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks.",
+        "link": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 3,
       "story": {
-        "title": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
-        "description": "US Treasury Secretary Scott Bessent says Washington aims to &#039;sever every economic lifeline&#039; that sustains Iran.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
+        "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+        "description": "Syria&#039;s foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border.",
+        "link": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -246,45 +282,9 @@
       "count": 3,
       "story": {
         "title": "Woman dead after car crashes into lunchtime diners in Melbourne",
-        "description": "The woman was sitting outside the restaurant when the car hit the building during the busy lunchtime rush at Westfield Knox.",
+        "description": "The woman was sitting outside the restaurant when the car hit the building during the lunchtime rush at Westfield Knox.",
         "link": "https://www.abc.net.au/news/2026-08-24/woman-dead-after-car-hits-cafe-at-westfield-knox-in-melbourne/107071942",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 3,
-      "story": {
-        "title": "Zak Butters informs Port Adelaide he will depart club",
-        "description": "Star Port Adelaide midfielder Zak Butters says he has made the decision to return to Victoria, and has requested to leave the Power via free agency.",
-        "link": "https://www.abc.net.au/news/2026-08-24/port-adelaide-zak-butters-leaves-club-restricted-free-agent/107071652",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 3,
-      "story": {
-        "title": "Harry Kane named footballer of the year in Germany",
-        "description": "Harry Kane has added another honor after a remarkable season for Bayern Munich and a strong World Cup with England. Bayern also took the top prize in coaching, and the club's Giulia Gwinn won women's Player of the Year.",
-        "link": "https://www.dw.com/en/harry-kane-named-footballer-of-the-year-in-germany/a-78476228?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 2,
-      "story": {
-        "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-        "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -300,38 +300,26 @@
       }
     },
     {
-      "name": "Buenos Aires",
-      "lat": -34.6,
-      "lon": -58.38,
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
       "count": 2,
       "story": {
-        "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
-        "description": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of  56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+        "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+        "description": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
+        "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
+      "name": "Serbia",
+      "lat": 44.02,
+      "lon": 21.01,
       "count": 2,
       "story": {
-        "title": "Fourteen killed in strike on Myanmar monastery",
-        "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-        "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Is Israel about to split the occupied West Bank in half?",
-        "description": "Israel is moving forward with its ‘E1’ plan. What is it and why could it threaten the future of a Palestinian state?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
+        "title": "EU, Russian aircraft help Serbia battle wildfires",
+        "description": "EU crews and a Russian aircraft help Serbia fight major wildfires as extreme heat fuels fires across the Balkans.",
+        "link": "https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -341,9 +329,33 @@
       "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
-        "description": "Gaza’s hospitals face oxygen shortages, putting the lives of premature babies and critically ill patients at risk.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
+        "title": "The right to health in Gaza is now a privilege",
+        "description": "The devastated healthcare system cannot reach Gaza’s most vulnerable – those who live in displacement camps",
+        "link": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ottawa",
+      "lat": 45.42,
+      "lon": -75.7,
+      "count": 2,
+      "story": {
+        "title": "Canada-US trade war: Who wins? Who loses?",
+        "description": "Canada suspends US trade talks as Trump imposes 50% tariffs, with Ottawa vowing dollar-for-dollar retaliation.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 2,
+      "story": {
+        "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+        "description": "Syria&#039;s foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border.",
+        "link": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -360,18 +372,6 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Search resumes for 22 crew after cargo ship sinks off India",
-        "description": "The Panama‑flagged Ocean Winner had 24 people on board when it sank in the Bay of Bengal. The ship is thought to have been carrying iron ore from India to Singapore.",
-        "link": "https://www.dw.com/en/search-resumes-for-22-crew-after-cargo-ship-sinks-off-india/a-78472142?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
@@ -381,18 +381,6 @@
         "description": "The state surrounding Berlin is drying out, but local Tesla and Red Bull plants are looking to expand. Is Brandenburg running out of water to share?",
         "link": "https://www.dw.com/en/industry-and-residents-clash-over-water-near-berlin/a-78428993?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 1,
-      "story": {
-        "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
-        "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -444,38 +432,26 @@
       }
     },
     {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
       "count": 1,
       "story": {
-        "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
-        "description": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of  56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+        "title": "Robot boxing, football and sprinting at World Humanoid Games",
+        "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+        "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Man completes 2,800 mile scoot across Australia",
-        "description": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
-        "link": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Damascus",
-      "lat": 33.5,
-      "lon": 36.3,
-      "count": 1,
-      "story": {
-        "title": "Syria says Israeli strike near Damascus violation of international law",
-        "description": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-        "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+        "title": "Carney faces crucial test after walking away from Trump's deal",
+        "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+        "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -504,18 +480,6 @@
       }
     },
     {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 1,
-      "story": {
-        "title": "Can Kenya’s AI ambitions coexist with Naivasha’s water needs?",
-        "description": "As Kenya courts data-centre investment, communities fear growing pressure on an already stressed water system.",
-        "link": "https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Ankara",
       "lat": 39.93,
       "lon": 32.86,
@@ -540,15 +504,51 @@
       }
     },
     {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "Serbia requests international assistance to battle wildfires",
-        "description": "Serbia requested assistance from the European Union and Russia to help bring intense wildfires under control.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss",
+        "title": "Is Israel about to split the occupied West Bank in half?",
+        "description": "Israel is moving forward with its ‘E1’ plan. What is it and why could it threaten the future of a Palestinian state?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 1,
+      "story": {
+        "title": "'I'm a has-been': Injury ends Broncos captain Adam Reynolds's career",
+        "description": "Brisbane Broncos captain Adam Reynolds is unable to get up for one last game at Lang Park, ending his glittering NRL career.",
+        "link": "https://www.abc.net.au/news/2026-08-24/adam-reynolds-injury-retirement-brisbane-broncos/107072588",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 1,
+      "story": {
+        "title": "Trump's 300,000 tonne beef import plan cops backlash",
+        "description": "Beef prices are on the rise in the United States, but President Donald Trump's plan to reduce them faces backlash from US cattle ranchers.",
+        "link": "https://www.abc.net.au/news/2026-08-24/donald-trump-imported-beef-plan-backlash/107071868",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Buenos Aires",
+      "lat": -34.6,
+      "lon": -58.38,
+      "count": 1,
+      "story": {
+        "title": "Runner smashes half-marathon record, heads straight to the football",
+        "description": "Yomif Kejelcha reclaims the men's half-marathon world record with a sizzling time of 56 minutes, 51 seconds in Buenos Aires.",
+        "link": "https://www.abc.net.au/news/2026-08-24/half-marathon-world-record-smashed-in-buenos-aires/107070524",
+        "source": "ABC News AU"
       }
     }
   ]
