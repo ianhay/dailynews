@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T16:05:03+00:00",
+  "generated_at": "2026-08-24T17:06:13+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,16 +18,16 @@
       "source": "BBC Business"
     },
     {
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
+      "title": "Israeli strike on Gaza shelter extends casualty list",
+      "description": "More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.",
+      "link": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
+      "source": "Al Jazeera"
     },
     {
-      "title": "US threatens toughest sanctions yet against Iran: What we know",
-      "description": "Tehran has threatened to retaliate against any country that joins new US economic measures.",
-      "link": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera"
+      "title": "Burnham likens Ukraine fight to British stand against Nazis",
+      "description": "Andy Burnham's first trip abroad as prime minister includes co-chairing a meeting of the Coalition of the Willing and holding talks with Volodymyr Zelenskyy. The visit comes on Ukraine's Independence Day. DW has more.",
+      "link": "https://www.dw.com/en/burnham-likens-ukraine-fight-to-british-stand-against-nazis/live-78479580?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
     }
   ],
   "australia": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 14,
       "story": {
         "title": "Australian shark attack victim grateful for 'second chance at life'",
         "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
@@ -108,10 +108,22 @@
       }
     },
     {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 10,
+      "story": {
+        "title": "Nearly three million Teslas recalled in China over hidden door handles",
+        "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
         "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
@@ -120,14 +132,26 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 8,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 6,
       "story": {
-        "title": "Nearly three million Teslas recalled in China over hidden door handles",
-        "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 6,
+      "story": {
+        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+        "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,30 +168,6 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 5,
-      "story": {
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 5,
-      "story": {
-        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-        "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
@@ -177,6 +177,18 @@
         "description": "A medal minted for finishers in the Sydney Marathon features a skyline of the city — with one landmark from rather far away. Organizers say the muddle only makes the medal \"a little more unique.\"",
         "link": "https://www.dw.com/en/sydney-marathon-medal-wrongly-shows-german-landmark/a-78473705?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 4,
+      "story": {
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -192,15 +204,15 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Israeli strike on Gaza shelter extends casualty list",
+        "description": "More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.",
+        "link": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -209,9 +221,9 @@
       "lon": 51.4,
       "count": 3,
       "story": {
-        "title": "US threatens toughest sanctions yet against Iran: What we know",
-        "description": "Tehran has threatened to retaliate against any country that joins new US economic measures.",
-        "link": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
+        "title": "What to expect as Iran braces for new US economic measures amid war",
+        "description": "Tehran may count on links with China and others to weather the storm, but average Iranian people will bear the brunt.",
+        "link": "https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -225,18 +237,6 @@
         "description": "Another Bundesliga season arrives, but are the golden years of Germany's top football league already over, and what can it do to change its course?",
         "link": "https://www.dw.com/en/the-new-bundesliga-season-is-here-but-has-the-glow-gone/a-78062032?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
-      "story": {
-        "title": "Singapore urges Israel to halt planned West Bank settlements",
-        "description": "The proposed construction in the E1 area would \"further fragment the West Bank and severely undermine the prospects for a viable two-state solution\", says a spokesperson for Singapore's Ministry of Foreign Affairs.",
-        "link": "https://www.channelnewsasia.com/singapore/singapore-mfa-urges-israel-halt-west-bank-settlements-e1-east-jerusalem-6338101",
-        "source": "CNA"
       }
     },
     {
@@ -300,18 +300,6 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
-        "description": "Waves of settler attacks, aided by Israel&#039;s military, increasingly fit the definition of a pogrom.",
-        "link": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
@@ -344,18 +332,6 @@
         "title": "‘Barrel bomb mufti’ sentenced to life in Syria",
         "description": "‘Barrel bomb mufti’ sentenced to life in Syria",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 2,
-      "story": {
-        "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
-        "description": "Saudi crown prince and French president are set to sign several agreements on health, transport and energy.",
-        "link": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -393,6 +369,18 @@
         "description": "Nine years after the Rohingya were driven from Myanmar, claims of progress on refugee returns have revived talk of repatriation.",
         "link": "https://www.dw.com/en/myanmar-why-rohingya-refugees-can-t-return/a-78485340?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Singapore urges Israel to halt planned West Bank settlements",
+        "description": "The proposed construction in the E1 area would \"further fragment the West Bank and severely undermine the prospects for a viable two-state solution\", says a spokesperson for Singapore's Ministry of Foreign Affairs.",
+        "link": "https://www.channelnewsasia.com/singapore/singapore-mfa-urges-israel-halt-west-bank-settlements-e1-east-jerusalem-6338101",
+        "source": "CNA"
       }
     },
     {
@@ -468,6 +456,18 @@
       }
     },
     {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 1,
+      "story": {
+        "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
+        "description": "Saudi crown prince and French president are set to sign several agreements on health, transport and energy.",
+        "link": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
@@ -476,18 +476,6 @@
         "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
         "description": "The cancellation follows Trump&#039;s surprise order last week to scale back a separate annual joint military drill.",
         "link": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 1,
-      "story": {
-        "title": "Dozens of coordinated arson attacks carried out across Thailand",
-        "description": "Dozens of coordinated arson attacks carried out across Thailand",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -513,6 +501,18 @@
         "description": "Beef prices are on the rise in the United States, but President Donald Trump's plan to reduce them faces backlash from US cattle ranchers.",
         "link": "https://www.abc.net.au/news/2026-08-24/donald-trump-imported-beef-plan-backlash/107071868",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 1,
+      "story": {
+        "title": "DR Congo peace roadmap: Will the fighting finally end?",
+        "description": "A new roadmap sets out the conditions toward peace in the eastern Democratic Republic of Congo (DRC). But disagreements over M23 rebels, Rwanda's role, and security concerns remain, and could still derail the process.",
+        "link": "https://www.dw.com/en/dr-congo-peace-roadmap-will-the-fighting-finally-end/a-78487489?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
