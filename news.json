@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T14:21:36+00:00",
+  "generated_at": "2026-08-25T15:23:16+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "description": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "US removes Syria from list of state sponsors of terrorism",
       "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
       "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
       "title": "Sonya Massey's killer Sean Grayson dies in US prison",
       "description": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
       "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 14,
+      "count": 15,
       "story": {
         "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
         "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
@@ -108,18 +108,6 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 9,
-      "story": {
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
@@ -135,7 +123,7 @@
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 8,
+      "count": 9,
       "story": {
         "title": "How Canada could hit back to hurt the US economy - and Trump",
         "description": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
@@ -144,10 +132,10 @@
       }
     },
     {
-      "name": "Gaza",
+      "name": "Israel",
       "lat": 31.5,
-      "lon": 34.47,
-      "count": 6,
+      "lon": 34.75,
+      "count": 8,
       "story": {
         "title": "Israel warns of 'forceful' response to kites flown from Gaza",
         "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
@@ -159,7 +147,7 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
         "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
@@ -168,26 +156,14 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 5,
       "story": {
-        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-        "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-        "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
-      "story": {
-        "title": "Caste divide makes summer more scorching in dry Indian region",
-        "description": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
-        "link": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,39 +192,63 @@
       }
     },
     {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 4,
+      "story": {
+        "title": "How Germany's drone defense fails",
+        "description": "Drone defense is a priority for the German government. Several dramatic incidents involving explosive-laden drones at Leipzig airport show there are still substantial shortcomings.",
+        "link": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 3,
       "story": {
-        "title": "Lockerbie bombing trial postponed days before it was due to start",
-        "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
-        "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+        "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+        "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 3,
       "story": {
-        "title": "How water becomes a weapon of war",
-        "description": "A Palestinian spring now fills a swimming pool that belongs to Israeli settlers. AJLabs on how water became a weapon.",
-        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss",
+        "title": "Caste divide makes summer more scorching in dry Indian region",
+        "description": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
+        "link": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 3,
+      "story": {
+        "title": "Root ‘hacked off’ by England cricket team after police handcuff Carse",
+        "description": "After Brydon Carse dropped by England for second Test against Pakistan, captain Joe Root blasts &#039;stupid mistakes&#039;.",
+        "link": "https://www.aljazeera.com/sports/2026/8/25/root-hacked-off-by-england-cricket-team-after-police-handcuff-carse?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 3,
       "story": {
-        "title": "Will Volkswagen's crunch week decide Germany's auto future?",
-        "description": "Volkswagen bosses face angry workers this week over restructuring plans that could eliminate up to 100,000 jobs and threaten several German plants. DW examines the pressure on Europe's biggest automaker.",
-        "link": "https://www.dw.com/en/will-volkswagen-s-crunch-week-decide-germany-s-auto-future/a-78483715?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "US military transport plane arrives in Moscow in rare occurrence",
+        "description": "A US military C-17 transport plane has mysteriously landed at Moscow’s Vnukovo Airport from Riga, Latvia",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -264,6 +264,18 @@
       }
     },
     {
+      "name": "Libya",
+      "lat": 26.34,
+      "lon": 17.23,
+      "count": 2,
+      "story": {
+        "title": "Lockerbie bombing trial postponed days before it was due to start",
+        "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+        "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
@@ -276,15 +288,15 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 2,
       "story": {
-        "title": "What do locals think of IndyCar in Washington DC?",
-        "description": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
-        "link": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "How water becomes a weapon of war",
+        "description": "A Palestinian spring now fills a swimming pool that belongs to Israeli settlers. AJLabs on how water became a weapon.",
+        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -309,42 +321,6 @@
         "description": "Rohingya refugees face deep aid cuts in Bangladesh and forced evictions in Malaysia and India.",
         "link": "https://www.aljazeera.com/news/2026/8/25/why-rohingya-refugees-are-protesting-in-coxs-bazar-9-years-after-genocide?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 2,
-      "story": {
-        "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
-        "description": "Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.",
-        "link": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 2,
-      "story": {
-        "title": "Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79",
-        "description": "Sliman Mansour&#039;s art captured the essence of Palestine, blending ancient traditions with modern themes of resistance.",
-        "link": "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ottawa",
-      "lat": 45.42,
-      "lon": -75.7,
-      "count": 2,
-      "story": {
-        "title": "Canada set to announce retaliatory tariffs on US goods after talks fail",
-        "description": "Tariffs of 50% on Canadian goods came into effect after trade talks collapsed. US President Trump has warned Ottawa to \"fall in line,\" but Canadian Prime Minister Mark Carney has refused to accept a \"bad deal.\"",
-        "link": "https://www.dw.com/en/canada-set-to-announce-retaliatory-tariffs-on-us-goods-after-talks-fail/a-78491819?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -516,18 +492,6 @@
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 1,
-      "story": {
-        "title": "What would justice look like if there were no Rohingya left in Myanmar?",
-        "description": "Nine years after the 2017 atrocities, Rohingya are still being forced to flee because the genocide has never stopped.",
-        "link": "https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Jordan",
       "lat": 30.59,
       "lon": 36.24,
@@ -549,6 +513,42 @@
         "description": "A jury has heard a man accused of making sexualised deepfake images of former Brisbane high school students and staff told police he did it because it was \"funny\".",
         "link": "https://www.abc.net.au/news/2026-08-25/deepfake-images-trial-antonio-rotondo/107076544",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 1,
+      "story": {
+        "title": "Nigeria's jet fuel conundrum: Scarcity at home, abundance abroad",
+        "description": "Nigeria is fast becoming Europe's biggest jet fuel supplier, as it continues to help ease ongoing shortages abroad. Meanwhile at home, the West African country’s own airlines are struggling to keep their tanks full.",
+        "link": "https://www.dw.com/en/nigeria-s-jet-fuel-conundrum-scarcity-at-home-abundance-abroad/a-78492451?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Vietnam",
+      "lat": 14.06,
+      "lon": 108.28,
+      "count": 1,
+      "story": {
+        "title": "Why Starlink won't open Vietnam's heavily censored internet",
+        "description": "Starlink promises better connectivity in remote and mountainous areas. But in one of Southeast Asia's most tightly controlled online environments, more network access doesn't mean more free speech.",
+        "link": "https://www.dw.com/en/why-starlink-won-t-open-vietnam-s-heavily-censored-internet/a-78494983?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 1,
+      "story": {
+        "title": "Trees are vital for cooler cities, but they need help too",
+        "description": "Record-breaking heat and drought are putting urban trees at risk. Experts explain how to protect these essential assets and build city forests that can withstand the climate challenges ahead.",
+        "link": "https://www.dw.com/en/trees-are-vital-for-cooler-cities-but-they-need-help-too/a-78488665?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
