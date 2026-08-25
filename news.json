@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T18:51:04+00:00",
+  "generated_at": "2026-08-25T19:36:18+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 19,
+      "count": 17,
       "story": {
         "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
         "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
@@ -87,7 +87,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 16,
       "story": {
         "title": "Songs created by AI banned from Australia's music charts",
         "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
@@ -99,7 +99,7 @@
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
         "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
@@ -123,7 +123,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 6,
+      "count": 8,
       "story": {
         "title": "Israel warns of 'forceful' response to kites flown from Gaza",
         "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
@@ -144,10 +144,22 @@
       }
     },
     {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 5,
+      "story": {
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
         "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
@@ -180,27 +192,15 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
       "count": 4,
       "story": {
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+        "title": "US removes Syria from list of state sponsors of terrorism",
+        "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+        "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 4,
-      "story": {
-        "title": "Crows captain makes tearful speech as All Australian team is named",
-        "description": "Max Gawn claims a record ninth All Australian blazer, while Nick Daicos swept the individual awards, but a speech from Adelaide captain Jordan Dawson stole the show at the AFL Awards.",
-        "link": "https://www.abc.net.au/news/2026-08-25/afl-awards-all-australian-2026-live-blog/107076670",
-        "source": "ABC News AU"
       }
     },
     {
@@ -213,18 +213,6 @@
         "description": "Drone defense is a priority for the German government. Several dramatic incidents involving explosive-laden drones at Leipzig airport show there are still substantial shortcomings.",
         "link": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 3,
-      "story": {
-        "title": "US removes Syria from list of state sponsors of terrorism",
-        "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
-        "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -245,7 +233,7 @@
       "lon": -77.03,
       "count": 3,
       "story": {
-        "title": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+        "title": "Kremlin denies US talks amid reports CIA Director Ratcliffe in Russia",
         "description": "Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.",
         "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
         "source": "Al Jazeera"
@@ -348,6 +336,18 @@
       }
     },
     {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 2,
+      "story": {
+        "title": "Crows captain makes tearful speech as All Australian team is named",
+        "description": "Max Gawn claims a record ninth All Australian blazer, while Nick Daicos swept the individual awards, but a speech from Adelaide captain Jordan Dawson stole the show at the AFL Awards.",
+        "link": "https://www.abc.net.au/news/2026-08-25/afl-awards-all-australian-2026-live-blog/107076670",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Netherlands",
       "lat": 52.13,
       "lon": 5.29,
@@ -432,12 +432,24 @@
       }
     },
     {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
+      "count": 1,
+      "story": {
+        "title": "Video: Israeli forces raid UN training centre and raise Israeli flag",
+        "description": "Itamar Ben-Gvir celebrated after Israeli forces raided a UN-operated facility in occupied East Jerusalem.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Kremlin",
       "lat": 55.75,
       "lon": 37.62,
       "count": 1,
       "story": {
-        "title": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+        "title": "Kremlin denies US talks amid reports CIA Director Ratcliffe in Russia",
         "description": "Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.",
         "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
         "source": "Al Jazeera"
@@ -477,6 +489,18 @@
         "description": "Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "Report fails to set distance between waste-to-energy plants and homes",
+        "description": "Outer suburban Melbourne residents call for tougher standards on rubbish burning after the tabling of a waste-to-energy report in state parliament.",
+        "link": "https://www.abc.net.au/news/2026-08-26/vic-report-on-waste-to-energy-calls-for-tougher-regulations/107077314",
+        "source": "ABC News AU"
       }
     },
     {
@@ -525,30 +549,6 @@
         "description": "Record-breaking heat and drought are putting urban trees at risk. Experts explain how to protect these essential assets and build city forests that can withstand the climate challenges ahead.",
         "link": "https://www.dw.com/en/trees-are-vital-for-cooler-cities-but-they-need-help-too/a-78488665?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 1,
-      "story": {
-        "title": "Indonesia, Malaysia and Singapore reaffirm commitment to keep Malacca and Singapore straits safe and open",
-        "description": "Transport Minister Jeffrey Siow said at the&nbsp;17th Cooperation Forum that recent events had shown that open sea lanes cannot be taken for granted, and that safe and open waterways depend on international law and coope",
-        "link": "https://www.channelnewsasia.com/singapore/strait-malacca-singapore-indonesia-malaysia-6340351",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 1,
-      "story": {
-        "title": "Indonesia, Malaysia and Singapore reaffirm commitment to keep Malacca and Singapore straits safe and open",
-        "description": "Transport Minister Jeffrey Siow said at the&nbsp;17th Cooperation Forum that recent events had shown that open sea lanes cannot be taken for granted, and that safe and open waterways depend on international law and coope",
-        "link": "https://www.channelnewsasia.com/singapore/strait-malacca-singapore-indonesia-malaysia-6340351",
-        "source": "CNA"
       }
     }
   ]
