@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T05:06:43+00:00",
+  "generated_at": "2026-08-26T06:01:10+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 16,
+      "count": 13,
       "story": {
         "title": "Songs created by AI banned from Australia's music charts",
         "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
@@ -99,7 +99,7 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
         "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
@@ -111,7 +111,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
         "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
@@ -123,7 +123,7 @@
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
         "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
@@ -132,15 +132,15 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 5,
       "story": {
-        "title": "New country music festival Longhaul cancelled in its first year",
-        "description": "The festival, headlined by Kacey Musgraves and Kane Brown, was set to land in Melbourne, Sydney and Brisbane in January.",
-        "link": "https://www.abc.net.au/news/2026-08-26/longhaul-festival-cancelled-kacey-musgraves-kane-brown/107079430",
-        "source": "ABC News AU"
+        "title": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
+        "description": "Russia’s biggest online retailer, Wildberries, has once again been attacked in a drone strike by Ukraine.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -168,39 +168,27 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 4,
       "story": {
-        "title": "Grain exports stall as Ukraine steps up attacks on Russia's Black Sea ports",
-        "description": "Ukrainian drone strikes on Russian infrastructure on the Black Sea are disrupting grain and oil exports from the port of Novorossiysk and other key hubs.",
-        "link": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "At least 14 newborns killed in Pakistan hospital nursery fire",
+        "description": "A malfunction in an air conditioning unit is believed to have triggered the blaze at a government hospital in Islamabad.",
+        "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "How Germany's drone defense fails",
-        "description": "Drone defense is a priority for the German government. Several dramatic incidents involving explosive-laden drones at Leipzig airport show there are still substantial shortcomings.",
-        "link": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 3,
-      "story": {
-        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-        "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "New country music festival Longhaul cancelled in its first year",
+        "description": "The festival, headlined by Kacey Musgraves and Kane Brown, was set to land in Melbourne, Sydney and Brisbane in January.",
+        "link": "https://www.abc.net.au/news/2026-08-26/longhaul-festival-cancelled-kacey-musgraves-kane-brown/107079430",
+        "source": "ABC News AU"
       }
     },
     {
@@ -240,6 +228,18 @@
       }
     },
     {
+      "name": "Islamabad",
+      "lat": 33.7,
+      "lon": 73.06,
+      "count": 3,
+      "story": {
+        "title": "At least 14 newborns killed in Pakistan hospital nursery fire",
+        "description": "A malfunction in an air conditioning unit is believed to have triggered the blaze at a government hospital in Islamabad.",
+        "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Sudan",
       "lat": 12.86,
       "lon": 30.22,
@@ -252,14 +252,26 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
       "count": 3,
       "story": {
-        "title": "Japan to diversify crude supplies, back Mideast pipelines in resilience effort, media say",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/business/japan-diversify-crude-supplies-back-mideast-pipelines-in-resilience-effort-media-say-6341616",
+        "title": "How Germany's drone defense fails",
+        "description": "Drone defense is a priority for the German government. Several dramatic incidents involving explosive-laden drones at Leipzig airport show there are still substantial shortcomings.",
+        "link": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Commentary: NDR 2026 – if Singapore can plan 50 years ahead for infrastructure, can it do the same for nature?",
+        "description": "Long-term plans for Singapore’s western islands offer something precious: time to get it right, says NUS’ Melissa Low.",
+        "link": "https://www.channelnewsasia.com/commentary/ndr-2026-western-island-development-marine-nature-6341481",
         "source": "CNA"
       }
     },
@@ -276,14 +288,14 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 2,
       "story": {
-        "title": "Caste divide makes summer more scorching in dry Indian region",
-        "description": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
-        "link": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
+        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+        "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -300,15 +312,27 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Taiwan",
+      "lat": 23.7,
+      "lon": 121.0,
       "count": 2,
       "story": {
-        "title": "At least 15 newborns killed in Pakistan hospital fire",
-        "description": "Only one child rescued after fire breaks out in the nursery at Pakistan Institute of Medical Sciences, Geo News reports.",
-        "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
+        "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
+        "description": "Malaysian leader&#039;s comments on the island have prompted discussion about whether the country is leaning towards China.",
+        "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
+      "count": 2,
+      "story": {
+        "title": "Breaking: Humpback whale beached at Port Kennedy in Perth's south",
+        "description": "A humpback whale has become beached on a sand bank in shallow water at Port Kennedy in Perth's southern suburbs.",
+        "link": "https://www.abc.net.au/news/2026-08-26/humpback-whale-beached-at-port-kennedy-in-perth-s-south/107081474",
+        "source": "ABC News AU"
       }
     },
     {
@@ -324,15 +348,15 @@
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
+      "name": "Vietnam",
+      "lat": 14.06,
+      "lon": 108.28,
       "count": 2,
       "story": {
-        "title": "New country music festival Longhaul cancelled in its first year",
-        "description": "The festival, headlined by Kacey Musgraves and Kane Brown, was set to land in Melbourne, Sydney and Brisbane in January.",
-        "link": "https://www.abc.net.au/news/2026-08-26/longhaul-festival-cancelled-kacey-musgraves-kane-brown/107079430",
-        "source": "ABC News AU"
+        "title": "Why Starlink won't open Vietnam's heavily censored internet",
+        "description": "Starlink promises better connectivity in remote and mountainous areas. But in one of Southeast Asia's most tightly controlled online environments, more network access doesn't mean more free speech.",
+        "link": "https://www.dw.com/en/why-starlink-won-t-open-vietnam-s-heavily-censored-internet/a-78494983?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -348,18 +372,6 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Elvin Ng surprises former helper in Indonesia with pineapple tarts and family trip",
-        "description": "In a recent episode of CNA Insider's On The Red Dot, Singaporean actor Elvin Ng and his mother flew to Indonesia to surprise their former helper, Jumi, whom they hadn't seen in 12 years.",
-        "link": "https://www.channelnewsasia.com/entertainment/elvin-ng-surprises-helper-indonesia-6341606",
-        "source": "CNA"
-      }
-    },
-    {
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
@@ -368,6 +380,18 @@
         "title": "South Korea's Lee calls for greater police accountability after Jeju missing-person cases",
         "description": "",
         "link": "https://www.channelnewsasia.com/east-asia/south-koreas-lee-calls-greater-police-accountability-after-jeju-missing-person-cases-6341566",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "Japan to diversify crude supplies, back Mideast pipelines in resilience effort, media say",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/business/japan-diversify-crude-supplies-back-mideast-pipelines-in-resilience-effort-media-say-6341616",
         "source": "CNA"
       }
     },
@@ -416,6 +440,18 @@
         "title": "King of Norway's health has worsened, palace says",
         "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
         "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 1,
+      "story": {
+        "title": "Caste divide makes summer more scorching in dry Indian region",
+        "description": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
+        "link": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -504,50 +540,14 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
       "count": 1,
       "story": {
-        "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
-        "description": "Israeli soldiers blocked Knesset member Ofer Cassif from reaching a Palestinian family home in the occupied West Bank.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
-      "count": 1,
-      "story": {
-        "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
-        "description": "Malaysian leader&#039;s comments on the island have prompted discussion about whether the country is leaning towards China.",
-        "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 1,
-      "story": {
-        "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
-        "description": "Malaysian leader&#039;s comments on the island have prompted discussion about whether the country is leaning towards China.",
-        "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 1,
-      "story": {
-        "title": "Human rights situation in Myanmar ‘plummets to new low’, UN says",
-        "description": "New report says abuses against Rohingya and unchecked resource exploitation deepening crisis in Myanmar.",
-        "link": "https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss",
+        "title": "Fireworks factory goes up in smoke in Mexico",
+        "description": "Two explosions have hit a fireworks facility in Tultepec, Mexico, sending a spectacular mix of flames and explosions",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss",
         "source": "Al Jazeera"
       }
     }
