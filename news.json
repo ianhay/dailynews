@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T03:11:01+00:00",
+  "generated_at": "2026-08-26T04:11:30+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 17,
+      "count": 16,
       "story": {
         "title": "Songs created by AI banned from Australia's music charts",
         "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 15,
+      "count": 12,
       "story": {
         "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
         "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
@@ -96,14 +96,14 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 7,
       "story": {
-        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-        "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
-        "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+        "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+        "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,7 +111,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
         "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
@@ -120,15 +120,27 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 6,
+      "story": {
+        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+        "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+        "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 5,
       "story": {
-        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-        "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-        "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "New country music festival Longhaul cancelled in its first year",
+        "description": "The festival, headlined by Kacey Musgraves and Kane Brown, was set to land in Melbourne, Sydney and Brisbane in January.",
+        "link": "https://www.abc.net.au/news/2026-08-26/longhaul-festival-cancelled-kacey-musgraves-kane-brown/107079430",
+        "source": "ABC News AU"
       }
     },
     {
@@ -204,6 +216,18 @@
       }
     },
     {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 3,
+      "story": {
+        "title": "US removes Syria from list of state sponsors of terrorism",
+        "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+        "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
@@ -216,15 +240,39 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 3,
       "story": {
-        "title": "Sydney woman pleads guilty to 'macabre' manslaughter of husband",
-        "description": "Police previously described the case as \"macabre\" and \"bizarre\" due to how they suspected she had disposed of his remains.",
-        "link": "https://www.abc.net.au/news/2026-08-26/sydney-woman-pleads-guilty-manslaughter-of-husband-dismemberment/107079348",
+        "title": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
+        "description": "Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, including four children.",
+        "link": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 3,
+      "story": {
+        "title": "New country music festival Longhaul cancelled in its first year",
+        "description": "The festival, headlined by Kacey Musgraves and Kane Brown, was set to land in Melbourne, Sydney and Brisbane in January.",
+        "link": "https://www.abc.net.au/news/2026-08-26/longhaul-festival-cancelled-kacey-musgraves-kane-brown/107079430",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "Japan to diversify crude supplies, back Mideast pipelines in resilience effort, media say",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/business/japan-diversify-crude-supplies-back-mideast-pipelines-in-resilience-effort-media-say-6341616",
+        "source": "CNA"
       }
     },
     {
@@ -248,18 +296,6 @@
         "title": "Mass arrests in global crackdown on West African cyber-crime networks",
         "description": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
         "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 2,
-      "story": {
-        "title": "US removes Syria from list of state sponsors of terrorism",
-        "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
-        "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -288,30 +324,6 @@
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 2,
-      "story": {
-        "title": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
-        "description": "Families displaced by war in Sudan’s El Obeid refugee camps face crippling water shortages.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 2,
-      "story": {
-        "title": "Snap daycare closure causes 'panic' for Melbourne parents",
-        "description": "Liquidators for the centre in Melbourne's north-west apologised for \"stress and inconvenience\" caused by the closure.",
-        "link": "https://www.abc.net.au/news/2026-08-26/avondale-heights-child-care-closure/107079048",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Lima",
       "lat": -12.05,
       "lon": -77.04,
@@ -324,14 +336,14 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 2,
       "story": {
-        "title": "Disney Adventure adds Langkawi as a day visit on select four-night cruises from Dec 31",
-        "description": "Under the new itinerary, these select sailings from Singapore will include a visit to Langkawi on Day 3.&nbsp;Guests can either explore Langkawi independently or book shore excursions, known as Port Adventures, through D",
-        "link": "https://www.channelnewsasia.com/travel/disney-adventure-langkawi-port-call-cruise-singapore-6341346",
+        "title": "South Korea's Lee calls for greater police accountability after Jeju missing-person cases",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/east-asia/south-koreas-lee-calls-greater-police-accountability-after-jeju-missing-person-cases-6341566",
         "source": "CNA"
       }
     },
@@ -537,18 +549,6 @@
         "description": "Kylian Mbappe and Jude Bellingham headline against Sociedad as Real seek consecutive wins to open La Liga season.",
         "link": "https://www.aljazeera.com/sports/2026/8/25/real-madrid-vs-sociedad-la-liga-prediction-teams-lineups?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "Breaking: Suspected bird flu infection in red fox in metro Adelaide",
-        "description": "South Australian authorities say they have five new suspected events of bird flu in the state, including a red fox in Osborne in metropolitan Adelaide.",
-        "link": "https://www.abc.net.au/news/2026-08-26/red-fox-suspected-of-h5n1-infection-in-adelaide-suburb/107079798",
-        "source": "ABC News AU"
       }
     }
   ]
