@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T18:18:31+00:00",
+  "generated_at": "2026-08-26T20:41:07+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -44,9 +44,9 @@
       "source": "BBC News"
     },
     {
-      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-      "description": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
-      "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+      "title": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
+      "description": "It is thought to be part of efforts to consolidate the former coup leader's control.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,10 +72,22 @@
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 14,
+      "story": {
+        "title": "Songs created by AI banned from Australia's music charts",
+        "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+        "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 11,
+      "count": 12,
       "story": {
         "title": "Trump says all mines cleared from Strait of Hormuz",
         "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
@@ -87,24 +99,12 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 11,
+      "count": 12,
       "story": {
         "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
         "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
         "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 11,
-      "story": {
-        "title": "Songs created by AI banned from Australia's music charts",
-        "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
-        "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -123,11 +123,23 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 6,
+      "count": 8,
       "story": {
         "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
         "description": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
         "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 7,
+      "story": {
+        "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+        "description": "It is believed the mosquitoes arrived at Germany's busiest airport on a plane, according to German public health officials.",
+        "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,42 +156,6 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 5,
-      "story": {
-        "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
-        "description": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
-        "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
-      "story": {
-        "title": "Indian jewellery ad pulled after backlash over actor's outfit",
-        "description": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
-        "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 4,
-      "story": {
-        "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-        "description": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
-        "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
@@ -192,39 +168,87 @@
       }
     },
     {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 4,
+      "story": {
+        "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
+        "description": "SDF&#039;s dissolution is a major victory for Damascus, but unresolved questions over command and deployment remain.",
+        "link": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 3,
+      "story": {
+        "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+        "description": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
+        "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Quito",
+      "lat": -0.18,
+      "lon": -78.47,
+      "count": 3,
+      "story": {
+        "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+        "description": "It is believed the mosquitoes arrived at Germany's busiest airport on a plane, according to German public health officials.",
+        "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 3,
+      "story": {
+        "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+        "description": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
+        "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "Indian jewellery ad pulled after backlash over actor's outfit",
+        "description": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
+        "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
-      "count": 4,
+      "count": 3,
       "story": {
-        "title": "Cream puff restaurateur avoids jail over lies to corruption watchdog",
-        "description": "Valentine Yee, whose parents owns Sydney's Emperor's Garden, admitted to what a judge described as \"egregious\" lies to an ICAC inquiry for his brother.",
-        "link": "https://www.abc.net.au/news/2026-08-26/valentine-yee-sentenced-over-lies-to-icac/107081696",
-        "source": "ABC News AU"
+        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
+        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
+        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
+        "source": "SBS News"
       }
     },
     {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
-      "count": 3,
+      "count": 2,
       "story": {
         "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
         "description": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
         "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 3,
-      "story": {
-        "title": "Putin and al-Sharaa discuss Russia-Syria relations, deal on military bases",
-        "description": "Syria has been in talks on the fate of Khmeimim and Tartous bases, which Russia used to support ousted Assad regime.",
-        "link": "https://www.aljazeera.com/news/2026/8/26/putin-and-al-sharaa-discuss-russia-syria-relations-deal-on-military-bases?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -240,26 +264,14 @@
       }
     },
     {
-      "name": "Quito",
-      "lat": -0.18,
-      "lon": -78.47,
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
       "count": 2,
       "story": {
-        "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-        "description": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
-        "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "What do locals think of IndyCar in Washington DC?",
-        "description": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
-        "link": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
+        "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
+        "description": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage.",
+        "link": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,6 +288,18 @@
       }
     },
     {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "Israel-Hamas truce failure ‘point of no return,’ envoy warns",
+        "description": "Hamas has pledged to hand over its weapons as part of the US plan for Gaza, which Israeli PM Netanyahu has rejected.",
+        "link": "https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Kremlin",
       "lat": 55.75,
       "lon": 37.62,
@@ -288,38 +312,14 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 2,
       "story": {
-        "title": "Children in Gaza fear flying their kites after Israeli threat",
-        "description": "A 10-year-old boy who makes kites says he is afraid to fly them after Israel threatened to treat kites as acts of war.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Islamabad",
-      "lat": 33.7,
-      "lon": 73.06,
-      "count": 2,
-      "story": {
-        "title": "Locked inside: Grief and anger as Pakistan hospital fire kills 14 newborns",
-        "description": "A nursery for critical infants — supposedly the safest place in Islamabad&#039;s PIMS hospital — turned into a deathtrap.",
-        "link": "https://www.aljazeera.com/news/2026/8/26/locked-inside-grief-and-anger-as-pakistan-hospital-fire-kills-14-newborns?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 2,
-      "story": {
-        "title": "Body found as police investigate shooting of Melbourne father",
-        "description": "Homicide detectives find a body in their search for a Melbourne father who went missing after allegedly being shot.",
-        "link": "https://www.abc.net.au/news/2026-08-26/wildwood-shooting-human-remains-found/107082360",
+        "title": "De Minaur to head home for Davis Cup tie against Poland",
+        "description": "Alex de Minaur will return to Australia off the back of his US Open campaign to lead the Aussie charge in a Davis Cup clash in Brisbane.",
+        "link": "https://www.abc.net.au/news/2026-08-27/de-minaur-to-lead-davis-cup-team-against-poland/107082442",
         "source": "ABC News AU"
       }
     },
@@ -336,14 +336,14 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 1,
       "story": {
-        "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-        "description": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
-        "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+        "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
+        "description": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage.",
+        "link": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -444,6 +444,30 @@
       }
     },
     {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
+      "count": 1,
+      "story": {
+        "title": "UNRWA chief condemns Israeli seizure of East Jerusalem facility",
+        "description": "Christian Saunders tells Al Jazeera raid part of campaign to weaken agency and eliminate Palestinian rights.",
+        "link": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Damascus",
+      "lat": 33.5,
+      "lon": 36.3,
+      "count": 1,
+      "story": {
+        "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
+        "description": "SDF&#039;s dissolution is a major victory for Damascus, but unresolved questions over command and deployment remain.",
+        "link": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Tokyo",
       "lat": 35.68,
       "lon": 139.77,
@@ -468,18 +492,6 @@
       }
     },
     {
-      "name": "Cuba",
-      "lat": 21.52,
-      "lon": -77.78,
-      "count": 1,
-      "story": {
-        "title": "Syria removed: Which countries are still on the US ‘terror’ list – and why?",
-        "description": "The US decision leaves three nations - Cuba, Iran and North Korea - on its &#039;State Sponsors of Terrorism&#039; blacklist.",
-        "link": "https://www.aljazeera.com/news/2026/8/26/syria-removed-which-countries-are-still-on-the-us-terror-list-and-why?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Madrid",
       "lat": 40.42,
       "lon": -3.7,
@@ -492,50 +504,38 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "Bodies of missing people found in Korea becomes national scandal",
-        "description": "A police officer has been arrested after the bodies of four missing people were found on Jeju Island in South Korea.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 1,
-      "story": {
-        "title": "ICC chief urges Japan to counter US pressure on the court",
-        "description": "Washington escalated its campaign against the ICC last week by sanctioning its president and a senior trial lawyer.",
-        "link": "https://www.aljazeera.com/news/2026/8/26/icc-chief-urges-japan-to-counter-us-pressure-on-war-crimes-court?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "Canberra childcare centre ordered to close as provider enters administration",
-        "description": "Parents say they were unaware that the Charnwood centre was ordered to close for three months from next Thursday.",
-        "link": "https://www.abc.net.au/news/2026-08-26/canberra-edge-early-learning-suspension/107082324",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Adelaide",
       "lat": -34.93,
       "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Video shows antisemitic road rage abuse in Adelaide's CBD",
-        "description": "A Jewish woman visiting Adelaide was captured in a video being subjected to antisemitic abuse on her first day in the city, the Anti Defamation Commission says.",
-        "link": "https://www.abc.net.au/news/2026-08-26/antisemitic-abuse-road-rage-video-adelaide/107081548",
+        "title": "Most people don't survive brain cancer. Researchers hope to change that",
+        "description": "An Adelaide research project is investigating ways to treat brain cancer while having minimal impact on healthy tissue and the human immune system.",
+        "link": "https://www.abc.net.au/news/2026-08-27/adelaide-research-could-help-improve-how-brain-cancer-is-treated/107077362",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "'Bohemian' Melbourne schoolteacher Faye Berryman suspended",
+        "description": "The Victorian teaching watchdog has suspended Fitzroy Community School co-founder Faye Berryman's teaching registration on an interim basis following concerns raised by parents and former students.",
+        "link": "https://www.abc.net.au/news/2026-08-27/faye-berryman-fitzroy-community-school-investigation/107075762",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 1,
+      "story": {
+        "title": "De Minaur to head home for Davis Cup tie against Poland",
+        "description": "Alex de Minaur will return to Australia off the back of his US Open campaign to lead the Aussie charge in a Davis Cup clash in Brisbane.",
+        "link": "https://www.abc.net.au/news/2026-08-27/de-minaur-to-lead-davis-cup-team-against-poland/107082442",
         "source": "ABC News AU"
       }
     },
