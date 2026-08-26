@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T07:27:06+00:00",
+  "generated_at": "2026-08-26T08:10:31+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -87,7 +87,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 11,
       "story": {
         "title": "Songs created by AI banned from Australia's music charts",
         "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
@@ -108,18 +108,6 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 8,
-      "story": {
-        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-        "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
@@ -128,6 +116,18 @@
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
         "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
         "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 7,
+      "story": {
+        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+        "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,15 +144,15 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 5,
       "story": {
-        "title": "At least 14 newborn babies killed in Pakistan hospital nursery fire",
-        "description": "Prime minister orders investigation and promises &#039;strictest action&#039; against those responsible for the blaze.",
-        "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Former coach admits conspiring to falsify finswimming results for SEA Games selection",
+        "description": "The falsified documents led to six additional athletes being selected to represent Singapore in finswimming at the 2023 SEA Games.",
+        "link": "https://www.channelnewsasia.com/singapore/finswimming-coach-conspire-false-results-athletes-sea-games-6341966",
+        "source": "CNA"
       }
     },
     {
@@ -168,63 +168,39 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 4,
-      "story": {
-        "title": "Mediacorp wins Singapore Environmental Achievement Award 2026 for leadership and advocacy",
-        "description": "Businesses that treat climate risk as business risk, not a trade-off against growth, will be the ones that thrive, says Environment and Sustainability Minister Grace Fu.",
-        "link": "https://www.channelnewsasia.com/singapore/mediacorp-singapore-environmental-achievement-awards-2026-6341366",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 3,
-      "story": {
-        "title": "US removes Syria from list of state sponsors of terrorism",
-        "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
-        "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Sudan",
       "lat": 12.86,
       "lon": 30.22,
+      "count": 4,
+      "story": {
+        "title": "The RSF’s defeat will not end Sudan’s war but merely fragment it",
+        "description": "Sudanese army&#039;s battlefield gains rely on an armed coalition it may struggle to control once the common enemy is gone.",
+        "link": "https://www.aljazeera.com/opinions/2026/8/26/the-rsfs-defeat-will-not-end-sudans-war-but-merely-fragment-it?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 4,
+      "story": {
+        "title": "At least 14 newborn babies killed in Pakistan hospital nursery fire",
+        "description": "Prime minister orders investigation and promises &#039;strictest action&#039; against those responsible for the blaze.",
+        "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 3,
       "story": {
-        "title": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
-        "description": "Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, including four children.",
-        "link": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -237,6 +213,18 @@
         "description": "Malaysian leader&#039;s comments on the island have prompted discussion about whether the country is leaning towards China.",
         "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 3,
+      "story": {
+        "title": "'Things are not OK': Indonesians express anger with government",
+        "description": "President Prabowo Subianto has given his government an \"OK\" report card as it nears two years in office, but not everyone agrees, with some civil society groups raising white flags and others forming a \"shadow cabinet\".",
+        "link": "https://www.abc.net.au/news/2026-08-26/indonesia-avengers-and-white-flags-for-prabowo-subianto/107063464",
+        "source": "ABC News AU"
       }
     },
     {
@@ -288,6 +276,30 @@
       }
     },
     {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 2,
+      "story": {
+        "title": "US removes Syria from list of state sponsors of terrorism",
+        "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+        "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Saudi Arabia",
       "lat": 23.9,
       "lon": 45.1,
@@ -300,26 +312,38 @@
       }
     },
     {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 2,
       "story": {
-        "title": "Humpback whale beached at Port Kennedy in Perth's south",
-        "description": "A humpback whale has become beached on a sand bank in shallow water at Port Kennedy in Perth's southern suburbs.",
-        "link": "https://www.abc.net.au/news/2026-08-26/humpback-whale-beached-at-port-kennedy-in-perth-s-south/107081474",
-        "source": "ABC News AU"
+        "title": "Palestinian boy shot during Israeli raid on UNRWA centre",
+        "description": "Video shows the moment a Palestinian boy was shot during an Israeli raid on a UN facility in occupied East Jerusalem.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
       "count": 2,
       "story": {
-        "title": "'Things are not OK': Indonesians express anger with government",
-        "description": "President Prabowo Subianto has given his government an \"OK\" report card as it nears two years in office, but not everyone agrees, with some civil society groups raising white flags and others forming a \"shadow cabinet\".",
-        "link": "https://www.abc.net.au/news/2026-08-26/indonesia-avengers-and-white-flags-for-prabowo-subianto/107063464",
+        "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
+        "description": "Malaysian leader&#039;s comments on the island have prompted discussion about whether the country is leaning towards China.",
+        "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 2,
+      "story": {
+        "title": "Melbourne attack accused tells court 'at least they're both still breathing'",
+        "description": "The 27-year-old was remanded in custody after being charged with repeatedly stabbing a woman and punching her 10-year-old child outside the Victoria Police headquarters.",
+        "link": "https://www.abc.net.au/news/2026-08-26/man-appears-in-court-after-woman-and-child-attacked-melbourne/107082022",
         "source": "ABC News AU"
       }
     },
@@ -356,18 +380,6 @@
         "title": "Our Times actress Tsai Yi-chen arrested in Japan for allegedly pouring oil on temple monument",
         "description": "The Taiwanese actress allegedly vandalised a temple monument in Japan in April this year and was arrested in August after re-entering the country.",
         "link": "https://www.channelnewsasia.com/entertainment/tsai-yi-chen-arrested-japan-6342026",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 2,
-      "story": {
-        "title": "South Korea's Lee calls for greater police accountability after Jeju missing-person cases",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/east-asia/south-koreas-lee-calls-greater-police-accountability-after-jeju-missing-person-cases-6341566",
         "source": "CNA"
       }
     },
@@ -528,26 +540,14 @@
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
       "count": 1,
       "story": {
-        "title": "Fireworks factory goes up in smoke in Mexico",
-        "description": "Two explosions have hit a fireworks facility in Tultepec, Mexico, sending a spectacular mix of flames and explosions",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
-        "description": "Israeli soldiers blocked Knesset member Ofer Cassif from reaching a Palestinian family home in the occupied West Bank.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss",
+        "title": "Palestinian boy shot during Israeli raid on UNRWA centre",
+        "description": "Video shows the moment a Palestinian boy was shot during an Israeli raid on a UN facility in occupied East Jerusalem.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss",
         "source": "Al Jazeera"
       }
     }
