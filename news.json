@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:02:59+00:00",
+  "generated_at": "2026-08-26T11:57:31+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,9 +32,9 @@
   ],
   "australia": [
     {
-      "title": "Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border",
-      "description": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
+      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+      "description": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
+      "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -75,7 +75,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 15,
+      "count": 13,
       "story": {
         "title": "Trump says all mines cleared from Strait of Hormuz",
         "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
@@ -87,7 +87,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 10,
+      "count": 11,
       "story": {
         "title": "Songs created by AI banned from Australia's music charts",
         "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
@@ -96,10 +96,22 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 9,
+      "story": {
+        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+        "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
         "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
@@ -116,18 +128,6 @@
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
         "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
         "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 7,
-      "story": {
-        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-        "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,18 +156,6 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 6,
-      "story": {
-        "title": "Singapore cannot rely on more land, labour or carbon for next phase of growth: Tan See Leng",
-        "description": "Asked how the government weighed the pros and cons for the proposed western island, Dr Tan See Leng said there are many uncertain development timelines involved, and that detailed environmental studies will be conducted.",
-        "link": "https://www.channelnewsasia.com/singapore/economy-trade-geopolitics-western-islands-environmental-6342311",
-        "source": "CNA"
-      }
-    },
-    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
@@ -180,15 +168,27 @@
       }
     },
     {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 5,
+      "story": {
+        "title": "Singapore cannot rely on more land, labour or carbon for next phase of growth: Tan See Leng",
+        "description": "Asked how the government weighed the pros and cons for the proposed western island, Dr Tan See Leng said there are many uncertain development timelines involved, and that detailed environmental studies will be conducted.",
+        "link": "https://www.channelnewsasia.com/singapore/economy-trade-geopolitics-western-islands-environmental-6342311",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 4,
       "story": {
-        "title": "Is Japan trying to build bridges with China after Taiwan spat?",
-        "description": "Experts say Japanese lawmakers&#039; visit to Beijing signals an attempt by Japan to defrost its worst China rift in decades.",
-        "link": "https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Indian jewellery ad pulled after backlash over actor's outfit",
+        "description": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
+        "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -209,21 +209,21 @@
       "lon": -77.04,
       "count": 4,
       "story": {
-        "title": "Trees are vital for cooler cities, but they need help too",
-        "description": "Record-breaking heat and drought are putting urban trees at risk. Experts explain how to protect these essential assets and build city forests that can withstand the climate challenges ahead.",
-        "link": "https://www.dw.com/en/trees-are-vital-for-cooler-cities-but-they-need-help-too/a-78488665?maca=en-rss-en-all-1573-rdf",
+        "title": "India: Assam tea industry faces climate-driven labor crisis",
+        "description": "Plantations in Assam produce more than half of India's tea. But rising heat is hurting yields, workers are increasingly leaving for more stable work, and producers are feeling the squeeze of stagnant tea prices.",
+        "link": "https://www.dw.com/en/india-assam-tea-industry-faces-climate-driven-labor-crisis/a-78506414?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 3,
       "story": {
-        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-        "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-        "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+        "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -231,6 +231,18 @@
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "Is Japan trying to build bridges with China after Taiwan spat?",
+        "description": "Experts say Japanese lawmakers&#039; visit to Beijing signals an attempt by Japan to defrost its worst China rift in decades.",
+        "link": "https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Taiwan",
+      "lat": 23.7,
+      "lon": 121.0,
       "count": 3,
       "story": {
         "title": "Is Japan trying to build bridges with China after Taiwan spat?",
@@ -252,6 +264,30 @@
       }
     },
     {
+      "name": "Islamabad",
+      "lat": 33.7,
+      "lon": 73.06,
+      "count": 2,
+      "story": {
+        "title": "At least 14 babies die in Pakistan hospital fire",
+        "description": "The fire broke out in an air conditioning unit at the mother and child unit in one of Islamabad's main hospitals.",
+        "link": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 2,
+      "story": {
+        "title": "At least 14 babies die in Pakistan hospital fire",
+        "description": "The fire broke out in an air conditioning unit at the mother and child unit in one of Islamabad's main hospitals.",
+        "link": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
@@ -264,26 +300,26 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 2,
       "story": {
-        "title": "Indian jewellery ad pulled after backlash over actor's outfit",
-        "description": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
-        "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
+        "title": "Radiation link in flight attendant's breast cancer, French court finds",
+        "description": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
+        "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
       "count": 2,
       "story": {
-        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-        "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+        "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+        "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -297,6 +333,30 @@
         "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
         "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Firms scramble for battery power in Spain and Portugal",
+        "description": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+        "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 2,
+      "story": {
+        "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
+        "description": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
+        "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -324,18 +384,6 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 2,
-      "story": {
-        "title": "Pakistan: Islamabad hospital fire kills at least 14 infants",
-        "description": "A fire broke out in the third floor of a maternity ward in Islamabad. Pakistani Prime Minister Shehbaz Sharif has called for an immediate investigation into the tragedy.",
-        "link": "https://www.dw.com/en/pakistan-islamabad-hospital-fire-kills-at-least-14-infants/a-78503056?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Indonesia",
       "lat": -2.5,
       "lon": 118.0,
@@ -345,6 +393,18 @@
         "description": "The country’s meteorology agency detected 4,508 hotspots on Wednesday morning (Aug 26), with nearly eight in 10 in Kalimantan. President Prabowo Subianto has instructed officials to do more in preventing forest and land ",
         "link": "https://www.channelnewsasia.com/asia/indonesia-forest-fires-haze-kalimantan-6342171",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "Quito",
+      "lat": -0.18,
+      "lon": -78.47,
+      "count": 1,
+      "story": {
+        "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+        "description": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
+        "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -384,42 +444,6 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 1,
-      "story": {
-        "title": "Moment tornado tears through southern France",
-        "description": "The tornado has injured more than 40 people and destroyed homes in villages.",
-        "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "What do locals think of IndyCar in Washington DC?",
-        "description": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
-        "link": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Firms scramble for battery power in Spain and Portugal",
-        "description": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
-        "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Portugal",
       "lat": 39.4,
       "lon": -8.22,
@@ -428,18 +452,6 @@
         "title": "Firms scramble for battery power in Spain and Portugal",
         "description": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
         "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
-      "count": 1,
-      "story": {
-        "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-        "description": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
-        "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
       }
     },
@@ -476,6 +488,18 @@
         "title": "China’s Xi to visit Kyrgyzstan, Egypt",
         "description": "The Chinese president will attend the SCO summit in Bishkek, before travelling to Egypt.",
         "link": "https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 1,
+      "story": {
+        "title": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
+        "description": "Attacks spark fires at Lukoil&#039;s NORSI refinery and a Wildberries hub as Kyiv claims 16 targets hit across Russia.",
+        "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -525,30 +549,6 @@
         "description": "Sudanese army&#039;s battlefield gains rely on an armed coalition it may struggle to control once the common enemy is gone.",
         "link": "https://www.aljazeera.com/opinions/2026/8/26/the-rsfs-defeat-will-not-end-sudans-war-but-merely-fragment-it?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
-      "count": 1,
-      "story": {
-        "title": "Fireworks factory goes up in smoke in Mexico",
-        "description": "Two explosions have hit a fireworks facility in Tultepec, Mexico, sending a spectacular mix of flames and explosions",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "Canberra childcare centre ordered to close as provider enters administration",
-        "description": "Parents say they were unaware that the Charnwood centre was ordered to close for three months from next Thursday.",
-        "link": "https://www.abc.net.au/news/2026-08-26/canberra-edge-early-learning-suspension/107082324",
-        "source": "ABC News AU"
       }
     }
   ]
