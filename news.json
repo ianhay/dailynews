@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T01:52:38+00:00",
+  "generated_at": "2026-08-29T08:51:17+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "description": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
       "description": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
       "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
@@ -22,18 +28,12 @@
       "description": "In a letter, the entrepreneur accuses the prime minister of \"jumping on 'everyday fixes' or bandwagons\" with his latest cost of living and retail policies.",
       "link": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Thousands take part in March on Washington to promote voting rights",
-      "description": "Protest draws crowds to Washington, DC amid Trump&#039;s threats of interference, voting restrictions in midterm elections.",
-      "link": "https://www.aljazeera.com/gallery/2026/8/28/thousands-take-part-in-march-on-washington-to-promote-voting-rights?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "australia": [
     {
-      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
-      "description": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy.",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -64,9 +64,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "Israeli strike kills three Palestinians in Jenin",
-      "description": "An Israeli drone strike killed three Palestinians in Jenin, the first such attack in the West Bank since February 2025.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss",
+      "title": "Iceland heads to the polls in knife-edge vote on restarting EU talks",
+      "description": "Amid economic and security challenges, Iceland is holding a referendum more than a decade after pausing accession talks.",
+      "link": "https://www.aljazeera.com/news/2026/8/29/why-is-iceland-considering-joining-the-eu?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
@@ -75,9 +75,9 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 10,
       "story": {
-        "title": "Entitled travellers and bad influencers test outback hospitality",
+        "title": "Tourists having 'dummy spits' in remote WA taking a toll on business owners",
         "description": "Small gripes and big demands by travellers in remote areas are taking the shine off bush hospitality in Western Australia, with overblown social media travel posts blamed for inflating or misdirecting tourists' expectati",
         "link": "https://www.abc.net.au/news/2026-08-29/entitled-travellers-and-bad-influencers-take-a-toll-on-outback/107084674",
         "source": "ABC News AU"
@@ -87,11 +87,23 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
         "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
         "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 7,
+      "story": {
+        "title": "US plans to cut off military aid to key Middle East ally, BBC told",
+        "description": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
+        "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -108,39 +120,15 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 6,
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 5,
       "story": {
-        "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-        "description": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
-        "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 6,
-      "story": {
-        "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-        "description": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
-        "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 6,
-      "story": {
-        "title": "Former ASIO agent offers to give evidence to Bondi royal commission",
-        "description": "The former agent, known as Marcus, worked with ASIO to infiltrate Islamic State networks in Western Sydney years before the attack.",
-        "link": "https://www.abc.net.au/news/2026-08-29/bondi-royal-commission-could-hear-from-former-asio-agent-/107090920",
-        "source": "ABC News AU"
       }
     },
     {
@@ -149,21 +137,21 @@
       "lon": 10.4,
       "count": 5,
       "story": {
-        "title": "Germany news: Baltic summit plans hybrid-threat task force",
-        "description": "Ministers from countries bordering the Baltic Sea have agreed on a rapid response force to counter hybrid threats. Meanwhile, the far-right AfD has failed to topple a state premier. DW has more updates from Germany.",
-        "link": "https://www.dw.com/en/germany-news-baltic-summit-plans-hybrid-threat-task-force/live-78540334?maca=en-rss-en-all-1573-rdf",
+        "title": "This extremely successful author polarizes German readers",
+        "description": "She's young and she says what she thinks: Caroline Wahl is topping Germany's bestseller lists with her novels. But she has also faced public backlash.",
+        "link": "https://www.dw.com/en/this-extremely-successful-author-polarizes-german-readers/a-78500452?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
       "count": 4,
       "story": {
-        "title": "Canada poaches dozens of top US researchers for its universities",
-        "description": "Researchers in fields like climate and medicine are being lured north by new research funding.",
-        "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
+        "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+        "description": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
+        "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,33 +168,21 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
-        "description": "Ongoing Russian attacks have killed several people and wounded dozens across Ukraine.",
-        "link": "https://www.aljazeera.com/news/2026/8/28/ukraines-zelenskyy-plans-to-hit-russia-with-1000-drones-a-day?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Jai Arrow makes emotional return for South Sydney",
+        "description": "South Sydney's Jai Arrow appears in the first of his final two matches for the Rabbitohs, leading the club out for their game against Gold Coast.",
+        "link": "https://www.abc.net.au/news/2026-08-29/jai-arrow-return-for-south-sydney/107093816",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 3,
-      "story": {
-        "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
-        "description": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 3,
       "story": {
         "title": "Canada poaches dozens of top US researchers for its universities",
@@ -216,15 +192,75 @@
       }
     },
     {
-      "name": "Oslo",
-      "lat": 59.91,
-      "lon": 10.75,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 3,
+      "story": {
+        "title": "Bernie Sanders, AOC join marchers in Washington to ‘defend the vote’",
+        "description": "Thousands of people marched on Washington DC, invoking Martin Luther King Jr.’s legacy on the 63rd anniversary.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/bernie-sanders-aoc-join-marchers-in-washington-to-defend-the?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 3,
+      "story": {
+        "title": "Live: Demons and Blues bid to stay alive in AFL wildcard clash",
+        "description": "We're back at the MCG as Melbourne take on Carlton led by newly-confirmed permanent coach Josh Fraser as they try to keep their seasons alive. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-08-29/afl-wildcard-melbourne-carlton-live-blog/107093746",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 2,
       "story": {
-        "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-        "description": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
-        "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+        "title": "Canada poaches dozens of top US researchers for its universities",
+        "description": "Researchers in fields like climate and medicine are being lured north by new research funding.",
+        "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Vienna",
+      "lat": 48.21,
+      "lon": 16.37,
+      "count": 2,
+      "story": {
+        "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
+        "description": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
+        "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 2,
+      "story": {
+        "title": "India and Pakistan are united in spending citizen lives like pocket change",
+        "description": "Recent hospital fires expose how little decades of national achievement mean when basic public safety still fails.",
+        "link": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ecuador",
+      "lat": -1.83,
+      "lon": -78.18,
+      "count": 2,
+      "story": {
+        "title": "Ecuador sentences ex-president Moreno to five years in jail in bribery case",
+        "description": "Lenin Moreno, 73, has also been permanently barred from holding any public office in the future.",
+        "link": "https://www.aljazeera.com/news/2026/8/29/ecuador-sentences-ex-president-moreno-to-five-years-in-jail-in-bribery-case?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -240,61 +276,13 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 2,
-      "story": {
-        "title": "RSS chief’s US visit faces protests over Hindu nationalism",
-        "description": "Indian Hindu leader Mohan Bhagwat is due to speak in New York as human rights groups protest his visit.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-hr-groups-against-the-rss-fm?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "The Hague",
-      "lat": 52.08,
-      "lon": 4.31,
-      "count": 2,
-      "story": {
-        "title": "Timeline: Life of Ratko Mladic, general turned ‘Butcher of Bosnia’",
-        "description": "Mladic died in prison in The Hague after failed requests by Serbian authorities to secure early release to home country.",
-        "link": "https://www.aljazeera.com/news/2026/8/28/timeline-life-of-ratko-mladic-general-turned-butcher-of-bosnia?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
-      "count": 2,
-      "story": {
-        "title": "Timeline: Life of Ratko Mladic, general turned ‘Butcher of Bosnia’",
-        "description": "Mladic died in prison in The Hague after failed requests by Serbian authorities to secure early release to home country.",
-        "link": "https://www.aljazeera.com/news/2026/8/28/timeline-life-of-ratko-mladic-general-turned-butcher-of-bosnia?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 2,
-      "story": {
-        "title": "Planned statue of ex-Victorian premier Daniel Andrews scrapped",
-        "description": "Victorian premier Ben Carroll has cancelled plans to immortalise his predecessor Dan Andrews in statue form outside Melbourne's Treasury Place.",
-        "link": "https://www.abc.net.au/news/2026-08-29/statue-tribute-to-daniel-andrews-scrapped/107093218",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Beijing",
       "lat": 39.9,
       "lon": 116.4,
       "count": 2,
       "story": {
         "title": "Why China's censors are scrubbing videos of the Nepal-Tibet floods",
-        "description": "After horrifying video of a landslide hitting China-controlled Tibet emerged online it started to disappear in China. This is just one way Beijing is trying to control information about the disaster.",
+        "description": "After a horrifying video of a landslide hitting China-controlled Tibet emerged online, it started to disappear in China. This is just one way Beijing is trying to control information about the disaster.",
         "link": "https://www.abc.net.au/news/2026-08-29/china-censors-scrubbing-videos-of-tibet-nepal-flood/107090348",
         "source": "ABC News AU"
       }
@@ -309,6 +297,54 @@
         "description": "Of the over 70,000 migrants who illegally crossed into Ceuta from Morocco in late July, some 5,000 still remain in the Spanish exclave. Ceuta residents have been angrily protesting their continued presence.",
         "link": "https://www.dw.com/en/spain-asks-eu-s-frontex-for-help-in-processing-ceuta-migrants/a-78553545?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Widow of British passenger who died after SQ321 turbulence sues Singapore Airlines",
+        "description": "Linda Kitchen, 74, suffered a broken back in the May 2024 incident and is seeking damages to fund specialist support, the BBC reported.",
+        "link": "https://www.channelnewsasia.com/singapore/sq321-widow-passenger-sues-singapore-airlines-6349151",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 2,
+      "story": {
+        "title": "The challenge brewing behind the front lines in Ukraine",
+        "description": "A growing dispute has opened a new political front for Ukraine's president as the country continues to fight for its future.",
+        "link": "https://www.sbs.com.au/news/article/ukraine-election-zelenskyy-fedorov-protests/fkikayej6",
+        "source": "SBS News"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+        "description": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Oslo",
+      "lat": 59.91,
+      "lon": 10.75,
+      "count": 1,
+      "story": {
+        "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
+        "description": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
+        "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -332,18 +368,6 @@
         "title": "Berlin is being blackmailed by hackers, mayor says",
         "description": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
         "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Vienna",
-      "lat": 48.21,
-      "lon": 16.37,
-      "count": 1,
-      "story": {
-        "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-        "description": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
-        "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -408,14 +432,38 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 1,
       "story": {
-        "title": "Thousands take part in March on Washington to promote voting rights",
-        "description": "Protest draws crowds to Washington, DC amid Trump&#039;s threats of interference, voting restrictions in midterm elections.",
-        "link": "https://www.aljazeera.com/gallery/2026/8/28/thousands-take-part-in-march-on-washington-to-promote-voting-rights?traffic_source=rss",
+        "title": "Aston Villa sign Chelsea striker Nicolas Jackson for reported club record",
+        "description": "Jackson arrives as a replacement for Ollie Watkins, whose move to Saudi Arabian side Al Hilal is being finalised.",
+        "link": "https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "India and Pakistan are united in spending citizen lives like pocket change",
+        "description": "Recent hospital fires expose how little decades of national achievement mean when basic public safety still fails.",
+        "link": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Iran war live: Tehran pledges to stand firm against ‘unjust’ US sanctions",
+        "description": "Iran says it will rely equally on diplomacy and defence to protect its interests.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -444,51 +492,15 @@
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
+      "name": "European Union",
+      "lat": 50.85,
+      "lon": 4.35,
       "count": 1,
       "story": {
-        "title": "Colombia’s new president faces backlash over ‘inhumane’ deportation policy",
-        "description": "Less than a month into his presidency, Abelardo de la Espriella has announced effort to expel undocumented immigrants.",
-        "link": "https://www.aljazeera.com/news/2026/8/28/colombias-new-president-faces-backlash-over-inhumane-deportation-policy?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Nairobi",
-      "lat": -1.29,
-      "lon": 36.82,
-      "count": 1,
-      "story": {
-        "title": "Police fire teargas at Kenyan traders protesting higher taxes on imports",
-        "description": "Kenyan police fired teargas at traders in the capital Nairobi on Friday, during a protest against higher taxes.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/police-fire-teargas-at-kenyan-traders-protesting-higher-taxes-on-imports?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 1,
-      "story": {
-        "title": "Police fire teargas at Kenyan traders protesting higher taxes on imports",
-        "description": "Kenyan police fired teargas at traders in the capital Nairobi on Friday, during a protest against higher taxes.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/police-fire-teargas-at-kenyan-traders-protesting-higher-taxes-on-imports?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 1,
-      "story": {
-        "title": "Deadly Russian strikes hit civilian targets in Ukraine",
-        "description": "Russia intensified attacks across Ukraine, killing civilians and damaging homes and warehouses near Kyiv",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/deadly-russian-strikes-hit-civilian-targets-in-ukraine?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Interest rates, fish and Donald Trump on Icelanders' minds as nation goes to referendum on EU",
+        "description": "Iceland is a nation divided as its people go to a referendum this weekend to decide whether it should restart negotiations on joining the European Union.",
+        "link": "https://www.abc.net.au/news/2026-08-29/iceland-referendum-on-restarting-talks-to-join-european-union/107084870",
+        "source": "ABC News AU"
       }
     },
     {
@@ -516,38 +528,26 @@
       }
     },
     {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 1,
       "story": {
-        "title": "Labor's MotoGP coup crashes into an all-too-familiar parklands wall",
-        "description": "One day, Peter Malinauskas might bask in the glory of bringing another popular major event to Adelaide. For now, his MotoGP coup is being fiercely resisted.",
-        "link": "https://www.abc.net.au/news/2026-08-29/adelaide-moto-gp-parklands-gravel-trap/107085922",
-        "source": "ABC News AU"
+        "title": "South Korea leans toward military conscription for women",
+        "description": "Facing a population decline, fewer potential service members and calls for social equality to be extended to national military service, Korea is inching closer to breaking the taboo on women on the front line.",
+        "link": "https://www.dw.com/en/south-korea-leans-toward-military-conscription-for-women/a-78547426?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
+      "name": "Serbia",
+      "lat": 44.02,
+      "lon": 21.01,
       "count": 1,
       "story": {
-        "title": "Australian talent is the biggest loser in Super Netball signings",
-        "description": "Several Australians miss out on playing contracts in the world's best league as New Zealand's competition collapses.",
-        "link": "https://www.abc.net.au/news/2026-08-29/aussie-talent-the-biggest-loser-in-super-netball-signings/107092654",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 1,
-      "story": {
-        "title": "Austria museum heist: Thieves snatch diamond necklace",
-        "description": "The stolen necklace, studded with 673 precious stones, belonged to Egypt's Queen Nazli. It was being displayed as part of the museum's exhibition for designs by France's Van Cleef and Arpels.",
-        "link": "https://www.dw.com/en/austria-museum-heist-thieves-snatch-diamond-necklace/a-78552889?maca=en-rss-en-all-1573-rdf",
+        "title": "Serbia: Keeping EU, Russia in play ahead of key election",
+        "description": "As Serbia heads towards an uncertain election, President Aleksandar Vucic is balancing ties with Russia and EU ambitions. But growing geopolitical tensions and pressure at home are narrowing his room to maneuver.",
+        "link": "https://www.dw.com/en/serbia-keeping-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
