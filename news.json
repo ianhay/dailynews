@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T14:18:52+00:00",
+  "generated_at": "2026-08-29T17:49:52+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
       "title": "Close race as Iceland votes on whether to restart talks on joining EU",
       "description": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
       "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Violence breaks out in Ceuta as migrant crisis continues",
-      "description": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -64,9 +64,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
-      "description": "At least four people trapped inside their home, as earlier siege on Palestinian families has continued for three weeks.",
-      "link": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss",
+      "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+      "description": "Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
@@ -75,31 +75,19 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 10,
+      "count": 11,
       "story": {
-        "title": "Tourists having 'dummy spits' taking a toll on business owners in remote WA",
-        "description": "Small gripes and big demands by travellers in remote areas are taking the shine off bush hospitality in Western Australia, with overblown social media travel posts blamed for inflating or misdirecting tourists' expectati",
-        "link": "https://www.abc.net.au/news/2026-08-29/entitled-travellers-and-bad-influencers-take-a-toll-on-outback/107084674",
+        "title": "One Nation secures historic victory in Secret Harbour by-election",
+        "description": "One Nation scores a historic win in Western Australia, securing its first lower house seat in the state.",
+        "link": "https://www.abc.net.au/news/2026-08-30/one-nation-claims-win-secret-harbour-by-election/107094074",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 7,
-      "story": {
-        "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-        "description": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
-        "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 6,
+      "count": 9,
       "story": {
         "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
         "description": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
@@ -108,14 +96,26 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 5,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 6,
       "story": {
-        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-        "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+        "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 6,
+      "story": {
+        "title": "US plans to cut off military aid to key Middle East ally, BBC told",
+        "description": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
+        "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,15 +132,15 @@
       }
     },
     {
-      "name": "Norway",
-      "lat": 60.47,
-      "lon": 8.47,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 5,
       "story": {
-        "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-        "description": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-        "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+        "description": "Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -156,26 +156,26 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 4,
       "story": {
-        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-        "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-        "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+        "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
       "count": 4,
       "story": {
-        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+        "description": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
+        "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,6 +192,18 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
+        "description": "Activists say Hindu nationalists have sought to mask far-right politics through broad appeals to the Indian diaspora.",
+        "link": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
@@ -204,26 +216,38 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
       "count": 3,
       "story": {
-        "title": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
-        "description": "At least four people trapped inside their home, as earlier siege on Palestinian families has continued for three weeks.",
-        "link": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss",
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 3,
+      "story": {
+        "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+        "description": "Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 3,
       "story": {
-        "title": "India and Pakistan are united in spending citizen lives like pocket change",
-        "description": "Recent hospital fires expose how little decades of national achievement mean when basic public safety still fails.",
-        "link": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss",
+        "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+        "description": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
+        "link": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -300,50 +324,14 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 2,
       "story": {
-        "title": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
-        "description": "At least four people trapped inside their home, as earlier siege on Palestinian families has continued for three weeks.",
-        "link": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
-        "description": "After nearly three years of war, a farmer returns to Sheikh Ijlin’s renowned grape fields.",
-        "link": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 2,
-      "story": {
-        "title": "Indonesia sets up shelters for babies, children affected by wildfire smoke",
-        "description": "Indonesia sets up shelters for babies, children affected by wildfire smoke",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/indonesia-sets-up-shelters-for-babies-children-affected-by-wildfire-smoke?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "Bernie Sanders, AOC join marchers in Washington to ‘defend the vote’",
-        "description": "Thousands of people marched on Washington DC, invoking Martin Luther King Jr.’s legacy on the 63rd anniversary.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/bernie-sanders-aoc-join-marchers-in-washington-to-defend-the?traffic_source=rss",
+        "title": "Korea divided: A sister’s long wait and a defector’s bid to save his mother",
+        "description": "An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.",
+        "link": "https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -444,6 +432,30 @@
       }
     },
     {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 1,
+      "story": {
+        "title": "People stranded for days on dilapidated Nigerian highway",
+        "description": "Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 1,
+      "story": {
+        "title": "Korea divided: A sister’s long wait and a defector’s bid to save his mother",
+        "description": "An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.",
+        "link": "https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Jerusalem",
       "lat": 31.78,
       "lon": 35.22,
@@ -456,26 +468,14 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 1,
       "story": {
-        "title": "Aston Villa sign Chelsea striker Nicolas Jackson for reported club record",
-        "description": "Jackson arrives as a replacement for Ollie Watkins, whose move to Saudi Arabian side Al Hilal is being finalised.",
-        "link": "https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "India and Pakistan are united in spending citizen lives like pocket change",
-        "description": "Recent hospital fires expose how little decades of national achievement mean when basic public safety still fails.",
-        "link": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss",
+        "title": "Indonesia sets up shelters for babies, children affected by wildfire smoke",
+        "description": "Indonesia sets up shelters for babies, children affected by wildfire smoke",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/indonesia-sets-up-shelters-for-babies-children-affected-by-wildfire-smoke?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -528,9 +528,9 @@
       }
     },
     {
-      "name": "Ecuador",
-      "lat": -1.83,
-      "lon": -78.18,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
         "title": "US, Ecuador forces strike alleged drug smuggling boat",
@@ -540,14 +540,14 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Ecuador",
+      "lat": -1.83,
+      "lon": -78.18,
       "count": 1,
       "story": {
-        "title": "South Korea leans toward military conscription for women",
-        "description": "Facing a population decline, fewer potential service members and calls for social equality to be extended to national military service, Korea is inching closer to breaking the taboo on women on the front line.",
-        "link": "https://www.dw.com/en/south-korea-leans-toward-military-conscription-for-women/a-78547426?maca=en-rss-en-all-1573-rdf",
+        "title": "US, Ecuador forces strike alleged drug smuggling boat",
+        "description": "Tackling drug trafficking in Latin America is a key priority for Washington. In March, Ecuador joined a US-led coalition to combat the drug trade in the region.",
+        "link": "https://www.dw.com/en/us-ecuador-forces-strike-alleged-drug-smuggling-boat/a-78555711?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
