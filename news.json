@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T20:46:32+00:00",
+  "generated_at": "2026-08-29T23:10:20+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 15,
       "story": {
         "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
         "description": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
@@ -87,7 +87,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 7,
       "story": {
         "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
         "description": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
@@ -96,22 +96,10 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 7,
-      "story": {
-        "title": "Gaza runs out of cancer medicines, as Israeli strikes continue",
-        "description": "Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 5,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 6,
       "story": {
         "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
         "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
@@ -120,14 +108,26 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 5,
       "story": {
-        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-        "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-        "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+        "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
+      "count": 5,
+      "story": {
+        "title": "Norway's new king remembers 'my dear father' in first speech",
+        "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,10 +144,22 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "Gaza runs out of cancer medicines, as Israeli strikes continue",
+        "description": "Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "US judge rules against Trump’s effort to deport pro-Palestinian students",
         "description": "A federal judge criticised the Trump government for attempting to infringe upon foreign students&#039; rights to free speech.",
@@ -156,50 +168,50 @@
       }
     },
     {
-      "name": "Norway",
-      "lat": 60.47,
-      "lon": 8.47,
-      "count": 4,
-      "story": {
-        "title": "Norway's new king remembers 'my dear father' in first speech",
-        "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Jai Arrow makes emotional return for South Sydney",
-        "description": "South Sydney's Jai Arrow appears in the first of his final two matches for the Rabbitohs, leading the club out for their game against Gold Coast.",
-        "link": "https://www.abc.net.au/news/2026-08-29/jai-arrow-return-for-south-sydney/107093816",
+        "title": "Breaking: Addisu Gobena wins the 2026 Sydney Marathon, as 40K runners take part",
+        "description": "Ethiopian athlete Addisu Gobena wins the 2026 Sydney Marathon, touted as the largest marathon in the Southern Hemisphere.",
+        "link": "https://www.abc.net.au/news/2026-08-30/nsw-sydney-marathon-2026-results/107093806",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 4,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 3,
       "story": {
-        "title": "Germany news: Sick leave wage bill doubles in 15 years",
-        "description": "German firms paid out a record €86 billion in wages to employees on sick leave last year, according to new research. Meanwhile, dozens of firefighters tackled a blaze at a refugee home in Berlin overnight. DW has more.",
-        "link": "https://www.dw.com/en/germany-news-sick-leave-wage-bill-doubles-in-15-years/live-78555302?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+        "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
       "count": 3,
       "story": {
-        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-        "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 3,
+      "story": {
+        "title": "Canada poaches dozens of top US researchers for its universities",
+        "description": "Researchers in fields like climate and medicine are being lured north by new research funding.",
+        "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,27 +228,15 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
       "count": 3,
       "story": {
-        "title": "The rise of K-Beauty: Can South Korea overtake France?",
-        "description": "South Korea’s beauty industry has surpassed the US to become the world’s second-largest cosmetics exporter.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/the-rise-of-k-beauty-can-south-korea-overtake-france?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
-        "description": "Activists say Hindu nationalists have sought to mask far-right politics through broad appeals to the Indian diaspora.",
-        "link": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Germany news: Sick leave wage bill doubles in 15 years",
+        "description": "German firms paid out a record €86 billion in wages to employees on sick leave last year, according to new research. Meanwhile, dozens of firefighters tackled a blaze at a refugee home in Berlin overnight. DW has more.",
+        "link": "https://www.dw.com/en/germany-news-sick-leave-wage-bill-doubles-in-15-years/live-78555302?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -252,33 +252,9 @@
       }
     },
     {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 2,
-      "story": {
-        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 2,
-      "story": {
-        "title": "Canada poaches dozens of top US researchers for its universities",
-        "description": "Researchers in fields like climate and medicine are being lured north by new research funding.",
-        "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
       "count": 2,
       "story": {
         "title": "Canada poaches dozens of top US researchers for its universities",
@@ -324,9 +300,21 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "What’s behind the US deal to seize control of Venezuelan oil reserves?",
+        "description": "Few details have emerged about deal between Washington and Caracas, criticised as takeover of Venezuela&#039;s resources.",
+        "link": "https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 2,
       "story": {
         "title": "The rise of K-Beauty: Can South Korea overtake France?",
@@ -336,15 +324,27 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 2,
       "story": {
-        "title": "Pakistan suspends eight officials over hospital fire that killed 14 babies",
-        "description": "Interim inquiry finds lack of fire safety protocols at Islamabad hospital, prompting suspensions and criminal probe.",
-        "link": "https://www.aljazeera.com/news/2026/8/29/pakistan-suspends-eight-officials-over-hospital-fire-that-killed-14-babies?traffic_source=rss",
+        "title": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
+        "description": "Activists say Hindu nationalists have sought to mask far-right politics through broad appeals to the Indian diaspora.",
+        "link": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 2,
+      "story": {
+        "title": "A 'pigeon overlord', celebrity visits and iconic spheres: Rundle Mall turns 50",
+        "description": "It was the country's first major pedestrian-only shopping mall and labelled an \"international leader\" for its people-centric design. Now Adelaide's Rundle Mall is celebrating its 50th anniversary.",
+        "link": "https://www.abc.net.au/news/2026-08-30/rundle-mall-50th-anniversary/107085884",
+        "source": "ABC News AU"
       }
     },
     {
@@ -357,6 +357,18 @@
         "description": "Of the over 70,000 migrants who illegally crossed into Ceuta from Morocco in late July, some 5,000 still remain in the Spanish exclave. Ceuta residents have been angrily protesting their continued presence.",
         "link": "https://www.dw.com/en/spain-asks-eu-s-frontex-for-help-in-processing-ceuta-migrants/a-78553545?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Singapore architect Chang Yong Ter believes good architecture can make us better humans",
+        "description": "For more than two decades, the founder of Chang Architects has created distinctive Singapore homes shaped by nature, spirituality and an instinct to do things differently.",
+        "link": "https://www.channelnewsasia.com/people/chang-yong-ter-singapore-architect-6339476",
+        "source": "CNA"
       }
     },
     {
@@ -444,6 +456,18 @@
       }
     },
     {
+      "name": "Caracas",
+      "lat": 10.5,
+      "lon": -66.9,
+      "count": 1,
+      "story": {
+        "title": "What’s behind the US deal to seize control of Venezuelan oil reserves?",
+        "description": "Few details have emerged about deal between Washington and Caracas, criticised as takeover of Venezuela&#039;s resources.",
+        "link": "https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Algeria",
       "lat": 28.03,
       "lon": 1.66,
@@ -464,6 +488,18 @@
         "title": "Can international diplomacy find a way forward in Libya?",
         "description": "Efforts intensify to break political impasse in a divided country.",
         "link": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 1,
+      "story": {
+        "title": "The rise of K-Beauty: Can South Korea overtake France?",
+        "description": "South Korea’s beauty industry has surpassed the US to become the world’s second-largest cosmetics exporter.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/the-rise-of-k-beauty-can-south-korea-overtake-france?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -504,51 +540,15 @@
       }
     },
     {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 1,
       "story": {
-        "title": "DR Congo begins vaccinating against largest and deadliest Ebola outbreak",
-        "description": "70,000 Ervebo vaccine doses have been sent to DR Congo in hope they prove effective against the Bundibugyo strain.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/dr-congo-begins-vaccinating-against-largest-and-deadliest-ebola-outbreak?traffic_source=rss",
+        "title": "Pakistan suspends eight officials over hospital fire that killed 14 babies",
+        "description": "Interim inquiry finds lack of fire safety protocols at Islamabad hospital, prompting suspensions and criminal probe.",
+        "link": "https://www.aljazeera.com/news/2026/8/29/pakistan-suspends-eight-officials-over-hospital-fire-that-killed-14-babies?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 1,
-      "story": {
-        "title": "People stranded for days on dilapidated Nigerian highway",
-        "description": "Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 1,
-      "story": {
-        "title": "Korea divided: A sister’s long wait and a defector’s bid to save his mother",
-        "description": "An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.",
-        "link": "https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 1,
-      "story": {
-        "title": "The dark story behind Japan's first people and why they want their ancestors back",
-        "description": "A group of indigenous people are suing the Japanese government for the return of ancestral remains taken during the brutal colonisation of Hokkaido.",
-        "link": "https://www.abc.net.au/news/2026-08-30/shibechari-ainu-tribe-sues-japanese-government/106994024",
-        "source": "ABC News AU"
       }
     }
   ]
