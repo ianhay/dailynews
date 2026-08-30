@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T08:09:02+00:00",
+  "generated_at": "2026-08-30T13:56:40+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,9 +12,15 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Iceland on track to reject EU referendum as counting nears end",
-      "description": "Broadcaster RUV reports the nation is on track to reject resuming EU membership talks as the final votes are tallied.",
+      "title": "Iceland votes against restarting talks on joining EU",
+      "description": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
       "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Zambian opposition leader charged with treason",
+      "description": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
+      "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -22,18 +28,12 @@
       "description": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
       "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-      "description": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "australia": [
     {
-      "title": "Manhunt after one killed and five injured in Swiss shooting, police say",
-      "description": "A major police operation has been launched after the shooting at an event near Zurich overnight.",
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "description": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
       "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -58,16 +58,16 @@
       "source": "BBC Business"
     },
     {
-      "title": "Mapping Iran war’s strikes on Gulf energy – and what comes next for oil",
-      "description": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
-      "link": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
+      "title": "Banque Misr, Egypt’s second-largest, hit by US sanctions: What to know",
+      "description": "Move comes as Washington steps up its efforts to economically pressure Iran amid deadlock in truce talks.",
+      "link": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss",
       "source": "Al Jazeera"
     },
     {
-      "title": "Israeli settlers attack international news team in occupied West Bank",
-      "description": "A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera"
+      "title": "Israeli settlers attack Palestinian homes in West Bank",
+      "description": "Masked Israeli settlers launched their first major attack since initiating a siege in the village of Qusra earlier this month. Saturday's attacks were met with rare criticism from Prime Minister Benjamin Netanyahu.",
+      "link": "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 11,
+      "count": 10,
       "story": {
         "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
         "description": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
@@ -84,26 +84,14 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 7,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 9,
       "story": {
-        "title": "Ethiopia’s Gobena, Kenya’s Olympic champion Jepchirchir win Sydney Marathon",
-        "description": "Gobena claims first victory after finishing second last year, as Jepchirchir adds to Boston, New York and London wins.",
-        "link": "https://www.aljazeera.com/sports/2026/8/30/ethiopias-gobena-kenyas-olympic-champion-jepchirchir-win-sydney-marathon?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 6,
-      "story": {
-        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-        "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+        "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+        "description": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
+        "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,6 +108,18 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 6,
+      "story": {
+        "title": "Palestinian mother in agony as Israeli attack kills her son",
+        "description": "Palestinian mother in agony as Israeli attack kills her son",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/palestinian-mother-in-agony-as-israeli-attack-kills-her-son?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
@@ -132,27 +132,27 @@
       }
     },
     {
-      "name": "Norway",
-      "lat": 60.47,
-      "lon": 8.47,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 5,
       "story": {
-        "title": "Norway's new king remembers 'my dear father' in first speech",
-        "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+        "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 5,
       "story": {
-        "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
-        "description": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
-        "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Western Sydney's new observatory centuries in the making",
+        "description": "Powerhouse Parramatta is now home to an observatory featuring research-grade telescopes powerful enough to see distant galaxies.",
+        "link": "https://www.abc.net.au/news/2026-08-30/nsw-powerhouse-parramatta-museum-new-observatory-space/107059722",
+        "source": "ABC News AU"
       }
     },
     {
@@ -168,15 +168,27 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 4,
+      "story": {
+        "title": "Ben-Gvir taunts Palestinian women prisoners over prison conditions",
+        "description": "Ben-Gvir taunts Palestinian women prisoners over prison conditions",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/ben-gvir-taunts-palestinian-women-prisoners-over-prison-conditions?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
       "count": 4,
       "story": {
-        "title": "Protests as India’s Hindu nationalists take centre stage in New York",
-        "description": "Demonstrators rallied against a celebration in New York City that was hosting Mohan Bhagwat, chief of the RSS.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "India's citizen-led school audits test limits of activism",
+        "description": "The student-led \"Cockroach\" movement is taking its campaign for accountability to government schools, but the activists' methods are encountering growing resistance from authorities.",
+        "link": "https://www.dw.com/en/india-s-citizen-led-school-audits-test-limits-of-activism/a-78545789?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -192,27 +204,15 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
       "count": 3,
       "story": {
-        "title": "The toxic waste of the Gaza war has reached Israel",
-        "description": "The Israeli government cannot insulate its citizens from the impact of the ecocide it wrought on the strip.",
-        "link": "https://www.aljazeera.com/opinions/2026/8/30/the-toxic-waste-of-the-gaza-war-has-reached-israel?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "Bullet-riddled car on display in Berlin to remember Hind Rajab",
-        "description": "A memorial display in Berlin has recreated the scene of the killing of six-year-old Palestinian girl Hind Rajab.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/bullet-riddled-car-on-display-in-berlin-to-remember-hind-rajab?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Norway's new king remembers 'my dear father' in first speech",
+        "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -221,9 +221,9 @@
       "lon": 10.4,
       "count": 3,
       "story": {
-        "title": "Germany news: Merkel tells voters to 'stand up' for democracy",
-        "description": "Former German Chancellor Merkel has weighed in on elections in Saxony-Anhalt, where the far-right AfD leads the polls. Meanwhile, German firms paid out a record sum to employees on sick leave last year. DW has more.",
-        "link": "https://www.dw.com/en/germany-news-merkel-tells-voters-to-stand-up-for-democracy/live-78555302?maca=en-rss-en-all-1573-rdf",
+        "title": "Germany news: Politicians call for ban on radical AfD state branches",
+        "description": "Some German politicians have called for a ban on the far-right Alternative for Germany (AfD) party's more radical state branches. Follow DW for the latest.",
+        "link": "https://www.dw.com/en/germany-news-politicians-call-for-ban-on-radical-afd-state-branches/live-78555302?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -276,18 +276,6 @@
       }
     },
     {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 2,
-      "story": {
-        "title": "Berlin is being blackmailed by hackers, mayor says",
-        "description": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "London",
       "lat": 51.5,
       "lon": -0.12,
@@ -300,62 +288,14 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "The toxic waste of the Gaza war has reached Israel",
-        "description": "The Israeli government cannot insulate its citizens from the impact of the ecocide it wrought on the strip.",
-        "link": "https://www.aljazeera.com/opinions/2026/8/30/the-toxic-waste-of-the-gaza-war-has-reached-israel?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 2,
-      "story": {
-        "title": "Ethiopia’s Gobena, Kenya’s Olympic champion Jepchirchir win Sydney Marathon",
-        "description": "Gobena claims first victory after finishing second last year, as Jepchirchir adds to Boston, New York and London wins.",
-        "link": "https://www.aljazeera.com/sports/2026/8/30/ethiopias-gobena-kenyas-olympic-champion-jepchirchir-win-sydney-marathon?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
-      "count": 2,
-      "story": {
-        "title": "Ethiopia’s Gobena, Kenya’s Olympic champion Jepchirchir win Sydney Marathon",
-        "description": "Gobena claims first victory after finishing second last year, as Jepchirchir adds to Boston, New York and London wins.",
-        "link": "https://www.aljazeera.com/sports/2026/8/30/ethiopias-gobena-kenyas-olympic-champion-jepchirchir-win-sydney-marathon?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Caracas",
-      "lat": 10.5,
-      "lon": -66.9,
-      "count": 2,
-      "story": {
-        "title": "Venezuela says it retains ‘sovereignty’ following US oil deal",
-        "description": "Under the deal, $19 from every barrel of oil sold to the US will flow to Caracas, interim President Rodriguez says.",
-        "link": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Washington",
       "lat": 38.9,
       "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "What’s behind the US deal to seize control of Venezuelan oil reserves?",
-        "description": "Few details have emerged about deal between Washington and Caracas, criticised as takeover of Venezuela&#039;s resources.",
-        "link": "https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss",
+        "title": "Banque Misr, Egypt’s second-largest, hit by US sanctions: What to know",
+        "description": "Move comes as Washington steps up its efforts to economically pressure Iran amid deadlock in truce talks.",
+        "link": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -396,6 +336,18 @@
       }
     },
     {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 1,
+      "story": {
+        "title": "Berlin is being blackmailed by hackers, mayor says",
+        "description": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Vienna",
       "lat": 48.21,
       "lon": 16.37,
@@ -432,74 +384,50 @@
       }
     },
     {
-      "name": "Croatia",
-      "lat": 45.1,
-      "lon": 15.2,
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
       "count": 1,
       "story": {
-        "title": "Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised",
-        "description": "Filip Hrgovic is the first Croatian to become a world heavyweight boxing champion after beating Briton Moses Itauma.",
-        "link": "https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss",
+        "title": "Banque Misr, Egypt’s second-largest, hit by US sanctions: What to know",
+        "description": "Move comes as Washington steps up its efforts to economically pressure Iran amid deadlock in truce talks.",
+        "link": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
-        "description": "Rebel fighters in Myanmar lose key towns as conscription, relentless air raids and Chinese support bolster the military.",
-        "link": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss",
+        "title": "Alvarez returns to Atletico training amid Barcelona, Arsenal transfer links",
+        "description": "Atletico Madrid forward missed two earlier training sessions amid ongoing speculation about his future at the club.",
+        "link": "https://www.aljazeera.com/sports/2026/8/30/alvarez-returns-to-atletico-training-amid-barcelona-arsenal-transfer-links?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
       "count": 1,
       "story": {
-        "title": "Sudanese repair roads by hand in Darfur to improve emergency access",
-        "description": "Residents of Golo in Sudan’s central Darfur are clearing and repairing a rugged road by hand to help emergency vehicles.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss",
+        "title": "Protesters in Argentina urge tech billionaire Peter Thiel to leave",
+        "description": "Dozens of protesters in Argentina have demonstrated against Palantir co-founder Peter Thiel, outside his new mansion.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
       "count": 1,
       "story": {
-        "title": "Online anti-Muslim backlash collides with different reality in South Africa",
-        "description": "Online anti-Muslim rhetoric is growing, but life on the ground tells a more complicated story.",
-        "link": "https://www.aljazeera.com/news/2026/8/30/online-anti-muslim-backlash-collides-with-different-reality-in-south-africa?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Damascus",
-      "lat": 33.5,
-      "lon": 36.3,
-      "count": 1,
-      "story": {
-        "title": "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
-        "description": "Footage shows fireworks lighting up Damascus as the Syrian capital hosts the Damascus International Fair.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 1,
-      "story": {
-        "title": "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
-        "description": "Footage shows fireworks lighting up Damascus as the Syrian capital hosts the Damascus International Fair.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss",
+        "title": "Delcy Rodriguez says Venezuela ‘retains sovereignty’ despite US oil deal",
+        "description": "Venezuela’s interim President has given a televised address to defend a deal of Venezuelan oil for the United States.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/delcy-rodriguez-says-venezuela-retains-sovereignty-despite-us-oil-deal?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -549,6 +477,78 @@
         "description": "The Labor and Liberal parties are beginning to lick their wounds after suffering a bruising defeat in a by-election in Perth's south, as One Nation celebrates its historic victory.",
         "link": "https://www.abc.net.au/news/2026-08-30/cook-promises-labor-listens-to-secret-harbour-by-election-result/107095208",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "European Union",
+      "lat": 50.85,
+      "lon": 4.35,
+      "count": 1,
+      "story": {
+        "title": "Iceland voters reject EU accession talks",
+        "description": "A nationwide referendum failed to win enough support to restart negotiations on European Union membership, despite geopolitical tensions in the North Atlantic.",
+        "link": "https://www.dw.com/en/iceland-voters-reject-eu-accession-talks/a-78560633?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
+      "count": 1,
+      "story": {
+        "title": "Greece, Turkey clash over protected Aegean marine areas",
+        "description": "Turkey has announced the creation of two protected zones in a disputed area of the Aegean Sea, sparking an angry reaction from Greece. Does this mark a new chapter in a long-running dispute between the two countries?",
+        "link": "https://www.dw.com/en/greece-turkey-clash-over-protected-aegean-marine-areas/a-78550021?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
+      "count": 1,
+      "story": {
+        "title": "Greece, Turkey clash over protected Aegean marine areas",
+        "description": "Turkey has announced the creation of two protected zones in a disputed area of the Aegean Sea, sparking an angry reaction from Greece. Does this mark a new chapter in a long-running dispute between the two countries?",
+        "link": "https://www.dw.com/en/greece-turkey-clash-over-protected-aegean-marine-areas/a-78550021?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 1,
+      "story": {
+        "title": "South Korea leans toward military conscription for women",
+        "description": "Facing a population decline, fewer potential service members and calls for social equality to be extended to national military service, Korea is inching closer to breaking the taboo on women on the front line.",
+        "link": "https://www.dw.com/en/south-korea-leans-toward-military-conscription-for-women/a-78547426?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Serbia",
+      "lat": 44.02,
+      "lon": 21.01,
+      "count": 1,
+      "story": {
+        "title": "Serbia keeps EU, Russia in play ahead of key election",
+        "description": "As Serbia heads toward an uncertain election, President Aleksandar Vucic is balancing ties with Russia and EU ambitions. But growing geopolitical tensions and pressure at home are narrowing his room to maneuver.",
+        "link": "https://www.dw.com/en/serbia-keeps-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "England reduce Pakistan to 53-3 to close in on victory",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/england-reduce-pakistan-53-3-close-in-victory-6350446",
+        "source": "CNA"
       }
     }
   ]
