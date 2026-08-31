@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T04:57:14+00:00",
+  "generated_at": "2026-08-31T11:31:52+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,9 +32,15 @@
   ],
   "australia": [
     {
-      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-      "description": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
-      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
+      "description": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
+      "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
+      "description": "President Abdelmadjid Tebboune says he is not ruling out foul play after 100 wildfires were recorded.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -42,26 +48,20 @@
       "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
       "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "British woman killed in stabbing at German railway station",
-      "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
     {
-      "title": "What tariffs will really cost Canadians and Americans",
-      "description": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
+      "title": "US and Iran trade strikes for first time in weeks",
+      "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
       "title": "How the US-Canada trade war is being felt on both sides of the border",
       "description": "The US-Canada trade war is being felt on both sides of the border.",
       "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
+      "source": "BBC News"
     },
     {
       "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
@@ -72,25 +72,13 @@
   ],
   "places": [
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 11,
-      "story": {
-        "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
-        "description": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
-        "link": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
       "count": 9,
       "story": {
-        "title": "Iran vows 'decisive response' to first US strikes in weeks",
-        "description": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
+        "title": "US and Iran trade strikes for first time in weeks",
+        "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
         "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -99,7 +87,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 7,
+      "count": 9,
       "story": {
         "title": "Russia says it helped to repel Niger attempted coup",
         "description": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
@@ -108,14 +96,62 @@
       }
     },
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 9,
+      "story": {
+        "title": "Thylacine incomparable to any animal alive, study finds",
+        "description": "A new Australian study sheds light on how the Tasmanian tiger subdued its prey.",
+        "link": "https://www.abc.net.au/news/2026-08-31/thylacine-study-challenges-previously-held-views-tasmanian-tiger/107096846",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 6,
+      "story": {
+        "title": "Nord Stream bombings put Ukraine’s ties with Germany under pressure",
+        "description": "The blasts strain ties with Ukraine and have exposed the risks of relying on Russian gas, analysts say.",
+        "link": "https://www.aljazeera.com/news/2026/8/31/why-the-2022-nord-stream-bombings-muddle-berlin-kyiv-ties?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 6,
+      "story": {
+        "title": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
+        "description": "The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.",
+        "link": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 4,
+      "story": {
+        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+        "description": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
+        "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 7,
+      "count": 4,
       "story": {
-        "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
-        "description": "Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+        "title": "Spain’s Sanchez says Russia, Israel spread disinformation on Ceuta crisis",
+        "description": "Sanchez cited EU research which had found that Russia ⁠and ⁠Israel both spread disinformation during the crisis.",
+        "link": "https://www.aljazeera.com/news/2026/8/31/spains-sanchez-condemns-russia-israel-disinformation-during-ceuta-crisis?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -123,19 +159,43 @@
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
-      "count": 6,
+      "count": 4,
       "story": {
-        "title": "Breaking: Newborn baby's body found inside bin in Sydney's west",
-        "description": "NSW Police said officers have set up a crime scene and urged the baby's mother to come forward.",
+        "title": "Newborn baby's body found inside bin in Sydney's west",
+        "description": "NSW Police said officers have set up a crime scene and urged the baby boy's mother to come forward.",
         "link": "https://www.abc.net.au/news/2026-08-31/newborn-body-found-in-bin-auburn-sydney/107098618",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 4,
+      "story": {
+        "title": "From classrooms to communities: Young Singaporeans build ties in Uzbekistan",
+        "description": "Singaporeans working in education in Uzbekistan are sharing their expertise – and learning from their hosts – as ties between the two countries deepen.",
+        "link": "https://www.channelnewsasia.com/singapore/young-singaporeans-build-ties-expertise-in-uzbekistan-6351791",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 3,
+      "story": {
+        "title": "'Moonies' church leader jailed for two years over bribery offences",
+        "description": "Han Hak-ja, 83, gave South Korea's former first lady two Chanel bags and a diamond necklace, a court found.",
+        "link": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Venezuela",
       "lat": 6.4,
       "lon": -66.6,
-      "count": 5,
+      "count": 3,
       "story": {
         "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
         "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
@@ -147,47 +207,11 @@
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 5,
+      "count": 3,
       "story": {
         "title": "How the US-Canada trade war is being felt on both sides of the border",
         "description": "The US-Canada trade war is being felt on both sides of the border.",
         "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 5,
-      "story": {
-        "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
-        "description": "Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 5,
-      "story": {
-        "title": "Fact check: Germany's Merz misstates record in ARD interview",
-        "description": "Migration, debt and electric vehicles: Chancellor Friedrich Merz made several misleading claims in his ARD summer interview. DW Fact check reviewed them live.",
-        "link": "https://www.dw.com/en/fact-check-germany-s-merz-misstates-record-in-ard-interview/a-78566319?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 4,
-      "story": {
-        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-        "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -195,96 +219,84 @@
       "name": "Jordan",
       "lat": 30.59,
       "lon": 36.24,
-      "count": 4,
+      "count": 3,
       "story": {
-        "title": "Iran targets Jordan after first US attack in a month",
-        "description": "The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
+        "title": "Iran attacks Jordan, UAE after US bombs Larak Island: What’s the latest?",
+        "description": "The retaliatory attacks came after the US targeted two Iranian launchers on Larak Island in the Strait of Hormuz.",
+        "link": "https://www.aljazeera.com/news/2026/8/31/iran-attacks-jordan-uae-after-us-bombs-larak-island-whats-the-latest?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 4,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 2,
       "story": {
-        "title": "Singapore to legislate stronger safeguards, possible daily time limit for teens on social media",
-        "description": "Platforms that do not comply may have their minimum access age raised to 18, says Minister for Digital Development and Information Josephine Teo.&nbsp;",
-        "link": "https://www.channelnewsasia.com/singapore/time-limit-social-media-teens-facebook-instagram-6349291",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 3,
-      "story": {
-        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-        "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-        "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+        "title": "South African airline defends low-altitude aerial stunt over packed stadium",
+        "description": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
+        "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "Israeli strike kills 3-year-old child in Gaza",
-        "description": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Norway",
-      "lat": 60.47,
-      "lon": 8.47,
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
       "count": 2,
       "story": {
-        "title": "Norway's new king remembers 'my dear father' in first speech",
-        "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+        "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
+        "description": "Kenya Airways says the strike has caused delays of more than six hours, with some flights cancelled.",
+        "link": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Shanghai",
-      "lat": 31.23,
-      "lon": 121.47,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 2,
       "story": {
-        "title": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
-        "description": "The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.",
-        "link": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+        "title": "Firms scramble for battery power in Spain and Portugal",
+        "description": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+        "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "‘An act of resistance’: Raja Shehadeh’s Palestinian diaries find a new home",
+        "description": "Al Jazeera interviews the leading writer and lawyer, 75, in Edinburgh, where his daily documentation is being archived.",
+        "link": "https://www.aljazeera.com/news/2026/8/31/an-act-of-resistance-raja-shehadehs-palestinian-diaries-find-a-new-home?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "US plans to sanction another bank to keep economic pressure on Iran",
-        "description": "Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks.",
-        "link": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Man charged with murder following death of Bacchus Marsh woman",
+        "description": "A 75-year-old man is charged with murder following the death of a woman in Bacchus Marsh, west of Melbourne.",
+        "link": "https://www.abc.net.au/news/2026-08-31/murder-charge-bacchus-marsh-court/107100010",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 2,
       "story": {
-        "title": "US plans to sanction another bank to keep economic pressure on Iran",
-        "description": "Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks.",
-        "link": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "SA man who wore Nazi uniform to McDonald's outlet avoids jail",
+        "description": "The 20-year-old Adelaide man shared almost 100 public posts with Nazi symbols to a messaging platform and rehearsed a speech at a fast-food outlet while dressed in a Nazi uniform.",
+        "link": "https://www.abc.net.au/news/2026-08-31/heath-duke-nazi-symbol-charges-avoids-jail/107098412",
+        "source": "ABC News AU"
       }
     },
     {
@@ -293,10 +305,46 @@
       "lon": 78.0,
       "count": 2,
       "story": {
-        "title": "India's citizen-led school audits test limits of activism",
-        "description": "The student-led \"Cockroach\" movement is taking its campaign for accountability to government schools, but the activists' methods are encountering growing resistance from authorities.",
-        "link": "https://www.dw.com/en/india-s-citizen-led-school-audits-test-limits-of-activism/a-78545789?maca=en-rss-en-all-1573-rdf",
+        "title": "Inside the sea cucumber smuggling boom",
+        "description": "A quiet multimillion‑dollar black market is exploding across the Indian Ocean, driven by one unlikely animal: the sea cucumber.",
+        "link": "https://www.dw.com/en/inside-the-sea-cucumber-smuggling-boom/a-78005662?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
+      "count": 2,
+      "story": {
+        "title": "Israel signs €3 billion arms export deal with Greece",
+        "description": "Israel said one of its largest ever arms export deals would entail setting up an air defense system for Greece.",
+        "link": "https://www.dw.com/en/israel-signs-€3-billion-arms-export-deal-with-greece/a-78572062?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Serbia",
+      "lat": 44.02,
+      "lon": 21.01,
+      "count": 2,
+      "story": {
+        "title": "Ailing Djokovic 'despised' every moment of US Open defeat",
+        "description": "Novak Djokovic has exited in the first round of a Grand Slam for the first time in over two decades. Could time — or an unknown health condition — be catching up with the Serbian tennis legend?",
+        "link": "https://www.dw.com/en/ailing-djokovic-despised-every-moment-of-us-open-defeat/a-78572187?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Algeria",
+      "lat": 28.03,
+      "lon": 1.66,
+      "count": 1,
+      "story": {
+        "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
+        "description": "President Abdelmadjid Tebboune says he is not ruling out foul play after 100 wildfires were recorded.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -305,46 +353,10 @@
       "lon": 30.52,
       "count": 1,
       "story": {
-        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-        "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-        "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+        "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+        "description": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
+        "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ecuador",
-      "lat": -1.83,
-      "lon": -78.18,
-      "count": 1,
-      "story": {
-        "title": "Former Ecuadorian president imprisoned for corruption",
-        "description": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-        "description": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Firms scramble for battery power in Spain and Portugal",
-        "description": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
-        "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -357,6 +369,90 @@
         "description": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
         "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "The looming failure of Operation Economic Outcast",
+        "description": "The latest package of US sanctions on Iran is unlikely to achieve Washington’s objectives.",
+        "link": "https://www.aljazeera.com/opinions/2026/8/31/the-looming-failure-of-operation-economic-outcast?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Baghdad",
+      "lat": 33.31,
+      "lon": 44.36,
+      "count": 1,
+      "story": {
+        "title": "Fire breaks out after unidentified explosions at oil refinery in Baghdad",
+        "description": "A fire broke out following unidentified explosions at the Al-Dora power plant south of the Iraqi capital, Baghdad.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/fire-breaks-out-after-unidentified-explosions-at-oil-refinery-in-baghdad?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
+      "count": 1,
+      "story": {
+        "title": "Fire breaks out after unidentified explosions at oil refinery in Baghdad",
+        "description": "A fire broke out following unidentified explosions at the Al-Dora power plant south of the Iraqi capital, Baghdad.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/fire-breaks-out-after-unidentified-explosions-at-oil-refinery-in-baghdad?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sofia",
+      "lat": 42.7,
+      "lon": 23.32,
+      "count": 1,
+      "story": {
+        "title": "Venus Williams bows out of US Open with straight-sets defeat to Sofia Kenin",
+        "description": "The 46-year-old US veteran loses to wildcard compatriot but will play in women&#039;s doubles with sister Serena Williams.",
+        "link": "https://www.aljazeera.com/sports/2026/8/31/venus-williams-bows-out-of-us-open-with-straight-sets-defeat-to-sofia-kenin?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "England vs Pakistan second Test: Three talking points from cricket series",
+        "description": "Pakistan’s batting collapses, concerns over the Lord’s pitch and Ollie Robinson’s rampant form highlight the series.",
+        "link": "https://www.aljazeera.com/sports/2026/8/31/england-vs-pakistan-second-test-three-talking-points-from-cricket-series?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 1,
+      "story": {
+        "title": "Syria is choosing diplomacy with Israel, but can its approach last?",
+        "description": "Israel has attacked Syria, occupied its south since the al-Assad regime&#039;s ouster, testing Syria&#039;s diplomatic outreach.",
+        "link": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Shanghai",
+      "lat": 31.23,
+      "lon": 121.47,
+      "count": 1,
+      "story": {
+        "title": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
+        "description": "The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.",
+        "link": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -384,78 +480,6 @@
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
-      "count": 1,
-      "story": {
-        "title": "What is Notting Hill Carnival’s Jab Jab parade?",
-        "description": "The Jab Jab parade sees hundreds don devil horns and cover their skin in motor oil for London’s Notting Hill Carnival.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/what-is-notting-hill-carnivals-jab-jab-parade?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 1,
-      "story": {
-        "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
-        "description": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
-        "link": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
-      "count": 1,
-      "story": {
-        "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
-        "description": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
-        "link": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
-      "count": 1,
-      "story": {
-        "title": "Video: Raging floodwaters sweep away lorry in the Philippines",
-        "description": "Video shows a lorry being swept away by raging floodwaters in Rodriguez as torrential rains batter the Philippines.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/video-raging-floodwaters-sweep-away-lorry-in-the-philippines?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start",
-        "description": "Jude Bellingham and Kylian Mbappe on the scoresheet as Jose Mourinho&#039;s Real Madrid continues to move at pace in La Liga.",
-        "link": "https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "SA premier defends MotoGP tree removals with almost 400 now slated for chop",
-        "description": "SA Premier Peter Malinaukas has rejected claims he misled the public over the number of trees to be felled in Adelaide's east parklands to make way for a new city motorsport track.",
-        "link": "https://www.abc.net.au/news/2026-08-31/premier-defends-tree-removals-amid-suggestion-of-deception/107097172",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "European Union",
       "lat": 50.85,
       "lon": 4.35,
@@ -480,74 +504,50 @@
       }
     },
     {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 1,
       "story": {
-        "title": "Greece, Turkey clash over protected Aegean marine areas",
-        "description": "Turkey has announced the creation of two protected zones in a disputed area of the Aegean Sea, sparking an angry reaction from Greece. Does this mark a new chapter in a long-running dispute between the two countries?",
-        "link": "https://www.dw.com/en/greece-turkey-clash-over-protected-aegean-marine-areas/a-78550021?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
-      "count": 1,
-      "story": {
-        "title": "Serbia keeps EU, Russia in play ahead of key election",
-        "description": "As Serbia heads toward an uncertain election, President Aleksandar Vucic is balancing ties with Russia and EU ambitions. But growing geopolitical tensions and pressure at home are narrowing his room to maneuver.",
-        "link": "https://www.dw.com/en/serbia-keeps-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 1,
-      "story": {
-        "title": "What 'The Odyssey' can teach us about climate chaos",
-        "description": "The Bronze Age collapse may have started with a water crisis. The droughts of today raise the unsettling question of whether it could happen again.",
-        "link": "https://www.dw.com/en/what-the-odyssey-can-teach-us-about-climate-chaos/a-78545407?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 1,
-      "story": {
-        "title": "Spidey keeps spinning gold for North American box office",
-        "description": "Sony's Spider-Man: Brand New Day, has now brought in US$891.5 million (S$1.13 billion) in the United States and Canada – and an additional US$1.44 billion internationally – according to industry watcher Exhibitor Relatio",
-        "link": "https://www.channelnewsasia.com/entertainment/spider-man-brand-new-day-box-office-6351251",
+        "title": "GameStop expects lower quarterly sales on store closures, France exit",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/business/gamestop-expects-lower-quarterly-sales-store-closures-france-exit-6352121",
         "source": "CNA"
       }
     },
     {
-      "name": "Copenhagen",
-      "lat": 55.68,
-      "lon": 12.57,
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
       "count": 1,
       "story": {
-        "title": "ComfortDelGro joint venture wins S$3.4 billion contract to operate and maintain Copenhagen Metro",
-        "description": "Singapore's ComfortDelGro will operate and maintain the fully automated Copenhagen Metro for 12 years through KBH Metro Partner, its joint venture with French transport operator RATP Dev.",
-        "link": "https://www.channelnewsasia.com/singapore/comfortdelgro-copenhagen-metro-contract-kbh-partner-ratp-dev-6351136",
+        "title": "South Africa make one change to squad for third test v New Zealand",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/south-africa-make-one-change-squad-third-test-v-new-zealand-6352041",
         "source": "CNA"
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
+      "name": "Tokyo",
+      "lat": 35.68,
+      "lon": 139.77,
       "count": 1,
       "story": {
-        "title": "Heavy traffic expected at Singapore-Malaysia land checkpoints during September school holidays",
-        "description": "The Immigration and Checkpoints Authority (ICA) issued the travel advisory for Sep 4 to 14,&nbsp;encouraging travellers to plan their journey ahead of time and consider travelling during non-peak hours.",
-        "link": "https://www.channelnewsasia.com/singapore/heavy-traffic-woodlands-tuas-checkpoints-malaysia-september-school-holidays-ica-6351126",
+        "title": "Japan seeks record US$55.6 billion defence budget, with AI focus",
+        "description": "The final budget could reportedly reach 10 trillion yen as Tokyo upgrades its defence&nbsp;to navigate growing tension with neighbours such as China, North Korea and Russia.",
+        "link": "https://www.channelnewsasia.com/east-asia/japan-defence-ministry-seeks-record-budget-ai-6352001",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 1,
+      "story": {
+        "title": "Japan seeks record US$55.6 billion defence budget, with AI focus",
+        "description": "The final budget could reportedly reach 10 trillion yen as Tokyo upgrades its defence&nbsp;to navigate growing tension with neighbours such as China, North Korea and Russia.",
+        "link": "https://www.channelnewsasia.com/east-asia/japan-defence-ministry-seeks-record-budget-ai-6352001",
         "source": "CNA"
       }
     }
