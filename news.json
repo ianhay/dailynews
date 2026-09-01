@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T17:24:17+00:00",
+  "generated_at": "2026-09-01T20:05:55+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,7 +12,7 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally",
+      "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
       "description": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
       "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -64,35 +64,47 @@
       "source": "BBC News"
     },
     {
-      "title": "US and Iran trade strikes for first time in weeks",
-      "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+      "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "places": [
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 14,
+      "story": {
+        "title": "Germany says Russia behind Leipzig airport drone attack",
+        "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+        "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
     {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
       "count": 14,
       "story": {
-        "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-        "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
-        "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+        "title": "US launches more strikes on Iran as state media reports explosions",
+        "description": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
+        "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
       "count": 13,
       "story": {
-        "title": "Germany says Russia behind Leipzig airport drone attack",
-        "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-        "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "First Nations people with disability spending extended periods in custody, report finds",
+        "description": "The Indigenous disability-led research is a national first, and examines the experiences of Aboriginal and Torres Strait Islander people with disability in Australia's justice system.",
+        "link": "https://www.abc.net.au/news/2026-09-02/research-indigenous-people-with-disability-justice-system/107091510",
+        "source": "ABC News AU"
       }
     },
     {
@@ -108,34 +120,10 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 10,
-      "story": {
-        "title": "Partner of missing Australian in Nepal says waiting for news has been 'hell'",
-        "description": "A week after the catastrophic Nepal-Tibet flood, Sarada Viswanathan is refusing to give up on her partner Rishab Iyer, who is still missing.",
-        "link": "https://www.abc.net.au/news/2026-09-01/families-refuse-to-give-up-on-loved-ones-missing-in-nepal/107104082",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 8,
-      "story": {
-        "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
-        "description": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
-        "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Japan Inc is betting big on India as China risks deepen",
         "description": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
@@ -144,22 +132,22 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 6,
-      "story": {
-        "title": "Twelve killed as Russia steps up aerial assault on Ukraine",
-        "description": "Russia carries out a sixth straight day of heavy attacks on Kyiv, with civilian infrastructure and residential buildings among the targets.",
-        "link": "https://www.abc.net.au/news/2026-09-02/russian-strikes-ukraine-aerial-assault/107105172",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 5,
+      "count": 6,
+      "story": {
+        "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+        "description": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
+        "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 6,
       "story": {
         "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
         "description": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
@@ -171,7 +159,7 @@
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "How the US-Canada trade war is being felt on both sides of the border",
         "description": "The US-Canada trade war is being felt on both sides of the border.",
@@ -180,15 +168,27 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 5,
+      "story": {
+        "title": "Twelve killed as Russia steps up aerial assault on Ukraine",
+        "description": "Russia carries out a sixth straight day of heavy attacks on Kyiv, with civilian infrastructure and residential buildings among the targets.",
+        "link": "https://www.abc.net.au/news/2026-09-02/russian-strikes-ukraine-aerial-assault/107105172",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Japan Inc is betting big on India as China risks deepen",
-        "description": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
-        "link": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "How Coles and NSW Police busted an Apple gift card tampering scam",
+        "description": "Police found a bag containing 47 iTunes gift cards in bundles of five labelled with post-it notes when they raided a home in Sydney's western suburbs.",
+        "link": "https://www.abc.net.au/news/2026-09-02/coles-nsw-police-apple-gift-card-tampering/107102712",
+        "source": "ABC News AU"
       }
     },
     {
@@ -240,10 +240,70 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "Japan Inc is betting big on India as China risks deepen",
+        "description": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
+        "link": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 3,
+      "story": {
+        "title": "China’s Xi makes his first visit to Egypt in a decade",
+        "description": "Chinese President Xi Jinping arrived in Cairo and was greeted by Egyptian President Abdel Fattah el-Sisi.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/chinas-xi-makes-his-first-visit-to-egypt-in-a-decade?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Chile",
+      "lat": -35.68,
+      "lon": -71.54,
+      "count": 2,
+      "story": {
+        "title": "Zambia's president sworn in for second term while opponent detained",
+        "description": "Hakainde Hichilema swept to victory, but his main rival is now in custody charged with treason.",
+        "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 2,
+      "story": {
+        "title": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers",
+        "description": "Pitso Mosimane replaces Hugo Broos as manager of the South Africa national football team following World Cup exit.",
+        "link": "https://www.aljazeera.com/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 2,
+      "story": {
+        "title": "‘No one else like him’: Argentinians rally for Lionel Messi",
+        "description": "Residents of Buenos Aires say they will miss the football legend who won the 2022 World Cup for Argentina.",
+        "link": "https://www.aljazeera.com/news/2026/9/1/no-one-else-like-him-argentinians-rally-for-lionel-messi?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
-      "count": 3,
+      "count": 2,
       "story": {
         "title": "Iran and Russia vow to stand against US ‘unilateralism’",
         "description": "Iranian President Pezeshkian thanked Putin for Moscow’s support, vowing to resist US &#039;unilateralism&#039;.",
@@ -252,87 +312,15 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
-      "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
-      }
-    },
-    {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
       "count": 2,
       "story": {
-        "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-        "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
-        "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 2,
-      "story": {
-        "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
-        "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 2,
-      "story": {
-        "title": "China’s Xi makes first visit to Egypt in a decade, amid regional turmoil",
-        "description": "Chinese President Xi visits Egypt to deepen economic ties and align strategies amid Middle East crises.",
-        "link": "https://www.aljazeera.com/economy/2026/9/1/chinas-xi-makes-first-visit-to-egypt-in-a-decade-amid-regional-turmoil?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 2,
-      "story": {
-        "title": "Mansouri rocked by Israeli strikes as residents flee again",
-        "description": "A large explosion shook Mansouri in southern Lebanon on Tuesday amid renewed Israeli airstrikes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/mansouri-rocked-by-israeli-strikes-as-residents-flee-again?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 2,
-      "story": {
-        "title": "Barcelona sign Gabriel Jesus from Arsenal for a reported $11.6m",
-        "description": "Brazil&#039;s Gabriel Jesus transfers from Premier League champions Arsenal to La Liga holders Barcelona on deadline day.",
-        "link": "https://www.aljazeera.com/sports/2026/9/1/barcelona-sign-gabriel-jesus-from-arsenal-for-a-reported-11-5m?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 2,
-      "story": {
-        "title": "Ben Stokes joins Adelaide Strikers for BBL summer",
-        "description": "Following his shock retirement from international cricket, former England captain Ben Stokes is joining the Adelaide Strikers for the upcoming Big Bash League summer.",
-        "link": "https://www.abc.net.au/news/2026-09-01/ben-stokes-joins-adelaide-strikers-for-big-bash-league-summer/107104852",
-        "source": "ABC News AU"
+        "title": "Germany terminates lease for Berlin's Russian House",
+        "description": "Germany has announced the termination of the lease for the Russian House in the heart of Berlin. Critics have long said it is a hub for propaganda and espionage.",
+        "link": "https://www.dw.com/en/germany-terminates-lease-for-berlin-s-russian-house/a-73037945?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -351,6 +339,18 @@
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+        "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+        "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
       "count": 1,
       "story": {
         "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
@@ -408,18 +408,6 @@
       }
     },
     {
-      "name": "Chile",
-      "lat": -35.68,
-      "lon": -71.54,
-      "count": 1,
-      "story": {
-        "title": "Zambia's president sworn in for second term while opponent detained",
-        "description": "Hakainde Hichilema swept to victory, but his main rival is now in custody charged with treason.",
-        "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "White House",
       "lat": 38.9,
       "lon": -77.03,
@@ -440,6 +428,18 @@
         "title": "Japan Inc is betting big on India as China risks deepen",
         "description": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
         "link": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 1,
+      "story": {
+        "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
+        "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
       }
     },
@@ -468,6 +468,18 @@
       }
     },
     {
+      "name": "Cairo",
+      "lat": 30.04,
+      "lon": 31.24,
+      "count": 1,
+      "story": {
+        "title": "China’s Xi makes his first visit to Egypt in a decade",
+        "description": "Chinese President Xi Jinping arrived in Cairo and was greeted by Egyptian President Abdel Fattah el-Sisi.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/chinas-xi-makes-his-first-visit-to-egypt-in-a-decade?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Buenos Aires",
       "lat": -34.6,
       "lon": -58.38,
@@ -480,75 +492,63 @@
       }
     },
     {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
       "count": 1,
       "story": {
-        "title": "‘No one else like him’: Argentinians rally for Lionel Messi",
-        "description": "Residents of Buenos Aires say they will miss the football legend who won the 2022 World Cup for Argentina.",
-        "link": "https://www.aljazeera.com/news/2026/9/1/no-one-else-like-him-argentinians-rally-for-lionel-messi?traffic_source=rss",
+        "title": "Mansouri rocked by Israeli strikes as residents flee again",
+        "description": "A large explosion shook Mansouri in southern Lebanon on Tuesday amid renewed Israeli airstrikes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/mansouri-rocked-by-israeli-strikes-as-residents-flee-again?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 1,
       "story": {
-        "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
-        "description": "Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.",
-        "link": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "US launches fresh strikes on Iran around Strait of Hormuz",
+        "description": "Tehran remained defiant, warning that it would prevent oil being exported from the Gulf, despite a threat by US President Donald Trump to hit Iran \"hard\".",
+        "link": "https://www.abc.net.au/news/2026-09-02/us-iran-attack-hormuz/107105276",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
       "count": 1,
       "story": {
-        "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
-        "description": "Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.",
-        "link": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Andrew Mountbatten-Windsor 'committed sex crimes in US', congressman says",
+        "description": "Breakaway Republican Thomas Massie uses congressional privilege to accuse Andrew Mountbatten-Windsor, the former Duke of York, of committing sex crimes in the United States.",
+        "link": "https://www.abc.net.au/news/2026-09-02/andrew-mountbatten-windor-committed-sex-crimes-in-us-house-hold/107105188",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Jerusalem schools strike after Israel enforces curriculum and bans teachers",
-        "description": "East Jerusalem schools strike as Israeli permit bans and forced curricula plunge the academic year into chaos.",
-        "link": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Ben Stokes joins Adelaide Strikers for BBL summer",
+        "description": "Following his shock retirement from international cricket, former England captain Ben Stokes is joining the Adelaide Strikers for the upcoming Big Bash League summer.",
+        "link": "https://www.abc.net.au/news/2026-09-01/ben-stokes-joins-adelaide-strikers-for-big-bash-league-summer/107104852",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Irish minister calls for EU action in banning Israeli settlement trade",
-        "description": "Ireland’s defence minister has called on EU member states to take more action to ban trade with Israeli settlements.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/irish-minister-calls-for-eu-action-in-banning-israeli-settlement-trade?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Shanghai",
-      "lat": 31.23,
-      "lon": 121.47,
-      "count": 1,
-      "story": {
-        "title": "Video: SCO summit leaders meet in aftermath of US war on Iran",
-        "description": "Leaders are meeting in Kyrgyzstan for the annual Shanghai Cooperation Organisation Summit.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/video-sco-summit-leaders-meet-in-aftermath-of-us-war-on-iran?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Family of Perth man missing in Nepal hoping for 'miracle'",
+        "description": "The family of a Perth man missing in Nepal says they are hoping for a \"miracle\" that he will be found alive and well.",
+        "link": "https://www.abc.net.au/news/2026-09-01/luke-costanzo-perth-man-missing-in-nepal/107104838",
+        "source": "ABC News AU"
       }
     }
   ]
