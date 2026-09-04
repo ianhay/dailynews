@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T19:04:01+00:00",
+  "generated_at": "2026-09-04T21:42:51+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 15,
       "story": {
         "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
         "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
@@ -111,7 +111,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
         "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
@@ -132,18 +132,6 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 6,
-      "story": {
-        "title": "Villagers vow to rebuild despite devastating mass demolition in West Bank",
-        "description": "Israeli forces&#039; demolition of 12 homes in Khirbet al-Tabban leaves villagers determined to stand firm on their land.",
-        "link": "https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -156,34 +144,22 @@
       }
     },
     {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 4,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 5,
       "story": {
-        "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-        "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
-        "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 3,
-      "story": {
-        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-        "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-        "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
+        "description": "Several explosions rocked the southern Lebanese town of Mansouri after Israeli military drones dropped explosives in the",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "Lima",
       "lat": -12.05,
       "lon": -77.04,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "Why Nepal floods should worry India",
         "description": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
@@ -195,12 +171,60 @@
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Jai Arrow's last NRL game was the second of a lifetime",
+        "description": "Jai Arrow's last match as a South Sydney Rabbitoh lasted just one second but that second had enough for a sporting lifetime.",
+        "link": "https://www.abc.net.au/news/2026-09-05/jai-arrow-south-sydney-rabbitohs-last-game-mn/107119276",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
       "count": 3,
       "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
+        "title": "Girl group Katseye are missing two members, but their tour still dazzles",
+        "description": "Reduced but resilient, girl group Katseye received a hero's welcome in London.",
+        "link": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 3,
+      "story": {
+        "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
+        "description": "Several explosions rocked the southern Lebanese town of Mansouri after Israeli military drones dropped explosives in the",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 2,
+      "story": {
+        "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+        "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+        "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
+      "story": {
+        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+        "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+        "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -216,51 +240,15 @@
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "Mumbai",
+      "lat": 19.08,
+      "lon": 72.88,
       "count": 2,
       "story": {
-        "title": "Girl group Katseye are missing two members, but their tour still dazzles",
-        "description": "Reduced but resilient, girl group Katseye received a hero's welcome in London.",
-        "link": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "UN raises ‘ethnic cleansing’ concerns over Israel’s West Bank operation",
-        "description": "More than 33,000 Palestinian refugees remain displaced since Israel launched Operation Iron Wall.",
-        "link": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "US rejects Israeli suggestions of removing Palestinians from Gaza",
-        "description": "US State Department tells Al Jazeera that Washington &#039;does not support any plan&#039; for expulsion of Palestinians.",
-        "link": "https://www.aljazeera.com/news/2026/9/4/us-rejects-israeli-suggestions-of-removing-palestinians-from-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "US rejects Israeli suggestions of removing Palestinians from Gaza",
-        "description": "US State Department tells Al Jazeera that Washington &#039;does not support any plan&#039; for expulsion of Palestinians.",
-        "link": "https://www.aljazeera.com/news/2026/9/4/us-rejects-israeli-suggestions-of-removing-palestinians-from-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Is India's internet boom running into an undersea problem?",
+        "description": "At least 13 of India's 18 intercontinental cables come ashore within six kilometres of Mumbai's Versova beach.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -269,22 +257,46 @@
       "lon": 24.97,
       "count": 2,
       "story": {
-        "title": "Romanian prosecutors indict Tate brothers for trafficking minors, laundering charges",
-        "description": "Prosecutors allege the Tates recruited their victims by seducing them before forcing them to produce pornographic content for a webcam business.",
-        "link": "https://www.abc.net.au/news/2026-09-04/romanian-prosecutors-indict-andrew-tristan-tate/107118732",
+        "title": "Andrew Tate indicted in Romania for trafficking minors, money laundering",
+        "description": "The influencer and his brother are in a Miami prison pending potential extradition to the UK on rape charges",
+        "link": "https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
+      "count": 2,
+      "story": {
+        "title": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
+        "description": "Germany, Austria, ⁠Greece, Denmark and the Netherlands did not outline where the centres would be located.",
+        "link": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 2,
+      "story": {
+        "title": "Opals make winning start to World Cup campaign",
+        "description": "Chasing another podium finish at the World Cup, the Opals complete an entertaining 70-54 win over Puerto Rico in Berlin.",
+        "link": "https://www.abc.net.au/news/2026-09-05/basketball-world-cup-opener-australia-opals-beat-puerto-rico/107119704",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 2,
       "story": {
-        "title": "China's Xi to bring large CEO delegation on US visit: Sources",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/east-asia/china-us-visit-ceo-delegation-business-6362951",
-        "source": "CNA"
+        "title": "Just like an Italian piazza, this community garden has grown a community",
+        "description": "The founder behind an community garden in suburban Adelaide is celebrating a legacy that has grown far beyond the garden beds.",
+        "link": "https://www.abc.net.au/news/2026-09-05/highbury-community-garden-celebrates-30-years/107111722",
+        "source": "ABC News AU"
       }
     },
     {
@@ -324,18 +336,6 @@
       }
     },
     {
-      "name": "Mumbai",
-      "lat": 19.08,
-      "lon": 72.88,
-      "count": 1,
-      "story": {
-        "title": "Is India's internet boom running into an undersea problem?",
-        "description": "At least 13 of India's 18 intercontinental cables come ashore within six kilometres of Mumbai's Versova beach.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Venezuela",
       "lat": 6.4,
       "lon": -66.6,
@@ -345,6 +345,78 @@
         "description": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
         "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 1,
+      "story": {
+        "title": "Mexico seizes 17 tonnes of meth in $347 million drug bust",
+        "description": "Mexican authorities seized nearly 17 tonnes of methamphetamine from three clandestine laboratories in Sinaloa",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/mexico-seizes-17-tonnes-of-meth-in-347-million-drug-bust?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Vietnam",
+      "lat": 14.06,
+      "lon": 108.28,
+      "count": 1,
+      "story": {
+        "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
+        "description": "US President Donald Trump called the Iran war small potatoes, saying only 18 Americans had been killed.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Austria",
+      "lat": 47.52,
+      "lon": 14.55,
+      "count": 1,
+      "story": {
+        "title": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
+        "description": "Germany, Austria, ⁠Greece, Denmark and the Netherlands did not outline where the centres would be located.",
+        "link": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
+      "count": 1,
+      "story": {
+        "title": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
+        "description": "Germany, Austria, ⁠Greece, Denmark and the Netherlands did not outline where the centres would be located.",
+        "link": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
+      "count": 1,
+      "story": {
+        "title": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
+        "description": "Germany, Austria, ⁠Greece, Denmark and the Netherlands did not outline where the centres would be located.",
+        "link": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 1,
+      "story": {
+        "title": "Brazilian Supreme Court roiled by dispute between justices",
+        "description": "The country&#039;s highest court is considering investigations into two judges who have accused each other of wrongdoing.",
+        "link": "https://www.aljazeera.com/news/2026/9/4/brazilian-supreme-court-roiled-by-dispute-between-justices?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -369,66 +441,6 @@
         "description": "A couple chose to get married in the middle of severe flooding in the Philippines.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/bride-walks-down-the-aisle-despite-waist-deep-flooding?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 1,
-      "story": {
-        "title": "Israel releases five detainees to Lebanon after US-mediated negotiations",
-        "description": "Israel has released five people to Lebanon after US-mediated negotiations. Dozens of Lebanese remain detained by Israel.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-israel-lebanon-detainees-minisv-mp4?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 1,
-      "story": {
-        "title": "Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career",
-        "description": "Unbeaten French challenger Flora Pili stands in the way of Taylor becoming undisputed world champion for a third time.",
-        "link": "https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
-      "count": 1,
-      "story": {
-        "title": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
-        "description": "From My Lai to civilian killings in Afghanistan, Iraq, the US has often denied role before later quietly acknowledging.",
-        "link": "https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
-      "count": 1,
-      "story": {
-        "title": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
-        "description": "From My Lai to civilian killings in Afghanistan, Iraq, the US has often denied role before later quietly acknowledging.",
-        "link": "https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "Fancy cars and hanging with mum, the paradox of Aussie's EPL teen dream",
-        "description": "Lucas Herrington is thriving in his start to his English Premier League career, but the teenage defender from Brisbane is following simple advice to stay grounded.",
-        "link": "https://www.abc.net.au/news/2026-09-04/lucas-herrington-hull-city-epl-teenage-dream/107115754",
-        "source": "ABC News AU"
       }
     },
     {
@@ -492,18 +504,6 @@
       }
     },
     {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 1,
-      "story": {
-        "title": "Berlin: BER Airport Terminal 1 reopened after security scare",
-        "description": "Police have given the all-clear at Terminal 1 at Berlin's BER Airport following an earlier security scare and evacuation. The airport said some flights had been delayed but they were trying to avoid any cancelations.",
-        "link": "https://www.dw.com/en/berlin-ber-airport-terminal-1-reopened-after-security-scare/a-78895207?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Norway",
       "lat": 60.47,
       "lon": 8.47,
@@ -513,6 +513,18 @@
         "description": "Authorities in Norway have seized a Russian ship, the Professor Molchanov, on a court order sought and obtained by Naftogaz in Ukraine. Russia has protested the move, which stems from its refusal to pay Naftogaz damages.",
         "link": "https://www.dw.com/en/norway-seizes-russian-ship-in-svalbard-to-compensate-ukraine/a-78889005?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Mbappe denied at the death as Betis beat Real Madrid",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/mbappe-denied-death-betis-beat-real-madrid-6363976",
+        "source": "CNA"
       }
     },
     {
@@ -528,9 +540,9 @@
       }
     },
     {
-      "name": "Netherlands",
-      "lat": 52.13,
-      "lon": 5.29,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 1,
       "story": {
         "title": "Eurovision faces fresh scrutiny as the Netherlands withdraws over Gaza tensions",
