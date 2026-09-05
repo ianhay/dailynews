@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T21:35:32+00:00",
+  "generated_at": "2026-09-05T23:42:15+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -38,23 +38,23 @@
       "source": "BBC News"
     },
     {
-      "title": "What different world maps get right - and what they get wrong",
-      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "title": "Prince William to attend King Harald's funeral in Norway",
+      "description": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
+      "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-      "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+      "title": "What different world maps get right - and what they get wrong",
+      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
     {
-      "title": "Kenya's chai lovers are not happy as the nation's cows run dry",
-      "description": "Supermarket shelves are emptying, sellers are rationing supplies and prices are rising.",
-      "link": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -72,13 +72,25 @@
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 14,
+      "story": {
+        "title": "The ACT's 99-year leases are expiring — what does that mean for home owners?",
+        "description": "The ACT is the only jurisdiction in Australia that operates under a leasehold system, meaning every home owner is actually a lessor. With the first of those leases coming up for renewal, there are questions about the lea",
+        "link": "https://www.abc.net.au/news/2026-09-06/99-year-leases-expiring-act-what-does-that-mean-home-owners/107108904",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
       "count": 12,
       "story": {
-        "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-        "description": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
+        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+        "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
         "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -87,7 +99,7 @@
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
-      "count": 12,
+      "count": 11,
       "story": {
         "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
         "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
@@ -96,22 +108,10 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 12,
-      "story": {
-        "title": "Crime gangs use bots to lure young men in sextortion scams",
-        "description": "Criminal gangs continue to have Australian men and boys in their sights as targets for sexual extortion, with more than $200,000 defrauded from victims in one state.",
-        "link": "https://www.abc.net.au/news/2026-09-06/crime-gangs-target-young-men-in-sextortion/107079802",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
         "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
@@ -123,24 +123,12 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "US envoys meet Putin in Moscow for Ukraine talks",
         "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
         "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 7,
-      "story": {
-        "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
-        "description": "Al Jazeera reporter challenged US Ambassador to Israel Mike Huckabee after he called violent Israeli settlers a minority",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -156,15 +144,27 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 4,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 6,
       "story": {
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
+        "description": "Al Jazeera reporter challenged US Ambassador to Israel Mike Huckabee after he called violent Israeli settlers a minority",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 5,
+      "story": {
+        "title": "Hawkesbury's Helping Hands charity marks 15 years of service",
+        "description": "What began as a mother and daughter providing some home-cooked meals in plastic containers has grown into a charity with a warehouse that provides hampers and basic essentials for hundreds of people across Sydney's most ",
+        "link": "https://www.abc.net.au/news/2026-09-06/hawkesbury-helping-hands-charity-marks-15-years/107117204",
+        "source": "ABC News AU"
       }
     },
     {
@@ -180,14 +180,14 @@
       }
     },
     {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 3,
       "story": {
-        "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-        "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
-        "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,50 +216,26 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 3,
-      "story": {
-        "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
-        "description": "Russia and Ukraine pledge not to strike each other&#039;s capitals for three days during talks in Moscow and Kyiv.",
-        "link": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
-        "description": "The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.",
-        "link": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
-      "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
       "count": 2,
       "story": {
-        "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-        "description": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
-        "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+        "title": "Prince William to attend King Harald's funeral in Norway",
+        "description": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
+        "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 2,
+      "story": {
+        "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+        "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+        "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,6 +252,30 @@
       }
     },
     {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
+      "story": {
+        "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
+        "description": "Russia and Ukraine pledge not to strike each other&#039;s capitals for three days during talks in Moscow and Kyiv.",
+        "link": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+        "description": "The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.",
+        "link": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Brisbane",
       "lat": -27.47,
       "lon": 153.03,
@@ -288,15 +288,27 @@
       }
     },
     {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
-      "count": 2,
+      "name": "Oslo",
+      "lat": 59.91,
+      "lon": 10.75,
+      "count": 1,
       "story": {
-        "title": "How the Panthers and Warriors can win the NRL minor premiership",
-        "description": "The NRL minor premiership is still up for grabs heading into the final day of the home-and-away season, with the New Zealand Warriors on top and the Penrith Panthers ready to pounce.",
-        "link": "https://www.abc.net.au/news/2026-09-06/how-panthers-and-warriors-can-win-nrl-minor-premiership/107120396",
-        "source": "ABC News AU"
+        "title": "Prince William to attend King Harald's funeral in Norway",
+        "description": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
+        "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 1,
+      "story": {
+        "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+        "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -324,14 +336,14 @@
       }
     },
     {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 1,
       "story": {
-        "title": "Kenya's chai lovers are not happy as the nation's cows run dry",
-        "description": "Supermarket shelves are emptying, sellers are rationing supplies and prices are rising.",
-        "link": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
+        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+        "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -456,6 +468,30 @@
       }
     },
     {
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
+      "count": 1,
+      "story": {
+        "title": "Perth looks back to the day when Mundaring Weir last overflowed",
+        "description": "Thirty years ago, Perth's Mundaring Weir overflowed following good winter rains. The visitors who flocked to see the spectacle had no idea it would never happen again.",
+        "link": "https://www.abc.net.au/news/2026-09-06/mundaring-weir-overflows-consigned-to-history-low-rainfall/107117214",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 1,
+      "story": {
+        "title": "Calls to preserve largest Australian World War II prison camp",
+        "description": "The camp housed Italian, German and Japanese prisoners between 1941 and 1947 and a portion of the former site is now on the market.",
+        "link": "https://www.abc.net.au/news/2026-09-06/australia-largest-ww2-pow-camp-up-for-sale/106989528",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
@@ -468,26 +504,14 @@
       }
     },
     {
-      "name": "Athens",
-      "lat": 37.98,
-      "lon": 23.73,
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
       "count": 1,
       "story": {
-        "title": "Greek air force jet crashes during air show, killing two",
-        "description": "Two pilots have died in an air force jet crash at Greece's annual aerial show, Athens Flying Week.",
-        "link": "https://www.abc.net.au/news/2026-09-06/greek-air-force-jet-crashes-during-air-show-killing-two/107121010",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
-      "count": 1,
-      "story": {
-        "title": "Greek air force jet crashes during air show, killing two",
-        "description": "Two pilots have died in an air force jet crash at Greece's annual aerial show, Athens Flying Week.",
-        "link": "https://www.abc.net.au/news/2026-09-06/greek-air-force-jet-crashes-during-air-show-killing-two/107121010",
+        "title": "How the Panthers and Warriors can win the NRL minor premiership",
+        "description": "The NRL minor premiership is still up for grabs heading into the final day of the home-and-away season, with the New Zealand Warriors on top and the Penrith Panthers ready to pounce.",
+        "link": "https://www.abc.net.au/news/2026-09-06/how-panthers-and-warriors-can-win-nrl-minor-premiership/107120396",
         "source": "ABC News AU"
       }
     },
@@ -504,6 +528,18 @@
       }
     },
     {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Iran: US hits 3 IRGC-linked oil tankers",
+        "description": "The US military said it had destroyed three vessels linked to Iran's Revolutionary Guards. Tehran responded by threatening to increase strikes on US ships in the region. DW has the latest.",
+        "link": "https://www.dw.com/en/iran-us-hits-3-irgc-linked-oil-tankers/live-79044467?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Tunis",
       "lat": 36.81,
       "lon": 10.18,
@@ -512,42 +548,6 @@
         "title": "Tunisia: Judge orders arrest of journalist Mohamed Yousfi",
         "description": "A journalist and vocal critic of the Tunisian president, Mohamed Yousfi has been taken into custody ahead of an interview. A union called the arrest an attack on all journalists' rights.",
         "link": "https://www.dw.com/en/tunisia-judge-orders-arrest-of-journalist-mohamed-yousfi/a-79040802?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Tunisia",
-      "lat": 33.89,
-      "lon": 9.54,
-      "count": 1,
-      "story": {
-        "title": "Tunisia: Judge orders arrest of journalist Mohamed Yousfi",
-        "description": "A journalist and vocal critic of the Tunisian president, Mohamed Yousfi has been taken into custody ahead of an interview. A union called the arrest an attack on all journalists' rights.",
-        "link": "https://www.dw.com/en/tunisia-judge-orders-arrest-of-journalist-mohamed-yousfi/a-79040802?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 1,
-      "story": {
-        "title": "UN approves world map reflecting true size of Africa",
-        "description": "The UN General Assembly has voted to adopt a map that more accurately shows the size of the continents. Only the United States voted against the measure, which projects the country as smaller than on traditional maps.",
-        "link": "https://www.dw.com/en/un-approves-world-map-reflecting-true-size-of-africa/a-79040629?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 1,
-      "story": {
-        "title": "Nigeria: Suspected oil thieves dead after inhaling fumes",
-        "description": "A Nigerian environmental group says that at least 37 people died trying to siphon crude oil off a ship illegally. Police acknowledged a fatal incident but gave fewer details, saying investigations continued.",
-        "link": "https://www.dw.com/en/nigeria-suspected-oil-thieves-dead-after-inhaling-fumes/a-79001997?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
