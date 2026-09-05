@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T15:04:22+00:00",
+  "generated_at": "2026-09-05T17:30:04+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "US envoys meet Putin in Moscow for Ukraine talks",
+      "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "What different world maps get right - and what they get wrong",
       "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
       "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
       "title": "Trump signs order to remove endangered species protection for grey wolves",
       "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
       "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "description": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
-      "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,6 +72,18 @@
   ],
   "places": [
     {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 14,
+      "story": {
+        "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+        "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+        "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
@@ -81,30 +93,6 @@
         "description": "Five children have been taken to hospital after jumping castles were picked up by winds in two separate incidents across Australia on one day.",
         "link": "https://www.abc.net.au/news/2026-09-05/children-in-hospital-jumping-castle-lifts-off-birthday-party/107120370",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 13,
-      "story": {
-        "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-        "description": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
-        "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 10,
-      "story": {
-        "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-        "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -120,15 +108,15 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 7,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 9,
       "story": {
-        "title": "From 'dog fruit' to darling: India's avocado boom",
-        "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
-        "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+        "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -137,22 +125,46 @@
       "lon": 31.0,
       "count": 6,
       "story": {
-        "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-        "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
         "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 6,
+      "story": {
+        "title": "From 'dog fruit' to darling: India's avocado boom",
+        "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+        "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+        "description": "The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.",
+        "link": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 4,
       "story": {
-        "title": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
-        "description": "Huckabee labels some of the settlers committing violence as &#039;terrorists&#039; though analysts say his visit is &#039;symbolic&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -168,15 +180,15 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 3,
       "story": {
-        "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-        "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+        "description": "The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.",
+        "link": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -185,9 +197,9 @@
       "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
-        "description": "Huckabee labels some of the settlers committing violence as &#039;terrorists&#039; though analysts say his visit is &#039;symbolic&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
+        "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+        "description": "The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.",
+        "link": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -198,20 +210,8 @@
       "count": 3,
       "story": {
         "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
-        "description": "Ukraine and Russia announce a three-day limited ceasefire as US envoys visit Moscow, before trip to Kyiv.",
+        "description": "Ukraine and Russia announce a three-day limited ceasefire as Steve Witkoff and Jared Kushner visit Moscow and Kyiv.",
         "link": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 3,
-      "story": {
-        "title": "Orangutan mother and infant rescued from wildfire-hit forest in Indonesia",
-        "description": "A mother orangutan and her infant have been rescued from a shrinking patch of forest threatened by wildfires.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/orangutan-mother-and-infant-rescued-from-wildfire-hit-forest-in-indonesia?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -240,18 +240,6 @@
       }
     },
     {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 2,
-      "story": {
-        "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
-        "description": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
-        "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
@@ -264,14 +252,14 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
       "count": 2,
       "story": {
-        "title": "US ambassador says Israel not planning forced displacement in Gaza",
-        "description": "US Ambassador to Israel Mike Huckabee's remarks come after Israeli ministers laid out ideas this week on how to expel the territory's two million people.",
-        "link": "https://www.abc.net.au/news/2026-09-05/israel-not-planning-gaza-forced-displacement-us-ambassador-says/107120558",
+        "title": "Engine flames from Sydney-bound Qantas flight forces plane to be diverted",
+        "description": "The Sydney-bound Boeing aircraft left the alpine ski town of Queenstown in New Zealand just before 3:30pm before it had to be diverted to Christchurch.",
+        "link": "https://www.abc.net.au/news/2026-09-05/sydney-bound-qantas-flight-diverted-as-flames-come-from-plane/107120414",
         "source": "ABC News AU"
       }
     },
@@ -360,6 +348,30 @@
       }
     },
     {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 1,
+      "story": {
+        "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
+        "description": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
+        "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 1,
+      "story": {
+        "title": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
+        "description": "Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.",
+        "link": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -384,38 +396,14 @@
       }
     },
     {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 1,
       "story": {
-        "title": "Qatar removed from Fitch’s negative watch list as risks to LNG sites ease",
-        "description": "The global ratings agency has also maintained the country’s sovereign rating at AA.",
-        "link": "https://www.aljazeera.com/economy/2026/9/5/fitch-removes-qatar-from-rating-watch-as-lng-risks-ease?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 1,
-      "story": {
-        "title": "UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison",
-        "description": "Egyptian activist Abdul Rahman al-Qaradawi was held due to an arrest warrant by the Arab Interior Ministers Council.",
-        "link": "https://www.aljazeera.com/news/2026/9/5/uae-pardons-egyptian-dissident-poet-al-qaradawi-facing-10-years-in-prison?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
-      "count": 1,
-      "story": {
-        "title": "Engine flames from Sydney-bound Qantas flight forces plane to be diverted",
-        "description": "The Sydney-bound Boeing aircraft left the alpine ski town of Queenstown in New Zealand just before 3:30pm before it had to be diverted to Christchurch.",
-        "link": "https://www.abc.net.au/news/2026-09-05/sydney-bound-qantas-flight-diverted-as-flames-come-from-plane/107120414",
+        "title": "2,000 cases of suspected food poisoning from Indonesia's free school meals",
+        "description": "The outbreaks are the latest setback for the program, which has been rolled out across the archipelago despite repeated food poisoning incidents and corruption allegations.",
+        "link": "https://www.abc.net.au/news/2026-09-05/indonesia-prabowo-free-school-meals-food-poisoning-outbreak/107120472",
         "source": "ABC News AU"
       }
     },
@@ -498,7 +486,7 @@
       "count": 1,
       "story": {
         "title": "UN approves world map reflecting true size of Africa",
-        "description": "The UN General Assembly voted to adopt a map that more accurately shows the size of the continents. Only the United States voted against the measure, which projects the country as smaller than on traditional maps.",
+        "description": "The UN General Assembly has voted to adopt a map that more accurately shows the size of the continents. Only the United States voted against the measure, which projects the country as smaller than on traditional maps.",
         "link": "https://www.dw.com/en/un-approves-world-map-reflecting-true-size-of-africa/a-79040629?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
@@ -549,6 +537,18 @@
         "description": "",
         "link": "https://www.channelnewsasia.com/sport/modric-available-play-croatia-in-nations-league-6364826",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 1,
+      "story": {
+        "title": "Trump threatens to rename Lake Ontario as Canada hits back at US tariffs",
+        "description": "Prime Minister Mark Carney says Canada won't be subordinated as 50 per cent US tariffs trigger a CAD$5.4 billion ($5.4 billion) aid package.",
+        "link": "https://www.sbs.com.au/news/article/trump-lake-america-ontario-canada-trade-war-tariffs/o7udweihr",
+        "source": "SBS News"
       }
     }
   ]
