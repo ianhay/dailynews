@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T18:20:43+00:00",
+  "generated_at": "2026-09-07T21:43:36+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -52,6 +52,12 @@
   ],
   "economy": [
     {
+      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+      "description": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+      "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
       "description": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
       "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
@@ -62,12 +68,6 @@
       "description": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
       "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-      "description": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
-      "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
-      "count": 16,
+      "count": 14,
       "story": {
         "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
         "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
@@ -87,7 +87,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 16,
+      "count": 14,
       "story": {
         "title": "Australians will be able to switch off social media algorithms under planned legislation",
         "description": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
@@ -96,22 +96,10 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 12,
-      "story": {
-        "title": "Israeli strikes in southern Lebanese village kill 12",
-        "description": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 12,
+      "count": 10,
       "story": {
         "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
         "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
@@ -120,10 +108,34 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 8,
+      "story": {
+        "title": "Israeli strikes in southern Lebanese village kill 12",
+        "description": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 8,
+      "story": {
+        "title": "UK petrol prices hit highest level since Iran war began",
+        "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
+        "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 9,
+      "count": 7,
       "story": {
         "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
         "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
@@ -135,7 +147,7 @@
       "name": "Serbia",
       "lat": 44.02,
       "lon": 21.01,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
         "description": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
@@ -147,59 +159,11 @@
       "name": "Lebanon",
       "lat": 33.85,
       "lon": 35.86,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Israeli strikes in southern Lebanese village kill 12",
         "description": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
         "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 5,
-      "story": {
-        "title": "Board of Peace touts progress as Palestinians’ situation worsens",
-        "description": "Humanitarian official Athena Rayburn dissects the Israeli tactics making life ‘untenable’ for millions of Palestinians.",
-        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 5,
-      "story": {
-        "title": "Gaza: Genocide in Real Time?",
-        "description": "Gaza examined through occupation, blockade, mass killing and the genocide case before the ICJ.",
-        "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
-      "story": {
-        "title": "French burglar used ChatGPT to locate Canberra home with luxury goods",
-        "description": "The crime began with photos of designer items posted on social media in Australia and ended with the arrest of four French men at a KFC in Sydney, fresh court documents show.",
-        "link": "https://www.abc.net.au/news/2026-09-07/burglary-canberra-home-french-nationals-luxury-goods/107125540",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 4,
-      "story": {
-        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-        "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
-        "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -228,27 +192,51 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 4,
       "story": {
-        "title": "UK petrol prices hit highest level since Iran war began",
-        "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
-        "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
+        "description": "International Court of Justice ordered Israel in 2024 to prevent the destruction of evidence related to war crimes.",
+        "link": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Russia and North Korea deepen relations with symbolic road bridge",
-        "description": "Ties between Moscow and Pyongyang have grown extensively amid Russia&#039;s invasion of Ukraine.",
-        "link": "https://www.aljazeera.com/news/2026/9/7/russia-and-north-korea-deepen-relations-with-symbolic-road-bridge?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Australia's oldest coalmine plans to expand under Sydney's water catchment",
+        "description": "Peabody’s plan to keep its Metropolitan Mine south of Sydney operating until 2044 has won emphatic union backing while drawing calls from the Greens for it to be rejected.",
+        "link": "https://www.abc.net.au/news/2026-09-08/metropolitan-coal-mine-extension-union-greens-water-catchment/107117582",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 3,
+      "story": {
+        "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+        "description": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+        "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 3,
+      "story": {
+        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+        "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
+        "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -264,27 +252,51 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
       "count": 3,
       "story": {
-        "title": "Russia and North Korea deepen relations with symbolic road bridge",
-        "description": "Ties between Moscow and Pyongyang have grown extensively amid Russia&#039;s invasion of Ukraine.",
-        "link": "https://www.aljazeera.com/news/2026/9/7/russia-and-north-korea-deepen-relations-with-symbolic-road-bridge?traffic_source=rss",
+        "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
+        "description": "UN watchdog says material from facility, bombed in 2007, now under IAEA safeguards.",
+        "link": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Belgrade",
-      "lat": 44.79,
-      "lon": 20.45,
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
       "count": 3,
       "story": {
-        "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
-        "description": "Thousands attend Belgrade funeral of former Bosnian Serb army general convicted of orchestrating Srebrenica genocide.",
-        "link": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss",
+        "title": "Russia shutters German consulate as diplomatic freeze deepens",
+        "description": "Moscow retaliates after similar move from Berlin last week citing failed drone attack on airport.",
+        "link": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 3,
+      "story": {
+        "title": "French wine output predicted to be lowest in 30 years",
+        "description": "France is expected to produce one of its lowest amounts of wine in decades after soaring temperatures and drought over the summer.",
+        "link": "https://www.abc.net.au/news/2026-09-08/french-wine-output-lowest-in-30-years-after-heatwaves-drought/107126986",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Austria",
+      "lat": 47.52,
+      "lon": 14.55,
+      "count": 2,
+      "story": {
+        "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+        "description": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -324,39 +336,51 @@
       }
     },
     {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 2,
       "story": {
-        "title": "French burglar used ChatGPT to locate Canberra home with luxury goods",
-        "description": "The crime began with photos of designer items posted on social media in Australia and ended with the arrest of four French men at a KFC in Sydney, fresh court documents show.",
-        "link": "https://www.abc.net.au/news/2026-09-07/burglary-canberra-home-french-nationals-luxury-goods/107125540",
+        "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
+        "description": "Trump targets aeroplane maker again, accusing Canada of unfair practices and threatening to block sales in the US.",
+        "link": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 2,
+      "story": {
+        "title": "Russia shutters German consulate as diplomatic freeze deepens",
+        "description": "Moscow retaliates after similar move from Berlin last week citing failed drone attack on airport.",
+        "link": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 2,
+      "story": {
+        "title": "The outreach program building trust in a bid to reduce crime",
+        "description": "A program connecting vulnerable people with outreach workers at train stations is being credited with reducing antisocial behaviour in suburban Melbourne.",
+        "link": "https://www.abc.net.au/news/2026-09-08/frankston-community-connectors-linking-vulnerable-people-to-help/107117130",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
       "count": 2,
       "story": {
-        "title": "Russia announces it is closing Germany's consulate in St. Petersburg",
-        "description": "The tit-for-tat reaction comes after Germany said it is shutting down Russia's consulate in Bonn and its cultural center in Berlin.",
-        "link": "https://www.dw.com/en/russia-announces-it-is-closing-germany-s-consulate-in-st-petersburg/a-79149908?maca=en-rss-en-all-1573-rdf",
+        "title": "Russia opens first road bridge with North Korea",
+        "description": "Russia and North Korea have opened their first road bridge across the Tumen River as political, economic and military ties between the two countries deepen.",
+        "link": "https://www.dw.com/en/russia-opens-first-road-bridge-with-north-korea/a-79142595?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Austria",
-      "lat": 47.52,
-      "lon": 14.55,
-      "count": 1,
-      "story": {
-        "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-        "description": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
-        "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -396,6 +420,30 @@
       }
     },
     {
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
+      "count": 1,
+      "story": {
+        "title": "Robots protest in Poland over AI regulation concerns",
+        "description": "Robots protest in Poland over AI regulation concerns",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
+      "count": 1,
+      "story": {
+        "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
+        "description": "Cuba reports record losses from the US embargo as foreign minister describes months of punishing blackouts.",
+        "link": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Egypt",
       "lat": 26.8,
       "lon": 30.8,
@@ -432,63 +480,63 @@
       }
     },
     {
-      "name": "Pyongyang",
-      "lat": 39.03,
-      "lon": 125.75,
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "Russia and North Korea deepen relations with symbolic road bridge",
-        "description": "Ties between Moscow and Pyongyang have grown extensively amid Russia&#039;s invasion of Ukraine.",
-        "link": "https://www.aljazeera.com/news/2026/9/7/russia-and-north-korea-deepen-relations-with-symbolic-road-bridge?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 1,
-      "story": {
-        "title": "Why do the Falkland Islands matter to the UK and Argentina so much?",
-        "description": "Argentina&#039;s sovereignty claim is enshrined in its constitution, but oil production raises the economic stakes.",
-        "link": "https://www.aljazeera.com/news/2026/9/7/why-do-the-falkland-islands-matter-to-the-uk-and-argentina-so-much?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
-      "count": 1,
-      "story": {
-        "title": "Iraq faces sovereignty test as US-led military coalition exit nears",
-        "description": "Analysts warn Iraq faces severe security and political tests as the US-led coalition withdrawal deadline approaches.",
-        "link": "https://www.aljazeera.com/news/2026/9/7/iraq-faces-sovereignty-test-as-us-led-military-coalition-exit-nears?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Geneva",
-      "lat": 46.2,
-      "lon": 6.15,
-      "count": 1,
-      "story": {
-        "title": "Autonomous drones and AI called out by UN human rights chief",
-        "description": "The United Nations High Commissioner for Human Rights has addressed a council in Geneva saying AI posed a threat to humanity among the use of autonomous drones and US deaths in immigration custody.",
-        "link": "https://www.abc.net.au/news/2026-09-08/un-human-rights-chief-warns-ai-poses-risks-to-humanity/107126428",
+        "title": "Dairy company founder and daughter die in light plane crash south of Brisbane",
+        "description": "The founder of a popular dairy company and his daughter have been revealed as the victims of a light plane crash south of Brisbane on Monday.",
+        "link": "https://www.abc.net.au/news/2026-09-08/barambah-organics-ian-and-hannah-campbell-die-in-plane-crash/107126962",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Man killed after being run over by garbage truck in suburban Perth",
-        "description": "A 70-year-old man has died after being run over by a garbage truck in Perth's south-eastern suburbs, with neighbours remembering as a quiet, sweet person.",
-        "link": "https://www.abc.net.au/news/2026-09-07/man-killed-after-being-hit-by-garbage-truck-queens-park/107125496",
+        "title": "Fox control in urban areas needs 'major rethink' after bird flu spread",
+        "description": "The spread of avian flu to a fox in metropolitan Adelaide has experts calling for city dwellers, not just farmers, to be part of the solution in tackling the pests.",
+        "link": "https://www.abc.net.au/news/2026-09-08/fox-control-in-urban-areas-needing-major-rethink-after-bird-flu/107112504",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 1,
+      "story": {
+        "title": "Witnesses 'intimidated' before murder trial over brothers killed in Mexico",
+        "description": "Witnesses have been intimidated in the lead-up to the trial for three men accused of killing two Australian brothers in Mexico, prosecutors tell a Mexican court.",
+        "link": "https://www.abc.net.au/news/2026-09-08/jake-callum-robinson-murder-trial-begins-mexico/107118046",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 1,
+      "story": {
+        "title": "3 years on, Morocco earthquake victims still wait for help",
+        "description": "Reconstruction has progressed in the three years since the 2023 Morocco earthquake, but some survivors are still living in tents. Locals are divided as to how successful it's been, and whether state aid is enough.",
+        "link": "https://www.dw.com/en/3-years-on-morocco-earthquake-victims-still-wait-for-help/a-78874844?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Belgrade",
+      "lat": 44.79,
+      "lon": 20.45,
+      "count": 1,
+      "story": {
+        "title": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
+        "description": "Ratko Mladic, the former Bosnian Serb commander convicted of genocide in Srebrenica, has been buried in Belgrade. The funeral, broadcast live on TV, comes just days before President Vucic is expected to call an election.",
+        "link": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -501,54 +549,6 @@
         "description": "Pakistanis broadly agree that the country needs more responsive and effective government, but many question whether simply creating more provinces is the solution.",
         "link": "https://www.dw.com/en/pakistan-can-creating-new-provinces-fix-governance/a-79148059?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 1,
-      "story": {
-        "title": "UK government condemns 'thuggish' anti-migrant protests in Portsmouth",
-        "description": "Hundreds gathered in Portsmouth after some refugees arrived by boat from France, a day after masked protesters disrupted traffic at the port of Dover.",
-        "link": "https://www.dw.com/en/uk-government-condemns-thuggish-anti-migrant-protests-in-portsmouth/a-79134048?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
-      "count": 1,
-      "story": {
-        "title": "India news: Rescue efforts underway in deadly Delhi building collapse",
-        "description": "The building was located in New Delhi's Satya Niketan, popular among students from nearby colleges and universities. At least 12 people have been rescued from the rubble.",
-        "link": "https://www.dw.com/en/india-news-rescue-efforts-underway-in-deadly-delhi-building-collapse/live-79123607?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 1,
-      "story": {
-        "title": "Germany, Kosovo unite against ticks carrying deadly virus",
-        "description": "Germany has high-security labs while Kosovo has Hyalomma ticks and experience with the deadly Crimean-Congo hemorrhagic fever. Working together, German and Kosovar scientists are fighting the disease and its vectors.",
-        "link": "https://www.dw.com/en/germany-kosovo-unite-against-ticks-carrying-deadly-virus/a-78655223?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
-      "count": 1,
-      "story": {
-        "title": "Former F1 supremo Ecclestone stopped in Portugal over shotgun on private jet",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/former-f1-supremo-ecclestone-stopped-in-portugal-over-shotgun-private-jet-6367961",
-        "source": "CNA"
       }
     }
   ]
