@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T18:25:48+00:00",
+  "generated_at": "2026-09-08T21:20:53+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,10 +18,10 @@
       "source": "BBC News"
     },
     {
-      "title": "Highest paid world leader to get salary increase of $1 million",
-      "description": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "Brazil Supreme Court rift deepens as justice suspends federal police chief",
+      "description": "Allegations of misconduct between two justices threaten to pull court into political battles ahead of upcoming election.",
+      "link": "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss",
+      "source": "Al Jazeera"
     },
     {
       "title": "Yemen’s war is back: A new battle for Sanaa and the Red Sea",
@@ -64,25 +64,13 @@
       "source": "BBC News"
     },
     {
-      "title": "Pupils return to West Bank school behind barbed wire to protect against settlers",
-      "description": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
-      "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
+      "title": "LIV players will have option to leave after bankruptcy case filing",
+      "description": "LIV Golf intends to starts its new league early next year after filing for bankruptcy protection in the United States.",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "places": [
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 20,
-      "story": {
-        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-        "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
     {
       "name": "Australia",
       "lat": -25.0,
@@ -92,6 +80,18 @@
         "title": "Trial over killing of Australian surfer brothers and US friend starts in Mexico",
         "description": "The bodies of Jake and Callum Robinson and their US friend Carter Rhoad were found at the bottom of a well with gunshot wounds.",
         "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 13,
+      "story": {
+        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+        "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -108,18 +108,6 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 7,
-      "story": {
-        "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-        "description": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
-        "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
@@ -132,26 +120,38 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 5,
-      "story": {
-        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-        "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 5,
+      "count": 7,
       "story": {
         "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
         "description": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
         "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 6,
+      "story": {
+        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+        "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
+        "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 5,
+      "story": {
+        "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+        "description": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
+        "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -168,39 +168,27 @@
       }
     },
     {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 5,
+      "story": {
+        "title": "China to pump $54bn into state banks and insurers to boost economy",
+        "description": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 4,
       "story": {
         "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
         "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
         "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 4,
-      "story": {
-        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-        "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
-        "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 4,
-      "story": {
-        "title": "China to pump $54bn into state banks and insurers to boost economy",
-        "description": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -216,51 +204,15 @@
       }
     },
     {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
-      "count": 4,
-      "story": {
-        "title": "EU condemns Serbia’s ministers for attending funeral of war criminal Mladic",
-        "description": "EU leaders condemn Serbian officials&#039; presence at Ratko Mladic&#039;s funeral as a failure to confront past war crimes.",
-        "link": "https://www.aljazeera.com/news/2026/9/8/eu-condemns-serbias-ministers-for-attending-funeral-of-war-criminal-mladic?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 3,
       "story": {
-        "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-        "description": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
-        "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+        "title": "A food safety officer has become a social media star in India - why?",
+        "description": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
+        "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Hungary",
-      "lat": 47.16,
-      "lon": 19.5,
-      "count": 3,
-      "story": {
-        "title": "Hungary expels 10 Russian diplomats as relations worsen",
-        "description": "For years, Hungary was viewed as Russia's closest ally in the EU, but the new government has dropped the pro-Kremlin stance.",
-        "link": "https://www.bbc.co.uk/news/articles/cddvzd1z53lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 3,
-      "story": {
-        "title": "Renoir paintings worth $10.5 million missing after museum heist",
-        "description": "A pre-dawn break-in at the Renoir Museum in southern France saw thieves seize four paintings",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -276,6 +228,30 @@
       }
     },
     {
+      "name": "Serbia",
+      "lat": 44.02,
+      "lon": 21.01,
+      "count": 3,
+      "story": {
+        "title": "EU, UK express dismay over Mladic funeral in Serbia",
+        "description": "The EU is deliberating an official response to the glorification of war criminal Ratko Mladic in Belgrade. The UK, meanwhile, summoned Serbia's charge d'affaires over the display.",
+        "link": "https://www.dw.com/en/eu-uk-express-dismay-over-mladic-funeral-in-serbia/a-79190233?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
+      "count": 2,
+      "story": {
+        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+        "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
@@ -284,18 +260,6 @@
         "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
         "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
         "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Highest paid world leader to get salary increase of $1 million",
-        "description": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
-        "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -312,14 +276,14 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Hungary",
+      "lat": 47.16,
+      "lon": 19.5,
       "count": 2,
       "story": {
-        "title": "A food safety officer has become a social media star in India - why?",
-        "description": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
-        "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
+        "title": "Hungary expels 10 Russian diplomats as relations worsen",
+        "description": "For years, Hungary was viewed as Russia's closest ally in the EU, but the new government has dropped the pro-Kremlin stance.",
+        "link": "https://www.bbc.co.uk/news/articles/cddvzd1z53lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -336,18 +300,6 @@
       }
     },
     {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
-      "count": 2,
-      "story": {
-        "title": "UK's third-biggest taxpayer to leave for Greece",
-        "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Netherlands",
       "lat": 52.13,
       "lon": 5.29,
@@ -357,6 +309,54 @@
         "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
         "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 2,
+      "story": {
+        "title": "China to pump $54bn into state banks and insurers to boost economy",
+        "description": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Spain’s FA to fund IVF, egg freezing for female football players, referees",
+        "description": "Spain FA offers fertility support to female players and referees, including costs for internationals called up twice.",
+        "link": "https://www.aljazeera.com/sports/2026/9/8/spanish-fa-launches-fertility-support-for-female-players-and-referees?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
+      "count": 2,
+      "story": {
+        "title": "China and Qatar are strengthening bilateral ties: What that really means",
+        "description": "Beijing says it will increase coordination with Doha to help de-escalate regional tensions amid the ongoing war on Iran.",
+        "link": "https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 2,
+      "story": {
+        "title": "Renoir paintings worth $10.5 million missing after museum heist",
+        "description": "A pre-dawn break-in at the Renoir Museum in southern France saw thieves seize four paintings",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -380,6 +380,30 @@
         "title": "British widow faces deportation from Sweden after 22 years",
         "description": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
         "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 1,
+      "story": {
+        "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+        "description": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
+        "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 1,
+      "story": {
+        "title": "LIV players will have option to leave after bankruptcy case filing",
+        "description": "LIV Golf intends to starts its new league early next year after filing for bankruptcy protection in the United States.",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -432,15 +456,51 @@
       }
     },
     {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
       "count": 1,
       "story": {
-        "title": "China to pump $54bn into state banks and insurers to boost economy",
-        "description": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+        "title": "UK's third-biggest taxpayer to leave for Greece",
+        "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Kiev",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 1,
+      "story": {
+        "title": "Police bodycam captures Russian missile strike on Kyiv",
+        "description": "Bodycam video has captured the moment a Russian missile struck near police in Ukraine’s capital Kiev",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 1,
+      "story": {
+        "title": "Brazil Supreme Court rift deepens as justice suspends federal police chief",
+        "description": "Allegations of misconduct between two justices threaten to pull court into political battles ahead of upcoming election.",
+        "link": "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Doha",
+      "lat": 25.29,
+      "lon": 51.53,
+      "count": 1,
+      "story": {
+        "title": "China and Qatar are strengthening bilateral ties: What that really means",
+        "description": "Beijing says it will increase coordination with Doha to help de-escalate regional tensions amid the ongoing war on Iran.",
+        "link": "https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -468,50 +528,14 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "LIVE: Real Madrid vs Inter Milan – UEFA Champions League",
-        "description": "Follow our live build-up and text commentary stream coverage as Kylian Mbappe and Jude Bellingham star for Real.",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 1,
-      "story": {
-        "title": "Hungary expels 10 Russian diplomats, Moscow promises harsh response",
-        "description": "Russia promises &#039;harsh and painful&#039; response following Hungary&#039;s expulsion of its diplomats.",
-        "link": "https://www.aljazeera.com/news/2026/9/8/hungary-expels-russian-diplomats-over-unacceptable-activities?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
-      "story": {
-        "title": "Three attacks in Tehran could 'amount to war crimes', report finds",
-        "description": "Amnesty International is demanding formal investigations into three American and Israeli attacks on densely packed suburbs of Tehran, which killed at least 41 civilians.",
-        "link": "https://www.abc.net.au/news/2026-09-08/amnesty-international-demands-iran-strikes-probe/107127968",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Child dead, six others injured in rollover west of Melbourne",
-        "description": "A school-aged child has died and six others have been injured in a single-vehicle crash in Parwan, west of Melbourne.",
-        "link": "https://www.abc.net.au/news/2026-09-08/parwan-crash-west-of-melbourne/107130712",
+        "title": "Second child dies after crash west of Melbourne",
+        "description": "An 11-year-old boy died in hospital overnight following the single-vehicle crash at Parwan that claimed the life of a seven-year-old girl.",
+        "link": "https://www.abc.net.au/news/2026-09-09/second-child-dies-parwan-crash-victoria/107131536",
         "source": "ABC News AU"
       }
     },
@@ -521,34 +545,10 @@
       "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "Gigantic mechanical 'esky lid' is Brisbane's newest defence against flooding",
-        "description": "\"The Esky Lid\" is a mechanical contraption that will be able to seal off Brisbane's new underground tunnels from floodwaters.",
-        "link": "https://www.abc.net.au/news/2026-09-08/cross-river-rail-unveils-albert-street-esky-lid-flood-barrier/107127378",
+        "title": "Woman allegedly attacked in Brisbane emergency department",
+        "description": "A 73-year-old woman was allegedly punched in the face \"a number of times\" in an unprovoked attack at a major Brisbane hospital.",
+        "link": "https://www.abc.net.au/news/2026-09-09/woman-attacked-princess-alexandra-hospital/107108610",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
-      "count": 1,
-      "story": {
-        "title": "Afghanistan's women: A national soccer team without a home",
-        "description": "The Afghan women's national football team has finally been officially recognized by FIFA. Now the players want to make history both on and off the field.",
-        "link": "https://www.dw.com/en/afghanistan-s-women-a-national-soccer-team-without-a-home/a-79139500?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Budapest",
-      "lat": 47.5,
-      "lon": 19.04,
-      "count": 1,
-      "story": {
-        "title": "Hungary orders 10 Russian diplomats to leave",
-        "description": "Budapest says the expulsions are necessary to protect security and sovereignty after years of comparatively close ties between Hungary and Russia.",
-        "link": "https://www.dw.com/en/hungary-orders-10-russian-diplomats-to-leave/a-79157576?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     }
   ]
