@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T13:50:51+00:00",
+  "generated_at": "2026-09-09T17:44:04+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,13 +24,19 @@
       "source": "BBC Business"
     },
     {
-      "title": "How has Israel hit back against sanctions by the UK, others?",
-      "description": "Israel announced four countermeasures including the closure of the British consulate in East Jerusalem.",
-      "link": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
+      "title": "Inside Israel’s prisons, where Ben-Gvir’s cruelty is policy",
+      "description": "Palestinian prisoners are being kept in inhumane conditions in Israeli detention facilities, overseen by Ben-Gvir.",
+      "link": "https://www.aljazeera.com/features/2026/9/9/inside-israels-prisons-where-ben-gvirs-cruelty-is-policy?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
   "australia": [
+    {
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
       "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
@@ -41,12 +47,6 @@
       "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
       "description": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
       "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Colombia's new president loosens gun control rules",
-      "description": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -64,10 +64,10 @@
       "source": "BBC News"
     },
     {
-      "title": "Pupils return to West Bank school behind barbed wire to protect against settlers",
-      "description": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
-      "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "Sapporo to move some beer production from Canada to US after tariffs",
+      "description": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
+      "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
         "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
@@ -84,10 +84,22 @@
       }
     },
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 7,
+      "story": {
+        "title": "'Extraordinarily expensive': Is this Australia's most controversial construction project?",
+        "description": "Supporters call it visionary. Critics see it as a costly mistake.",
+        "link": "https://www.sbs.com.au/news/article/victorias-suburban-rail-loop-controversies-explainer/0josw8rl0",
+        "source": "SBS News"
+      }
+    },
+    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 9,
+      "count": 6,
       "story": {
         "title": "British-Israeli relations at lowest ebb in decades",
         "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
@@ -96,14 +108,26 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 9,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 6,
       "story": {
-        "title": "'Good to have choice': Australians on opting out of social media algorithms",
-        "description": "The BBC spoke to people in Sydney about Australia's plans to force social media companies to allow users to easily opt in or out of personalised algorithms.",
-        "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
+        "title": "Singaporean man pleads guilty in US to massive crypto heist",
+        "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
+        "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 5,
+      "story": {
+        "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+        "description": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,7 +135,7 @@
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
-      "count": 7,
+      "count": 5,
       "story": {
         "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
         "description": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
@@ -120,62 +144,14 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 6,
-      "story": {
-        "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
-        "description": "Meanwhile, four people, including a child, were killed in the southern Russian city of Novorossiysk.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 5,
-      "story": {
-        "title": "Hong Kong's first leader after British handover dies",
-        "description": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
-        "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
-      "story": {
-        "title": "'Good to have choice': Australians on opting out of social media algorithms",
-        "description": "The BBC spoke to people in Sydney about Australia's plans to force social media companies to allow users to easily opt in or out of personalised algorithms.",
-        "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 5,
-      "story": {
-        "title": "Sapporo to move some beer production from Canada to US after tariffs",
-        "description": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
-        "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
       "count": 4,
       "story": {
-        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-        "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-        "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+        "title": "Europe's royalty pay respects to King Harald V in Norway",
+        "description": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
+        "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -185,22 +161,46 @@
       "lon": 31.0,
       "count": 4,
       "story": {
-        "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
-        "description": "Meanwhile, four people, including a child, were killed in the southern Russian city of Novorossiysk.",
+        "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+        "description": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
         "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 4,
       "story": {
-        "title": "Singaporean man pleads guilty in US to massive crypto heist",
-        "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-        "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
+        "title": "Sapporo to move some beer production from Canada to US after tariffs",
+        "description": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
+        "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Man dies after shooting near community centre in Sydney's south-west",
+        "description": "Paramedics treated the man at the scene at a car park in Punchbowl, in Sydney's south-west, but he could not be saved.",
+        "link": "https://www.abc.net.au/news/2026-09-09/man-dies-after-punchbowl-shooting-western-sydney/107135506",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 3,
+      "story": {
+        "title": "Hong Kong's first leader after British handover dies",
+        "description": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
+        "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -209,10 +209,22 @@
       "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "Pupils return to West Bank school behind barbed wire to protect against settlers",
-        "description": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
-        "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Palestinian child misses first day of school due to settler siege",
+        "description": "Four-year-old Kinda Hassan is missing the start of her first school year amid a month-long siege by Israeli settlers.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/palestinian-child-misses-first-day-of-school-due-to-settler-siege?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 3,
+      "story": {
+        "title": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
+        "description": "Authorities have not clarified what caused the explosion near the city of Sarmada.",
+        "link": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -228,38 +240,50 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 2,
-      "story": {
-        "title": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
-        "description": "This is a breaking news story.",
-        "link": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 2,
-      "story": {
-        "title": "Journalists missing after Indonesian volcanic eruption",
-        "description": "Journalists missing after Indonesian volcanic eruption",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/journalists-missing-after-indonesian-volcanic-eruption?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Jerusalem",
       "lat": 31.78,
       "lon": 35.22,
       "count": 2,
       "story": {
-        "title": "How has Israel hit back against sanctions by the UK, others?",
-        "description": "Israel announced four countermeasures including the closure of the British consulate in East Jerusalem.",
-        "link": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
+        "title": "Jerusalem Daily: Israel retaliates over sanctions on illegal settlements",
+        "description": "A diplomatic rift grows between the UK and Israel after Britain led a ban on trade with illegal Israeli settlements",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jerusalem-daily-israel-retaliates-over-sanctions-on-illegal-settlements?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 2,
+      "story": {
+        "title": "Bangladesh measles deaths surpass 1,000 after vaccination drive falls short",
+        "description": "Bangladesh faces its worst measles outbreak, killing 1,002 children and infecting nearly 190,000 since March.",
+        "link": "https://www.aljazeera.com/news/2026/9/9/bangladesh-measles-deaths-pass-1000-as-vaccination-drive-falls-short?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "Gaza students with overseas university offers, scholarships remain trapped",
+        "description": "As a new term begins, students promised places abroad face impossible immigration rules.",
+        "link": "https://www.aljazeera.com/news/2026/9/9/gaza-students-with-overseas-university-offers-scholarships-remain-trapped?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Jordan",
+      "lat": 30.59,
+      "lon": 36.24,
+      "count": 2,
+      "story": {
+        "title": "What is Jordan’s Al-Azraq base and why is Iran targeting it?",
+        "description": "Tehran appears to be increasingly targeting Jordanian assets in the latest round of escalation with the US.",
+        "link": "https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -272,30 +296,6 @@
         "title": "Photos: Large Oslo crowd bids farewell to Norway’s King Harald V",
         "description": "Thousands line streets of Norway&#039;s capital as King Harald V is laid to rest during service attended by world leaders.",
         "link": "https://www.aljazeera.com/gallery/2026/9/9/photos-large-oslo-crowd-bids-farewell-to-norways-king-harald-v?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Norway",
-      "lat": 60.47,
-      "lon": 8.47,
-      "count": 2,
-      "story": {
-        "title": "Photos: Large Oslo crowd bids farewell to Norway’s King Harald V",
-        "description": "Thousands line streets of Norway&#039;s capital as King Harald V is laid to rest during service attended by world leaders.",
-        "link": "https://www.aljazeera.com/gallery/2026/9/9/photos-large-oslo-crowd-bids-farewell-to-norways-king-harald-v?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "Turkish jets perform dramatic flyover above Egypt’s pyramids",
-        "description": "The Turkish Air Force&#039;s aerobatic team, performed this spectacular demonstration flight over Egypt’s Pyramids of Gaza.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/turkish-jets-perform-dramatic-flyover-above-egypts-pyramids?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -317,10 +317,34 @@
       "lon": 21.01,
       "count": 2,
       "story": {
-        "title": "Serbia dissolves parliament as snap elections called",
-        "description": "Serbia will head to the polls in late October after President Aleksandar Vucic dissolved parliament following growing pressure from protesters demanding political change. However, Vucic plans to stand as a PM candidate.",
-        "link": "https://www.dw.com/en/serbia-dissolves-parliament-as-snap-elections-called/a-79200868?maca=en-rss-en-all-1573-rdf",
+        "title": "Serbia, the conflicted EU candidate",
+        "description": "On paper, Belgrade has pursued EU membership for years. But accession has long been stalled. The hero's farewell given to war criminal Mladic exposed just how far Serbia has alienated itself from Europe.",
+        "link": "https://www.dw.com/en/serbia-the-conflicted-eu-candidate/a-79203774?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 1,
+      "story": {
+        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+        "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+        "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Finland",
+      "lat": 61.92,
+      "lon": 25.75,
+      "count": 1,
+      "story": {
+        "title": "Google picks Finland for its largest single investment in Europe",
+        "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+        "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -384,18 +408,6 @@
       }
     },
     {
-      "name": "Sweden",
-      "lat": 60.13,
-      "lon": 18.64,
-      "count": 1,
-      "story": {
-        "title": "British widow faces deportation from Sweden after 22 years",
-        "description": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
-        "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
@@ -432,50 +444,14 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
+      "name": "Madrid",
+      "lat": 40.42,
       "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "Lionel Messi agrees deal to buy second-tier Spanish club Eldense",
-        "description": "Messi poised to become majority owner of a second club in Spain after the purchase of fifth-tier UE Cornella in April.",
-        "link": "https://www.aljazeera.com/sports/2026/9/9/lionel-messi-agrees-deal-to-buy-second-tier-spanish-club-eldense?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Seoul",
-      "lat": 37.57,
-      "lon": 126.98,
-      "count": 1,
-      "story": {
-        "title": "Video: Dozens protest potential Strait of Hormuz deployment",
-        "description": "Almost 100 anti-war activists protested on Wednesday outside the Sejong Centre in Seoul.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-dozens-protest-potential-strait-of-hormuz-deployment?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Video: RSF drone attack on Sudan court kills at least 13 people",
-        "description": "An RSF drone attack on a court in Sudan’s North Kordofan state has killed at least 13 people and wounded more than 20.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-rsf-drone-attack-on-sudan-court-kills-at-least-13-people?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Did Iran capture a US submarine? What we know about the underwater drone",
-        "description": "Tehran lauds capturing Dive-LD vessel, while Washington insists that the submersible &#039;had malfunctioned a day ago&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/9/9/has-iran-captured-an-unmanned-us-submarine-what-we-know?traffic_source=rss",
+        "title": "LIVE: Liverpool vs Atletico Madrid – Champions League",
+        "description": "Follow updates from the league phase clash, including the build-up, analysis and live text commentary of the game.",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-liverpool-vs-atletico-madrid-champions-league?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -485,21 +461,9 @@
       "lon": 51.4,
       "count": 1,
       "story": {
-        "title": "Did Iran capture a US submarine? What we know about the underwater drone",
-        "description": "Tehran lauds capturing Dive-LD vessel, while Washington insists that the submersible &#039;had malfunctioned a day ago&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/9/9/has-iran-captured-an-unmanned-us-submarine-what-we-know?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 1,
-      "story": {
-        "title": "Turkish jets perform dramatic flyover above Egypt’s pyramids",
-        "description": "The Turkish Air Force&#039;s aerobatic team, performed this spectacular demonstration flight over Egypt’s Pyramids of Gaza.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/turkish-jets-perform-dramatic-flyover-above-egypts-pyramids?traffic_source=rss",
+        "title": "What is Jordan’s Al-Azraq base and why is Iran targeting it?",
+        "description": "Tehran appears to be increasingly targeting Jordanian assets in the latest round of escalation with the US.",
+        "link": "https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -509,21 +473,45 @@
       "lon": 69.3,
       "count": 1,
       "story": {
-        "title": "Pakistan faces new frontier against attacks: Balochistan’s Pashtun areas",
-        "description": "A surge in attacks in Balochistan’s Pashtun-majority districts is raising questions about a widening rebellion.",
-        "link": "https://www.aljazeera.com/news/2026/9/9/pakistan-faces-new-frontier-against-attacks-balochistans-pashtun-areas?traffic_source=rss",
+        "title": "Pakistan all out for 133 in third Test vs England after squad changes",
+        "description": "England&#039;s pacers cleaned up Pakistan in 34 overs after the visitors&#039; top five batters failed to score double figures.",
+        "link": "https://www.aljazeera.com/sports/2026/9/9/pakistan-all-out-for-133-in-third-test-vs-england-after-squad-changes?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 1,
       "story": {
-        "title": "Flash floods surge through Morocco’s Atlas Mountains",
-        "description": "Video shows floodwaters sweeping through Morocco’s Atlas Mountains after heavy rain in Khenifra.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/flash-floods-surge-through-moroccos-atlas-mountains?traffic_source=rss",
+        "title": "Nigeria, Boko Haram reportedly reach secret three-month ceasefire",
+        "description": "The reported truce follows the release of 360 villagers abducted during a Boko Haram attack in northeastern Nigeria.",
+        "link": "https://www.aljazeera.com/news/2026/9/9/nigeria-boko-haram-reportedly-reach-secret-three-month-ceasefire?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 1,
+      "story": {
+        "title": "Journalists missing after Indonesian volcanic eruption",
+        "description": "Journalists missing after Indonesian volcanic eruption",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/journalists-missing-after-indonesian-volcanic-eruption?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Lionel Messi agrees deal to buy second-tier Spanish club Eldense",
+        "description": "Messi poised to become majority owner of a second club in Spain after the purchase of fifth-tier UE Cornella in April.",
+        "link": "https://www.aljazeera.com/sports/2026/9/9/lionel-messi-agrees-deal-to-buy-second-tier-spanish-club-eldense?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -540,15 +528,27 @@
       }
     },
     {
-      "name": "Jordan",
-      "lat": 30.59,
-      "lon": 36.24,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Iran attacks US base in Jordan and ships near Hormuz after tankers sunk",
-        "description": "Iran's Revolutionary Guard says it fired ballistic missiles at a base in Jordan used by the US military and attacked 10 ships on Wednesday after the US said it had destroyed five Iranian oil tankers.",
-        "link": "https://www.abc.net.au/news/2026-09-09/iran-attacks-us-base-in-jordan-after-tankers-sunk/107134124",
+        "title": "Melbourne mosque community mourns children killed in crash",
+        "description": "The deaths of Ossama El Hawli, 11, and Sarah El Hawli, seven, in a car crash have rocked an Islamic community in Melbourne's west.",
+        "link": "https://www.abc.net.au/news/2026-09-09/victoria-parwan-crash-victims-mourned/107133548",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Belgrade",
+      "lat": 44.79,
+      "lon": 20.45,
+      "count": 1,
+      "story": {
+        "title": "Serbia, the conflicted EU candidate",
+        "description": "On paper, Belgrade has pursued EU membership for years. But accession has long been stalled. The hero's farewell given to war criminal Mladic exposed just how far Serbia has alienated itself from Europe.",
+        "link": "https://www.dw.com/en/serbia-the-conflicted-eu-candidate/a-79203774?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
