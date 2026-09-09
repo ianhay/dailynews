@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T20:46:58+00:00",
+  "generated_at": "2026-09-09T23:06:31+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Google picks Finland for its largest single investment in Europe",
       "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
       "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
       "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
       "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
-      "description": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,11 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 13,
       "story": {
-        "title": "Australia's love for coastal living faces $850b reckoning",
-        "description": "Australian researchers find more than 267,000 coastal properties and 2 million hectares of land across the country will face flood damage by 2100.",
-        "link": "https://www.abc.net.au/news/2026-09-10/sea-level-rise-threatens-267000-properties/107131270",
+        "title": "Aging Australia's parallels with fallen Test giant too close for comfort",
+        "description": "As much of Australia's selection chatter once again centres around the inclusion of Marnus Labuschagne, the No.3's struggles are a symptom of a far greater problem.",
+        "link": "https://www.abc.net.au/news/2026-09-10/cricket-australia-similarities-west-indies-aging-analysis/107128736",
         "source": "ABC News AU"
       }
     },
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 8,
+      "count": 9,
       "story": {
         "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
         "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
@@ -96,14 +96,14 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
       "count": 6,
       "story": {
-        "title": "Iran referred to UN Security Council for nuclear non-compliance",
-        "description": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+        "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+        "description": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,10 +120,46 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "Iran referred to UN Security Council for nuclear non-compliance",
+        "description": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
+        "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 5,
+      "story": {
+        "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
+        "description": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 5,
+      "story": {
+        "title": "Boxing coach killed in targeted shooting in Sydney's south-west",
+        "description": "Louis Meehan, a boxing coach, was shot dead in a community centre car park in Punchbowl on Wednesday night, with police treating the shooting as targeted.",
+        "link": "https://www.abc.net.au/news/2026-09-10/sydney-punchbowl-community-centre-fatal-shooting-louis-meehan/107136210",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Norway",
       "lat": 60.47,
       "lon": 8.47,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Europe's royalty pay respects to King Harald V in Norway",
         "description": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
@@ -132,10 +168,10 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 5,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 4,
       "story": {
         "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
         "description": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
@@ -144,15 +180,15 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 4,
       "story": {
-        "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
-        "description": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Singaporean man pleads guilty in US to massive crypto heist",
+        "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
+        "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -168,18 +204,6 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "Man charged over court data breach asked AI for legal advice, court hears",
-        "description": "A Sydney man charged over a massive data breach involving a NSW courts website allegedly used generative AI to create \"scraper\" computer code for bulk downloading before asking ChatGPT for legal advice, a court hears.",
-        "link": "https://www.abc.net.au/news/2026-09-10/christopher-duff-to-stand-trial-over-nsw-ai-court-data-breach/107135032",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
@@ -192,14 +216,14 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
       "count": 3,
       "story": {
-        "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-        "description": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+        "title": "British-Israeli relations at lowest ebb in decades",
+        "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+        "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,18 +240,6 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 3,
-      "story": {
-        "title": "Yemeni diplomat says Houthis want to drag Saudi Arabia into war",
-        "description": "Houthis are trying to drag Saudi Arabia into conflict by targeting Saudi territory, says Yemen’s Ambassador to Qatar.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-clip-yemen-says-houthis-dragging-saudi-into-war-yn?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Oslo",
       "lat": 59.91,
       "lon": 10.75,
@@ -240,51 +252,39 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 3,
-      "story": {
-        "title": "Explosion at depot storing weapons left from Syria war kills 14",
-        "description": "An explosion tore through a temporary weapons depot near Sarmada, in northwestern Syria killing at least 14 people",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/explosion-at-depot-storing-weapons-left-from-syria-war-kills-14?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "How significant are new European sanctions on illegal Israeli settlements?",
-        "description": "Israel is accused of the ethnic cleansing of Palestinians.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/9/how-significant-are-new-european-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "Finland",
+      "lat": 61.92,
+      "lon": 25.75,
       "count": 2,
       "story": {
-        "title": "British-Israeli relations at lowest ebb in decades",
-        "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
-        "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+        "title": "Google picks Finland for its largest single investment in Europe",
+        "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+        "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Singaporean man pleads guilty in US to massive crypto heist",
-        "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-        "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
+        "description": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
+        "link": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
+      "count": 2,
+      "story": {
+        "title": "Guterres pays tribute to Qatar’s late Father Emir at UN ceremony",
+        "description": "UN Secretary General Antonio Guterres has paid tribute to Qatar’s late Father Emir Sheikh Hamad bin Khalifa Al Thani.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/guterres-pays-tribute-to-qatars-late-father-emir-at-un-ceremony?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -300,15 +300,27 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 2,
       "story": {
-        "title": "Houthi attacks on Saudi Arabia could activate defence pact, Pakistan says",
-        "description": "Pakistan warns Mecca defence agreement may be activated if Yemen&#039;s Houthi rebels continue targeting Saudi Arabia.",
-        "link": "https://www.aljazeera.com/news/2026/9/9/pakistan-warns-mecca-defense-pact-will-activate-after-houthi-attacks?traffic_source=rss",
+        "title": "Yemeni diplomat says Houthis want to drag Saudi Arabia into war",
+        "description": "Houthis are trying to drag Saudi Arabia into conflict by targeting Saudi territory, says Yemen’s Ambassador to Qatar.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-clip-yemen-says-houthis-dragging-saudi-into-war-yn?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 2,
+      "story": {
+        "title": "The NFL's MCG takeover just the latest step towards global domination",
+        "description": "The NFL will open its 2026 season with a match in Melbourne, Australia, this week, one of a record nine matches to take place overseas this season. And it shows no signs of slowing down yet.",
+        "link": "https://www.abc.net.au/news/2026-09-10/nfl-quest-for-world-domination-mcg-match/106703380",
+        "source": "ABC News AU"
       }
     },
     {
@@ -324,15 +336,15 @@
       }
     },
     {
-      "name": "Finland",
-      "lat": 61.92,
-      "lon": 25.75,
-      "count": 1,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 2,
       "story": {
-        "title": "Google picks Finland for its largest single investment in Europe",
-        "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
-        "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Syria arms depot explosion kills at least 14",
+        "description": "The explosion struck near the Syrian city of Sarmada in Idlib province in the northwest. The Defense Ministry said the weapons and remnants from the war were being stored temporarily at the site before being relocated.",
+        "link": "https://www.dw.com/en/syria-arms-depot-explosion-kills-at-least-14/a-79203314?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -356,18 +368,6 @@
         "title": "Colombia's new president loosens gun control rules",
         "description": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms.",
         "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
-        "description": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
-        "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -444,6 +444,30 @@
       }
     },
     {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener",
+        "description": "Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.",
+        "link": "https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 1,
+      "story": {
+        "title": "Pro-Palestinian protesters oppose Israel embassy opening in Slovenia",
+        "description": "Pro-Palestinian protesters gathered in Slovenia’s capital to oppose the opening of Israel’s first resident embassy.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-sv-slovenia-protests-israeli-embassy-ljubljana-slov?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "United Kingdom",
       "lat": 54.0,
       "lon": -2.0,
@@ -492,63 +516,39 @@
       }
     },
     {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "Yemeni diplomat says Houthis want to drag Saudi Arabia into war",
-        "description": "Houthis are trying to drag Saudi Arabia into conflict by targeting Saudi territory, says Yemen’s Ambassador to Qatar.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-clip-yemen-says-houthis-dragging-saudi-into-war-yn?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 1,
-      "story": {
-        "title": "Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil",
-        "description": "The left-wing trade union leader has won three presidential terms so far. Crime may be a hurdle to a fourth.",
-        "link": "https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Sudanese refugee returning home ’to make buildings for our country’",
-        "description": "The UN says Uganda hosts more than 96,000 Sudanese refugees, but a programme intends to fly at least 1,300 people home.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Three people arrested over fatal Thomastown shooting",
-        "description": "Police investigating the fatal shooting of 22-year-old plumber Daniel Hussein in Melbourne's north have arrested three people, including two teenagers.",
-        "link": "https://www.abc.net.au/news/2026-09-10/three-people-arrested-over-fatal-thomastown-shooting/107136130",
+        "title": "Opals survive in last second after giving up 20-point lead at World Cup",
+        "description": "A short-handed Australian team is still alive and into the quarterfinals at the FIBA Women's Basketball World Cup despite surrendering a 20-point three-quarter-time lead against Italy.",
+        "link": "https://www.abc.net.au/news/2026-09-10/opals-survive-italy-in-fiba-womens-world-cup/107136188",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "Oldest known evidence of human drug use discovered in fossil teeth",
-        "description": "Archaeologists find evidence in Indonesia of a human who appeared to use betel nut for its psychoactive properties up to 25,000 years ago.",
-        "link": "https://www.abc.net.au/news/science/2026-09-10/earliest-evidence-of-human-drug-use-discovered-in-indonesia/107130656",
-        "source": "ABC News AU"
+        "title": "Ceuta: Documents show Spanish intelligence warned of crisis",
+        "description": "Spain declassified documents that showed warnings issued a day before more than 70,000 migrants rushed the Ceuta border fence. Meanwhile, the EU announced funds to strengthen the border and return migrants to Morocco.",
+        "link": "https://www.dw.com/en/ceuta-documents-show-spanish-intelligence-warned-of-crisis/a-79206505?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 1,
+      "story": {
+        "title": "Ceuta: Documents show Spanish intelligence warned of crisis",
+        "description": "Spain declassified documents that showed warnings issued a day before more than 70,000 migrants rushed the Ceuta border fence. Meanwhile, the EU announced funds to strengthen the border and return migrants to Morocco.",
+        "link": "https://www.dw.com/en/ceuta-documents-show-spanish-intelligence-warned-of-crisis/a-79206505?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
