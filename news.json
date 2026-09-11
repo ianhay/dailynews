@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T09:03:27+00:00",
+  "generated_at": "2026-09-11T13:43:59+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,25 +32,31 @@
   ],
   "australia": [
     {
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "description": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
       "description": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
       "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-      "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "description": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "US inflation holds steady as diesel prices pass $6 a gallon",
+      "description": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official figures.",
+      "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
     {
       "title": "AI boom helps drive surprise UK growth in July",
       "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
@@ -62,20 +68,26 @@
       "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
       "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Tax banks to cut energy bills, unions tell Burnham",
-      "description": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
-      "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 12,
+      "story": {
+        "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 11,
       "story": {
         "title": "Being a renter, Jenny missed out on solar boon but that is about to change",
         "description": "Australia readies to lift a ban on plug-in solar, unlocking access to the technology for millions of apartment dwellers and renters for the first time.",
@@ -87,23 +99,35 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 12,
+      "count": 9,
       "story": {
-        "title": "Yemen's Houthis seize strategic Red Sea port of Mokha",
-        "description": "Mokha's capture brings the Iran-backed group closer to controlling a key international shipping route.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 8,
+      "story": {
+        "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
+        "description": "It has been a rollercoaster ride for 'cockroach' party founder Abhijeet Dipke who gained celebrity status overnight.",
+        "link": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 9,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 7,
       "story": {
-        "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
-        "description": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
-        "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+        "title": "Israel says it has destroyed major underground Hezbollah base",
+        "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,11 +135,11 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 9,
+      "count": 7,
       "story": {
-        "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
-        "description": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
-        "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+        "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -125,22 +149,22 @@
       "lon": 105.0,
       "count": 7,
       "story": {
-        "title": "Twenty-five dead after fire on cargo ship in eastern China",
-        "description": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Former China ambassador warns Beijing is becoming 'smug' and closed",
+        "description": "A former ambassador to China has sharply critiqued elements of the Morrison government's response to Beijing's coercion, saying some in the Coalition \"almost delighted\" in being targeted and \"paraded\" the famous list of ",
+        "link": "https://www.abc.net.au/news/2026-09-11/former-china-ambassador-coalition-delighted-beijing-coercion/107144700",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 5,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 6,
       "story": {
-        "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
-        "description": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
-        "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Germany charges 7 suspected Hamas members over attack plot",
+        "description": "Prosecutors say the suspects had moved beyond general preparations and were already pursuing a concrete plan for a deadly attack on Israeli or Jewish targets.",
+        "link": "https://www.dw.com/en/germany-charges-7-suspected-hamas-members-over-attack-plot/a-79230171?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -149,17 +173,41 @@
       "lon": 151.21,
       "count": 5,
       "story": {
-        "title": "Live: Souths face Knights in sudden death finals elimination clash",
-        "description": "South Sydney and Newcastle get the NRL Finals series underway with an elimination clash at the Sydney Football Stadium. Follow live.",
+        "title": "Bennett bemoans Bunker as Knights stun Souths in elimination final",
+        "description": "Newcastle holds on for a 20-10 victory over South Sydney to kick-off the 2026 finals series, but Rabbitohs coach Wayne Bennett fumes at more Bunker confusion after a contentious call.",
         "link": "https://www.abc.net.au/news/2026-09-11/nrl-finals-live-updates-rabbitohs-vs-knights/107136652",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 4,
+      "story": {
+        "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+        "description": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
+        "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 4,
+      "story": {
+        "title": "Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations",
+        "description": "Second day of strikes on fuel stations suggest a new campaign focused on civilian areas in the Ukrainian capital.",
+        "link": "https://www.aljazeera.com/news/2026/9/11/russian-strikes-kill-two-in-kyiv-as-moscow-targets-capitals-fuel-stations?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "Hong Kong",
       "lat": 22.32,
       "lon": 114.17,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
         "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
@@ -168,22 +216,10 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-        "description": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
-        "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Sapporo to move some beer production from Canada to US after tariffs",
         "description": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
@@ -192,22 +228,70 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 3,
       "story": {
-        "title": "BRICS red carpet sparks anger in India’s capital",
-        "description": "New Delhi is rolling out the red carpet for BRICS, but blocked roads, evictions and restrictions have caused anger.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/brics-red-carpet-sparks-anger-in-indias-capital?traffic_source=rss",
+        "title": "‘A historic day’: Spain moves closer to citizenship for Western Saharans",
+        "description": "Spain’s parliament backs citizenship for Sahrawis amid tense relations with Morocco after the Ceuta crossing.",
+        "link": "https://www.aljazeera.com/news/2026/9/11/a-historic-day-spain-moves-closer-to-citizenship-for-western-saharans?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
+      "count": 3,
+      "story": {
+        "title": "Family members wait after deadly Philippines ferry fire",
+        "description": "Dozens of passengers are missing after a fire tore through a ferry in the Philippines, killing at least 5 people.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/family-members-wait-after-deadly-philippines-ferry-fire?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 3,
+      "story": {
+        "title": "Former China ambassador warns Beijing is becoming 'smug' and closed",
+        "description": "A former ambassador to China has sharply critiqued elements of the Morrison government's response to Beijing's coercion, saying some in the Coalition \"almost delighted\" in being targeted and \"paraded\" the famous list of ",
+        "link": "https://www.abc.net.au/news/2026-09-11/former-china-ambassador-coalition-delighted-beijing-coercion/107144700",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 2,
+      "story": {
+        "title": "Six Nigerians accused of romance scams to be extradited to the US",
+        "description": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+        "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+        "description": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely.",
+        "link": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
-      "count": 3,
+      "count": 2,
       "story": {
         "title": "Sapporo to move some beer production from Canada to US after tariffs",
         "description": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
@@ -216,39 +300,27 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 3,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
       "story": {
-        "title": "Magyar vs. Moscow: Hungary's new tough stance toward Russia",
-        "description": "Hungarian PM Peter Magyar has abruptly ended the era of his predecessor's warm relations with Russia: Budapest has expelled 10 Russian diplomats from the country. Moscow is considering halting gas supplies in response.",
-        "link": "https://www.dw.com/en/magyar-vs-moscow-hungary-s-new-tough-stance-toward-russia/a-79223424?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "From hunger crisis to ‘obesity’: how Gaza’s UN data is being twisted",
+        "description": "US and Israeli officials are using a drop in acute malnutrition cases to claim Gaza has no hunger.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/from-hunger-crisis-to-obesity-how-gazas-un-data-is-being-twisted?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 3,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 2,
       "story": {
-        "title": "Germany's connection to the September 11 attacks",
-        "description": "The 9/11 plot, including the twin tower attacks, was partly planned by the so-called Hamburg cell. A look at how Germany's national security was reshaped.",
-        "link": "https://www.dw.com/en/germany-s-connection-to-the-september-11-attacks/a-79202918?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Netherlands",
-      "lat": 52.13,
-      "lon": 5.29,
-      "count": 3,
-      "story": {
-        "title": "Why are European banks moving their gold out of the US?",
-        "description": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fear over US reliability, but equally important is the need to have their gold closer to home in the event of a crisis.",
-        "link": "https://www.dw.com/en/why-are-european-banks-moving-their-gold-out-of-the-us/a-79213013?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "‘A historic day’: Spain moves closer to citizenship for Western Saharans",
+        "description": "Spain’s parliament backs citizenship for Sahrawis amid tense relations with Morocco after the Ceuta crossing.",
+        "link": "https://www.aljazeera.com/news/2026/9/11/a-historic-day-spain-moves-closer-to-citizenship-for-western-saharans?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -264,87 +336,39 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 2,
       "story": {
-        "title": "NAZA, the Israeli film revealing new layers of the Gaza genocide",
-        "description": "A 25-minute standing ovation at the Biennale has put NAZA, an Israeli-made film confronting Israel’s genocide in Gaza.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/naza-the-israeli-film-revealing-new-layers-of-the-gaza-genocide?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
-      "count": 2,
-      "story": {
-        "title": "Taiwan vice president makes rare Europe visit for conference on democracy",
-        "description": "European Parliament&#039;s Pina Picierno says Hsiao&#039;s visit &#039;was kept secret until her arrival to protect her participation&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 2,
-      "story": {
-        "title": "Former China ambassador warns Beijing is becoming 'smug' and closed",
-        "description": "A former ambassador to China has sharply critiqued elements of the Morrison government's response to Beijing's coercion, saying some in the Coalition \"almost delighted\" in being targeted and \"paraded\" the famous list of ",
-        "link": "https://www.abc.net.au/news/2026-09-11/former-china-ambassador-coalition-delighted-beijing-coercion/107144700",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
-      "count": 2,
-      "story": {
-        "title": "Search resumes for 80 missing in popular Philippines tourist spot",
-        "description": "Authorities are still trying to determine whether any foreigners were on board the ferry, which is afloat off the town of Coron, known for its diving sites and island-hopping attractions.",
-        "link": "https://www.abc.net.au/news/2026-09-11/search-resumes-for-people-missing-after-philippines-ferry-fire/107066072",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 2,
-      "story": {
-        "title": "North Korea spends war windfall on arms, infrastructure",
-        "description": "The Ukraine war and Pyongyang's alliance with Moscow have delivered an economic boost to North Korea, allowing the regime to pursue a range of long-desired projects.",
-        "link": "https://www.dw.com/en/north-korea-spends-war-windfall-on-arms-infrastructure/a-79218305?maca=en-rss-en-all-1573-rdf",
+        "title": "China angered by Taiwan VP's visit to EU democracy forum",
+        "description": "Beijing has lodged a complaint with Italy and the EU over top Taiwanese officials visiting a democracy conference. The EU is navigating contentious issues with China and high-ranking Taiwanese visits are rare.",
+        "link": "https://www.dw.com/en/china-angered-by-taiwan-vp-s-visit-to-eu-democracy-forum/a-79226311?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
       "count": 2,
       "story": {
-        "title": "LIV Golf in financial turmoil: What's next for the sport?",
-        "description": "Six months after Saudi Arabia pulled funding from the breakaway organization, LIV Golf have filed for bankruptcy protection. Several of the world's best players signed on to LIV, so where does that leave golf?",
-        "link": "https://www.dw.com/en/liv-golf-in-financial-turmoil-what-s-next-for-the-sport/a-79199569?maca=en-rss-en-all-1573-rdf",
+        "title": "Why are European banks moving their gold out of the US?",
+        "description": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fear over US reliability, but equally important is the need to have their gold closer to home in the event of a crisis.",
+        "link": "https://www.dw.com/en/why-are-european-banks-moving-their-gold-out-of-the-us/a-79213013?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 2,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 1,
       "story": {
-        "title": "AI firm Anthropic says it disrupted election manipulation operation targeting voters in Malaysia",
-        "description": "Anthropic says its Claude AI was used to build a voter-targeting system covering all 222 parliamentary constituencies in Malaysia, while the threat actor also unsuccessfully pursued a contract with the country’s communic",
-        "link": "https://www.channelnewsasia.com/asia/anthropic-disrupt-malaysia-election-manipulation-operation-6377936",
-        "source": "CNA"
+        "title": "Six Nigerians accused of romance scams to be extradited to the US",
+        "description": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+        "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -360,15 +384,63 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 1,
       "story": {
-        "title": "Watch: Americans remember what they were doing on 9/11",
-        "description": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
-        "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations",
+        "description": "Second day of strikes on fuel stations suggest a new campaign focused on civilian areas in the Ukrainian capital.",
+        "link": "https://www.aljazeera.com/news/2026/9/11/russian-strikes-kill-two-in-kyiv-as-moscow-targets-capitals-fuel-stations?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
+      "count": 1,
+      "story": {
+        "title": "Myanmar airport closed following reported drone attack",
+        "description": "Military government pins attack on pro-democracy rebels it has been battling since seizing power in 2021.",
+        "link": "https://www.aljazeera.com/news/2026/9/11/myanmar-airport-closed-following-reported-drone-attack?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
+      "count": 1,
+      "story": {
+        "title": "FIFA rebukes Morocco’s claim it will host 2030 World Cup final",
+        "description": "Morocco to co-host 2030 ​tournament with Spain and Portugal, but FIFA denies final will be in North Africa.",
+        "link": "https://www.aljazeera.com/sports/2026/9/11/fifa-rebukes-morocco-claim-they-will-host-2030-world-cup-final?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 1,
+      "story": {
+        "title": "Al Jazeera explains massive Israeli blasts on south Lebanon hill",
+        "description": "Israeli forces say they used more than 1,100 tonnes of explosives to demolish alleged Hezbollah tunnels in south Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Jordan",
+      "lat": 30.59,
+      "lon": 36.24,
+      "count": 1,
+      "story": {
+        "title": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan",
+        "description": "US official admits the naval base near Manama sustained heavy damage in the war with Iran.",
+        "link": "https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -389,46 +461,34 @@
       "lon": 69.3,
       "count": 1,
       "story": {
-        "title": "‘Not dolls to play with’: Afghan medical students face Pakistan expulsion",
-        "description": "Students say they were legally admitted and funded to study in Pakistan, but now face being sent home mid-degree.",
+        "title": "‘I want to cry’: Afghan medical students in Pakistan face expulsion fear",
+        "description": "A court has temporarily suspended a directive to expel the students, but the threat of eviction lingers.",
         "link": "https://www.aljazeera.com/features/2026/9/11/not-dolls-to-play-with-afghan-medical-students-face-pakistan-expulsion?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
       "count": 1,
       "story": {
-        "title": "Hundreds flee as fire destroys migrant shelters in Ceuta",
-        "description": "Hundreds of people fled a massive fire that destroyed dozens of migrant shelters in Ceuta, Spain.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Breaking: Norway's Princess Astrid dies aged 94 two days after King's funeral",
+        "description": "Norway's Princess Astrid, an older sister of the late king Harald, died on Friday at the age of 94, two days after the King's funeral.",
+        "link": "https://www.abc.net.au/news/2026-09-11/norway-princess-astrid-dies-aged-94/107145428",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "BRICS red carpet sparks anger in India’s capital",
-        "description": "New Delhi is rolling out the red carpet for BRICS, but blocked roads, evictions and restrictions have caused anger.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/brics-red-carpet-sparks-anger-in-indias-capital?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 1,
-      "story": {
-        "title": "Brazil’s Supreme Court shuts down early as political chaos mounts",
-        "description": "Members of the high court have exchanged accusations after one justice was accused of involvement in a bank scandal.",
-        "link": "https://www.aljazeera.com/news/2026/9/11/brazils-supreme-court-shuts-down-early-as-political-chaos-mounts?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Live: Freo surge home to claim semifinal classic against Cats",
+        "description": "Minor premier Fremantle secures a 14-point victory over Geelong after a see-sawing semifinal classic at Perth Stadium. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-09-11/afl-semifinal-fremantle-geelong-live-blog/107145046",
+        "source": "ABC News AU"
       }
     },
     {
@@ -444,110 +504,50 @@
       }
     },
     {
-      "name": "Budapest",
-      "lat": 47.5,
-      "lon": 19.04,
+      "name": "New Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
       "count": 1,
       "story": {
-        "title": "Magyar vs. Moscow: Hungary's new tough stance toward Russia",
-        "description": "Hungarian PM Peter Magyar has abruptly ended the era of his predecessor's warm relations with Russia: Budapest has expelled 10 Russian diplomats from the country. Moscow is considering halting gas supplies in response.",
-        "link": "https://www.dw.com/en/magyar-vs-moscow-hungary-s-new-tough-stance-toward-russia/a-79223424?maca=en-rss-en-all-1573-rdf",
+        "title": "India's BRICS strategy tested with Xi, Putin set to visit",
+        "description": "New Delhi's \"America Plus\" approach sees India deepening its ties with China and Russia, while also trying to keep BRICS from turning into an anti-Western platform.",
+        "link": "https://www.dw.com/en/india-s-brics-strategy-tested-with-xi-putin-set-to-visit/a-79231879?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Hungary",
-      "lat": 47.16,
-      "lon": 19.5,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 1,
       "story": {
-        "title": "Magyar vs. Moscow: Hungary's new tough stance toward Russia",
-        "description": "Hungarian PM Peter Magyar has abruptly ended the era of his predecessor's warm relations with Russia: Budapest has expelled 10 Russian diplomats from the country. Moscow is considering halting gas supplies in response.",
-        "link": "https://www.dw.com/en/magyar-vs-moscow-hungary-s-new-tough-stance-toward-russia/a-79223424?maca=en-rss-en-all-1573-rdf",
+        "title": "Iran war: Saudi-Houthi escalation intensifies Yemen conflict",
+        "description": "The Houthi takeovers of Mokha, Dhubab and Perim in the Bab el-Mandeb Strait threaten to push Yemen deeper into the Middle East war. The Iran-backed group has made advances against Yemen's government and Saudi Arabia.",
+        "link": "https://www.dw.com/en/iran-war-saudi-houthi-escalation-intensifies-yemen-conflict/a-79226627?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Pyongyang",
+      "lat": 39.03,
+      "lon": 125.75,
       "count": 1,
       "story": {
-        "title": "Why are European banks moving their gold out of the US?",
-        "description": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fear over US reliability, but equally important is the need to have their gold closer to home in the event of a crisis.",
-        "link": "https://www.dw.com/en/why-are-european-banks-moving-their-gold-out-of-the-us/a-79213013?maca=en-rss-en-all-1573-rdf",
+        "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
+        "description": "Donald Trump's overtures to North Korea's dictator have gone nowhere, with an emboldened Pyongyang accelerating its nuclear program and solidifying alliances with Russia and China.",
+        "link": "https://www.dw.com/en/why-north-korea-s-kim-jong-un-doesn-t-need-a-us-deal/a-79227854?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
       "count": 1,
       "story": {
-        "title": "Spanish lawmakers back citizenship for Sahrawis",
-        "description": "Spanish lawmakers approved a bill that could give citizenship to tens of thousands of Sahrawis and their descendants, amid tense ties with Morocco. The legislation must now pass the senate.",
-        "link": "https://www.dw.com/en/spanish-lawmakers-back-citizenship-for-sahrawis/a-79222841?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Algeria cuts diplomatic ties with UAE",
-        "description": "Algeria said that it was closing its airspace and severing ties with the United Arab Emirates. Algiers accuses Abu Dhabi of destabilizing countries such as Libya, Sudan and Mali.",
-        "link": "https://www.dw.com/en/algeria-cuts-diplomatic-ties-with-uae/a-79222141?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Algiers",
-      "lat": 36.75,
-      "lon": 3.06,
-      "count": 1,
-      "story": {
-        "title": "Algeria cuts diplomatic ties with UAE",
-        "description": "Algeria said that it was closing its airspace and severing ties with the United Arab Emirates. Algiers accuses Abu Dhabi of destabilizing countries such as Libya, Sudan and Mali.",
-        "link": "https://www.dw.com/en/algeria-cuts-diplomatic-ties-with-uae/a-79222141?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Algeria",
-      "lat": 28.03,
-      "lon": 1.66,
-      "count": 1,
-      "story": {
-        "title": "Algeria cuts diplomatic ties with UAE",
-        "description": "Algeria said that it was closing its airspace and severing ties with the United Arab Emirates. Algiers accuses Abu Dhabi of destabilizing countries such as Libya, Sudan and Mali.",
-        "link": "https://www.dw.com/en/algeria-cuts-diplomatic-ties-with-uae/a-79222141?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
-      "count": 1,
-      "story": {
-        "title": "Algeria cuts diplomatic ties with UAE",
-        "description": "Algeria said that it was closing its airspace and severing ties with the United Arab Emirates. Algiers accuses Abu Dhabi of destabilizing countries such as Libya, Sudan and Mali.",
-        "link": "https://www.dw.com/en/algeria-cuts-diplomatic-ties-with-uae/a-79222141?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Abu Dhabi",
-      "lat": 24.47,
-      "lon": 54.37,
-      "count": 1,
-      "story": {
-        "title": "Algeria cuts diplomatic ties with UAE",
-        "description": "Algeria said that it was closing its airspace and severing ties with the United Arab Emirates. Algiers accuses Abu Dhabi of destabilizing countries such as Libya, Sudan and Mali.",
-        "link": "https://www.dw.com/en/algeria-cuts-diplomatic-ties-with-uae/a-79222141?maca=en-rss-en-all-1573-rdf",
+        "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
+        "description": "Donald Trump's overtures to North Korea's dictator have gone nowhere, with an emboldened Pyongyang accelerating its nuclear program and solidifying alliances with Russia and China.",
+        "link": "https://www.dw.com/en/why-north-korea-s-kim-jong-un-doesn-t-need-a-us-deal/a-79227854?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
