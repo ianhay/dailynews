@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:47:53+00:00",
+  "generated_at": "2026-09-11T23:07:33+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -72,10 +72,22 @@
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 14,
+      "story": {
+        "title": "Aussie athletics star shocked at massive pay packet for coming second",
+        "description": "Australia's Nicola Olyslagers finishes second in the high jump at the new Ultimate Championship competition.",
+        "link": "https://www.abc.net.au/news/2026-09-12/ultimate-championship-athletics-nicola-olyslagers-claims-second/107146220",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 15,
+      "count": 13,
       "story": {
         "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
         "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
@@ -87,60 +99,12 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 12,
+      "count": 11,
       "story": {
         "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
         "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
         "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 12,
-      "story": {
-        "title": "This water scored a perfect 100. Now it's being served like wine",
-        "description": "An underground aquifer on South Australia's Yorke Peninsula is producing award-winning mineral water as Australian producers tap into the growing global fine-water market.",
-        "link": "https://www.abc.net.au/news/2026-09-12/yorke-peninsula-fine-mineral-water/107134142",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 7,
-      "story": {
-        "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
-        "description": "It has been a rollercoaster ride for 'cockroach' party founder Abhijeet Dipke who gained celebrity status overnight.",
-        "link": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 7,
-      "story": {
-        "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
-        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
-        "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 7,
-      "story": {
-        "title": "Germany's election and the UK's sanctions signals political warfare",
-        "description": "Two significant shifts this week showed political warfare is on full display in Europe.",
-        "link": "https://www.abc.net.au/news/2026-09-12/political-warfare-andy-burnham-germany-election-sanctions/107143228",
-        "source": "ABC News AU"
       }
     },
     {
@@ -159,7 +123,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "Israel says it has destroyed major underground Hezbollah base",
         "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
@@ -168,14 +132,50 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 6,
+      "story": {
+        "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
+        "description": "It has been a rollercoaster ride for 'cockroach' party founder Abhijeet Dipke who gained celebrity status overnight.",
+        "link": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 6,
+      "story": {
+        "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
-      "count": 5,
+      "count": 6,
       "story": {
-        "title": "This project was to bring proton therapy to Australia. Alternate plans tell another story",
-        "description": "Australians have been promised proton cancer therapy for years. The latest hope rests with a multi-million-dollar Sydney development where the money, partners and even the machine itself remain uncertain.",
-        "link": "https://www.abc.net.au/news/2026-09-12/proton-therapy-sydney-developer-made-other-plans/107115054",
+        "title": "Teen charged over mistaken identity murder of Sydney tradie",
+        "description": "Police charge an 18-year-old man they allege carried out drone surveillance for the botched underworld hit that left Joshua Macdonald dead.",
+        "link": "https://www.abc.net.au/news/2026-09-12/merrylands-murder-joshua-macdonald-drone-charge/107146238",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 6,
+      "story": {
+        "title": "Germany's election and the UK's sanctions signals political warfare",
+        "description": "Two significant shifts this week showed political warfare is on full display in Europe.",
+        "link": "https://www.abc.net.au/news/2026-09-12/political-warfare-andy-burnham-germany-election-sanctions/107143228",
         "source": "ABC News AU"
       }
     },
@@ -192,18 +192,6 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 4,
-      "story": {
-        "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
-        "description": "The Witkoff-Kushner visit to Moscow was immediately followed by Russian attacks on Kyiv.",
-        "link": "https://www.aljazeera.com/news/2026/9/11/us-diplomacy-under-fire-as-moscow-escalates-attacks-on-ukrainian-officials?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Singapore",
       "lat": 1.35,
       "lon": 103.82,
@@ -213,6 +201,18 @@
         "description": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
         "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 3,
+      "story": {
+        "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
+        "description": "France international and World Cup record holder Kylian Mbappe speaks out over memes using his image.",
+        "link": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -228,15 +228,15 @@
       }
     },
     {
-      "name": "Norway",
-      "lat": 60.47,
-      "lon": 8.47,
-      "count": 2,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 3,
       "story": {
-        "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-        "description": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
-        "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "The 'end of an era' as Goethe-Institut in Russia closes",
+        "description": "The Goethe-Institut was one of the last German institutions still operating in Russia. However, following Moscow's decision to close its offices, all employees will have to stop working by September 13.",
+        "link": "https://www.dw.com/en/the-end-of-an-era-as-goethe-institut-in-russia-closes/a-79224321?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -276,6 +276,18 @@
       }
     },
     {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 2,
+      "story": {
+        "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
+        "description": "Iraq condemns the attack, dismisses a military commander who led operations in Maysan province.",
+        "link": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -300,39 +312,15 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
       "count": 2,
       "story": {
-        "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
-        "description": "France international and World Cup record holder Kylian Mbappe speaks out over memes using his image.",
-        "link": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 2,
-      "story": {
-        "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
-        "description": "The Witkoff-Kushner visit to Moscow was immediately followed by Russian attacks on Kyiv.",
-        "link": "https://www.aljazeera.com/news/2026/9/11/us-diplomacy-under-fire-as-moscow-escalates-attacks-on-ukrainian-officials?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
-      "count": 2,
-      "story": {
-        "title": "Philippines ferry fire death toll rises to 35 after bodies recovered",
-        "description": "Coast Guard says 30 more bodies recovered after five people were initially confirmed dead in Wednesday&#039;s disaster.",
-        "link": "https://www.aljazeera.com/news/2026/9/11/philippines-ferry-fire-death-toll-rises-to-35-after-bodies-recovered?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
+        "description": "Donald Trump's overtures to North Korea's dictator have gone nowhere, with an emboldened Pyongyang accelerating its nuclear program and solidifying alliances with Russia and China.",
+        "link": "https://www.dw.com/en/why-north-korea-s-kim-jong-un-doesn-t-need-a-us-deal/a-79227854?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -344,6 +332,18 @@
         "title": "Why are European banks moving gold out of United States?",
         "description": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fears about the reliability of the US, but equally important is the need to keep gold closer to home in the event of a crisis.",
         "link": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 2,
+      "story": {
+        "title": "How Celine Dion became a pop culture icon across generations",
+        "description": "As the global star kicks off her anticipated Paris residency, here's how Celine Dion managed to gain younger followers while keeping her loyal older fans.",
+        "link": "https://www.dw.com/en/how-celine-dion-became-a-pop-culture-icon-across-generations/a-79213779?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -360,6 +360,18 @@
       }
     },
     {
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
+      "count": 1,
+      "story": {
+        "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+        "description": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
+        "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "South Africa",
       "lat": -30.6,
       "lon": 22.9,
@@ -369,6 +381,30 @@
         "description": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
         "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 1,
+      "story": {
+        "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+        "description": "The investigation came to light as Brazil&#039;s Supreme Court unseals files related to the Banco Master corruption scandal.",
+        "link": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
+      "count": 1,
+      "story": {
+        "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
+        "description": "Iraq condemns the attack, dismisses a military commander who led operations in Maysan province.",
+        "link": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -408,15 +444,27 @@
       }
     },
     {
-      "name": "Dublin",
-      "lat": 53.35,
-      "lon": -6.26,
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
       "count": 1,
       "story": {
-        "title": "Passenger plane aborts landing after wing clips Dublin runway",
-        "description": "A passenger aboard a Ryanair Boeing 737 recorded the moment the aircraft’s wingtip struck the runway at Dublin airport.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/passenger-plane-aborts-landing-after-wing-clips-dublin-runway?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Darwin soccer club helps migrants find community and a place to call home",
+        "description": "For one family who fled Myanmar, soccer has become a pathway to friendship, belonging and a new life in Darwin.",
+        "link": "https://www.abc.net.au/news/2026-09-12/darwin-olympic-soccer-club-connecting-migrants-and-community-nt/107128450",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 1,
+      "story": {
+        "title": "Lions' shock loss to Swans was about more than complacency",
+        "description": "Some critics might think Brisbane did not take Sydney seriously in the first week of the AFL finals, but there were other reasons for their heavy defeat.",
+        "link": "https://www.abc.net.au/news/2026-09-12/afl-finals-brisbane-lions-sydney-swans-adelaide-crows/107142558",
+        "source": "ABC News AU"
       }
     },
     {
@@ -432,39 +480,15 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 1,
       "story": {
-        "title": "'Nothing to hide': Brazil's presidential candidate Flavio Bolsonaro under corruption investigation",
-        "description": "Brazil's right-wing presidential candidate Flavio Bolsonaro says he has \"nothing to hide\" in a corruption investigation that was revealed just weeks before voters go to the polls.",
-        "link": "https://www.abc.net.au/news/2026-09-12/brazil-flavio-bolsonaro-corruption-investigation/107146062",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 1,
-      "story": {
-        "title": "Nepal estimates reconstruction after deadly floods to cost nearly $7 billion",
-        "description": "Nepal says nearly $7 billion is needed for it to recover from the deadly August 26 floods, arguing wealthier countries should treat the climate change-fuelled disaster as a \"shared responsibility\".",
-        "link": "https://www.abc.net.au/news/2026-09-12/nepal-flood-reconstruction-cost-billions/107145518",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "'Pretty clear to me': Cats count the cost of goal review blunder",
-        "description": "Minor premier Fremantle secures a 14-point victory over Geelong after a see-sawing semifinal classic at Perth Stadium.",
-        "link": "https://www.abc.net.au/news/2026-09-11/afl-semifinal-fremantle-geelong-live-blog/107145046",
-        "source": "ABC News AU"
+        "title": "Ukraine: Russian strike on Kyiv gas station kills 2",
+        "description": "With fighting on the front lines mostly stalled, Russia has been increasingly hitting petrol stations and other civilian targets. Ukraine has also been attacking Russia with drones, killing three people on Friday.",
+        "link": "https://www.dw.com/en/ukraine-russian-strike-on-kyiv-gas-station-kills-2/a-79238219?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -480,33 +504,9 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "Iran war: Saudi-Houthi escalation intensifies Yemen conflict",
-        "description": "The Houthi takeovers of Mokha, Dhubab and Perim in the Bab el-Mandeb Strait threaten to push Yemen deeper into the Middle East war. The Iran-backed group has made advances against Yemen's government and Saudi Arabia.",
-        "link": "https://www.dw.com/en/iran-war-saudi-houthi-escalation-intensifies-yemen-conflict/a-79226627?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Pyongyang",
       "lat": 39.03,
       "lon": 125.75,
-      "count": 1,
-      "story": {
-        "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
-        "description": "Donald Trump's overtures to North Korea's dictator have gone nowhere, with an emboldened Pyongyang accelerating its nuclear program and solidifying alliances with Russia and China.",
-        "link": "https://www.dw.com/en/why-north-korea-s-kim-jong-un-doesn-t-need-a-us-deal/a-79227854?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
       "count": 1,
       "story": {
         "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
