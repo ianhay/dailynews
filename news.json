@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:40:48+00:00",
+  "generated_at": "2026-09-11T20:47:53+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "description": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Can Trump really pay $5,000 to every American adult?",
       "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
       "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
@@ -22,12 +28,6 @@
       "description": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
       "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Cowboy builder tore my home apart and disappeared off the face of the Earth with £14k",
-      "description": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
-      "link": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "australia": [
@@ -72,22 +72,10 @@
   ],
   "places": [
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 13,
-      "story": {
-        "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
-        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
-        "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 11,
+      "count": 15,
       "story": {
         "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
         "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
@@ -96,15 +84,39 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 12,
+      "story": {
+        "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+        "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 9,
+      "count": 12,
       "story": {
-        "title": "Being a renter, Jenny missed out on solar boon but that is about to change",
-        "description": "Australia readies to lift a ban on plug-in solar, unlocking access to the technology for millions of apartment dwellers and renters for the first time.",
-        "link": "https://www.abc.net.au/news/2026-09-11/balcony-solar-to-become-legal-in-australia/107144234",
+        "title": "This water scored a perfect 100. Now it's being served like wine",
+        "description": "An underground aquifer on South Australia's Yorke Peninsula is producing award-winning mineral water as Australian producers tap into the growing global fine-water market.",
+        "link": "https://www.abc.net.au/news/2026-09-12/yorke-peninsula-fine-mineral-water/107134142",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 7,
+      "story": {
+        "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
+        "description": "It has been a rollercoaster ride for 'cockroach' party founder Abhijeet Dipke who gained celebrity status overnight.",
+        "link": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -120,63 +132,39 @@
       }
     },
     {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 7,
+      "story": {
+        "title": "Germany's election and the UK's sanctions signals political warfare",
+        "description": "Two significant shifts this week showed political warfare is on full display in Europe.",
+        "link": "https://www.abc.net.au/news/2026-09-12/political-warfare-andy-burnham-germany-election-sanctions/107143228",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
       "count": 7,
       "story": {
-        "title": "Former China ambassador warns Beijing is becoming 'smug' and closed",
-        "description": "A former ambassador to China has sharply critiqued elements of the Morrison government's response to Beijing's coercion, saying some in the Coalition \"almost delighted\" in being targeted and \"paraded\" the famous list of ",
-        "link": "https://www.abc.net.au/news/2026-09-11/former-china-ambassador-coalition-delighted-beijing-coercion/107144700",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 6,
-      "story": {
-        "title": "Germany charges 7 suspected Hamas members over attack plot",
-        "description": "Prosecutors say the suspects had moved beyond general preparations and were already pursuing a concrete plan for a deadly attack on Israeli or Jewish targets.",
-        "link": "https://www.dw.com/en/germany-charges-7-suspected-hamas-members-over-attack-plot/a-79230171?maca=en-rss-en-all-1573-rdf",
+        "title": "India's BRICS strategy tested with Xi, Putin set to visit",
+        "description": "New Delhi's \"America Plus\" approach sees India deepening its ties with China and Russia, while also trying to keep BRICS from turning into an anti-Western platform.",
+        "link": "https://www.dw.com/en/india-s-brics-strategy-tested-with-xi-putin-set-to-visit/a-79231879?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 5,
       "story": {
-        "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
-        "description": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
-        "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel says it has destroyed major underground Hezbollah base",
+        "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
-      "story": {
-        "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
-        "description": "It has been a rollercoaster ride for 'cockroach' party founder Abhijeet Dipke who gained celebrity status overnight.",
-        "link": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 5,
-      "story": {
-        "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
-        "description": "The Witkoff-Kushner visit to Moscow was immediately followed by Russian attacks on Kyiv.",
-        "link": "https://www.aljazeera.com/news/2026/9/11/us-diplomacy-under-fire-as-moscow-escalates-attacks-on-ukrainian-officials?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -185,22 +173,10 @@
       "lon": 151.21,
       "count": 5,
       "story": {
-        "title": "Bennett bemoans Bunker as Knights stun Souths in elimination final",
-        "description": "Newcastle holds on for a 20-10 victory over South Sydney to kick-off the 2026 finals series, but Rabbitohs coach Wayne Bennett fumes at more Bunker confusion after a contentious call.",
-        "link": "https://www.abc.net.au/news/2026-09-11/nrl-finals-live-updates-rabbitohs-vs-knights/107136652",
+        "title": "This project was to bring proton therapy to Australia. Alternate plans tell another story",
+        "description": "Australians have been promised proton cancer therapy for years. The latest hope rests with a multi-million-dollar Sydney development where the money, partners and even the machine itself remain uncertain.",
+        "link": "https://www.abc.net.au/news/2026-09-12/proton-therapy-sydney-developer-made-other-plans/107115054",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "Israel says it has destroyed major underground Hezbollah base",
-        "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -216,22 +192,10 @@
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 3,
-      "story": {
-        "title": "Six Nigerians accused of romance scams to be extradited to the US",
-        "description": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
-        "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 3,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 4,
       "story": {
         "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
         "description": "The Witkoff-Kushner visit to Moscow was immediately followed by Russian attacks on Kyiv.",
@@ -240,51 +204,15 @@
       }
     },
     {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 3,
       "story": {
-        "title": "Philippines ferry fire death toll rises to 35 after bodies recovered",
-        "description": "Coast Guard says 30 more bodies recovered after five people were initially confirmed dead in Wednesday&#039;s disaster.",
-        "link": "https://www.aljazeera.com/news/2026/9/11/philippines-ferry-fire-death-toll-rises-to-35-after-bodies-recovered?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza",
-        "description": "Protests set to erupt across Ireland, where President Connolly has long regarded the US as an untrustworthy power.",
-        "link": "https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 3,
-      "story": {
-        "title": "‘A historic day’: Spain moves closer to citizenship for Western Saharans",
-        "description": "Spain’s parliament backs citizenship for Sahrawis amid tense relations with Morocco after the Ceuta crossing.",
-        "link": "https://www.aljazeera.com/news/2026/9/11/a-historic-day-spain-moves-closer-to-citizenship-for-western-saharans?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 3,
-      "story": {
-        "title": "‘A historic day’: Spain moves closer to citizenship for Western Saharans",
-        "description": "Spain’s parliament backs citizenship for Sahrawis amid tense relations with Morocco after the Ceuta crossing.",
-        "link": "https://www.aljazeera.com/news/2026/9/11/a-historic-day-spain-moves-closer-to-citizenship-for-western-saharans?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+        "description": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
+        "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -293,21 +221,9 @@
       "lon": 116.4,
       "count": 3,
       "story": {
-        "title": "Former China ambassador warns Beijing is becoming 'smug' and closed",
-        "description": "A former ambassador to China has sharply critiqued elements of the Morrison government's response to Beijing's coercion, saying some in the Coalition \"almost delighted\" in being targeted and \"paraded\" the famous list of ",
-        "link": "https://www.abc.net.au/news/2026-09-11/former-china-ambassador-coalition-delighted-beijing-coercion/107144700",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Netherlands",
-      "lat": 52.13,
-      "lon": 5.29,
-      "count": 3,
-      "story": {
-        "title": "Why are European banks moving gold out of United States?",
-        "description": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fears about the reliability of the US, but equally important is the need to keep gold closer to home in the event of a crisis.",
-        "link": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-all-1573-rdf",
+        "title": "China angered by Taiwan VP's visit to EU democracy forum",
+        "description": "Beijing has lodged a complaint with Italy and the EU over top Taiwanese officials visiting a democracy conference. The EU is navigating contentious issues with China and high-ranking Taiwanese visits are rare.",
+        "link": "https://www.dw.com/en/china-angered-by-taiwan-vp-s-visit-to-eu-democracy-forum/a-79226311?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -336,9 +252,9 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 2,
       "story": {
         "title": "Six Nigerians accused of romance scams to be extradited to the US",
@@ -360,27 +276,135 @@
       }
     },
     {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 2,
       "story": {
-        "title": "‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza",
-        "description": "Protests set to erupt across Ireland, where President Connolly has long regarded the US as an untrustworthy power.",
-        "link": "https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss",
+        "title": "Razaullah’s six-hitting debut caps Pakistan’s fightback against England",
+        "description": "Pakistan all out with a second innings lead of 130 at the close on day three of the third Test at Edgbaston.",
+        "link": "https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
+      "name": "New Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
       "count": 2,
       "story": {
-        "title": "China angered by Taiwan VP's visit to EU democracy forum",
-        "description": "Beijing has lodged a complaint with Italy and the EU over top Taiwanese officials visiting a democracy conference. The EU is navigating contentious issues with China and high-ranking Taiwanese visits are rare.",
-        "link": "https://www.dw.com/en/china-angered-by-taiwan-vp-s-visit-to-eu-democracy-forum/a-79226311?maca=en-rss-en-all-1573-rdf",
+        "title": "Can BRICS help reshape global order by strengthening emerging economies?",
+        "description": "Leaders of BRICS member states are meeting at a summit in New Delhi, India.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 2,
+      "story": {
+        "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
+        "description": "France international and World Cup record holder Kylian Mbappe speaks out over memes using his image.",
+        "link": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
+      "story": {
+        "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
+        "description": "The Witkoff-Kushner visit to Moscow was immediately followed by Russian attacks on Kyiv.",
+        "link": "https://www.aljazeera.com/news/2026/9/11/us-diplomacy-under-fire-as-moscow-escalates-attacks-on-ukrainian-officials?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
+      "count": 2,
+      "story": {
+        "title": "Philippines ferry fire death toll rises to 35 after bodies recovered",
+        "description": "Coast Guard says 30 more bodies recovered after five people were initially confirmed dead in Wednesday&#039;s disaster.",
+        "link": "https://www.aljazeera.com/news/2026/9/11/philippines-ferry-fire-death-toll-rises-to-35-after-bodies-recovered?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
+      "count": 2,
+      "story": {
+        "title": "Why are European banks moving gold out of United States?",
+        "description": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fears about the reliability of the US, but equally important is the need to keep gold closer to home in the event of a crisis.",
+        "link": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "Israel army rejects testimonies in film about AI-powered killing in Gaza",
+        "description": "The Israeli-made film \"NAZA\" uses conversations with 24 different Israeli military or intelligence whistleblowers who spoke on condition that their identities be protected.",
+        "link": "https://www.channelnewsasia.com/world/israel-army-rejects-testimonies-in-film-about-ai-powered-killing-in-gaza-6379496",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 1,
+      "story": {
+        "title": "Six Nigerians accused of romance scams to be extradited to the US",
+        "description": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+        "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
+        "description": "France international and World Cup record holder Kylian Mbappe speaks out over memes using his image.",
+        "link": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ecuador",
+      "lat": -1.83,
+      "lon": -78.18,
+      "count": 1,
+      "story": {
+        "title": "‘Handcuffed and blindfolded’: Is the US targeting Ecuadorian fishermen?",
+        "description": "A growing number of fishermen say their boats have been struck by US forces as Trump expands his anti-drug campaign.",
+        "link": "https://www.aljazeera.com/news/2026/9/11/handcuffed-and-blindfolded-is-the-us-targeting-ecuadorian-fishermen?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 1,
+      "story": {
+        "title": "Morocco PM takes aim at federation chief over 2030 World Cup final boast",
+        "description": "Prime Minister Aziz Akhannouch slams his country&#039;s football chief after claim Morocco will host 2030 World Cup final.",
+        "link": "https://www.aljazeera.com/sports/2026/9/11/morocco-pm-slams-federation-chief-over-2030-world-cup-final-boast?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -396,39 +420,15 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Why Pakistan is talking to Iran as the Houthi-Saudi fight escalates",
-        "description": "Pakistan faces growing pressure to honour its Saudi defence commitments while keeping diplomatic channels to Iran open.",
-        "link": "https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 1,
-      "story": {
-        "title": "Myanmar airport closed following reported drone attack",
-        "description": "Military government pins attack on pro-democracy rebels it has been battling since seizing power in 2021.",
-        "link": "https://www.aljazeera.com/news/2026/9/11/myanmar-airport-closed-following-reported-drone-attack?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
-      "count": 1,
-      "story": {
-        "title": "FIFA rebukes Morocco’s claim it will host 2030 World Cup final",
-        "description": "Morocco to co-host 2030 ​tournament with Spain and Portugal, but FIFA denies final will be in North Africa.",
-        "link": "https://www.aljazeera.com/sports/2026/9/11/fifa-rebukes-morocco-claim-they-will-host-2030-world-cup-final?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "The true crime writer fighting to solve decades-old Adelaide murders",
+        "description": "Debi Marhsall can't stop investigating true crime, despite her family begging her to stop and the toll she says it's taken on her life.",
+        "link": "https://www.abc.net.au/news/2026-09-12/debi-marshall-true-crime-family-murders-suppression-orders/107110464",
+        "source": "ABC News AU"
       }
     },
     {
@@ -461,7 +461,7 @@
       "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Freo surge home to claim semifinal classic against Cats",
+        "title": "'Pretty clear to me': Cats count the cost of goal review blunder",
         "description": "Minor premier Fremantle secures a 14-point victory over Geelong after a see-sawing semifinal classic at Perth Stadium.",
         "link": "https://www.abc.net.au/news/2026-09-11/afl-semifinal-fremantle-geelong-live-blog/107145046",
         "source": "ABC News AU"
@@ -476,18 +476,6 @@
         "title": "Iran pursues cautious escalation ahead of US midterms",
         "description": "Tehran appears to be boosting pressure on Washington ahead of the crucial midterm vote, but shows little desire to return to a full-scale war.",
         "link": "https://www.dw.com/en/iran-pursues-cautious-escalation-ahead-of-us-midterms/a-79237061?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
-      "count": 1,
-      "story": {
-        "title": "India's BRICS strategy tested with Xi, Putin set to visit",
-        "description": "New Delhi's \"America Plus\" approach sees India deepening its ties with China and Russia, while also trying to keep BRICS from turning into an anti-Western platform.",
-        "link": "https://www.dw.com/en/india-s-brics-strategy-tested-with-xi-putin-set-to-visit/a-79231879?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -524,6 +512,18 @@
         "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
         "description": "Donald Trump's overtures to North Korea's dictator have gone nowhere, with an emboldened Pyongyang accelerating its nuclear program and solidifying alliances with Russia and China.",
         "link": "https://www.dw.com/en/why-north-korea-s-kim-jong-un-doesn-t-need-a-us-deal/a-79227854?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "China angered by Taiwan VP's visit to EU democracy forum",
+        "description": "Beijing has lodged a complaint with Italy and the EU over top Taiwanese officials visiting a democracy conference. The EU is navigating contentious issues with China and high-ranking Taiwanese visits are rare.",
+        "link": "https://www.dw.com/en/china-angered-by-taiwan-vp-s-visit-to-eu-democracy-forum/a-79226311?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
