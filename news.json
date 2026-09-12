@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:09:46+00:00",
+  "generated_at": "2026-09-12T14:18:47+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Passenger train derails in France leaving at least 44 injured",
-      "description": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
-      "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
       "description": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
       "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
@@ -28,6 +22,12 @@
       "description": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
       "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "Cowboy builder tore my home apart and disappeared off the face of the Earth with £14k",
+      "description": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
+      "link": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
@@ -72,22 +72,10 @@
   ],
   "places": [
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 13,
-      "story": {
-        "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-        "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
-        "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 12,
+      "count": 15,
       "story": {
         "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
         "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
@@ -96,34 +84,10 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 10,
-      "story": {
-        "title": "Mother's search for help before son's suicide sparks call for change",
-        "description": "In the jurisdiction with Australia's highest suicide rate, a mother's desperate search for help before her son's death has sparked calls for change.",
-        "link": "https://www.abc.net.au/news/2026-09-12/darwin-mothers-forum-call-for-change-in-nt-highest-suicide-rate/107141654",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 9,
-      "story": {
-        "title": "BRICS summit opens in New Delhi amid wars, global tensions, tariffs",
-        "description": "Tariffs and geopolitical rifts dominate discussions at a critical BRICS summit in India&#039;s capital.",
-        "link": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 8,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 11,
       "story": {
         "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
         "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
@@ -132,15 +96,39 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 9,
+      "story": {
+        "title": "Mother's search for help before son's suicide sparks call for change",
+        "description": "In the jurisdiction with Australia's highest suicide rate, a mother's desperate search for help before her son's death has sparked calls for change.",
+        "link": "https://www.abc.net.au/news/2026-09-12/darwin-mothers-forum-call-for-change-in-nt-highest-suicide-rate/107141654",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 6,
       "story": {
-        "title": "China’s Xi lands in India for BRICS summit overshadowed by wars",
-        "description": "Wars in the Middle East and Ukraine, along with global energy security, are expected to dominate the summit.",
-        "link": "https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+        "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 6,
+      "story": {
+        "title": "Singaporean man pleads guilty in US to massive crypto heist",
+        "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
+        "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -156,62 +144,26 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "Left with nothing, people in Gaza are forced to rent generators by the hour",
+        "description": "Israel&#039;s destruction of homes and infrastructure in Gaza has forced Palestinians to rent generators by the hour.",
+        "link": "https://www.aljazeera.com/features/2026/9/12/left-with-nothing-people-in-gaza-are-forced-to-rent-generators-by-the-hour?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Saudi Arabia",
       "lat": 23.9,
       "lon": 45.1,
-      "count": 5,
-      "story": {
-        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-        "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-        "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 5,
-      "story": {
-        "title": "Singaporean man pleads guilty in US to massive crypto heist",
-        "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-        "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
       "count": 4,
       "story": {
-        "title": "Watch: Americans remember what they were doing on 9/11",
-        "description": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
-        "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
-      "count": 3,
-      "story": {
         "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
         "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
         "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 3,
-      "story": {
-        "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-        "description": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
-        "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -219,10 +171,10 @@
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "Passenger train derails in France leaving at least 44 injured",
-        "description": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+        "description": "Local officials say186 passengers were on board the train operating the Rouen-Caen route in Normandy.",
         "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -231,47 +183,83 @@
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 3,
+      "count": 4,
       "story": {
-        "title": "How to plan a wedding when you don’t know what tomorrow will bring",
-        "description": "In Gaza, weddings have become acts of defiance. Couples marry in tents and rebuild, choosing love despite suffering.",
-        "link": "https://www.aljazeera.com/features/longform/2026/9/12/how-to-plan-a-wedding-when-you-dont-know-what-tomorrow-will-bring?traffic_source=rss",
+        "title": "Left with nothing, people in Gaza are forced to rent generators by the hour",
+        "description": "Israel&#039;s destruction of homes and infrastructure in Gaza has forced Palestinians to rent generators by the hour.",
+        "link": "https://www.aljazeera.com/features/2026/9/12/left-with-nothing-people-in-gaza-are-forced-to-rent-generators-by-the-hour?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 3,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 4,
       "story": {
-        "title": "BRICS meets in India: What’s on the agenda, why it matters",
-        "description": "This year&#039;s summit comes amid the US-Israel war on Iran, Russia&#039;s war on Ukraine and global economic challenges.",
-        "link": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss",
+        "title": "China’s marriage crisis: The search for love",
+        "description": "101 East explores how ancient traditions are getting a modern makeover as young Chinese seek new ways to find love.",
+        "link": "https://www.aljazeera.com/video/101-east/2026/9/12/chinas-marriage-crisis-the-search-for-love?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 4,
+      "story": {
+        "title": "Russian GRU spies behind failed Leipzig attack: reports",
+        "description": "A German newspaper has cited reports tying a failed attack at Leipzig Airport to Moscow's GRU military intelligence agency. One suspect's ties to GRU were known when he entered the country, yet he was not surveilled.",
+        "link": "https://www.dw.com/en/russian-gru-spies-behind-failed-leipzig-attack-reports/a-79244858?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
       "count": 3,
       "story": {
-        "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
-        "description": "South Korea said it was closely exchanging information on the launches with the US and Japan.",
-        "link": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
+        "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+        "description": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 3,
+      "story": {
+        "title": "Watch: Americans remember what they were doing on 9/11",
+        "description": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
+        "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "India’s Modi calls for empowerment of Global South at BRICS Summit",
+        "description": "India’s Prime Minister Narendra Modi has called for an overhaul of global governance.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
-        "description": "South Korea said it was closely exchanging information on the launches with the US and Japan.",
-        "link": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
+        "title": "Left with nothing, people in Gaza are forced to rent generators by the hour",
+        "description": "Israel&#039;s destruction of homes and infrastructure in Gaza has forced Palestinians to rent generators by the hour.",
+        "link": "https://www.aljazeera.com/features/2026/9/12/left-with-nothing-people-in-gaza-are-forced-to-rent-generators-by-the-hour?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -288,38 +276,26 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 3,
-      "story": {
-        "title": "The 'end of an era' as Goethe-Institut in Russia closes",
-        "description": "The Goethe-Institut was one of the last German institutions still operating in Russia. However, following Moscow's decision to close its offices, all employees will have to stop working by September 13.",
-        "link": "https://www.dw.com/en/the-end-of-an-era-as-goethe-institut-in-russia-closes/a-79224321?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
       "count": 2,
       "story": {
-        "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-        "description": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
-        "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+        "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+        "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 2,
       "story": {
-        "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-        "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-        "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+        "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+        "description": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+        "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -336,27 +312,15 @@
       }
     },
     {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
+      "name": "Kremlin",
+      "lat": 55.75,
+      "lon": 37.62,
       "count": 2,
       "story": {
-        "title": "BRICS summit opens in New Delhi amid wars, global tensions, tariffs",
-        "description": "Tariffs and geopolitical rifts dominate discussions at a critical BRICS summit in India&#039;s capital.",
-        "link": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 2,
-      "story": {
-        "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
-        "description": "South Korea said it was closely exchanging information on the launches with the US and Japan.",
-        "link": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Zelenskyy willing to meet Putin at Miami G20 Summit",
+        "description": "The Kremlin has rebuffed Ukrainian President Volodymyr Zelenskyy after he said he was willing to meet Russian President Vladamir Putin at the G20 Summit in Miami, in December.",
+        "link": "https://www.abc.net.au/news/2026-09-12/zelenskyy-willing-to-meet-putin-at-g20/107146956",
+        "source": "ABC News AU"
       }
     },
     {
@@ -365,16 +329,16 @@
       "lon": 138.6,
       "count": 2,
       "story": {
-        "title": "Live: Lions in control of sudden-death semi after outrageous early blitz",
-        "description": "Brisbane is in the driver's seat against Adelaide, having built a healthy lead on the back of a stunning early surge in their sudden-death semi at the Gabba. Follow live.",
+        "title": "Lions keep three-peat dream alive with 53-point mauling of Adelaide",
+        "description": "The Brisbane Lions are through to the AFL's final four with a 53-point domination of Adelaide at the Gabba.",
         "link": "https://www.abc.net.au/news/2026-09-12/afl-semifinal-lions-crows-live-blog/107146854",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Pyongyang",
-      "lat": 39.03,
-      "lon": 125.75,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 2,
       "story": {
         "title": "North Korea fires multiple ballistic missiles day after trilateral drills end",
@@ -408,6 +372,18 @@
       }
     },
     {
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
+      "count": 1,
+      "story": {
+        "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+        "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Kenya",
       "lat": -0.02,
       "lon": 37.9,
@@ -420,15 +396,27 @@
       }
     },
     {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 1,
+      "story": {
+        "title": "Israel-Lebanon talks postponed as explosions rock southern Lebanon",
+        "description": "President Aoun says &#039;no new negotiations with Israel at the moment&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/9/12/israel-lebanon-talks-postponed-as-explosions-rock-southern-lebanon?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Hong Kong",
       "lat": 22.32,
       "lon": 114.17,
       "count": 1,
       "story": {
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Hong Kong jails Tiananmen vigil activists for seven years",
+        "description": "Hong Kong jails Tiananmen vigil activists for seven years",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/hong-kong-jails-tiananmen-vigil-activists-for-seven-years?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -468,87 +456,99 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Man waving Palestinian flag tackled on Yankee Stadium field",
-        "description": "A man waving a Palestinian flag ran onto the field at Yankee Stadium during a Yankees-Mets MLB game.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/man-waving-palestinian-flag-tackled-on-yankee-stadium-field?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Chile",
-      "lat": -35.68,
-      "lon": -71.54,
-      "count": 1,
-      "story": {
-        "title": "Chileans clash over 9/11 military coup legacy",
-        "description": "Protesters and police have clashed in Chile, as the country marked 53 years of the military coup.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/chileans-clash-over-9-11-military-coup?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
-      "count": 1,
-      "story": {
-        "title": "A stable Afghanistan post 9/11 is in US interests says former US diplomat",
-        "description": "Former US diplomat Zalmay Khalilzad says Washington wants to prevent Afghanistan becoming a hub for anti-US groups.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
-      "count": 1,
-      "story": {
-        "title": "Mexico rescues eight from clandestine clinic run by violent Jalisco cartel",
-        "description": "Rescue operation in Jalisco uncovers cartel&#039;s hidden clinic, illegal drugs and weapons; six suspected guards arrested.",
-        "link": "https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Seoul",
-      "lat": 37.57,
-      "lon": 126.98,
-      "count": 1,
-      "story": {
-        "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
-        "description": "South Korea said it was closely exchanging information on the launches with the US and Japan.",
-        "link": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
-      "count": 1,
-      "story": {
-        "title": "Satellite image shows critical Saudi pipeline damaged in drone attack",
-        "description": "Saudi Arabia has shut its East-West oil pipeline after a drone attack. Riyadh says the attack originated in Iraq.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Brisbane",
       "lat": -27.47,
       "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "Live: Lions in control of sudden-death semi after outrageous early blitz",
-        "description": "Brisbane is in the driver's seat against Adelaide, having built a healthy lead on the back of a stunning early surge in their sudden-death semi at the Gabba. Follow live.",
+        "title": "Lions keep three-peat dream alive with 53-point mauling of Adelaide",
+        "description": "The Brisbane Lions are through to the AFL's final four with a 53-point domination of Adelaide at the Gabba.",
         "link": "https://www.abc.net.au/news/2026-09-12/afl-semifinal-lions-crows-live-blog/107146854",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 1,
+      "story": {
+        "title": "London tourist tax on accommodation will be capped at 5pc, mayor says",
+        "description": "Legislation unveiled by the government this week will allow local authorities to charge a flat fee or percentage of an overnight stay for domestic and international guests in London accommodations.",
+        "link": "https://www.abc.net.au/news/2026-09-12/london-tourist-tax-to-be-capped-at-5-per-cent/107146446",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "'Look out': The inside story of 9/11, told by an advisor on Air Force One",
+        "description": "On September 11, 2001, the White House daily intelligence briefer was with George W Bush's team as the 9/11 attacks unfolded. This is his account of what happened.",
+        "link": "https://www.abc.net.au/news/2026-09-12/george-w-bush-s-intelligence-briefer-9-11-shares-story/107129010",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "Historic Wattle Park Chalet catches fire on day of scheduled wedding",
+        "description": "A chalet in Melbourne's east that was due to host a wedding on Saturday night has been gutted by fire, with the owners scrambling to find the couple a new venue.",
+        "link": "https://www.abc.net.au/news/2026-09-12/wattle-park-chalet-burns-down/107146518",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Rome",
+      "lat": 41.9,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "Celine Dion returns to stage in Paris after stiff person syndrome diagnosis",
+        "description": "The singer will return to the stage following her diagnosis with a rare medical disorder and break from performing.",
+        "link": "https://www.abc.net.au/news/2026-09-12/fan-karaoke-comeback-celine-dion/107146310",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
+      "count": 1,
+      "story": {
+        "title": "'Worst possible news': Hundreds gather to remember fatal crash victims",
+        "description": "A crowd of Canberra cyclists rides to remember Bridie Lee and Ryan Riethmuller, who were cycling with three others when they were struck by a car on August 27 in Palmerston.",
+        "link": "https://www.abc.net.au/news/2026-09-12/cyclists-ride-to-honour-palmerston-double-fatal-crash-victims/107130832",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Bulgaria",
+      "lat": 42.73,
+      "lon": 25.49,
+      "count": 1,
+      "story": {
+        "title": "Bulgaria: Fire at factory making munitions for Ukraine",
+        "description": "Bulgarian authorities are investigating a fire at a munitions factory for links to an explosion at a similar facility in August. Arms maker EMCO says no human error was involved, as investigators look at sabotage.",
+        "link": "https://www.dw.com/en/bulgaria-fire-at-factory-making-munitions-for-ukraine/a-79245062?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 1,
+      "story": {
+        "title": "Brazil: Flavio Bolsonaro faces corruption probe weeks before election",
+        "description": "Brazilian Senator Flavio Bolsonaro, Lula's top rival in next month's election, is under investigation for alleged corruption linked to financing a biopic about his father, former President Jair Bolsonaro.",
+        "link": "https://www.dw.com/en/brazil-flavio-bolsonaro-faces-corruption-probe-weeks-before-election/a-79242561?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
