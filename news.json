@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T14:52:33+00:00",
+  "generated_at": "2026-09-13T18:01:36+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "US congressman swims to safety after his plane is forced to land on a lake",
+      "description": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Has Trump won over voters with his midterm convention?",
       "description": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
       "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
@@ -22,31 +28,25 @@
       "description": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
       "link": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
-      "description": "Iran says it plans to hold talks with Iraq and Gulf nations in Oman to help strengthen shared regional security.",
-      "link": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "australia": [
     {
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Iran war reshapes Brics ties but also exposes divisions",
-      "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-      "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+      "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
       "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
       "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
       "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Iran war reshapes Brics ties but also exposes divisions",
+      "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,10 +72,22 @@
   ],
   "places": [
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 15,
+      "story": {
+        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+        "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+        "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 12,
+      "count": 14,
       "story": {
         "title": "Iran war reshapes Brics ties but also exposes divisions",
         "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
@@ -84,26 +96,14 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 12,
-      "story": {
-        "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-        "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
-        "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 9,
+      "count": 11,
       "story": {
-        "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-        "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
-        "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+        "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+        "description": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,12 +111,24 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "WorkSafe investigates shovel fire at Kalgoorlie Super Pit",
         "description": "WorkSafe WA is investigating a workplace incident at one of Australia's biggest gold mines, where the operator of a heavy-duty $18 million mining shovel escaped a fire that engulfed the driver's cab.",
         "link": "https://www.abc.net.au/news/2026-09-13/fire-destroys-cab-of-shovel-at-kalgoorlie-super-pit/107142366",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 6,
+      "story": {
+        "title": "Trump doubles down on united Ireland comments on day two of visit",
+        "description": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -135,24 +147,12 @@
       "name": "Indonesia",
       "lat": -2.5,
       "lon": 118.0,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
         "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
         "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 4,
-      "story": {
-        "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
-        "description": "Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.",
-        "link": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -168,30 +168,6 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 4,
-      "story": {
-        "title": "BRICS summit leaders urge 'maximum restraint' in Middle East",
-        "description": "The joint declaration at the BRICS 2026 summit expressed 'deep concern' over hostilities in the Middle East. China's President Xi Jinping said the Iran war was not in the bloc's interest.",
-        "link": "https://www.dw.com/en/brics-summit-leaders-urge-maximum-restraint-in-middle-east/live-79224239?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 3,
-      "story": {
-        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-        "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Netherlands",
       "lat": 52.13,
       "lon": 5.29,
@@ -201,6 +177,30 @@
         "description": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
         "link": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 3,
+      "story": {
+        "title": "French TV programme pulled after actress speaks out on Gaza",
+        "description": "France Televisions has removed the replay of a  programme after actress Adèle Haenel denounced the Gaza genocide.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 3,
+      "story": {
+        "title": "French TV programme pulled after actress speaks out on Gaza",
+        "description": "France Televisions has removed the replay of a  programme after actress Adèle Haenel denounced the Gaza genocide.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -240,13 +240,25 @@
       }
     },
     {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 3,
+      "story": {
+        "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
+        "description": "Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.",
+        "link": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
       "count": 3,
       "story": {
         "title": "Russians on the Goethe-Institut: 'Hostage to politics'",
-        "description": "Canceled language exams, disrupted plans to study in Germany, and the disappearance of an important cultural link: DW users shared how the closure of Germany's Goethe-Institut in Russia affects their lives.",
+        "description": "Canceled language exams, disrupted plans to study in Germany and the disappearance of an important cultural link: DW users shared how the closure of Germany's Goethe-Institut in Russia has affected their lives.",
         "link": "https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
@@ -264,18 +276,6 @@
       }
     },
     {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
-      "count": 2,
-      "story": {
-        "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
-        "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-        "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Paris",
       "lat": 48.85,
       "lon": 2.35,
@@ -288,18 +288,6 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Singaporean man pleads guilty in US to massive crypto heist",
-        "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-        "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Iraq",
       "lat": 33.22,
       "lon": 43.68,
@@ -308,42 +296,6 @@
         "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
         "description": "Iran says it plans to hold talks with Iraq and Gulf nations in Oman to help strengthen shared regional security.",
         "link": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "Israeli attack on Gaza kills two Palestinians",
-        "description": "Israeli strikes on Palestinian territory persist despite a &#039;ceasefire&#039; brokered by the United States.",
-        "link": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sweden",
-      "lat": 60.13,
-      "lon": 18.64,
-      "count": 2,
-      "story": {
-        "title": "Voting under way in Sweden election that could see far right in government",
-        "description": "The far-right Sweden Democrats party could enter government for the first time if right-wing bloc wins.",
-        "link": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Croatia",
-      "lat": 45.1,
-      "lon": 15.2,
-      "count": 2,
-      "story": {
-        "title": "Wildfire rages on Croatia’s Dalmatian Coast island of Brac",
-        "description": "Croatian authorities have issued an emergency alert as a wildfire rages on Brac Island, off the Dalmatian coast.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -372,14 +324,14 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "France: Attack ruled out in train derailment",
-        "description": "More than 40 were injured when a train derailed between Rouen and Caen in Normandy, northwest France, on Friday evening. Investigators say there is \"no indication\" the incident was deliberate.",
-        "link": "https://www.dw.com/en/france-attack-ruled-out-in-train-derailment/a-79241365?maca=en-rss-en-all-1573-rdf",
+        "title": "BRICS summit leaders urge 'maximum restraint' in Middle East",
+        "description": "The joint declaration at the BRICS 2026 summit expressed 'deep concern' over hostilities in the Middle East. China's President Xi Jinping said the Iran war was not in the bloc's interest.",
+        "link": "https://www.dw.com/en/brics-summit-leaders-urge-maximum-restraint-in-middle-east/live-79224239?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -393,30 +345,6 @@
         "description": "A German newspaper has cited reports tying a failed attack at Leipzig Airport to Moscow's GRU military intelligence agency. One suspect's ties to GRU were known when he entered the country, yet he was not surveilled.",
         "link": "https://www.dw.com/en/russian-gru-spies-behind-failed-leipzig-attack-reports/a-79244858?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 2,
-      "story": {
-        "title": "Revival of rugby tour between New Zealand and South Africa proves a success",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/revival-rugby-tour-between-new-zealand-and-south-africa-proves-success-6381261",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Chile",
-      "lat": -35.68,
-      "lon": -71.54,
-      "count": 1,
-      "story": {
-        "title": "Fire at nursing home in Chile kills 16 residents",
-        "description": "Ten people were evacuated from the home in Araucanía region in central Chile.",
-        "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -444,6 +372,42 @@
       }
     },
     {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 1,
+      "story": {
+        "title": "Singaporean man pleads guilty in US to massive crypto heist",
+        "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
+        "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "New Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
+      "count": 1,
+      "story": {
+        "title": "World leaders gather in New Delhi for final day of BRICS summit",
+        "description": "BRICS leaders gathered in New Delhi for the final day of the summit amid divisions over the wars in Iran and Ukraine.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 1,
+      "story": {
+        "title": "As Chavez and Maduro images disappear, is Venezuela entering a new chapter?",
+        "description": "As part of Delcy Rodriguez&#039;s &#039;Venezuela reborn&#039; campaign, murals of leaders like Hugo Chavez are being removed.",
+        "link": "https://www.aljazeera.com/features/longform/2026/9/13/as-chavez-and-maduro-images-disappear-is-venezuela-entering-a-new-chapter?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Lebanon",
       "lat": 33.85,
       "lon": 35.86,
@@ -462,8 +426,20 @@
       "count": 1,
       "story": {
         "title": "India vs Sri Lanka live: Asia Cup final",
-        "description": "Follow our live team news, predictions, scores, photos and text commentary stream from the final in Dubai.",
+        "description": "Follow our live team score, photos and text commentary stream from the final in Dubai as Sri Lanka chase 184 to win.",
         "link": "https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
+      "count": 1,
+      "story": {
+        "title": "Philippines set for historic vote in Bangsamoro after decades of conflict",
+        "description": "Philippines set for historic vote in Bangsamoro after decades of conflict",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/philippines-set-for-historic-vote-in-bangsamoro-after-decades-of-conflict?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -534,8 +510,20 @@
       "count": 1,
       "story": {
         "title": "Ukraine, Poland say Russia hit Warsaw-bound passenger train",
-        "description": "Ukrainian officials accused Russia of a \"systemic attack\" on its railways following drone strikes near the Polish border, including a hit on a locomotive of a passenger train headed to Warsaw.",
+        "description": "The strike hit a locomotive of a passenger train headed to Warsaw with reports that senior Western figures were at the station shortly before the attack.",
         "link": "https://www.dw.com/en/ukraine-poland-say-russia-hit-warsaw-bound-passenger-train/a-79251428?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Croatia",
+      "lat": 45.1,
+      "lon": 15.2,
+      "count": 1,
+      "story": {
+        "title": "Croatia: 'Monster' fire triggers evacuation on Brac island",
+        "description": "A rapidly spreading wildfire threatened homes and tourist accommodations on the Croatian island of Brac, with firefighters battling the blaze overnight.",
+        "link": "https://www.dw.com/en/croatia-monster-fire-triggers-evacuation-on-brac-island/a-79250480?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -548,6 +536,18 @@
         "title": "A Romani artist in Hungary reclaims his identity",
         "description": "Norbert Olah is an artist. He's also Romani. For a long time, he avoided making his ethnic background a theme of his art for fear of being pigeonholed. Then it became his focus.",
         "link": "https://www.dw.com/en/a-romani-artist-in-hungary-reclaims-his-identity/a-79247266?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Sweden",
+      "lat": 60.13,
+      "lon": 18.64,
+      "count": 1,
+      "story": {
+        "title": "Sweden election: Far right eyes power for 1st time",
+        "description": "The populist Sweden Democrats could enter government for the first time if incumbent Ulf Kristersson's bloc wins. The left-wing opposition led by former PM Andersson has seen its lead narrow as election day has neared.",
+        "link": "https://www.dw.com/en/sweden-election-far-right-eyes-power-for-1st-time/a-79248599?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
