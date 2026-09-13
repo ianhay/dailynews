@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T18:01:36+00:00",
+  "generated_at": "2026-09-13T21:03:43+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,9 +32,15 @@
   ],
   "australia": [
     {
-      "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
       "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -42,15 +48,15 @@
       "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
       "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Iran war reshapes Brics ties but also exposes divisions",
-      "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-      "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "How global trade and oil prices could be hit by Houthi advance",
       "description": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
@@ -61,12 +67,6 @@
       "title": "US prices remain high as fuel costs squeeze household budgets",
       "description": "Prices in the US rose 3.4% in the 12 months to August,  according to the latest official report on inflation.",
       "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
-    },
-    {
-      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-      "description": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
-      "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 14,
+      "count": 11,
       "story": {
         "title": "Iran war reshapes Brics ties but also exposes divisions",
         "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
@@ -111,60 +111,60 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 8,
+      "count": 11,
       "story": {
-        "title": "WorkSafe investigates shovel fire at Kalgoorlie Super Pit",
-        "description": "WorkSafe WA is investigating a workplace incident at one of Australia's biggest gold mines, where the operator of a heavy-duty $18 million mining shovel escaped a fire that engulfed the driver's cab.",
-        "link": "https://www.abc.net.au/news/2026-09-13/fire-destroys-cab-of-shovel-at-kalgoorlie-super-pit/107142366",
+        "title": "Opetaia's KO fuels duel between 'two baddest dudes'",
+        "description": "Jai Opetaia and David Benavidez have taken the matchmaking into their own hands after the Australian stopped Noel Mikaelian for the first time in the German-Armenian's 32-fight career to pave the way for the Las Vegas bl",
+        "link": "https://www.abc.net.au/news/2026-09-14/jai-opetaia-defeats-noel-mikaelian-in-las-vegas/107148664",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 4,
+      "story": {
+        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+        "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+        "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Ireland",
       "lat": 53.14,
       "lon": -7.69,
-      "count": 6,
+      "count": 4,
       "story": {
-        "title": "Trump doubles down on united Ireland comments on day two of visit",
-        "description": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
+        "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+        "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
         "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 6,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 4,
       "story": {
-        "title": "'Can't get boy's face out of my head': Witness retells Sydney carjacking",
-        "description": "A terrifying pursuit and alleged carjacking involving a man and two children unfolded in Sydney's south-west on Saturday afternoon.",
-        "link": "https://www.abc.net.au/news/2026-09-13/nsw-belmore-carjacking-police-pursuit-man-charged/107148112",
-        "source": "ABC News AU"
+        "title": "French TV programme pulled after actress speaks out on Gaza",
+        "description": "France Televisions has removed the replay of a  programme after actress Adèle Haenel denounced the Gaza genocide.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "Indonesia",
       "lat": -2.5,
       "lon": 118.0,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
         "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
         "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 4,
-      "story": {
-        "title": "Israeli attack on Gaza kills two Palestinians",
-        "description": "Israeli strikes on Palestinian territory persist despite a &#039;ceasefire&#039; brokered by the United States.",
-        "link": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -180,26 +180,14 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Sweden",
+      "lat": 60.13,
+      "lon": 18.64,
       "count": 3,
       "story": {
-        "title": "French TV programme pulled after actress speaks out on Gaza",
-        "description": "France Televisions has removed the replay of a  programme after actress Adèle Haenel denounced the Gaza genocide.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 3,
-      "story": {
-        "title": "French TV programme pulled after actress speaks out on Gaza",
-        "description": "France Televisions has removed the replay of a  programme after actress Adèle Haenel denounced the Gaza genocide.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
+        "title": "Swedes vote in election that could see far-right in government",
+        "description": "Voting is under way in Sweden in a closely fought election that could see the far-right enter government.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -216,42 +204,6 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 3,
-      "story": {
-        "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
-        "description": "With lost livelihoods, destroyed homes and little security, many displaced Lebanese are facing an entrenched reality.",
-        "link": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 3,
-      "story": {
-        "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
-        "description": "Russia says four people killed in Ukrainian strikes as both sides continue to attack each other with waves of drones.",
-        "link": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 3,
-      "story": {
-        "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
-        "description": "Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.",
-        "link": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
@@ -261,6 +213,18 @@
         "description": "Canceled language exams, disrupted plans to study in Germany and the disappearance of an important cultural link: DW users shared how the closure of Germany's Goethe-Institut in Russia has affected their lives.",
         "link": "https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
+        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
+        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
+        "source": "SBS News"
       }
     },
     {
@@ -288,6 +252,30 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 2,
+      "story": {
+        "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
+        "description": "Jared Kushner, says Israel’s failed attack on Hamas leadership in Doha was ‘terrible’ and left the country ‘isolated&#039;",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "French TV programme pulled after actress speaks out on Gaza",
+        "description": "France Televisions has removed the replay of a  programme after actress Adèle Haenel denounced the Gaza genocide.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Iraq",
       "lat": 33.22,
       "lon": 43.68,
@@ -300,38 +288,50 @@
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
       "count": 2,
       "story": {
-        "title": "Kangaroos survive Blues scare to keep AFLW record alive",
-        "description": "Carlton threatens to end North Melbourne's record-breaking winning run, only for the defending premiers to hold firm when it matters most.",
-        "link": "https://www.abc.net.au/news/2026-09-13/aflw-round-five-north-mlebourne-kangaroos-carlton-blues/107148534",
+        "title": "Two photos from BRICS 2026 hint at the summit's growing global influence",
+        "description": "This year's meeting of leaders from Brazil, Russia, India and China resulted in some major trade wins, a chance to negotiate on the Middle East war and an image that hints at the summit's growing global influence.",
+        "link": "https://www.abc.net.au/news/2026-09-14/brics-2026-india-key-takeaways-china-russia-meeting/107148620",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 2,
       "story": {
-        "title": "Warriors moved to Eden Park for Knights finals showdown",
-        "description": "The New Zealand Warriors will play their first NRL final at Eden Park in Auckland when they face Newcastle in an elimination final next week.",
-        "link": "https://www.abc.net.au/news/2026-09-13/warriors-moved-to-eden-park-for-knights-showdown/107147918",
+        "title": "Russian strike on Ukraine-Poland border shows war at Europe's 'doorstep'",
+        "description": "Ukraine's Foreign Minister Andrii Sybiha warns that war is \"knocking\" at Europe's door after fresh Russian strikes in the small town of Yahodyn, just 2km from the Polish border.",
+        "link": "https://www.abc.net.au/news/2026-09-13/russian-strike-on-ukraine-poland-border-stirs-fears-of-war/107148616",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Croatia",
+      "lat": 45.1,
+      "lon": 15.2,
       "count": 2,
       "story": {
-        "title": "BRICS summit leaders urge 'maximum restraint' in Middle East",
-        "description": "The joint declaration at the BRICS 2026 summit expressed 'deep concern' over hostilities in the Middle East. China's President Xi Jinping said the Iran war was not in the bloc's interest.",
-        "link": "https://www.dw.com/en/brics-summit-leaders-urge-maximum-restraint-in-middle-east/live-79224239?maca=en-rss-en-all-1573-rdf",
+        "title": "Croatia: 'Monster' fire triggers evacuation on Brac island",
+        "description": "A rapidly spreading wildfire threatened homes and tourist accommodations on the Croatian island of Brac, with firefighters battling the blaze overnight.",
+        "link": "https://www.dw.com/en/croatia-monster-fire-triggers-evacuation-on-brac-island/a-79250480?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 2,
+      "story": {
+        "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
+        "description": "Saudi Arabia has said it will not retaliate and wants Iraq to \"take the necessary measures.\" Baghdad is under pressure from the United States to rein in Iran-backed militias.",
+        "link": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -384,6 +384,66 @@
       }
     },
     {
+      "name": "Doha",
+      "lat": 25.29,
+      "lon": 51.53,
+      "count": 1,
+      "story": {
+        "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
+        "description": "Jared Kushner, says Israel’s failed attack on Hamas leadership in Doha was ‘terrible’ and left the country ‘isolated&#039;",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 1,
+      "story": {
+        "title": "Israeli raid targets Palestinian journalist Ali al-Samoudi’s home",
+        "description": "Israeli forces reportedly raided the Jenin home of Palestinian journalist Ali al-Samoudi and beat his son.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/israeli-raid-targets-palestinian-journalist-ali-al-samoudis-home?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
+      "count": 1,
+      "story": {
+        "title": "​Bangsamoro’s parliamentary election is a turning point",
+        "description": "It&#039;s a milestone of the self-determination fight in this region of the Philippines. It must be kept peaceful and fair.",
+        "link": "https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Damascus",
+      "lat": 33.5,
+      "lon": 36.3,
+      "count": 1,
+      "story": {
+        "title": "Syrian child killed after roadside object explodes near Damascus",
+        "description": "A child has been killed after an explosive object detonated when he touched it near Damascus.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 1,
+      "story": {
+        "title": "Syrian child killed after roadside object explodes near Damascus",
+        "description": "A child has been killed after an explosive object detonated when he touched it near Damascus.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "New Delhi",
       "lat": 28.6,
       "lon": 77.2,
@@ -408,86 +468,26 @@
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
-        "description": "With lost livelihoods, destroyed homes and little security, many displaced Lebanese are facing an entrenched reality.",
-        "link": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
-      "count": 1,
-      "story": {
-        "title": "India vs Sri Lanka live: Asia Cup final",
-        "description": "Follow our live team score, photos and text commentary stream from the final in Dubai as Sri Lanka chase 184 to win.",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
-      "count": 1,
-      "story": {
-        "title": "Philippines set for historic vote in Bangsamoro after decades of conflict",
-        "description": "Philippines set for historic vote in Bangsamoro after decades of conflict",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/philippines-set-for-historic-vote-in-bangsamoro-after-decades-of-conflict?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Israeli attack on Gaza kills two Palestinians",
-        "description": "Israeli strikes on Palestinian territory persist despite a &#039;ceasefire&#039; brokered by the United States.",
-        "link": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "New social rental apartment building in Perth CBD underway",
-        "description": "The building will include 174 one- and two-bedroom rentals, 139 of which will be used for affordable housing, with the rest for social housing, according to the government.",
-        "link": "https://www.abc.net.au/news/2026-09-13/wa-government-to-build-new-rental-apartment-in-cbd/107148268",
+        "title": "White House issues conflicting account of Aussie mayor’s Trump dinner",
+        "description": "Tom Tate declared he had dinner with Donald Trump at Mar-a-Lago. An ABC investigation has uncovered conflicting recollections about the headline-making trip.",
+        "link": "https://www.abc.net.au/news/2026-09-14/tom-tate-mar-a-lago-dinner-with-trump/107134514",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Six dead, 129 missing after Indonesian ferry hits bad weather",
-        "description": "The passenger ship, carrying 243 people, had departed from Surabaya, Indonesia's second-largest city in East Java, and was bound for Banjarmasin in Kalimantan.",
-        "link": "https://www.abc.net.au/news/2026-09-13/search-underway-for-indonesian-passenger-ship/107148298",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "'You've got to be loyal, good times and bad': Crows fans commiserate loss",
-        "description": "Crows fans were flying high before their grand final dreams were smashed by the Brisbane Lions at the Gabba with a 53-point feat on Saturday night.",
-        "link": "https://www.abc.net.au/news/2026-09-13/crows-fans-commiserate-loss-to-lions/107147990",
+        "title": "After Adelaide's crushing AFL semifinal loss, where to from here?",
+        "description": "Despite snapping a finals drought with an elimination-final victory, the Crows have once again endured a brutal semifinal loss.",
+        "link": "https://www.abc.net.au/news/2026-09-14/afl-crows-season-ends-with-brutal-semifinal-loss/107148372",
         "source": "ABC News AU"
       }
     },
@@ -516,18 +516,6 @@
       }
     },
     {
-      "name": "Croatia",
-      "lat": 45.1,
-      "lon": 15.2,
-      "count": 1,
-      "story": {
-        "title": "Croatia: 'Monster' fire triggers evacuation on Brac island",
-        "description": "A rapidly spreading wildfire threatened homes and tourist accommodations on the Croatian island of Brac, with firefighters battling the blaze overnight.",
-        "link": "https://www.dw.com/en/croatia-monster-fire-triggers-evacuation-on-brac-island/a-79250480?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Hungary",
       "lat": 47.16,
       "lon": 19.5,
@@ -540,14 +528,26 @@
       }
     },
     {
-      "name": "Sweden",
-      "lat": 60.13,
-      "lon": 18.64,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 1,
       "story": {
-        "title": "Sweden election: Far right eyes power for 1st time",
-        "description": "The populist Sweden Democrats could enter government for the first time if incumbent Ulf Kristersson's bloc wins. The left-wing opposition led by former PM Andersson has seen its lead narrow as election day has neared.",
-        "link": "https://www.dw.com/en/sweden-election-far-right-eyes-power-for-1st-time/a-79248599?maca=en-rss-en-all-1573-rdf",
+        "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
+        "description": "Saudi Arabia has said it will not retaliate and wants Iraq to \"take the necessary measures.\" Baghdad is under pressure from the United States to rein in Iran-backed militias.",
+        "link": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Baghdad",
+      "lat": 33.31,
+      "lon": 44.36,
+      "count": 1,
+      "story": {
+        "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
+        "description": "Saudi Arabia has said it will not retaliate and wants Iraq to \"take the necessary measures.\" Baghdad is under pressure from the United States to rein in Iran-backed militias.",
+        "link": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
