@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T06:56:34+00:00",
+  "generated_at": "2026-09-14T13:52:38+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,35 +18,35 @@
       "source": "BBC News"
     },
     {
-      "title": "Has Trump won over voters with his midterm convention?",
-      "description": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
-      "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "Carney gambles on the world's biggest investors betting on Canada",
+      "description": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
+      "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     },
     {
-      "title": "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
-      "description": "Israeli Culture Minister Miki Zohar labels Gaza genocide film &#039;vile&#039; after it wins Venice Film Festival recognition.",
-      "link": "https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss",
+      "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
+      "description": "Saudi Arabia asked for the meeting to be postponed, but Tehran says it will continue to seek a regionally backed bill.",
+      "link": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
   "australia": [
     {
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
       "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "description": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+      "description": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
       "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Bali police investigate after Australian man and children found dead in home",
+      "description": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -64,18 +64,30 @@
       "source": "BBC News"
     },
     {
-      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-      "description": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
-      "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+      "title": "Petrol and diesel prices hit highest since 2022",
+      "description": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
+      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 13,
+      "story": {
+        "title": "Bali police investigate after Australian man and children found dead in home",
+        "description": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
+        "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 13,
+      "count": 12,
       "story": {
         "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
         "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
@@ -84,22 +96,10 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 13,
-      "story": {
-        "title": "Major caravan manufacturer shuts leaving customers in the dark",
-        "description": "Sunshine Coast's Australian Off Road campers ceased operating late last week, with customers saying they have been unable to make contact with the company.",
-        "link": "https://www.abc.net.au/news/2026-09-14/australian-off-road-caravan-company-shuts-its-gates/107150896",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 9,
+      "count": 10,
       "story": {
         "title": "Iran war reshapes Brics ties but also exposes divisions",
         "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
@@ -111,11 +111,35 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
         "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
         "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 7,
+      "story": {
+        "title": "The 'kooky' show that lured Celeste Barber back to the theatre",
+        "description": "Working in hospitality, Barber longed to perform on the Sydney Theatre Company stage. Next year, she will star in its production of The Book of Liz by Amy and David Sedaris.",
+        "link": "https://www.abc.net.au/news/2026-09-14/celeste-barber-the-book-of-liz-sydney-theatre-company-stc-2027/107122054",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 6,
+      "story": {
+        "title": "China criticises idea it is in 'malicious competition' over AI",
+        "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+        "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -125,58 +149,34 @@
       "lon": 10.4,
       "count": 6,
       "story": {
-        "title": "Zverev defeats Shelton in four sets to win his first US Open title",
-        "description": "Germany&#039;s Alexander Zverev beats American Ben Shelton 6-3, 7-6 (2), 5-7, 6-2 to win the men&#039;s singles title in New York.",
-        "link": "https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss",
+        "title": "Ukraine: AfD questions German aid, Berlin remains committed",
+        "description": "Emboldened by its win in Saxony-Anhalt, the far-right Alternative for Germany wants the country to change its Ukraine and Russia policies. Berlin is staying the course, but support is fading, especially in the east.",
+        "link": "https://www.dw.com/en/ukraine-afd-questions-german-aid-berlin-remains-committed/a-79257524?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "Israel working to eliminate Palestinian presence from West Bank, NGO warns",
+        "description": "Israeli human rights group B’Tselem details five mechanisms used by Israel to dismantle Palestinian collective life.",
+        "link": "https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 5,
-      "story": {
-        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-        "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-        "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
-      "story": {
-        "title": "Why the NRLW finals are all about one question",
-        "description": "After completing the most dominant regular season in NRLW history, the big question around the Sydney Roosters is simple: can anyone hope to stop them?",
-        "link": "https://www.abc.net.au/news/2026-09-14/nrlw-finals-sydney-roosters-gold-coast-titans/107151252",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
       "count": 4,
       "story": {
-        "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-        "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 3,
-      "story": {
-        "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-        "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Ukraine: AfD questions German aid, Berlin remains committed",
+        "description": "Emboldened by its win in Saxony-Anhalt, the far-right Alternative for Germany wants the country to change its Ukraine and Russia policies. Berlin is staying the course, but support is fading, especially in the east.",
+        "link": "https://www.dw.com/en/ukraine-afd-questions-german-aid-berlin-remains-committed/a-79257524?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -192,26 +192,62 @@
       }
     },
     {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 3,
       "story": {
-        "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
-        "description": "No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.",
-        "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Carney gambles on the world's biggest investors betting on Canada",
+        "description": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
+        "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 3,
       "story": {
-        "title": "Animated map shows spread of illegal Israeli settlements across Palestine",
-        "description": "Some 750,000 settlers live across more than 500 illegal settlements and outposts, as Israeli pogroms hit record highs.",
-        "link": "https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss",
+        "title": "Why Saudi Arabia’s East-West pipeline matters for global oil",
+        "description": "The 1,200km (745-mile) pipeline has been temporarily closed, affecting up to 5 percent of global oil supply.",
+        "link": "https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 3,
+      "story": {
+        "title": "South Korea’s new manager Robert Moreno dismisses ‘AI coaching’ allegations",
+        "description": "The Spanish manager has been appointed South Korea&#039;s interim head coach following a disastrous World Cup campaign.",
+        "link": "https://www.aljazeera.com/sports/2026/9/14/south-koreas-new-manager-robert-moreno-dismisses-ai-coaching-allegations?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Jordan",
+      "lat": 30.59,
+      "lon": 36.24,
+      "count": 3,
+      "story": {
+        "title": "Ammonia gas leak in Jordan’s Aqaba industrial area injures 11 people",
+        "description": "State news channel, Al-Mamlaka, says the southern port of Aqaba was evacuated as a precaution.",
+        "link": "https://www.aljazeera.com/news/2026/9/14/ammonia-gas-leak-in-jordans-aqaba-industrial-area-injures-11-people?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "South Korean officials decry ‘worst ever’ Asian Games accommodation",
+        "description": "Organisers in Japan say they had &#039;neither the manpower nor the budget&#039; to deal with the accommodation shortage.",
+        "link": "https://www.aljazeera.com/sports/2026/9/14/south-korean-officials-decry-worst-ever-asian-games-accommodation?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -228,50 +264,38 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 3,
-      "story": {
-        "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
-        "description": "Breanna Stewart leads comeback win for the record champions despite France&#039;s early lead in the Berlin final.",
-        "link": "https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
-      "story": {
-        "title": "BTS' agency to hold auditions for new male trainees in Singapore this October",
-        "description": "South Korean label, BigHit Music, announced on Monday (Sep 14) that it will hold auditions seeking new male trainees in Singapore on Oct 24, 2026.",
-        "link": "https://www.channelnewsasia.com/entertainment/bighit-singapore-auditions-2026-bts-hybe-6382601",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Sweden",
-      "lat": 60.13,
-      "lon": 18.64,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 2,
       "story": {
-        "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-        "description": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
-        "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+        "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+        "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Turkey",
-      "lat": 38.96,
-      "lon": 35.24,
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
       "count": 2,
       "story": {
-        "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-        "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-        "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+        "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+        "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+        "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 2,
+      "story": {
+        "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+        "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -288,62 +312,38 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 2,
       "story": {
-        "title": "Protests break out across Syria over fuel price increases",
-        "description": "Demonstrators burn tyres and block highways as protests over increased fuel prices grip Syrian cities.",
-        "link": "https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+        "description": "No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.",
+        "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 2,
       "story": {
-        "title": "Japanese PM-backed candidate wins Okinawa gubernatorial election",
-        "description": "Genta Koja beat two-term incumbent Denny Tamaki, who wants a major US military base to be moved out of Okinawa.",
-        "link": "https://www.aljazeera.com/news/2026/9/14/japanese-pm-backed-candidate-wins-okinawa-gubernatorial-election?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
-      "count": 2,
-      "story": {
-        "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament",
-        "description": "However, deadly violence marred the elections one day before the polls open in the southern Philippine region.",
-        "link": "https://www.aljazeera.com/news/2026/9/14/philippines-muslim-majority-bangsamoro-region-votes-for-first-parliament?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 2,
-      "story": {
-        "title": "Canada seeks 'unique alliance' with EU, Carney says",
-        "description": "Mark Carney clarified Canada's EU ambitions amid a WSJ report that Ottawa was exploring an \"associate membership\" with the bloc.",
-        "link": "https://www.dw.com/en/canada-seeks-unique-alliance-with-eu-carney-says/a-79254541?maca=en-rss-en-all-1573-rdf",
+        "title": "Nepal: thousands still missing as flood recovery begins",
+        "description": "The Himalayan nation is moving from rescue operations to recovery, facing a $4.8 billion reconstruction bill amid renewed calls for climate justice.",
+        "link": "https://www.dw.com/en/nepal-thousands-still-missing-as-flood-recovery-begins/a-79259980?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
+      "name": "Hungary",
+      "lat": 47.16,
+      "lon": 19.5,
       "count": 2,
       "story": {
-        "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
-        "description": "Saudi Arabia has said it will not retaliate and wants Iraq to \"take the necessary measures.\" Baghdad is under pressure from the United States to rein in Iran-backed militias.",
-        "link": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-all-1573-rdf",
+        "title": "Germany news: Foreign minister seeks reset with Hungary",
+        "description": "German Foreign Minister Johann Wadephul is visiting Hungary as Berlin seeks to rebuild relations with Budapest. Meanwhile, Germany's homeownership rate has fallen to its lowest level in 20 years. DW has the latest.",
+        "link": "https://www.dw.com/en/germany-news-foreign-minister-seeks-reset-with-hungary/live-79256902?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -353,22 +353,22 @@
       "lon": 78.0,
       "count": 2,
       "story": {
-        "title": "India looks to steer BRICS away from anti-Western turn",
-        "description": "The BRICS summit 2026 takes place in Delhi this weekend. Unlike last year, Putin and Xi are expected to attend. Can India keep the expanded bloc united?",
-        "link": "https://www.dw.com/en/india-looks-to-steer-brics-away-from-anti-western-turn/a-79195234?maca=en-rss-en-all-1573-rdf",
+        "title": "India women's team refuse Asia Cup cricket trophy from Pakistan minister",
+        "description": "India's women's cricket team skipped the trophy presentation with Pakistani minister Mohsin Naqvi after beating Sri Lanka to win a record eighth Asia Cup title.",
+        "link": "https://www.dw.com/en/india-women-s-team-refuse-asia-cup-cricket-trophy-from-pakistan-minister/live-79254950?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 2,
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
+      "count": 1,
       "story": {
-        "title": "BTS' agency to hold auditions for new male trainees in Singapore this October",
-        "description": "South Korean label, BigHit Music, announced on Monday (Sep 14) that it will hold auditions seeking new male trainees in Singapore on Oct 24, 2026.",
-        "link": "https://www.channelnewsasia.com/entertainment/bighit-singapore-auditions-2026-bts-hybe-6382601",
-        "source": "CNA"
+        "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+        "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+        "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -384,15 +384,87 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 1,
+      "story": {
+        "title": "Israel working to eliminate Palestinian presence from West Bank, NGO warns",
+        "description": "Israeli human rights group B’Tselem details five mechanisms used by Israel to dismantle Palestinian collective life.",
+        "link": "https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
+        "description": "Saudi Arabia asked for the meeting to be postponed, but Tehran says it will continue to seek a regionally backed bill.",
+        "link": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
+      "count": 1,
+      "story": {
+        "title": "At least one dead, 25 missing after boat carrying migrants sinks off Greece",
+        "description": "At least 51 people rescued as search operation continues off the island of Gavnos near Crete.",
+        "link": "https://www.aljazeera.com/news/2026/9/14/at-least-one-dead-25-missing-after-boat-carrying-migrants-sinks-off-greece?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
+      "count": 1,
+      "story": {
+        "title": "Video: Panicked voters scramble in Philippines polling station shooting",
+        "description": "Gunshots were heard at a polling station in the Muslim-majority Bangsamoro region of the southern Philippines.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/video-panicked-voters-scramble-in-philippines-polling-station-shooting?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 1,
+      "story": {
+        "title": "Why Bangladesh has lost 1,000 lives to measles despite record vaccine drive",
+        "description": "The nation has administered 20mn vaccines since April, but past slipups have led to a mounting death toll, say analysts",
+        "link": "https://www.aljazeera.com/news/2026/9/14/why-bangladesh-is-struggling-against-measles-epidemic-despite-20m-vaccines?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Washington",
       "lat": 38.9,
       "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Watch: Americans remember what they were doing on 9/11",
-        "description": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
-        "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "US Kennedy Center faces bankruptcy, Washington Post reports",
+        "description": "Board of trustees recommends that the main building be closed immediately due to costs, US newspaper reports.",
+        "link": "https://www.aljazeera.com/news/2026/9/14/us-kennedy-center-faces-bankruptcy-washington-post-reports?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 1,
+      "story": {
+        "title": "Protests break out across Syria over fuel price increases",
+        "description": "Demonstrators burn tyres and block highways as protests over increased fuel prices grip Syrian cities.",
+        "link": "https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -420,134 +492,62 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Tehran and Muscat delay talks, citing regional consensus need",
-        "description": "Tehran and Muscat agree to delay dialogue to prioritise regional consensus amid tensions in the Strait of Hormuz.",
-        "link": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 1,
-      "story": {
-        "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
-        "description": "Breanna Stewart leads comeback win for the record champions despite France&#039;s early lead in the Berlin final.",
-        "link": "https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "United Kingdom",
-      "lat": 54.0,
-      "lon": -2.0,
-      "count": 1,
-      "story": {
-        "title": "Donald Trump reiterates support for united Ireland, won't talk about Scotland 'yet'",
-        "description": "Donald Trump reiterates his support for Northern Ireland breaking from the United Kingdom to unify with the Republic of Ireland.",
-        "link": "https://www.abc.net.au/news/2026-09-14/donald-trump-reiterates-support-for-united-ireland/107149778",
+        "title": "Local government inspector launches probe into City of Perth",
+        "description": "The Local Government Inspector launches further investigation into problems at the City of Perth.",
+        "link": "https://www.abc.net.au/news/2026-09-14/local-government-inspector-launches-inquiry-city-perth/107152452",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
       "count": 1,
       "story": {
-        "title": "Mas 'fulfils his destiny' to win historic Vuelta",
-        "description": "Enric Mas has finished second overall three times at his home grand tour, the Vuelta a España. But in 2026 he finally ended Spain's drought for a home-grown victor after 12 years.",
-        "link": "https://www.abc.net.au/news/2026-09-14/enric-mas-wins-vuelta-a-espana/107150480",
+        "title": "HYROX Beijing sparks backlash after Aussie athlete soils herself mid-race",
+        "description": "Video of an Australian woman who completed and won an endurance event in China after soiling herself has sparked debate about sport hygiene standards.",
+        "link": "https://www.abc.net.au/news/2026-09-14/hyrox-beijing-backlash-after-athlete-soils-herself/107151004",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
       "count": 1,
       "story": {
-        "title": "Former Qld police commissioner Steve Gollschewski farewelled",
-        "description": "Queensland's former police commissioner, Steve Gollschewski, is being farewelled at the Brisbane City Hall today.",
-        "link": "https://www.abc.net.au/news/2026-09-14/qld-steve-gollschewski-funeral/107138656",
+        "title": "Wheelchair user refused taxi and Uber in nation's capital",
+        "description": "It was Rosie Putland's first week in Canberra in her new job, but the week was marred by what she calls discrimination. Ms Putland says she was refused a taxi and an Uber due to being in a wheelchair.",
+        "link": "https://www.abc.net.au/news/2026-09-14/wheelchair-user-refused-taxi-and-uber-in-canberra/107150130",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Ottawa",
-      "lat": 45.42,
-      "lon": -75.7,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 1,
       "story": {
-        "title": "Canada seeks 'unique alliance' with EU, Carney says",
-        "description": "Mark Carney clarified Canada's EU ambitions amid a WSJ report that Ottawa was exploring an \"associate membership\" with the bloc.",
-        "link": "https://www.dw.com/en/canada-seeks-unique-alliance-with-eu-carney-says/a-79254541?maca=en-rss-en-all-1573-rdf",
+        "title": "EU leaders urge unity after Russian strike on train",
+        "description": "Russia's drone attack on a train near the Ukraine-Poland border has triggered EU calls to up support for Kyiv. Allies of Ukraine should show they \"are not scared,\" said the bloc's top diplomat, Kaja Kallas.",
+        "link": "https://www.dw.com/en/eu-leaders-urge-unity-after-russian-strike-on-train/a-79259807?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Cuba",
-      "lat": 21.52,
-      "lon": -77.78,
+      "name": "Budapest",
+      "lat": 47.5,
+      "lon": 19.04,
       "count": 1,
       "story": {
-        "title": "Cuban dance teacher ordered EU sabotage attacks from Russia",
-        "description": "In 2024, a Cuban man coordinated a series of arson attacks in four EU countries while operating on behalf of Russian intelligence services. DW Investigations tracked him back to a Latin dance studio in Russia.",
-        "link": "https://www.dw.com/en/cuban-dance-teacher-ordered-eu-sabotage-attacks-from-russia/a-79225946?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Jordan",
-      "lat": 30.59,
-      "lon": 36.24,
-      "count": 1,
-      "story": {
-        "title": "Trump dismisses report China supplied intel to Iran",
-        "description": "The US president downplayed reports that Chinese entities had given Iran satellite imagery before a strike on a military base in Jordan that killed three American soldiers.",
-        "link": "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Ankara",
-      "lat": 39.93,
-      "lon": 32.86,
-      "count": 1,
-      "story": {
-        "title": "Turkey: 162 arrested in LGBTQ+ raids",
-        "description": "Turkish authorities have arrested at least 162 people in a weekend crackdown on the country's LGBTQ+ community. Ankara says police raids on gay bars and other venues are aimed at protecting family values.",
-        "link": "https://www.dw.com/en/turkey-162-arrested-in-lgbtq-raids/a-79251409?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Warsaw",
-      "lat": 52.23,
-      "lon": 21.0,
-      "count": 1,
-      "story": {
-        "title": "Ukraine, Poland say Russia hit Warsaw-bound passenger train",
-        "description": "The strike hit a locomotive of a passenger train headed to Warsaw with reports that senior Western figures were at the station shortly before the attack.",
-        "link": "https://www.dw.com/en/ukraine-poland-say-russia-hit-warsaw-bound-passenger-train/a-79251428?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Croatia",
-      "lat": 45.1,
-      "lon": 15.2,
-      "count": 1,
-      "story": {
-        "title": "Croatia: 'Monster' fire triggers evacuation on Brac island",
-        "description": "A rapidly spreading wildfire threatened homes and tourist accommodations on the Croatian island of Brac, with firefighters battling the blaze overnight.",
-        "link": "https://www.dw.com/en/croatia-monster-fire-triggers-evacuation-on-brac-island/a-79250480?maca=en-rss-en-all-1573-rdf",
+        "title": "Germany news: Foreign minister seeks reset with Hungary",
+        "description": "German Foreign Minister Johann Wadephul is visiting Hungary as Berlin seeks to rebuild relations with Budapest. Meanwhile, Germany's homeownership rate has fallen to its lowest level in 20 years. DW has the latest.",
+        "link": "https://www.dw.com/en/germany-news-foreign-minister-seeks-reset-with-hungary/live-79256902?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
