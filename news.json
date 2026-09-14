@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:09:53+00:00",
+  "generated_at": "2026-09-14T22:40:37+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 15,
+      "count": 14,
       "story": {
         "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
         "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
@@ -87,7 +87,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 11,
       "story": {
         "title": "Bali police investigate after Australian man and children found dead in home",
         "description": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
@@ -111,7 +111,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 11,
+      "count": 9,
       "story": {
         "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
         "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
@@ -123,7 +123,7 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 10,
+      "count": 7,
       "story": {
         "title": "China criticises idea it is in 'malicious competition' over AI",
         "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
@@ -144,27 +144,15 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
-      "story": {
-        "title": "The 'kooky' show that lured Celeste Barber back to the theatre",
-        "description": "Working in hospitality, Barber longed to perform on the Sydney Theatre Company stage. Next year, she will star in its production of The Book of Liz by Amy and David Sedaris.",
-        "link": "https://www.abc.net.au/news/2026-09-14/celeste-barber-the-book-of-liz-sydney-theatre-company-stc-2027/107122054",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 4,
       "story": {
-        "title": "Carney gambles on the world's biggest investors betting on Canada",
-        "description": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
-        "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Israeli attack targets Gaza displacement camp",
+        "description": "Israeli attack targets Gaza displacement camp",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -173,22 +161,34 @@
       "lon": 34.75,
       "count": 4,
       "story": {
-        "title": "Jerusalem Daily: A new report on the erosion of Palestinian life",
-        "description": "Palestinian life is being systematically eroded, according to a new report and Israel threatens NAZA film directors.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
+        "title": "Israeli attack targets Gaza displacement camp",
+        "description": "Israeli attack targets Gaza displacement camp",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 4,
       "story": {
-        "title": "Private schools become a costly choice for struggling parents in Gaza",
-        "description": "Gaza families face difficult choices: send children to schools in tents with few resources to pay for private school.",
-        "link": "https://www.aljazeera.com/features/2026/9/14/private-schools-become-a-costly-choice-for-struggling-in-gaza?traffic_source=rss",
+        "title": "India to supply Nepal electricity after floods wrecked hydropower projects",
+        "description": "India to provide Nepal with 654 megawatts of electricity daily to meet urgent needs after devastating glacial floods.",
+        "link": "https://www.aljazeera.com/news/2026/9/14/india-to-supply-nepal-electricity-after-floods-wrecked-hydropower-projects?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 4,
+      "story": {
+        "title": "Apple growers fear economic and biosecurity wipeout as US eyes market",
+        "description": "Australian growers are raising biosecurity concerns as the United States steps closer to exporting apples to the Australian market.",
+        "link": "https://www.abc.net.au/news/2026-09-15/us-apples-closer-to-australian-shelves-import-biosecurity/107150424",
+        "source": "ABC News AU"
       }
     },
     {
@@ -204,6 +204,30 @@
       }
     },
     {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 3,
+      "story": {
+        "title": "Carney gambles on the world's biggest investors betting on Canada",
+        "description": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
+        "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 3,
+      "story": {
+        "title": "India refuses to accept Asia Cup cricket trophy from Pakistani minister",
+        "description": "After winning the women's cricket crown in Dubai, the Indian team leaves the field without collecting the trophy because it was to be handed over by Pakistan Cricket Board chairman Moshin Naqvi.",
+        "link": "https://www.abc.net.au/news/2026-09-15/india-refuses-asia-cup-cricket-trophy-from-pakistani-minister/107153570",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
@@ -216,15 +240,15 @@
       }
     },
     {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 3,
       "story": {
-        "title": "Why are European banks moving gold out of United States?",
-        "description": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fears about the reliability of the US, but equally important is the need to keep gold closer to home in the event of a crisis.",
-        "link": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
+        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
+        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
+        "source": "SBS News"
       }
     },
     {
@@ -240,14 +264,14 @@
       }
     },
     {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 2,
       "story": {
-        "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-        "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+        "title": "Body of missing runner found in South Africa",
+        "description": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+        "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -257,45 +281,33 @@
       "lon": 35.2,
       "count": 2,
       "story": {
-        "title": "Jerusalem Daily: A new report on the erosion of Palestinian life",
-        "description": "Palestinian life is being systematically eroded, according to a new report and Israel threatens NAZA film directors.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
+        "title": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
+        "description": "Macklemore says he was dropped from Ed Sheeran’s US tour over his pro-Palestinian stance.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Austria",
+      "lat": 47.52,
+      "lon": 14.55,
       "count": 2,
       "story": {
-        "title": "India to supply Nepal electricity after floods wrecked hydropower projects",
-        "description": "India to provide Nepal with 654 megawatts of electricity daily to meet urgent needs after devastating glacial floods.",
-        "link": "https://www.aljazeera.com/news/2026/9/14/india-to-supply-nepal-electricity-after-floods-wrecked-hydropower-projects?traffic_source=rss",
+        "title": "US blocks Iran nuclear chief from attending key Vienna conference",
+        "description": "Iran accuses US of pressuring Austria to revoke visa for Mohammad Eslami, calling it a violation of member state rights.",
+        "link": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Finland",
+      "lat": 61.92,
+      "lon": 25.75,
       "count": 2,
       "story": {
-        "title": "Pakistan fined, docked 11 points in Edgbaston Test for slow over rate",
-        "description": "The visitors were 11 overs short of their target as England won the match by eight wickets to sweep the series 3-0.",
-        "link": "https://www.aljazeera.com/sports/2026/9/14/pakistan-fined-docked-11-points-in-edgbaston-test-for-slow-over-rate?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 2,
-      "story": {
-        "title": "North Korea thrash Bangladesh 10-0 in Asian Games women’s football",
-        "description": "North Korea, enjoying support in the stands, were up 7-0 by half-time and are favourites for the gold.",
-        "link": "https://www.aljazeera.com/sports/2026/9/14/north-korea-thrash-bangladesh-10-0-in-asian-games-womens-football?traffic_source=rss",
+        "title": "Finland shelters under French nuclear umbrella amid Russian, US uncertainty",
+        "description": "Finland becomes 10th European state to sign up to military cooperation and nuclear deterrence initiative.",
+        "link": "https://www.aljazeera.com/news/2026/9/14/finland-shelters-under-french-nuclear-umbrella-amid-russian-us-uncertainty?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -305,10 +317,10 @@
       "lon": 19.1,
       "count": 2,
       "story": {
-        "title": "Putin’s border drone strikes show ‘desperation’, NATO chief says",
-        "description": "A Russian strike on the Ukraine-Poland border just missed a train carrying diplomats, including former British prime minister Boris Johnson and former Swedish prime minister Carl Bildt.",
-        "link": "https://www.abc.net.au/news/2026-09-15/nato-chief-promises-more-aid-for-ukraine/107153166",
-        "source": "ABC News AU"
+        "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
+        "description": "NATO chief Rutte insists Western allies will not be intimidated by Russian attacks meant to &#039;scare&#039; them off.",
+        "link": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -336,15 +348,15 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
       "story": {
-        "title": "Body of missing runner found in South Africa",
-        "description": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
-        "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Air quality in all regions of Singapore in unhealthy range; central area the worst with 24-hour PSI at 154",
+        "description": "This is the first time since September 2019 that air quailty in all regions in the country entered the unhealthy range.",
+        "link": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-unhealthy-6382851",
+        "source": "CNA"
       }
     },
     {
@@ -356,6 +368,18 @@
         "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
         "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
         "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 1,
+      "story": {
+        "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+        "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -396,15 +420,39 @@
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Vienna",
+      "lat": 48.21,
+      "lon": 16.37,
       "count": 1,
       "story": {
-        "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-        "description": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
-        "link": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "US blocks Iran nuclear chief from attending key Vienna conference",
+        "description": "Iran accuses US of pressuring Austria to revoke visa for Mohammad Eslami, calling it a violation of member state rights.",
+        "link": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 1,
+      "story": {
+        "title": "Sudan aid networks at risk of collapse, UN agencies warn",
+        "description": "Without immediate donations, shelter and aid relief supplies could be depleted by the end of the month, says IOM.",
+        "link": "https://www.aljazeera.com/news/2026/9/14/sudan-aid-networks-at-risk-of-collapse-un-agencies-warn?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 1,
+      "story": {
+        "title": "Funerals for children killed after fire spreads to school in DR Congo",
+        "description": "Memorial services were held for at least 28 children who were killed after a fire spread to their school in DR Congo.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/funerals-for-children-killed-after-fire-spreads-to-school-in-dr-congo?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -420,39 +468,27 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Syria fuel price hikes test public patience with economic recovery",
-        "description": "Anger rises in Syrian cities as fuel price hikes burden struggling households amid an ongoing cost-of-living crisis.",
-        "link": "https://www.aljazeera.com/features/2026/9/14/syria-fuel-price-hikes-test-public-patience-with-economic-recovery?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Safety concerns plague Matilda Bay ferry plan",
+        "description": "An analysis by the WA government finds the scenic and popular Matilda Bay, in Perth's western suburbs, is the safest location for a ferry terminal, just as another commissioned report by an advocacy group says it would p",
+        "link": "https://www.abc.net.au/news/2026-09-15/safety-concerns-plague-matilda-bay-ferry-plan/107151480",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "Dubai",
+      "lat": 25.2,
+      "lon": 55.27,
       "count": 1,
       "story": {
-        "title": "Leaders of Scotland, Wales, Northern Ireland unite for self-determination",
-        "description": "Leaders of nationalist parties in Scotland, Wales and Northern Ireland say London has &#039;no right&#039; to block democracy.",
-        "link": "https://www.aljazeera.com/news/2026/9/14/leaders-of-scotland-wales-northern-ireland-unite-for-self-determination?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 1,
-      "story": {
-        "title": "North Korea thrash Bangladesh 10-0 in Asian Games women’s football",
-        "description": "North Korea, enjoying support in the stands, were up 7-0 by half-time and are favourites for the gold.",
-        "link": "https://www.aljazeera.com/sports/2026/9/14/north-korea-thrash-bangladesh-10-0-in-asian-games-womens-football?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "India refuses to accept Asia Cup cricket trophy from Pakistani minister",
+        "description": "After winning the women's cricket crown in Dubai, the Indian team leaves the field without collecting the trophy because it was to be handed over by Pakistan Cricket Board chairman Moshin Naqvi.",
+        "link": "https://www.abc.net.au/news/2026-09-15/india-refuses-asia-cup-cricket-trophy-from-pakistani-minister/107153570",
+        "source": "ABC News AU"
       }
     },
     {
@@ -461,45 +497,21 @@
       "lon": 45.1,
       "count": 1,
       "story": {
-        "title": "Why Saudi Arabia’s East-West pipeline matters for global oil",
-        "description": "The 1,200km (745-mile) pipeline has been temporarily closed, affecting up to 5 percent of global oil supply.",
-        "link": "https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Trump says a 'high-IQ president' is the only guardrail AI needs",
-        "description": "As pressure builds in Washington for action on AI following a flurry of doomsday warnings, Donald Trump claims there is a \"sick conspiracy\" against the technology.",
-        "link": "https://www.abc.net.au/news/2026-09-15/trump-says-a-high-iq-president-is-the-only-guardrail-ai-needs/107153326",
+        "title": "Live: Bowen heading to Saudi Arabia in bid to secure fuel supply",
+        "description": "Energy Minister Chris Bowen will head to Saudi Arabia next week in a bid to shore up Australia's fuel supply amid concerns about the squeeze on oil in the Middle East. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-09-15/federal-politics-live-september-15/107152270",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Local government inspector launches probe into City of Perth",
-        "description": "The Local Government Inspector launches further investigation into problems at the City of Perth.",
-        "link": "https://www.abc.net.au/news/2026-09-14/local-government-inspector-launches-inquiry-city-perth/107152452",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 1,
-      "story": {
-        "title": "HYROX Beijing sparks backlash after Aussie athlete soils herself mid-race",
-        "description": "Video of an Australian woman who completed and won an endurance event in China after soiling herself has sparked debate about sport hygiene standards.",
-        "link": "https://www.abc.net.au/news/2026-09-14/hyrox-beijing-backlash-after-athlete-soils-herself/107151004",
+        "title": "'Two generations of planning failure': Life on Melbourne's booming fringe",
+        "description": "Residents in Melbourne's outer west say services and infrastructure are struggling to keep up with population growth despite recent improvements.",
+        "link": "https://www.abc.net.au/news/2026-09-15/migrants-on-life-in-booming-outer-suburbs-melbourne/107132328",
         "source": "ABC News AU"
       }
     },
@@ -524,18 +536,6 @@
         "title": "Nepal: thousands still missing as flood recovery begins",
         "description": "The Himalayan nation is moving from rescue operations to recovery, facing a $4.8 billion reconstruction bill amid renewed calls for climate justice.",
         "link": "https://www.dw.com/en/nepal-thousands-still-missing-as-flood-recovery-begins/a-79259980?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Finland",
-      "lat": 61.92,
-      "lon": 25.75,
-      "count": 1,
-      "story": {
-        "title": "Finland: EU leaders meet to forge new Arctic policy",
-        "description": "European leaders are meeting over shipping, resources and security in the region amid pressure from the US, China and Russia. The EU sees the Arctic as key to its future security as melting ice makes it more accessible.",
-        "link": "https://www.dw.com/en/finland-eu-leaders-meet-to-forge-new-arctic-policy/a-79256956?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
