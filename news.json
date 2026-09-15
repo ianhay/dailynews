@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T12:34:14+00:00",
+  "generated_at": "2026-09-15T17:35:28+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Denmark says Russian warship fired flares at military helicopter",
       "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
       "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
@@ -28,25 +22,31 @@
       "description": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
       "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
     {
-      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-      "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+      "title": "What weapon could the US have put into space?",
+      "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "description": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "US scraps limits on emissions from coal and gas power plants",
-      "description": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
+      "title": "Canada is a 'safe harbour' for global finance, Carney says",
+      "description": "The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 12,
+      "count": 14,
       "story": {
         "title": "Denmark says Russian warship fired flares at military helicopter",
         "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
@@ -87,31 +87,43 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 14,
       "story": {
-        "title": "Impact of colonisation on First Nations people far greater than previous estimates, research finds",
-        "description": "Australia's Indigenous population was up to seven times larger before colonisation than previously estimated, but was devastated following the arrival of Europeans, new research reveals.",
-        "link": "https://www.abc.net.au/news/2026-09-15/extent-of-catastrophe-after-australias-colonisation-uncovered/107155538",
-        "source": "ABC News AU"
+        "title": "Canada, the UK and Australia should investigate the WCK attack in Gaza",
+        "description": "Israel has made clear it is unwilling to hold to account those responsible for the deaths of seven humanitarian workers.",
+        "link": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 10,
+      "story": {
+        "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+        "description": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+        "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 10,
+      "count": 9,
       "story": {
-        "title": "China criticises idea it is in 'malicious competition' over AI",
-        "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
-        "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+        "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+        "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "Ukraine's postal workers deliver lifeline under Russian fire",
         "description": "The state post service delivers pensions, medicine and letters to people just miles from the front.",
@@ -132,22 +144,34 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 7,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 6,
       "story": {
-        "title": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
-        "description": "The Pentagon watchdog&#039;s report paints a picture of significant losses to US forces and facilities in the region.",
-        "link": "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "‘Great’ or ‘alarming’ - Should AI be reined in?",
+        "description": "The BBC asked people in Washington DC about the technology’s rapid development and whether it poses a threat to humanity, as some experts warn.",
+        "link": "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 5,
+      "story": {
+        "title": "Canada is a 'safe harbour' for global finance, Carney says",
+        "description": "The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US.",
+        "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Netherlands",
       "lat": 52.13,
       "lon": 5.29,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Suspected sabotage causes major Netherlands rail disruption",
         "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
@@ -156,51 +180,51 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 4,
       "story": {
-        "title": "‘More dangerous than drugs’: BJP’s war on beef in India’s West Bengal",
-        "description": "Since Prime Minister Modi&#039;s BJP came to power in West Bengal, beef is vanishing from menus as supplies become harder.",
-        "link": "https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss",
+        "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+        "description": "Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.",
+        "link": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
       "count": 3,
       "story": {
-        "title": "Germany news: Police find arms depot near highway",
-        "description": "Police have found a stash of rifles, pistols and other firearms near a road in the western state of Rhineland-Palatinate. Meanwhile, Defense Minister Pistorius is off to Washington for talks with his US counterpart.",
-        "link": "https://www.dw.com/en/germany-news-police-find-arms-depot-near-highway/live-79273324?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Denmark says Russian warship fired flares at military helicopter",
+        "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+        "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 3,
       "story": {
-        "title": "Germany news: Police find arms depot near highway",
-        "description": "Police have found a stash of rifles, pistols and other firearms near a road in the western state of Rhineland-Palatinate. Meanwhile, Defense Minister Pistorius is off to Washington for talks with his US counterpart.",
-        "link": "https://www.dw.com/en/germany-news-police-find-arms-depot-near-highway/live-79273324?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
+        "description": "Israeli newspaper Haaretz reports that influence experts and an ex-Mossad official were part of an anti-Qatar group.",
+        "link": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 3,
       "story": {
-        "title": "US confirms it has weapons in space",
-        "description": "The US Space Force justified the weapons deployment by citing its two biggest geopolitical rivals — Russia and China. Beijing responded by urging Washington to \"stop preparing for war\" in outer space.",
-        "link": "https://www.dw.com/en/us-confirms-it-has-weapons-in-space/a-79268894?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
+        "description": "Riyadh has several military options, say analysts, but all of them carry risks, too.",
+        "link": "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -216,15 +240,27 @@
       }
     },
     {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
       "count": 2,
       "story": {
-        "title": "Denmark says Russian warship fired flares at military helicopter",
-        "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-        "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+        "description": "Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.",
+        "link": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
+      "count": 2,
+      "story": {
+        "title": "Election in Philippines’ Bangsamoro region ends in hung parliament",
+        "description": "No party wins majority in parliamentary polls in southern Philippines&#039; Muslim-majority region, unofficial results show.",
+        "link": "https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -233,237 +269,33 @@
       "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-        "description": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
-        "link": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 2,
-      "story": {
-        "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-        "description": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
-        "link": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 2,
-      "story": {
-        "title": "Africa's richest man launches continent's biggest share sale",
-        "description": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
-        "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 2,
-      "story": {
-        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-        "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 2,
-      "story": {
-        "title": "Carney gambles on the world's biggest investors betting on Canada",
-        "description": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
-        "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Why is pro-Palestinian activist Mahmoud Khalil suing Columbia University?",
-        "description": "Mahmoud Khalil sues Columbia University and its dean for alleged institutional racism targeting pro-Palestine students.",
-        "link": "https://www.aljazeera.com/news/2026/9/15/why-is-pro-palestinian-activist-mahmoud-khalil-suing-columbia-university?traffic_source=rss",
+        "title": "Canada, the UK and Australia should investigate the WCK attack in Gaza",
+        "description": "Israel has made clear it is unwilling to hold to account those responsible for the deaths of seven humanitarian workers.",
+        "link": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Nairobi",
-      "lat": -1.29,
-      "lon": 36.82,
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
       "count": 2,
       "story": {
-        "title": "Nairobi to host World Athletics Championships in 2029",
-        "description": "Nairobi beats London, Munich and Rome to become the first African hosts, World Athletics says.",
-        "link": "https://www.aljazeera.com/sports/2026/9/15/nairobi-to-host-world-athletics-championships-in-2029?traffic_source=rss",
+        "title": "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
+        "description": "Riyadh has several military options, say analysts, but all of them carry risks, too.",
+        "link": "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
       "count": 2,
       "story": {
-        "title": "'Disappointing outcome': Big Splash likely won't reopen for summer",
-        "description": "The future of Canberra's water park Big Splash remains uncertain after the ACT government today said it did not believe it would reopen for the summer, as had been promised by the site's lessee.",
-        "link": "https://www.abc.net.au/news/2026-09-15/big-splash-will-not-open-summer-government-seeks-new-owner/107155462",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 2,
-      "story": {
-        "title": "Iran and America: A tale of two lands and the pistachio between them",
-        "description": "The pistachios sold across the United States have a surprising history: California's trees trace their roots to Iran. Now both regions face the same threat: their farmland is sinking as groundwater disappears.",
-        "link": "https://www.dw.com/en/iran-and-america-a-tale-of-two-lands-and-the-pistachio-between-them/a-79224310?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Singapore gymnast Amanda Yap targets balance beam final on Asian Games debut",
-        "description": "The 16-year-old heads into the upcoming competition in Japan fresh from clinching silver at the Commonwealth Games in Glasgow in July – Singapore's first gymnastics medal at the Games since 2014.&nbsp;",
-        "link": "https://www.channelnewsasia.com/singapore/gymnast-amanda-yap-asian-games-commonwealth-6385661",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 2,
-      "story": {
-        "title": "Cambodia 'playing the victim', Thailand tells global mediators",
-        "description": "Presenting Bangkok's case before the Permanent Court of Arbitration in Singapore, Foreign Minister Sihasak Phuangketkeow said Cambodia sought to \"vilify Thailand through false narratives, distortion of facts, and unfound",
-        "link": "https://www.channelnewsasia.com/asia/cambodia-thailand-mediators-playing-victim-6385906",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 1,
-      "story": {
-        "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
-        "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
-        "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Mumbai",
-      "lat": 19.08,
-      "lon": 72.88,
-      "count": 1,
-      "story": {
-        "title": "Best friends for decades - until a DNA test revealed they were sisters",
-        "description": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
-        "link": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 1,
-      "story": {
-        "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-        "description": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
-        "link": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
-      "count": 1,
-      "story": {
-        "title": "Nairobi to host World Athletics Championships in 2029",
-        "description": "Nairobi beats London, Munich and Rome to become the first African hosts, World Athletics says.",
-        "link": "https://www.aljazeera.com/sports/2026/9/15/nairobi-to-host-world-athletics-championships-in-2029?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Rome",
-      "lat": 41.9,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Nairobi to host World Athletics Championships in 2029",
-        "description": "Nairobi beats London, Munich and Rome to become the first African hosts, World Athletics says.",
-        "link": "https://www.aljazeera.com/sports/2026/9/15/nairobi-to-host-world-athletics-championships-in-2029?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "Heavy air strikes hit Yemen, UN says over 100,000 people displaced",
-        "description": "Saudi-led coalition promises to respond &#039;firmly&#039; to Houthi strikes on urban areas in Saudi Arabia.",
-        "link": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Hungary",
-      "lat": 47.16,
-      "lon": 19.5,
-      "count": 1,
-      "story": {
-        "title": "Hungary to amend anti-LGBTQ law to align with EU standards",
-        "description": "A new bill will remove references to banning the &#039;promotion&#039; of homosexuality.",
-        "link": "https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "Internet shutdown crosses 100 days in Pakistan-administered Kashmir",
-        "description": "Mobile data, broadband services suspended in the territory since protests calling for electoral reform in June.",
-        "link": "https://www.aljazeera.com/news/2026/9/15/internet-shutdown-crosses-100-days-in-pakistan-administered-kashmir?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
-      "count": 1,
-      "story": {
-        "title": "Spectacular turtle nesting event in southern Mexico",
-        "description": "More than 300,000 olive ridley turtles have arrived at a beach in southern Mexico in the latest mass nesting.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_spectacular-turtle-nesting-event-in-southern-mexico-150926?traffic_source=rss",
+        "title": "Bangladesh hands death sentences to 7 aides of ousted Prime Minister Hasina",
+        "description": "Seven members of ousted PM Sheikh Hasina&#039;s Awami League convicted of crimes including murder, provoking killings.",
+        "link": "https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -471,12 +303,168 @@
       "name": "South Africa",
       "lat": -30.6,
       "lon": 22.9,
-      "count": 1,
+      "count": 2,
       "story": {
         "title": "ODI live scores: Australia faces Zimbabwe in first of African series",
         "description": "The Australian men's team's journey to the highly anticipated Test series against South Africa starts in Harare with the first of three ODIs against Zimbabwe. Check out the live scores and stats in our ScoreCentre.",
         "link": "https://www.abc.net.au/news/2026-09-15/cricket-live-australia-zimbabwe-first-odi-scorecentre/107154728",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Spanish scientists find first evidence of Diplodocus dinosaur in Europe",
+        "description": "Paleontologists in Spain say they have found the first evidence of the long-necked Diplodocus genus of dinosaur outside of North America. They found bones at the rich La Tejeria fossil site in Teruel in eastern Spain.",
+        "link": "https://www.dw.com/en/spanish-scientists-find-first-evidence-of-diplodocus-dinosaur-in-europe/a-79277825?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 1,
+      "story": {
+        "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+        "description": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.",
+        "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "Ash from Mount Etna grounds flights at Sicily airport",
+        "description": "All flights are suspended from one of Italy's busiest airports until Tuesday night.",
+        "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 1,
+      "story": {
+        "title": "More than 100,000 people in Japan are now aged 100 or older",
+        "description": "Figures show 88% of the centenarians are women as the population continues to age and shrink.",
+        "link": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 1,
+      "story": {
+        "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
+        "description": "Laura Sarabia is accused of ordering police to interrogate her nanny after cash allegedly went missing from her flat.",
+        "link": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 1,
+      "story": {
+        "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+        "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
+      "count": 1,
+      "story": {
+        "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
+        "description": "Israeli newspaper Haaretz reports that influence experts and an ex-Mossad official were part of an anti-Qatar group.",
+        "link": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+        "description": "Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.",
+        "link": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Seoul",
+      "lat": 37.57,
+      "lon": 126.98,
+      "count": 1,
+      "story": {
+        "title": "South Korea embraces Central Asian leaders, looking to boost regional clout",
+        "description": "Seoul is set to host its first presidential meeting with five Russia-allied states positioning themselves as a bloc.",
+        "link": "https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 1,
+      "story": {
+        "title": "South Korea embraces Central Asian leaders, looking to boost regional clout",
+        "description": "Seoul is set to host its first presidential meeting with five Russia-allied states positioning themselves as a bloc.",
+        "link": "https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "New Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
+      "count": 1,
+      "story": {
+        "title": "India beat Afghanistan by seven wickets live: T20 cricket match",
+        "description": "All the build-up, team news, predictions, score, photos and live text commentary stream in New Delhi.",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/15/india-vs-afghanistan-live-t20-cricket-match?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 1,
+      "story": {
+        "title": "India beat Afghanistan by seven wickets live: T20 cricket match",
+        "description": "All the build-up, team news, predictions, score, photos and live text commentary stream in New Delhi.",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/15/india-vs-afghanistan-live-t20-cricket-match?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
+      "count": 1,
+      "story": {
+        "title": "India beat Afghanistan by seven wickets live: T20 cricket match",
+        "description": "All the build-up, team news, predictions, score, photos and live text commentary stream in New Delhi.",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/15/india-vs-afghanistan-live-t20-cricket-match?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -488,6 +476,18 @@
         "title": "Teens in court over Perth Zoo attack on crocodile",
         "description": "Police say the teens, aged 16 and 17, allegedly cut the locks of a crocodile enclosure before one of them struck the reptile on Sunday night.",
         "link": "https://www.abc.net.au/news/2026-09-15/perth-zoo-crocodile-hit-with-metal-pole/107156286",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
+      "count": 1,
+      "story": {
+        "title": "'Disappointing outcome': Big Splash likely won't reopen for summer",
+        "description": "The future of Canberra's water park Big Splash remains uncertain after the ACT government today said it did not believe it would reopen for the summer, as had been promised by the site's lessee.",
+        "link": "https://www.abc.net.au/news/2026-09-15/big-splash-will-not-open-summer-government-seeks-new-owner/107155462",
         "source": "ABC News AU"
       }
     },
@@ -504,14 +504,14 @@
       }
     },
     {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
       "count": 1,
       "story": {
-        "title": "Bangladesh court sentences 7 Hasina allies to death",
-        "description": "The latest verdict brings to 22 the number of death sentences handed down in cases stemming from the 2024 uprising that ended Sheikh Hasina's 15-year rule.",
-        "link": "https://www.dw.com/en/bangladesh-court-sentences-7-hasina-allies-to-death/a-79276131?maca=en-rss-en-all-1573-rdf",
+        "title": "Why do authoritarian regimes target the LGBTQ+ community?",
+        "description": "A recent crackdown on the LGBTQ+ community in Turkey is symptomatic of a wider rights regression, according to experts. It's worse under authoritarian regimes, but why is it such a popular policy for these states?",
+        "link": "https://www.dw.com/en/why-do-authoritarian-regimes-target-the-lgbtq-community/a-79276831?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -521,9 +521,21 @@
       "lon": 13.4,
       "count": 1,
       "story": {
-        "title": "Berlin election driven by radical ideas",
+        "title": "Socialist Left leads far-right AfD ahead of Berlin vote",
         "description": "The results of the Berlin election are as hard to predict as ever. Three parties are vying for first place, including the socialist Left Party and the far-right AfD. But one issue is most important to Berliners.",
-        "link": "https://www.dw.com/en/berlin-election-driven-by-radical-ideas/a-79256516?maca=en-rss-en-all-1573-rdf",
+        "link": "https://www.dw.com/en/socialist-left-leads-far-right-afd-ahead-of-berlin-vote/a-79256516?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 1,
+      "story": {
+        "title": "Germany news: Police find arms depot near highway",
+        "description": "Police have found a stash of rifles, pistols and other firearms near a road in the western state of Rhineland-Palatinate. Meanwhile, Defense Minister Pistorius is off to Washington for talks with his US counterpart.",
+        "link": "https://www.dw.com/en/germany-news-police-find-arms-depot-near-highway/live-79273324?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -536,18 +548,6 @@
         "title": "Russian warship fires flares at Danish helicopter",
         "description": "Denmark has summoned Russia's ambassador over a Baltic Sea encounter that Copenhagen says is part of an increasingly aggressive pattern of Russian behavior.",
         "link": "https://www.dw.com/en/russian-warship-fires-flares-at-danish-helicopter/a-79270510?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
-      "count": 1,
-      "story": {
-        "title": "China tightens travel rules over tech security",
-        "description": "Beijing says the new rules, which could also apply to foreign and Taiwanese nationals, are aimed at safeguarding \"national security.\"",
-        "link": "https://www.dw.com/en/china-tightens-travel-rules-over-tech-security/a-79270217?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
