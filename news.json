@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T15:14:37+00:00",
+  "generated_at": "2026-09-17T19:12:16+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Swedish PM Kristersson resigns after election loss",
       "description": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
       "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
@@ -21,12 +27,6 @@
       "title": "India faces 100% tariff threat over Russian oil after US House vote",
       "description": "Trump’s tariff threat puts India’s Russian oil strategy- and its access to the US market - in a new bind.",
       "link": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-      "description": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
-      "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 15,
+      "count": 17,
       "story": {
         "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
         "description": "The government wants to reduce net overseas migration to 225,000 people by 2028.",
@@ -84,26 +84,14 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 8,
-      "story": {
-        "title": "India faces 100% tariff threat over Russian oil after US House vote",
-        "description": "Trump’s tariff threat puts India’s Russian oil strategy- and its access to the US market - in a new bind.",
-        "link": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 8,
+      "count": 9,
       "story": {
-        "title": "Photos show widespread damage at US sites from Iranian attacks",
-        "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
-        "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+        "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -113,21 +101,9 @@
       "lon": -106.3,
       "count": 8,
       "story": {
-        "title": "EU chief backs plan for Canada to become 'associate member'",
-        "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
-        "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 6,
-      "story": {
-        "title": "India faces 100% tariff threat over Russian oil after US House vote",
-        "description": "Trump’s tariff threat puts India’s Russian oil strategy- and its access to the US market - in a new bind.",
-        "link": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss",
+        "title": "Canada welcomes EU proposal to become 'associate member'",
+        "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+        "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -135,7 +111,7 @@
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
-      "count": 5,
+      "count": 7,
       "story": {
         "title": "Klopp wants to 'reclaim' flag amid German elections",
         "description": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
@@ -144,10 +120,34 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 7,
+      "story": {
+        "title": "India faces 100% tariff threat over Russian oil after US House vote",
+        "description": "Trump’s tariff threat puts India’s Russian oil strategy- and its access to the US market - in a new bind.",
+        "link": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 7,
+      "story": {
+        "title": "India faces 100% tariff threat over Russian oil after US House vote",
+        "description": "Trump’s tariff threat puts India’s Russian oil strategy- and its access to the US market - in a new bind.",
+        "link": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
         "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
@@ -159,31 +159,19 @@
       "name": "Saudi Arabia",
       "lat": 23.9,
       "lon": 45.1,
-      "count": 5,
+      "count": 6,
       "story": {
-        "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-        "description": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
-        "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
-      "story": {
-        "title": "Woman charged after baby found dead in Sydney bin",
-        "description": "NSW Police say a 24-year-old woman \"believed to be the mother of the infant\" has been charged.",
-        "link": "https://www.abc.net.au/news/2026-09-17/woman-arrested-after-baby-found-dead-in-sydney-bin/107166370",
-        "source": "ABC News AU"
+        "title": "Five killed as Saudi Arabia and Yemen’s Houthis trade attacks",
+        "description": "Houthi leader Abdel-Malik al-Houthi says Saudi claims that the group targeted Mecca are a &#039;heinous lie&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "South Africa",
       "lat": -30.6,
       "lon": 22.9,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Ninth woman's body found as South African police investigate string of deaths",
         "description": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
@@ -195,35 +183,11 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 4,
+      "count": 5,
       "story": {
-        "title": "US tariffs against Russian oil buyers pass: What it means for China, India",
-        "description": "US sanctions aim to weaken Russian oil exports, heavily targeting China and India as Moscow&#039;s largest energy buyers.",
-        "link": "https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 4,
-      "story": {
-        "title": "At least 19 injured in Russian attacks across Ukraine",
-        "description": "Missile and drone strikes targeted Ukraine&#039;s capital Kyiv as well as the Zaporizhzhia and Odesa regions.",
-        "link": "https://www.aljazeera.com/news/2026/9/17/at-least-19-injured-in-russian-attacks-across-ukraine?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 3,
-      "story": {
-        "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-        "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-        "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+        "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+        "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+        "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -231,7 +195,7 @@
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
         "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
@@ -240,10 +204,46 @@
       }
     },
     {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Woman charged after baby found dead in Sydney bin",
+        "description": "NSW Police say a 24-year-old woman \"believed to be the mother of the infant\" has been charged.",
+        "link": "https://www.abc.net.au/news/2026-09-17/woman-arrested-after-baby-found-dead-in-sydney-bin/107166370",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "European Union",
+      "lat": 50.85,
+      "lon": 4.35,
+      "count": 3,
+      "story": {
+        "title": "EU chief backs plan for Canada to become 'associate member'",
+        "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
+        "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 3,
+      "story": {
+        "title": "Russian plans include strikes against Ukraine's allies, says Polish PM",
+        "description": "In a speech to the Polish parliament, Donald Tusk says there is a \"real risk\" that Russian drones may fall on \"the territory of one or several NATO countries on the eastern flank\" and call it an accident.",
+        "link": "https://www.abc.net.au/news/2026-09-18/russia-plans-strikes-ukraine-allies-says-polish-pm-donald-tusk/107166910",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Lima",
       "lat": -12.05,
       "lon": -77.04,
-      "count": 3,
+      "count": 2,
       "story": {
         "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
         "description": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
@@ -257,22 +257,10 @@
       "lon": -51.9,
       "count": 2,
       "story": {
-        "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
-        "description": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
-        "link": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "European Union",
-      "lat": 50.85,
-      "lon": 4.35,
-      "count": 2,
-      "story": {
-        "title": "EU chief backs plan for Canada to become 'associate member'",
-        "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
-        "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Brazil’s Lula announces welfare increases ahead of presidential election",
+        "description": "Government says that increase represents an adjustment for inflation that has eaten away purchasing power since 2023.",
+        "link": "https://www.aljazeera.com/news/2026/9/17/brazils-lula-announces-welfare-increases-ahead-of-presidential-election?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -281,22 +269,34 @@
       "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Trump claims direct talks with Iran: Is diplomacy picking up again?",
-        "description": "The US president says Washington is &#039;hopefully toward the end&#039; of Iran war, as global energy prices remain high.",
-        "link": "https://www.aljazeera.com/news/2026/9/17/trump-claims-direct-talks-with-iran-is-diplomacy-picking-up-again?traffic_source=rss",
+        "title": "‘I’m Russian’: NHL star Ovechkin defends Putin ad appearance",
+        "description": "Washington Capitals captain under fire for appearing in an election campaign video for Putin&#039;s United Russia party.",
+        "link": "https://www.aljazeera.com/sports/2026/9/17/im-russian-nhl-star-ovechkin-defends-putin-ad-appearance?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
       "count": 2,
       "story": {
-        "title": "At least 19 injured in Russian attacks across Ukraine",
-        "description": "Missile and drone strikes targeted Ukraine&#039;s capital Kyiv as well as the Zaporizhzhia and Odesa regions.",
-        "link": "https://www.aljazeera.com/news/2026/9/17/at-least-19-injured-in-russian-attacks-across-ukraine?traffic_source=rss",
+        "title": "China faces oil challenge as prices soar and supply options narrow",
+        "description": "Beijing is drawing on vast reserves and seeking alternative crude as shipping disruption continues.",
+        "link": "https://www.aljazeera.com/news/2026/9/17/china-faces-oil-challenge-as-prices-soar-and-supply-options-narrow?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 1,
+      "story": {
+        "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+        "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+        "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -372,15 +372,87 @@
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
       "count": 1,
       "story": {
-        "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
-        "description": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
-        "link": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home",
+        "description": "Dozens of Israelis protested outside &#039;NAZA&#039; filmmaker’s family home, chanting &#039;death to traitors&#039;",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
+      "count": 1,
+      "story": {
+        "title": "US secures release of detained citizen Adam Castillo in Myanmar",
+        "description": "Businessman Adam Castillo had been detained by authorities for three months on breach of trust allegations.",
+        "link": "https://www.aljazeera.com/news/2026/9/17/us-secures-release-of-detained-citizen-adam-castillo-in-myanmar?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 1,
+      "story": {
+        "title": "Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks",
+        "description": "The French presidency said the aim of the Paris talks was to review a Lebanese armed forces deployment plan.",
+        "link": "https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 1,
+      "story": {
+        "title": "Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks",
+        "description": "The French presidency said the aim of the Paris talks was to review a Lebanese armed forces deployment plan.",
+        "link": "https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
+      "count": 1,
+      "story": {
+        "title": "Abhishek Sharma hits record T20 ton as India beat Afghanistan by 127 runs",
+        "description": "India opener Abhishek Sharma hits nine fours and 11 sixes in total of 221-7 as India seal 3-0 T20 series sweep.",
+        "link": "https://www.aljazeera.com/sports/2026/9/17/abhishek-sharmas-30-ball-ton-leads-india-to-127-run-win-over-afghanistan?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 1,
+      "story": {
+        "title": "Rare Ethiopian manuscript stolen by British forces triggers restitution row",
+        "description": "The Gondar Gospel belonged to the library of Emperor Tewodros but was seized in a battle decades ago.",
+        "link": "https://www.aljazeera.com/news/2026/9/17/rare-ethiopian-manuscript-stolen-by-british-triggers-restitution-row?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 1,
+      "story": {
+        "title": "Ireland boycotts Eurovision for second year over Israel’s inclusion",
+        "description": "Public broadcaster says country&#039;s participation cannot be justified amid &#039;appalling and ongoing loss of lives in Gaza&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/9/17/ireland-boycotts-eurovision-for-second-year-over-israels-inclusion?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -468,86 +540,14 @@
       }
     },
     {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
       "count": 1,
       "story": {
-        "title": "LIVE: India vs Afghanistan – T20 international cricket series",
-        "description": "Follow the live build-up and coverage, with toss, team lineups and news, ahead of our text commentary steam updates.",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/17/live-india-vs-afghanistan-t20-international-cricket-series?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 1,
-      "story": {
-        "title": "What’s the Asian Games accommodation crisis, and where will athletes stay?",
-        "description": "In a cost-cutting move, Japan decided against setting up a dedicated athletes&#039; village but now faces a backlash.",
-        "link": "https://www.aljazeera.com/sports/2026/9/17/whats-the-asian-games-accommodation-crisis-and-where-will-athletes-stay?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 1,
-      "story": {
-        "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
-        "description": "The security talks come as Israeli forces continue attacks across southern Lebanon despite a &quot;ceasefire&quot;.",
-        "link": "https://www.aljazeera.com/news/2026/9/17/lebanon-security-talks-in-paris-to-focus-on-post-unifil-alternatives?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 1,
-      "story": {
-        "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
-        "description": "The security talks come as Israeli forces continue attacks across southern Lebanon despite a &quot;ceasefire&quot;.",
-        "link": "https://www.aljazeera.com/news/2026/9/17/lebanon-security-talks-in-paris-to-focus-on-post-unifil-alternatives?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
-      "count": 1,
-      "story": {
-        "title": "UK charities, protest groups condemn Israeli ban threat after sanctions",
-        "description": "Having warned London of &#039;consequences&#039; for sanctions, Israel targets UK charities, campaign groups and Palestine Action.",
-        "link": "https://www.aljazeera.com/news/2026/9/17/uk-charities-protest-groups-condemn-israeli-ban-threat-after-sanctions?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Pyongyang",
-      "lat": 39.03,
-      "lon": 125.75,
-      "count": 1,
-      "story": {
-        "title": "'Alarming': Report says North Korean overseas labour financing nuclear weapons",
-        "description": "Tens of thousands of North Korean labourers working in Russia and China reportedly raised as much as $US800 million last year for Kim Jong Un's nuclear weapons program, helping Pyongyang evade UN sanctions.",
-        "link": "https://www.abc.net.au/news/2026-09-17/north-korean-overseas-workers-financing-nukes/107165468",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 1,
-      "story": {
-        "title": "'Alarming': Report says North Korean overseas labour financing nuclear weapons",
-        "description": "Tens of thousands of North Korean labourers working in Russia and China reportedly raised as much as $US800 million last year for Kim Jong Un's nuclear weapons program, helping Pyongyang evade UN sanctions.",
-        "link": "https://www.abc.net.au/news/2026-09-17/north-korean-overseas-workers-financing-nukes/107165468",
+        "title": "Minister says detaining visa overstayers will not lead to ICE-style raids",
+        "description": "Migration experts slap down a Greens claim that the Border Force crackdown on visa overstayers will be akin to ICE raids in the United States, saying it was an uncontroversial procedure that occurred regularly until 2015",
+        "link": "https://www.abc.net.au/news/2026-09-18/visa-overstayers-enforcement-not-like-ice/107164600",
         "source": "ABC News AU"
       }
     }
