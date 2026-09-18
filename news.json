@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:23:13+00:00",
+  "generated_at": "2026-09-18T00:42:12+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,11 +75,23 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 15,
+      "count": 13,
       "story": {
         "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
         "description": "The government wants to reduce net overseas migration to 225,000 people by 2028.",
         "link": "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 11,
+      "story": {
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+        "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -92,18 +104,6 @@
         "title": "Canada welcomes EU proposal to become 'associate member'",
         "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
         "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 8,
-      "story": {
-        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-        "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
-        "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -137,22 +137,10 @@
       "lon": 151.21,
       "count": 5,
       "story": {
-        "title": "Sydney suburban football pitch upgrade soars to $24m",
-        "description": "It was meant to cost $3.3 million to turn Norman Griffiths Oval into a synthetic field, but a new report has suggested another seven-figure budget increase for what critics say is Australia's most expensive football pitc",
-        "link": "https://www.abc.net.au/news/2026-09-18/norman-griffiths-oval-cost-blowout-24-million-dollars/107158430",
+        "title": "Melbourne woman set to be extradited after gun allegedly linked to Sydney killing",
+        "description": "NSW Police are seeking to extradite a Melbourne woman after they allege they have linked a gun used in two other shootings to the death of Marco Tapia in Sydney's south-west in early September.",
+        "link": "https://www.abc.net.au/news/2026-09-18/nsw-police-want-to-extradite-woman-marco-tapia-shooting/107167112",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 4,
-      "story": {
-        "title": "Ninth woman's body found as South African police investigate string of deaths",
-        "description": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -164,30 +152,6 @@
         "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
         "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
         "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
-      "story": {
-        "title": "India faces 100% tariff threat over Russian oil after US House vote",
-        "description": "Trump’s tariff threat puts India’s Russian oil strategy- and its access to the US market - in a new bind.",
-        "link": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-        "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
-        "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -228,6 +192,42 @@
       }
     },
     {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 3,
+      "story": {
+        "title": "Ninth woman's body found as South African police investigate string of deaths",
+        "description": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "India faces 100% tariff threat over Russian oil after US House vote",
+        "description": "Trump’s tariff threat puts India’s Russian oil strategy- and its access to the US market - in a new bind.",
+        "link": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 3,
+      "story": {
+        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+        "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
+        "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Lima",
       "lat": -12.05,
       "lon": -77.04,
@@ -240,15 +240,15 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 3,
       "story": {
-        "title": "Why does Brazil get to speak first at UNGA?",
-        "description": "Why does Brazil get to speak first at UNGA?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-does-brazil-get-to-speak-first-at-unga?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Japan's core inflation holds near BOJ's target",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/business/japans-core-inflation-holds-near-bojs-target-6393431",
+        "source": "CNA"
       }
     },
     {
@@ -288,14 +288,14 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
       "count": 2,
       "story": {
-        "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
-        "description": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington&#039;s help in its war with Yemen&#039;s Houthis.",
-        "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+        "title": "Why does Brazil get to speak first at UNGA?",
+        "description": "Why does Brazil get to speak first at UNGA?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-does-brazil-get-to-speak-first-at-unga?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -324,15 +324,15 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
       "count": 2,
       "story": {
-        "title": "Bank of Japan set to raise interest rates to 31-year high",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/business/bank-japan-set-raise-interest-rates-31-year-high-6393281",
-        "source": "CNA"
+        "title": "UN mission notes possible US war crimes in Iran strikes",
+        "description": "A United Nations fact-finding mission said it found \"reasonable grounds\" to believe that the United States committed war crimes in two airstrikes in Iran.",
+        "link": "https://www.dw.com/en/un-mission-notes-possible-us-war-crimes-in-iran-strikes/a-79316385?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -408,6 +408,42 @@
       }
     },
     {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Iran expels Swedish diplomat in retaliatory move",
+        "description": "Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure.",
+        "link": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Stockholm",
+      "lat": 59.33,
+      "lon": 18.07,
+      "count": 1,
+      "story": {
+        "title": "Iran expels Swedish diplomat in retaliatory move",
+        "description": "Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure.",
+        "link": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+        "description": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington&#039;s help in its war with Yemen&#039;s Houthis.",
+        "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Riyadh",
       "lat": 24.71,
       "lon": 46.68,
@@ -468,39 +504,27 @@
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks",
-        "description": "The French presidency said the aim of the Paris talks was to review a Lebanese armed forces deployment plan.",
-        "link": "https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Melbourne woman set to be extradited after gun allegedly linked to Sydney killing",
+        "description": "NSW Police are seeking to extradite a Melbourne woman after they allege they have linked a gun used in two other shootings to the death of Marco Tapia in Sydney's south-west in early September.",
+        "link": "https://www.abc.net.au/news/2026-09-18/nsw-police-want-to-extradite-woman-marco-tapia-shooting/107167112",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
       "count": 1,
       "story": {
-        "title": "Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks",
-        "description": "The French presidency said the aim of the Paris talks was to review a Lebanese armed forces deployment plan.",
-        "link": "https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
-      "count": 1,
-      "story": {
-        "title": "Abhishek Sharma hits record T20 ton as India beat Afghanistan by 127 runs",
-        "description": "India opener Abhishek Sharma hits nine fours and 11 sixes in total of 221-7 as India seal 3-0 T20 series sweep.",
-        "link": "https://www.aljazeera.com/sports/2026/9/17/abhishek-sharmas-30-ball-ton-leads-india-to-127-run-win-over-afghanistan?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Live: RBA governor speaks before parliamentary committee",
+        "description": "RBA governor Michele Bullock is speaking at a parliamentary committee in Canberra this morning. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+        "link": "https://www.abc.net.au/news/2026-09-18/asx-markets-business-news-live-updates-wall-st-rebounds/107160122",
+        "source": "ABC News AU"
       }
     },
     {
@@ -524,30 +548,6 @@
         "title": "Lifesaving Central Queensland rescue services to go to tender",
         "description": "The state government is seeking a single operator to tender for the operation of two aeromedical services in central Queensland.",
         "link": "https://www.abc.net.au/news/2026-09-18/central-queensland-rescue-helicopters-have-to-tender-to-continue/107164968",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
-      "count": 1,
-      "story": {
-        "title": "From African shepherd to Australia's marathon record holder",
-        "description": "Australian long-distance runner Haftu Strintzos shares his \"double life\" from being a barefoot shepherd in Ethiopia to claiming the national marathon record on just his fourth attempt.",
-        "link": "https://www.abc.net.au/news/2026-09-18/haftu-strintzos-journey-shepherd-to-australia-marathon-record/107160046",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "Liberal Party grapples with promoting Alex Antic at high-stakes AGM",
-        "description": "In a ballot that will have implications in Canberra, the South Australian Liberal Party is set to decide whether its future lies with the controversial right-wing senator.",
-        "link": "https://www.abc.net.au/news/2026-09-18/liberal-party-grapples-with-promoting-alex-antic-at-agm/107159920",
         "source": "ABC News AU"
       }
     }
