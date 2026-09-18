@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:57:03+00:00",
+  "generated_at": "2026-09-18T14:54:23+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,15 +32,15 @@
   ],
   "australia": [
     {
-      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-      "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Aztec document goes on display in Mexico after 186 years abroad",
-      "description": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
-      "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
+      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -64,10 +64,10 @@
       "source": "BBC News"
     },
     {
-      "title": "Is Canada about to join the EU?",
-      "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
-      "link": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "Interest rates held but Bank signals rise if energy prices stay high",
+      "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,19 +75,31 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 19,
+      "count": 18,
       "story": {
-        "title": "Australia to detain tourists who overstay visas amid immigration crackdown",
-        "description": "More than 77,000 visa overstayers face detention or departure as Australia cracks down on immigration violations.",
-        "link": "https://www.aljazeera.com/news/2026/9/18/australia-to-detain-tourists-who-overstay-visas-amid-immigration-crackdown?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Third man charged over shooting in Melbourne's northern suburbs",
+        "description": "Detectives charge a man in relation to a fatal shooting in Melbourne's north earlier this month, arresting him as he tried to board a flight out of Australia.",
+        "link": "https://www.abc.net.au/news/2026-09-18/third-man-charged-over-thomastown-shooting/107171168",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 9,
+      "story": {
+        "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+        "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 11,
+      "count": 9,
       "story": {
         "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
         "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
@@ -96,14 +108,14 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 11,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 7,
       "story": {
-        "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-        "description": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
-        "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+        "title": "Canada welcomes EU proposal to become 'associate member'",
+        "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+        "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,26 +132,14 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 6,
-      "story": {
-        "title": "Canada welcomes EU proposal to become 'associate member'",
-        "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
-        "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
-      "count": 6,
+      "count": 7,
       "story": {
-        "title": "Women's football in Germany booming but still much to do",
-        "description": "Women's football is growing rapidly, particularly in Germany. Nevertheless, equal pay and investment remain major talking points.",
-        "link": "https://www.dw.com/en/women-s-football-in-germany-booming-but-still-much-to-do/a-79291687?maca=en-rss-en-all-1573-rdf",
+        "title": "Dual citizenship means Germany now in competition for talent",
+        "description": "Coach Jürgen Klopp has named several players to his first Germany squad who are eligible to play for other countries. Some still aren't committed to Germany long-term.",
+        "link": "https://www.dw.com/en/dual-citizenship-means-germany-now-in-competition-for-talent/a-79330797?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -147,7 +147,7 @@
       "name": "Philippines",
       "lat": 12.9,
       "lon": 121.8,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Three dead and eight injured in Philippines school shooting",
         "description": "The gunman is among the dead in what is the third school shooting in the country since June.",
@@ -156,15 +156,27 @@
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 4,
       "story": {
-        "title": "Dozens of suspected illegal miners die in Nigerian custody",
-        "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-        "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+        "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+        "description": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
+        "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 4,
+      "story": {
+        "title": "Real Madrid President says Ceuta visit not related to ‘recent news’",
+        "description": "Real Madrid stars including Kylian Mbappe rolled up T-shirts showing support for Ceuta, but President trip &#039;unrelated&#039;.",
+        "link": "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -173,21 +185,33 @@
       "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Live: Dockers rattled with red-hot Swans on top in blockbuster prelim",
-        "description": "Sydney looks to book its spot in another grand final as it hosts minor premiers Fremantle in a preliminary final at the SCG. Follow live.",
+        "title": "Freo flies into grand final after stunning fightback against Sydney",
+        "description": "Fremantle overturns a 28-point third-term deficit to defeat Sydney by 12 points and become the first team to qualify for the AFL grand final.",
         "link": "https://www.abc.net.au/news/2026-09-18/afl-prelim-final-sydney-swans-fremantle-dockers-live-blog/107164694",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 3,
       "story": {
-        "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-        "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
-        "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+        "title": "Dozens of suspected illegal miners die in Nigerian custody",
+        "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
+        "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+        "description": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+        "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -204,51 +228,39 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
       "count": 3,
       "story": {
-        "title": "Israel is killing the people who could end its wars",
-        "description": "From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.",
-        "link": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars?traffic_source=rss",
+        "title": "Thailand’s Malay-Muslim separatists vow to fight as peace talks stall",
+        "description": "Thailand’s main armed separatist group, Barisan Revolusi Nasional, says it will continue fighting for self-determination",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/thailand-malay-muslim-separatists-southern-insurgency-peace-talks?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 3,
       "story": {
-        "title": "Israel is killing the people who could end its wars",
-        "description": "From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.",
-        "link": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Third man charged over shooting in Melbourne's northern suburbs",
+        "description": "Detectives charge a man in relation to a fatal shooting in Melbourne's north earlier this month, arresting him as he tried to board a flight out of Australia.",
+        "link": "https://www.abc.net.au/news/2026-09-18/third-man-charged-over-thomastown-shooting/107171168",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
       "count": 3,
       "story": {
-        "title": "All aboard: Some Singapore athletes housed on cruise ship during Asian Games",
-        "description": "With no dedicated athletes' village, the Asian Games' organisers are relying on a cruise ship, temporary wooden containers and hotels to house participants.",
-        "link": "https://www.channelnewsasia.com/sport/asian-games-singapore-athletes-cruise-ship-6393621",
+        "title": "Van Bommel delight as son is named in Netherlands squad",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/van-bommel-delight-son-named-in-netherlands-squad-6394896",
         "source": "CNA"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 2,
-      "story": {
-        "title": "At least 16 killed in attack on mosque in Pakistan",
-        "description": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
-        "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -276,130 +288,10 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 2,
-      "story": {
-        "title": "Aztec document goes on display in Mexico after 186 years abroad",
-        "description": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
-        "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
-      "count": 2,
-      "story": {
-        "title": "Aztec document goes on display in Mexico after 186 years abroad",
-        "description": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
-        "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "European Union",
-      "lat": 50.85,
-      "lon": 4.35,
-      "count": 2,
-      "story": {
-        "title": "Is Canada about to join the EU?",
-        "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
-        "link": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 2,
-      "story": {
-        "title": "India star Sooryavanshi urged to be patient by coach Gambhir",
-        "description": "Vaibhav Sooryavanshi told to be patient after playing back up to Abhishek Sharma and Sanju Samson in Sri Lanka series.",
-        "link": "https://www.aljazeera.com/sports/2026/9/18/india-star-sooryavanshi-urged-to-be-patient-says-coach-gambhir?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 2,
-      "story": {
-        "title": "Indonesia acquires first aircraft carrier amid military upgrade",
-        "description": "Indonesia says vessel will be used to aid disaster relief across the archipelago.",
-        "link": "https://www.aljazeera.com/news/2026/9/18/indonesia-acquires-first-aircraft-carrier-amid-military-upgrade?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 2,
-      "story": {
-        "title": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
-        "description": "South Korean president will facilitate US-North Korea talks but will not deploy troops in US war on Iran.",
-        "link": "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 2,
-      "story": {
-        "title": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
-        "description": "South Korean president will facilitate US-North Korea talks but will not deploy troops in US war on Iran.",
-        "link": "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 2,
-      "story": {
-        "title": "North Melbourne's 32-game winning streak over after shock loss to Hawthorn",
-        "description": "North Melbourne has lost for the first time in almost three years, with the two-time defending AFLW premier falling to a shock 7-point defeat to Hawthorn in Cairns.",
-        "link": "https://www.abc.net.au/news/2026-09-18/north-melbourne-winning-streak-over-after-shock-loss-to-hawks/107171070",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 2,
-      "story": {
-        "title": "Australian accused of murdering teenager in Thailand denied bail",
-        "description": "Simon Carman, the Australian man accused of murdering Thai teenager Tunchanok Donhomla in June, is denied bail after prosecutors argued he could try to flee the country.",
-        "link": "https://www.abc.net.au/news/2026-09-18/australian-simon-carman-faces-court-over-thai-teen-death/107160424",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 1,
-      "story": {
-        "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-        "description": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
-        "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Saudi Arabia",
       "lat": 23.9,
       "lon": 45.1,
-      "count": 1,
+      "count": 2,
       "story": {
         "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
         "description": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
@@ -408,15 +300,183 @@
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Barcelona’s Lamine Yamal says he has experienced racism ‘a thousand times’",
+        "description": "Spain&#039;s Lamine Yamal says most racism he has suffered has come from people unaware of their own comments or behaviour.",
+        "link": "https://www.aljazeera.com/sports/2026/9/18/barcelonas-lamine-yamal-says-he-has-experienced-racism-a-thousand-times?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
+      "count": 2,
+      "story": {
+        "title": "Ronaldo keeps Portugal place for Nations League as Jesus names first squad",
+        "description": "Ex-Manchester United and Real Madrid forward Cristiano Ronaldo named in Portugal squad to face ⁠Norway and Denmark.",
+        "link": "https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 2,
+      "story": {
+        "title": "Chinese ship rams Philippines gov’t vessel in South China Sea: Coastguard",
+        "description": "Philippine Coast Guard accuses China of dangerous military manoeuvres near Palawan province.",
+        "link": "https://www.aljazeera.com/news/2026/9/18/chinese-ship-rams-philippines-govt-vessel-in-south-china-sea-coastguard?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 2,
+      "story": {
+        "title": "India: Are food safety rules too much to swallow?",
+        "description": "Recent raids at India's luxury hotels and a wider crackdown on its food companies have renewed the debate about food safety standards and their enforcement in the country.",
+        "link": "https://www.dw.com/en/india-are-food-safety-rules-too-much-to-swallow/a-79324342?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
+      "count": 2,
+      "story": {
+        "title": "Malaysia: Jailed ex-leader Najib allowed house arrest",
+        "description": "Convicted in the 1MDB scandal for embezzling millions, former Prime Minister Najib Razak had repeatedly sought clemency. Malaysia's king has now granted him a \"conditional pardon.\"",
+        "link": "https://www.dw.com/en/malaysia-jailed-ex-leader-najib-allowed-house-arrest/a-79318399?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Singapore Airlines named world’s best airline for 2026",
+        "description": "Singapore Airlines also won three other Skytrax awards, while its low-cost subsidiary Scoot took the world’s best long-haul low-cost airline title for a sixth consecutive year.",
+        "link": "https://www.channelnewsasia.com/singapore/singapore-airlines-worlds-best-airline-2026-skytrax-awards-sia-scoot-6395136",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "European Union",
+      "lat": 50.85,
+      "lon": 4.35,
       "count": 1,
       "story": {
-        "title": "Israel is killing the people who could end its wars",
-        "description": "From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.",
-        "link": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars?traffic_source=rss",
+        "title": "EU chief backs plan for Canada to become 'associate member'",
+        "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
+        "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "The cost of Iran’s regional leverage",
+        "description": "Tehran’s use of pressure across the region is putting its rapprochement with Gulf states under increasing strain.",
+        "link": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
+      "count": 1,
+      "story": {
+        "title": "Ronaldo keeps Portugal place for Nations League as Jesus names first squad",
+        "description": "Ex-Manchester United and Real Madrid forward Cristiano Ronaldo named in Portugal squad to face ⁠Norway and Denmark.",
+        "link": "https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
+      "count": 1,
+      "story": {
+        "title": "Ronaldo keeps Portugal place for Nations League as Jesus names first squad",
+        "description": "Ex-Manchester United and Real Madrid forward Cristiano Ronaldo named in Portugal squad to face ⁠Norway and Denmark.",
+        "link": "https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
+      "count": 1,
+      "story": {
+        "title": "Pakistan pledges full committment to defence of Saudi Arabia",
+        "description": "Assurance comes amid questions over Pakistan and Turkiye&#039;s stance on Riyadh&#039;s fight with Houthis following defence pact.",
+        "link": "https://www.aljazeera.com/news/2026/9/18/pakistan-pledges-full-committment-to-defence-of-saudi-arabia?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "As Houthis grab Bab al-Mandeb, US appears willing to watch from sidelines",
+        "description": "Stretched by its war with Iran, Washington may have little choice but to trust Houthi assurances on shipping.",
+        "link": "https://www.aljazeera.com/news/2026/9/18/as-houthis-grab-bab-al-mandeb-us-appears-willing-to-watch-from-sidelines?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 1,
+      "story": {
+        "title": "North Korea anthem played at South’s Bangladesh hockey match at Asian Games",
+        "description": "Asian Games organisers in Japan accidently play North Korea&#039;s anthem ahead of South&#039;s hockey match with Bangladesh.",
+        "link": "https://www.aljazeera.com/sports/2026/9/18/north-korea-anthem-played-at-souths-bangladesh-hockey-match-at-asian-games?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 1,
+      "story": {
+        "title": "North Korea anthem played at South’s Bangladesh hockey match at Asian Games",
+        "description": "Asian Games organisers in Japan accidently play North Korea&#039;s anthem ahead of South&#039;s hockey match with Bangladesh.",
+        "link": "https://www.aljazeera.com/sports/2026/9/18/north-korea-anthem-played-at-souths-bangladesh-hockey-match-at-asian-games?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
+      "count": 1,
+      "story": {
+        "title": "Canberra ends Wests' NRLW fairytale in finals shut out",
+        "description": "The Raiders have claimed a first-ever NRLW finals win, downing the Tigers 6-0 to end Wests' fairytale season.",
+        "link": "https://www.abc.net.au/news/2026-09-18/canberra-end-tigers-nrlw-fairytale-in-finals-shut-out/107171118",
+        "source": "ABC News AU"
       }
     },
     {
@@ -429,6 +489,18 @@
         "description": "A union says 137 workers at the Bendigo and Adelaide Bank are slated for redundancy as part of an ongoing restructure, but the company says its plans are \"yet to be finalised\".",
         "link": "https://www.abc.net.au/news/2026-09-18/bendigo-bank-to-cut-137-jobs-union-says/107170670",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 1,
+      "story": {
+        "title": "France: Macron orders defense against Russian hybrid attacks",
+        "description": "Emmanuel Macron said Russia's hybrid threat had \"intensified\" and called for plans to protect critical infrastructure.",
+        "link": "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -456,54 +528,6 @@
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 1,
-      "story": {
-        "title": "Malaysia: Jailed ex-leader Najib allowed house arrest",
-        "description": "Convicted in the 1MDB scandal for embezzling millions, former Prime Minister Najib Razak had repeatedly sought clemency. Malaysia's king has now granted him a \"conditional pardon.\"",
-        "link": "https://www.dw.com/en/malaysia-jailed-ex-leader-najib-allowed-house-arrest/a-79318399?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 1,
-      "story": {
-        "title": "Russia votes for new parliament in controlled elections",
-        "description": "Russia is holding elections for the State Duma for the first time since Moscow sent troops into Ukraine in 2022. The party of President Vladimir Putin is expected to win the highly controlled affair.",
-        "link": "https://www.dw.com/en/russia-votes-for-new-parliament-in-controlled-elections/a-79318392?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 1,
-      "story": {
-        "title": "UN mission notes possible US war crimes in Iran strikes",
-        "description": "A United Nations fact-finding mission said it found \"reasonable grounds\" to believe that the United States committed war crimes in two airstrikes in Iran.",
-        "link": "https://www.dw.com/en/un-mission-notes-possible-us-war-crimes-in-iran-strikes/a-79316385?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 1,
-      "story": {
-        "title": "Trump hails 'major progress' in setting up US base in Poland",
-        "description": "The location of the permanent US military base in Poland could be announced \"very soon,\" Donald Trump has said. The US president also praised the leadership of his Polish counterpart, Karol Nawrocki.",
-        "link": "https://www.dw.com/en/trump-hails-major-progress-in-setting-up-us-base-in-poland/a-79316328?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
@@ -525,30 +549,6 @@
         "description": "Since Russia's full-scale invasion of Ukraine and stricter regulations in Argentina, more and more Russians are choosing to travel to Brazil to give birth to children, who will obtain Brazilian nationality.",
         "link": "https://www.dw.com/en/russian-birth-tourism-to-brazil-increases/a-79312304?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
-      "count": 1,
-      "story": {
-        "title": "Serbian President Vucic criticizes Kosovo war crimes verdict",
-        "description": "The conviction of four former Kosovo Liberation Army leaders has drawn sharply different reactions across the Balkans. Serbia has accused the court of failing to fully address crimes against Serbs.",
-        "link": "https://www.dw.com/en/serbian-president-vucic-criticizes-kosovo-war-crimes-verdict/a-79307654?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 1,
-      "story": {
-        "title": "Bungling Asian Games chiefs play North Korean anthem for South Korea",
-        "description": "Asian Games organisers mistakenly played the North Korean national anthem ahead of a men's hockey match between Bangladesh and South Korea.",
-        "link": "https://www.channelnewsasia.com/east-asia/asian-games-north-korea-anthem-south-6394676",
-        "source": "CNA"
       }
     }
   ]
