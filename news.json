@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T21:38:50+00:00",
+  "generated_at": "2026-09-19T23:59:31+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -38,15 +38,15 @@
       "source": "BBC News"
     },
     {
-      "title": "Converse pulls 'deeply upsetting' advert after backlash",
-      "description": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
-      "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Grim discoveries of murdered women spark fear in South Africa",
-      "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "description": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -84,10 +84,22 @@
       }
     },
     {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 7,
+      "story": {
+        "title": "Journalists denied White House access after Trump banned some media outlets",
+        "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 10,
+      "count": 7,
       "story": {
         "title": "Trump signs sweeping Russia sanctions bill",
         "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
@@ -108,22 +120,10 @@
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 6,
-      "story": {
-        "title": "Journalists denied White House access after Trump banned some media outlets",
-        "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
         "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
@@ -132,27 +132,15 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 5,
       "story": {
-        "title": "Is Canada about to join the EU?",
-        "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
-        "link": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
-      "count": 4,
-      "story": {
-        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
-        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
+        "description": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.",
+        "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -162,15 +150,27 @@
       "count": 4,
       "story": {
         "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
+        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
         "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 4,
+      "story": {
+        "title": "Is Canada about to join the EU?",
+        "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
+        "link": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 4,
       "story": {
         "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
@@ -216,6 +216,30 @@
       }
     },
     {
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
+      "count": 3,
+      "story": {
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "Mum's viral barefoot race sparks debate over India's education crisis",
+        "description": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future.",
+        "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "European Union",
       "lat": 50.85,
       "lon": 4.35,
@@ -225,18 +249,6 @@
         "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
         "link": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-        "description": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.",
-        "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -264,14 +276,14 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 2,
       "story": {
-        "title": "Grim discoveries of murdered women spark fear in South Africa",
-        "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-        "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+        "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+        "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -312,18 +324,6 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 2,
-      "story": {
-        "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
-        "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
-        "link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
@@ -348,6 +348,18 @@
       }
     },
     {
+      "name": "The Hague",
+      "lat": 52.08,
+      "lon": 4.31,
+      "count": 2,
+      "story": {
+        "title": "Dutch riot police break up violent far-right protest in The Hague",
+        "description": "Justice minister condemns &#039;Hitler salutes, antisemitic slogans, violence&#039; at the anti-immigration rally.",
+        "link": "https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Madrid",
       "lat": 40.42,
       "lon": -3.7,
@@ -366,9 +378,21 @@
       "count": 2,
       "story": {
         "title": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
-        "description": "",
+        "description": "The Manhattan meeting, coming days before President Donald Trump hosts Chinese President Xi&nbsp;Jinping at the White House in Washington.",
         "link": "https://www.channelnewsasia.com/business/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-6396966",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 1,
+      "story": {
+        "title": "Grim discoveries of murdered women spark fear in South Africa",
+        "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+        "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -432,18 +456,6 @@
       }
     },
     {
-      "name": "The Hague",
-      "lat": 52.08,
-      "lon": 4.31,
-      "count": 1,
-      "story": {
-        "title": "Dutch riot police break up violent far-right protest in The Hague",
-        "description": "Justice minister condemns &#039;Hitler salutes, antisemitic slogans, violence&#039; at the anti-immigration rally.",
-        "link": "https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Jerusalem",
       "lat": 31.78,
       "lon": 35.22,
@@ -468,6 +480,42 @@
       }
     },
     {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "John Farnham to miss tribute concert due to poor health",
+        "description": "John Farnham's family confirms the Australian singing superstar will miss tonight's tribute concert in Melbourne due to poor health.",
+        "link": "https://www.abc.net.au/news/2026-09-20/singer-john-farnham-miss-melbourne-tribute-concert-poor-health/107173452",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
+      "count": 1,
+      "story": {
+        "title": "'We are really scared': NDIS provider shutters day program as federal cuts loom",
+        "description": "Canberra community members are concerned that the closure of a local NDIS program does not bode well ahead of looming federal cuts to the scheme.",
+        "link": "https://www.abc.net.au/news/2026-09-20/ndis-provider-shutters-day-program/107172144",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 1,
+      "story": {
+        "title": "Wallaroos collapse against France as bus fire delays game",
+        "description": "The Wallaroos collapse from a 19-0 lead to go down 29-26 against France in a game briefly delayed by a nearby bus fire.",
+        "link": "https://www.abc.net.au/news/2026-09-20/wallaroos-collapse-against-france-as-bus-fire-delays-game/107173462",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Brisbane",
       "lat": -27.47,
       "lon": 153.03,
@@ -476,18 +524,6 @@
         "title": "Lions to take one big advantage into grand final showdown with Freo",
         "description": "Brisbane coach Chris Fagan urges the Lions to lean into their experience to seize the rare prize of an AFL premiership three-peat.",
         "link": "https://www.abc.net.au/news/2026-09-20/brisbane-lions-lean-on-experience-afl-grand-final-fremantle/107173414",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 1,
-      "story": {
-        "title": "Six volcanoes erupt within days in Indonesia in 'rare' event",
-        "description": "At least six volcanoes erupt across Indonesia within days of each other. For residents nearby there's no escaping the fallout.",
-        "link": "https://www.abc.net.au/news/2026-09-20/six-volcanoes-erupt-within-days-in-indonesia/107165188",
         "source": "ABC News AU"
       }
     },
@@ -513,42 +549,6 @@
         "description": "More than 100 others have been injured in the militant attack on a police headquarters near the border with Afghanistan. Several militants were still clashing with Pakistan's security forces on Saturday.",
         "link": "https://www.dw.com/en/pakistan-suicide-bombing-death-toll-rises-to-at-least-31/a-79327432?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Austria",
-      "lat": 47.52,
-      "lon": 14.55,
-      "count": 1,
-      "story": {
-        "title": "Martin recovers from early setback to win Austrian sprint and retake championship lead",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/martin-recovers-early-setback-win-austrian-sprint-and-retake-championship-lead-6396831",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "Asian Games offer 'deepest apologies' for South Korea anthem blunder",
-        "description": "The Asian Games organisers played the North Korean national anthem as South Korea’s hockey team lined up to face Bangladesh.",
-        "link": "https://www.channelnewsasia.com/east-asia/asian-games-south-korea-anthem-north-deepest-apologies-6396801",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 1,
-      "story": {
-        "title": "Asian Games offer 'deepest apologies' for South Korea anthem blunder",
-        "description": "The Asian Games organisers played the North Korean national anthem as South Korea’s hockey team lined up to face Bangladesh.",
-        "link": "https://www.channelnewsasia.com/east-asia/asian-games-south-korea-anthem-north-deepest-apologies-6396801",
-        "source": "CNA"
       }
     }
   ]
