@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T08:55:27+00:00",
+  "generated_at": "2026-09-19T13:01:00+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -33,7 +33,7 @@
   "australia": [
     {
       "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "description": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
+      "description": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
       "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -72,22 +72,10 @@
   ],
   "places": [
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 11,
-      "story": {
-        "title": "Alex de Minaur dines out on home cooking as tricky year winds down",
-        "description": "After a long and winding road to Brisbane in 2026, Alex de Minaur rides a partisan home crowd to an impressive victory in the first rubber of Australia's Davis Cup tie against Poland.",
-        "link": "https://www.abc.net.au/news/2026-09-19/australia-poland-davis-cup-alex-de-minaur-james-duckworth/107172276",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 8,
+      "count": 10,
       "story": {
         "title": "Trump signs sweeping Russia sanctions bill",
         "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
@@ -96,39 +84,27 @@
       }
     },
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 10,
+      "story": {
+        "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+        "description": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+        "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 8,
+      "count": 6,
       "story": {
         "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
         "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
         "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 6,
-      "story": {
-        "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
-        "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
-        "link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 6,
-      "story": {
-        "title": "Germany news: Campaigns wrap up in two state elections",
-        "description": "Parties are campaigning for a last day ahead of polls in Mecklenburg-Vorpomerania and Berlin. And an association responsible for German sea ports says they are at high risk from cyberattacks and sabotage. DW has more.",
-        "link": "https://www.dw.com/en/germany-news-campaigns-wrap-up-in-two-state-elections/live-79335548?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -138,20 +114,8 @@
       "count": 5,
       "story": {
         "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-        "description": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
+        "description": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
         "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 5,
-      "story": {
-        "title": "Trump says he is banning CNN and Politico from White House",
-        "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-        "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -168,6 +132,18 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 5,
+      "story": {
+        "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+        "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+        "link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
@@ -180,51 +156,75 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 4,
       "story": {
-        "title": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
-        "description": "Israeli soldiers&#039; Gaza testimony causes backlash across much of the country&#039;s political establishment.",
-        "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
-        "description": "Israeli soldiers&#039; Gaza testimony causes backlash across much of the country&#039;s political establishment.",
-        "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 4,
-      "story": {
-        "title": "Air quality back at unhealthy levels in central Singapore",
-        "description": "The 24-hour Pollutant Standards Index (PSI) in the central region crossed into the unhealthy band at 1pm.\n&nbsp;",
-        "link": "https://www.channelnewsasia.com/singapore/air-quality-back-unhealthy-levels-in-central-singapore-6396246",
-        "source": "CNA"
+        "title": "Trump says he is banning CNN and Politico from White House",
+        "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+        "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
         "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
         "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 4,
+      "story": {
+        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+        "description": "Residents later received the all-clear after explosions were reported in the capital.",
+        "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 4,
+      "story": {
+        "title": "In Gaza, actors perform a war they are still living",
+        "description": "In Gaza, Palestinian actors turn stories of siege and loss into theatre, while confronting the same fears and hardships.",
+        "link": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Roosters power into prelim as Sharks insist they are not in rebuild mode",
+        "description": "A dominant second-half showing has seen the Sydney Roosters defeat Cronulla-Sutherland 46-10 to progress to a preliminary final clash with the Dolphins next weekend.",
+        "link": "https://www.abc.net.au/news/2026-09-19/nrl-live-sydney-roosters-cronulla-sharks-semifinal-live-blog/107172498",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 4,
+      "story": {
+        "title": "Germany news: Campaigns wrap up in two state elections",
+        "description": "Parties are campaigning for a last day ahead of polls in Mecklenburg-Vorpomerania and Berlin. And an association responsible for German sea ports says they are at high risk from cyberattacks and sabotage. DW has more.",
+        "link": "https://www.dw.com/en/germany-news-campaigns-wrap-up-in-two-state-elections/live-79335548?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -240,26 +240,26 @@
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "North Korean anthem played for South Korea at Asian Games",
-        "description": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
-        "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "In Gaza, actors perform a war they are still living",
+        "description": "In Gaza, Palestinian actors turn stories of siege and loss into theatre, while confronting the same fears and hardships.",
+        "link": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 3,
       "story": {
-        "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
-        "description": "The Iranian lender has faced years of Western sanctions over alleged ties to Tehran&#039;s nuclear programme.",
-        "link": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
+        "title": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
+        "description": "Israeli soldiers&#039; Gaza testimony causes backlash across much of the country&#039;s political establishment.",
+        "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -288,33 +288,57 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
       "count": 3,
       "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
+        "title": "Rebels, workers, radicals: The making of 'Red Berlin'",
+        "description": "Bloody May, student sit-ins and the squatter movement: Berlin has long been a hotbed for working-class organizing and radical left-wing politics.",
+        "link": "https://www.dw.com/en/rebels-workers-radicals-the-making-of-red-berlin/a-79325410?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Air quality back at unhealthy levels in central Singapore",
+        "description": "The 24-hour Pollutant Standards Index (PSI) in the central region crossed into the unhealthy band at 1pm.\n&nbsp;",
+        "link": "https://www.channelnewsasia.com/singapore/air-quality-back-unhealthy-levels-in-central-singapore-6396246",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 2,
       "story": {
-        "title": "Grim discoveries of murdered women spark fear in South Africa",
-        "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-        "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+        "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+        "description": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+        "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
+      "count": 2,
+      "story": {
+        "title": "Millions without power as Cuba hit by latest major blackout",
+        "description": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+        "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
       "count": 2,
       "story": {
         "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
@@ -336,6 +360,30 @@
       }
     },
     {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 2,
+      "story": {
+        "title": "North Korean anthem played for South Korea at Asian Games",
+        "description": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
+        "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 2,
+      "story": {
+        "title": "Dozens of suspected illegal miners die in Nigerian custody",
+        "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
+        "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Ireland",
       "lat": 53.14,
       "lon": -7.69,
@@ -345,6 +393,30 @@
         "description": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
         "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 2,
+      "story": {
+        "title": "Doomsday AI: panic, regulation and the China fear",
+        "description": "When tech CEOs warn AI could end humanity, does the media get the story right?",
+        "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/19/doomsday-ai-panic-regulation-and-the-china-fear?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 2,
+      "story": {
+        "title": "Iran stages show of force during mobilisation campaign in Tehran",
+        "description": "Armed women, anti-aircraft guns and Shaheed drones were seen in Tehran as hundreds of thousands marched in the capital.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-progovrally-tehran-sv-mp4?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -360,50 +432,14 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 2,
-      "story": {
-        "title": "Trump signs sweeping Russia sanctions over Ukraine war",
-        "description": "New law allows tariffs of up to 100 percent on major buyers of Russian oil, including China and India.",
-        "link": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 2,
-      "story": {
-        "title": "Germany news: Campaigns wrap up in two state elections",
-        "description": "Parties are campaigning for a last day ahead of polls in Mecklenburg-Vorpomerania and Berlin. And an association responsible for German sea ports says they are at high risk from cyberattacks and sabotage. DW has more.",
-        "link": "https://www.dw.com/en/germany-news-campaigns-wrap-up-in-two-state-elections/live-79335548?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 1,
       "story": {
-        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-        "description": "Residents later received the all-clear after explosions were reported in the capital.",
-        "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 1,
-      "story": {
-        "title": "Dozens of suspected illegal miners die in Nigerian custody",
-        "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-        "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+        "title": "Grim discoveries of murdered women spark fear in South Africa",
+        "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+        "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -456,6 +492,18 @@
       }
     },
     {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 1,
+      "story": {
+        "title": "Africa’s Green Revolution threatens traditional foods",
+        "description": "The promotion of monocultures is hurting the production of much more nutritious and climate-resistant traditional crops.",
+        "link": "https://www.aljazeera.com/opinions/2026/9/19/africas-green-revolution-threatens-traditional-foods?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Istanbul",
       "lat": 41.0,
       "lon": 28.98,
@@ -501,54 +549,6 @@
         "description": "Protestors gathered outside Washington’s Kennedy Center after President Trump’s plans to close the arts venue.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trumps-threats-to-demolish-kennedy-center-sparks-protest?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 1,
-      "story": {
-        "title": "Indonesia ferry search: Divers retrieve three bodies, 126 people missing",
-        "description": "Bad weather has pushed authorities to begin operations to right the capsized ferry.",
-        "link": "https://www.aljazeera.com/news/2026/9/19/operations-to-right-capsized-ferry-begin-as-126-people-remain-missing?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
-        "description": "Separate attacks struck central refugee camps as officials warned Gaza&#039;s health sector faces total collapse.",
-        "link": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Islamabad",
-      "lat": 33.7,
-      "lon": 73.06,
-      "count": 1,
-      "story": {
-        "title": "Iran war live: Tehran says efforts ongoing to return to Islamabad MoU",
-        "description": "Iran&#039;s interior ministry spokesperson also says &#039;rising prices are causing concern for the people&#039;.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 1,
-      "story": {
-        "title": "Alex de Minaur dines out on home cooking as tricky year winds down",
-        "description": "After a long and winding road to Brisbane in 2026, Alex de Minaur rides a partisan home crowd to an impressive victory in the first rubber of Australia's Davis Cup tie against Poland.",
-        "link": "https://www.abc.net.au/news/2026-09-19/australia-poland-davis-cup-alex-de-minaur-james-duckworth/107172276",
-        "source": "ABC News AU"
       }
     }
   ]
