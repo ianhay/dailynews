@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T23:31:14+00:00",
+  "generated_at": "2026-09-19T04:07:59+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+      "description": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
+      "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Healey to ask EU finance ministers to let UK into Made in Europe scheme",
       "description": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
       "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
@@ -22,12 +28,6 @@
       "description": "The Budget is only six weeks away and the economy is undoubtedly the biggest challenge facing the prime minister.",
       "link": "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Pentagon resumes mandatory testosterone testing for US troops over 30",
-      "description": "Experts have called policy unnecessary and said testosterone injections could increase risks of infertility.",
-      "link": "https://www.aljazeera.com/news/2026/9/18/pentagon-resumes-paused-testosterone-policy-amid-medical-experts-concerns?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "australia": [
@@ -75,11 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 11,
       "story": {
-        "title": "Maths doesn't add up for Australian parents juggling work and school",
-        "description": "Parents are working more than ever, but society hasn't caught up with the reality of raising a family.",
-        "link": "https://www.abc.net.au/news/2026-09-19/parenthood-maths-aint-mathing/106552344",
+        "title": "Will making WA's freight rail network public be cost-effective?",
+        "description": "The West Australian government has taken another step towards buying back the state's freight rail network.",
+        "link": "https://www.abc.net.au/news/2026-09-19/wa-freight-rail-network-government-buyback/107159246",
         "source": "ABC News AU"
       }
     },
@@ -87,7 +87,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Russian hybrid attacks against Europe intensifying, says Macron",
         "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
@@ -96,46 +96,10 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 8,
-      "story": {
-        "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
-        "description": "Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin.",
-        "link": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 6,
-      "story": {
-        "title": "Trump says he is banning CNN and Politico from White House",
-        "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-        "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
-      "count": 5,
-      "story": {
-        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-        "description": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
-        "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 5,
+      "count": 7,
       "story": {
         "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
         "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
@@ -144,15 +108,63 @@
       }
     },
     {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 7,
+      "story": {
+        "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
+        "description": "Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin.",
+        "link": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
+      "count": 6,
+      "story": {
+        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+        "description": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+        "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "Is Canada about to join the EU?",
         "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
         "link": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 5,
+      "story": {
+        "title": "Trump says he is banning CNN and Politico from White House",
+        "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+        "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+        "description": "Separate attacks struck central refugee camps as officials warned Gaza&#039;s health sector faces total collapse.",
+        "link": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -168,39 +180,51 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+        "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+        "link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
       "count": 4,
       "story": {
-        "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
-        "description": "Acclaimed Russian film director who won 2026 Grand Prix award at Cannes, ⁠has been critical of the war in Ukraine.",
-        "link": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
+        "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+        "description": "New law allows tariffs of up to 100 percent on major buyers of Russian oil, including China and India.",
+        "link": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "Lebanese artist turns Israeli missile debris into art",
-        "description": "In southern Lebanon, visual artist Lina Jouni transforms debris from Israeli missile strikes into pieces of art.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
       "count": 3,
       "story": {
         "title": "North Korean anthem played for South Korea at Asian Games",
         "description": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
         "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 3,
+      "story": {
+        "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+        "description": "Separate attacks struck central refugee camps as officials warned Gaza&#039;s health sector faces total collapse.",
+        "link": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -216,6 +240,18 @@
       }
     },
     {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Scammers are using AI to commit crimes at speed. How is Singapore police's new Cyber Command keeping up?",
+        "description": "Hackers are using AI to help write malicious code and find exploitable weaknesses, says a cybersecurity specialist with the Singapore Police Force's new Cyber Command.",
+        "link": "https://www.channelnewsasia.com/singapore/police-cyber-command-artificial-intelligence-scams-6394231",
+        "source": "CNA"
+      }
+    },
+    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
@@ -225,6 +261,30 @@
         "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
         "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
         "source": "SBS News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "North Korean anthem played for South Korea at Asian Games",
+        "description": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
+        "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 2,
+      "story": {
+        "title": "North Korean anthem played for South Korea at Asian Games",
+        "description": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
+        "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -240,14 +300,26 @@
       }
     },
     {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 2,
       "story": {
-        "title": "Three dead and eight injured in Philippines school shooting",
-        "description": "The gunman is among the dead in what is the third school shooting in the country since June.",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+        "title": "Grim discoveries of murdered women spark fear in South Africa",
+        "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+        "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 2,
+      "story": {
+        "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+        "description": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
+        "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,15 +348,27 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
-        "description": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
-        "link": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+        "description": "New law allows tariffs of up to 100 percent on major buyers of Russian oil, including China and India.",
+        "link": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+        "description": "Separate attacks struck central refugee camps as officials warned Gaza&#039;s health sector faces total collapse.",
+        "link": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -300,51 +384,15 @@
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
       "count": 2,
       "story": {
-        "title": "Olympic rowing is heading to Rockhampton, but are crocodiles a threat?",
-        "description": "Plans to host Olympic rowing in Rockhampton for the 2032 Brisbane Games are pushing ahead despite months of fierce debate over the Fitzroy River's suitability.",
-        "link": "https://www.abc.net.au/news/2026-09-19/queensland-rockhampton-fitzroy-river-rowing-explainer/107169598",
+        "title": "Police say two sheep dead after Canberra property invaders injured flock",
+        "description": "Police are asking for help from the public after multiple sheep at a Canberra property were rounded up and injured, causing two to die.",
+        "link": "https://www.abc.net.au/news/2026-09-19/police-investigating-sheep-found-deliberately-injured-/107172146",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 2,
-      "story": {
-        "title": "France: Macron orders defense against Russian hybrid attacks",
-        "description": "Emmanuel Macron said Russia's hybrid threat had \"intensified\" and called for plans to protect critical infrastructure.",
-        "link": "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "North Korean anthem played for South Korea at Asian Games",
-        "description": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
-        "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 1,
-      "story": {
-        "title": "North Korean anthem played for South Korea at Asian Games",
-        "description": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
-        "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -360,26 +408,38 @@
       }
     },
     {
-      "name": "Kremlin",
-      "lat": 55.75,
-      "lon": 37.62,
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
       "count": 1,
       "story": {
-        "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-        "description": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
-        "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+        "title": "Three dead and eight injured in Philippines school shooting",
+        "description": "The gunman is among the dead in what is the third school shooting in the country since June.",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 1,
       "story": {
-        "title": "UK court clears woman of voicing support for Hamas in university speech",
-        "description": "Sarah Cotte said her comments were not in support of Hamas, but in support of Palestinians&#039; right to resist.",
-        "link": "https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss",
+        "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+        "description": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
+        "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Iranian women defy law and run Tehran race without hijab",
+        "description": "Hundreds of Iranian women defy hijab law in Tehran 10K race.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -396,122 +456,38 @@
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
-      "count": 1,
-      "story": {
-        "title": "Mexico’s Sheinbaum says she spoke with Trump as trade negotiations continue",
-        "description": "Mexican president says she is seeking a decrease in tariffs as both countries seek new bilateral trade deal.",
-        "link": "https://www.aljazeera.com/news/2026/9/18/mexicos-sheinbaum-says-she-spoke-with-trump-as-trade-negotiations-continue?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 1,
-      "story": {
-        "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
-        "description": "Russia strikes Ukraine’s border crossings with Poland and Moldova as its offensives peter out in the east.",
-        "link": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 1,
-      "story": {
-        "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
-        "description": "Russia strikes Ukraine’s border crossings with Poland and Moldova as its offensives peter out in the east.",
-        "link": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 1,
-      "story": {
-        "title": "Police clear Ceuta migrants off beaches in Spanish enclave",
-        "description": "At least 10,000 of the 72,000 migrants who broke through fence from Morocco in July remain in the Spanish enclave.",
-        "link": "https://www.aljazeera.com/news/2026/9/18/police-clear-ceuta-migrants-off-beaches-in-spanish-enclave?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sweden",
-      "lat": 60.13,
-      "lon": 18.64,
-      "count": 1,
-      "story": {
-        "title": "Sweden’s left-wing opposition leader begins efforts to form government",
-        "description": "Magdalena Andersson will likely face several challenges as she tries to get Sweden&#039;s other left-wing parties to unite.",
-        "link": "https://www.aljazeera.com/news/2026/9/18/swedens-left-wing-opposition-leader-begins-efforts-to-form-government?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
-      "story": {
-        "title": "Iranians rally in biggest show of defiance against US since war began",
-        "description": "Volunteers rallied through downtown Tehran to join campaign highlighting &#039;self-sacrifice&#039; for Iran.",
-        "link": "https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
-      "count": 1,
-      "story": {
-        "title": "Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East",
-        "description": "Israeli Prime Minister Benjamin Netanyahu says he will ‘change the face of the Middle East’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "Why the Canberra community is up in arms over an abandoned water park",
-        "description": "The state of the park, and several broken promises around its unrealised reopening, have caused frustration. And anyone still hoping the water park will feature in their summer plans will be left high and dry.",
-        "link": "https://www.abc.net.au/news/2026-09-19/canberra-big-splash-water-park-explained/107163890",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Knives stashed in public places across Melbourne, police believe",
-        "description": "Intelligence briefs obtained by the ABC show police are concerned by a rise in \"communal weapons storage\" at major public transport precincts across Melbourne.",
-        "link": "https://www.abc.net.au/news/2026-09-19/vic-police-concerned-about-youth-knife-crime/107167468",
+        "title": "Teenage girls arrested after brawl at Melbourne shopping centre",
+        "description": "Four girls and an 18-year-old woman were arrested following a brawl at Northland Shopping Centre on Friday night.",
+        "link": "https://www.abc.net.au/news/2026-09-19/teenagers-arrested-after-brawl-at-northland-shopping-centre/107172274",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Ryanair boss apologizes for calling other airlines 'rapists'",
-        "description": "The airline CEO had used the term to describe other airlines with high fares. His comments were criticized by officials both in Ireland and the UK.",
-        "link": "https://www.dw.com/en/ryanair-boss-apologizes-for-calling-other-airlines-rapists/a-79334099?maca=en-rss-en-all-1573-rdf",
+        "title": "Why Laneway and other major music festivals are bypassing WA",
+        "description": "Perth's relatively small population - and its relative remoteness - are driving major touring music festivals away, especially as costs rise.",
+        "link": "https://www.abc.net.au/news/2026-09-19/music-festivals-bypass-perth-sparking-local-bands-new-plan/107165636",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
+      "count": 1,
+      "story": {
+        "title": "Cuba faces another nationwide blackout amid US fuel blockade",
+        "description": "Millions were left without electricity as Cuba's aging power grid collapsed under the weight of fuel shortages, deteriorating infrastructure and US sanctions.",
+        "link": "https://www.dw.com/en/cuba-faces-another-nationwide-blackout-amid-us-fuel-blockade/a-79335396?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -540,14 +516,38 @@
       }
     },
     {
-      "name": "Tokyo",
-      "lat": 35.68,
-      "lon": 139.77,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 1,
       "story": {
-        "title": "Tokyo travel guide: What to do, eat and where to stay",
-        "description": "Ancient shrines, neon-lit streets, hidden bars and some of the world’s most memorable food – discover the sights, flavours and neighbourhoods that make Tokyo endlessly captivating.",
-        "link": "https://www.channelnewsasia.com/experiences/tokyo-travel-guide-things-do-eat-stay-6388766",
+        "title": "France: Macron orders defense against Russian hybrid attacks",
+        "description": "Emmanuel Macron said Russia's hybrid threat had \"intensified\" and called for plans to protect critical infrastructure.",
+        "link": "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Ottawa",
+      "lat": 45.42,
+      "lon": -75.7,
+      "count": 1,
+      "story": {
+        "title": "Singapore exploring Canada as potential energy source, anticipates further fuel disruptions from Middle East: Vivian Balakrishnan",
+        "description": "Speaking after his visit to Ottawa, Dr Balakrishnan described Canada as an energy \"superpower\" in both fossil fuels and renewable energy.",
+        "link": "https://www.channelnewsasia.com/singapore/middle-east-fuel-disruption-canada-energy-source-balakrishnan-6396176",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Pyongyang",
+      "lat": 39.03,
+      "lon": 125.75,
+      "count": 1,
+      "story": {
+        "title": "North Korea says its nuclear status is ‘irreversible’ after UN atomic agency rebuke",
+        "description": "Kim Jong Un’s sister, Kim Yo Jong, accused the International Atomic Energy Agency (IAEA) of double standards after it adopted a resolution criticising Pyongyang’s nuclear weapons programme.",
+        "link": "https://www.channelnewsasia.com/east-asia/north-korea-iaea-kim-yo-jong-nuclear-status-irreversible-6396196",
         "source": "CNA"
       }
     }
