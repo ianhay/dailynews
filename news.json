@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T17:36:20+00:00",
+  "generated_at": "2026-09-20T20:36:26+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,7 +12,7 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "German Chancellor Merz vows to stay on despite 'disaster' in state election",
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
       "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
       "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -75,12 +75,24 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 16,
+      "count": 19,
       "story": {
         "title": "Shark attack prompts rare kill order in Western Australia as victim named",
         "description": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
         "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 9,
+      "story": {
+        "title": "Germany's right-wing party AfD returns strong election results",
+        "description": "The right-wing Alternative for Germany party makes strong gains in two state elections, according to exit polls, leaving Chancellor Friedrich Merz's future uncertain after 16 months in office.",
+        "link": "https://www.abc.net.au/news/2026-09-21/right-wing-afd-lead-german-election-exit-polls/107174668",
+        "source": "ABC News AU"
       }
     },
     {
@@ -92,18 +104,6 @@
         "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
         "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
         "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 8,
-      "story": {
-        "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-        "description": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
-        "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,21 +120,21 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 8,
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 6,
       "story": {
-        "title": "Germany faces energy tax losses as EV sales rise",
-        "description": "The rapid shift to electric vehicles in Germany is cutting fuel tax revenue for the government. As EV sales surge, policymakers face growing pressure to find new ways to fund roads and transportation infrastructure.",
-        "link": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+        "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+        "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Gaza",
+      "name": "Israel",
       "lat": 31.5,
-      "lon": 34.47,
+      "lon": 34.75,
       "count": 6,
       "story": {
         "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
@@ -156,18 +156,6 @@
       }
     },
     {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 5,
-      "story": {
-        "title": "German Chancellor Merz vows to stay on despite 'disaster' in state election",
-        "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
-        "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
@@ -180,9 +168,9 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 5,
       "story": {
         "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
@@ -192,9 +180,57 @@
       }
     },
     {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 5,
+      "story": {
+        "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
+        "description": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
+        "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 5,
+      "story": {
+        "title": "Murder accused former police officer Beau Lamarre-Condon trial begins",
+        "description": "It is alleged Beau Lamarre-Condon shot a young couple with his service firearm inside a Sydney terrace more than two-and-a-half years ago.",
+        "link": "https://www.abc.net.au/news/2026-09-21/officer-beau-lamarre-condon-double-murder-trial-begins-today/107162870",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 4,
+      "story": {
+        "title": "US, China open high-level talks ahead of Trump-Xi summit",
+        "description": "Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week.",
+        "link": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 3,
+      "story": {
+        "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+        "description": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+        "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 3,
       "story": {
         "title": "Houthis say they targeted Saudi capital with ballistic missiles",
@@ -216,62 +252,26 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
       "count": 3,
       "story": {
-        "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-        "description": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
-        "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
+        "description": "The game hinged on Dean Huijsen&#039;s red card early in the second half for pulling down Giuliano Simeone in the box.",
+        "link": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 3,
-      "story": {
-        "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
-        "description": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
-        "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
-      "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
       "count": 2,
       "story": {
         "title": "Houthis say they targeted Saudi capital with ballistic missiles",
         "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
         "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 2,
-      "story": {
-        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-        "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
-        "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -288,99 +288,51 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 2,
       "story": {
-        "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
-        "description": "The game hinged on Dean Huijsen&#039;s red card early in the second half for pulling down Giuliano Simeone in the box.",
-        "link": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
+        "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+        "description": "Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.",
+        "link": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 2,
       "story": {
-        "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
-        "description": "Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle.",
-        "link": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
+        "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
+        "description": "Prime minister of Italy&#039;s longest serving government since WW2 faces election threat from far-right rival party.",
+        "link": "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 2,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 1,
       "story": {
-        "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
-        "description": "Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second.",
-        "link": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+        "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+        "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 2,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
       "story": {
-        "title": "Alex de Minaur fires as Aussie pair clicks in Davis Cup triumph",
-        "description": "Alex de Minaur has returned to form to seal Australia's Davis Cup progression, with the hosts beating Poland 3-1 at Pat Rafter Arena in Brisbane.",
-        "link": "https://www.abc.net.au/news/2026-09-20/de-minaur-fires-as-aussies-down-poland-davis-cup-tennis/107174202",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 2,
-      "story": {
-        "title": "Crows prevail in fiery AFLW clash with Lions",
-        "description": "Adelaide triumphs by nine points in a fiery encounter with Brisbane, as Gold Coast, West Coast and Richmond all enjoy AFLW victories on Sunday.",
-        "link": "https://www.abc.net.au/news/2026-09-20/crows-prevail-in-fiery-aflw-clash-with-lions/107174100",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 2,
-      "story": {
-        "title": "India news: PM Modi says developing nations unfairly blamed for emissions",
-        "description": "PM Narendra Modi has told a climate conference that developed countries emit six times more CO2 than India. Meanwhile, an IIT Bombay professor has been accused of caste abuse. DW has more.",
-        "link": "https://www.dw.com/en/india-news-pm-modi-says-developing-nations-unfairly-blamed-for-emissions/live-79335891?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 2,
-      "story": {
-        "title": "Zverev leads Germany into Davis Cup Final 8, Spain also through",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/zverev-leads-germany-davis-cup-final-8-spain-also-through-6397841",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Tiffany Teo secures Singapore's first Asian Games MMA medal",
-        "description": "Teo guaranteed herself at least a bronze medal by advancing to the women's traditional 60kg semi-finals.",
-        "link": "https://www.channelnewsasia.com/singapore/tiffany-teo-first-asian-games-mma-medal-2026-6397441",
-        "source": "CNA"
+        "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+        "description": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
+        "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -432,6 +384,42 @@
       }
     },
     {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 1,
+      "story": {
+        "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+        "description": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+        "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
+      "count": 1,
+      "story": {
+        "title": "Qatar says it is working to revive Iran-US talks",
+        "description": "Qatar’s Foreign Ministry spokesperson tells Bloomberg that mediators are shuttling between Iran and US to revive talks.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
+      "count": 1,
+      "story": {
+        "title": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
+        "description": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jerusalem-daily-israel-pardons-soldier-elor-azaria?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Colombia",
       "lat": 4.57,
       "lon": -74.3,
@@ -440,6 +428,18 @@
         "title": "Central Colombia forest fire threatens tourist town of Villa de Leyva",
         "description": "The country has battled multiple wildfires amid record-breaking temperatures fuelled by El Nino and drought conditions.",
         "link": "https://www.aljazeera.com/news/2026/9/20/central-colombia-forest-fire-threatens-tourist-town-of-villa-de-leyva?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 1,
+      "story": {
+        "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
+        "description": "Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second.",
+        "link": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -504,30 +504,6 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "Former Pakistan PM Imran Khan’s sister arrested before planned PTI march",
-        "description": "Khan’s party condemns his sister’s arrest as an illegal attempt to silence her over PTI leader’s ongoing imprisonment.",
-        "link": "https://www.aljazeera.com/news/2026/9/20/former-pakistan-pm-imran-khans-sister-arrested-ahead-of-planned-pti-march?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
-      "count": 1,
-      "story": {
-        "title": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
-        "description": "Netanyahu storms Western Wall tunnels amid Yom Kippur settler incursions, drawing fierce condemnation.",
-        "link": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
@@ -536,6 +512,18 @@
         "title": "Australian music stars pay tribute to John Farnham in special concert",
         "description": "The sold-out show at Melbourne's Rod Laver Arena was held to raise funds for Head and Neck Cancer Australia, following John Farnham's own health battle in 2022.",
         "link": "https://www.abc.net.au/news/2026-09-20/john-farnham-tribute-concert/107174288",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 1,
+      "story": {
+        "title": "Alex de Minaur fires as Aussie pair clicks in Davis Cup triumph",
+        "description": "Alex de Minaur has returned to form to seal Australia's Davis Cup progression, with the hosts beating Poland 3-1 at Pat Rafter Arena in Brisbane.",
+        "link": "https://www.abc.net.au/news/2026-09-20/de-minaur-fires-as-aussies-down-poland-davis-cup-tennis/107174202",
         "source": "ABC News AU"
       }
     },
@@ -549,6 +537,18 @@
         "description": "Alex de Minaur has returned to form to seal Australia's Davis Cup progression, with the hosts beating Poland 3-1 at Pat Rafter Arena in Brisbane.",
         "link": "https://www.abc.net.au/news/2026-09-20/de-minaur-fires-as-aussies-down-poland-davis-cup-tennis/107174202",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 1,
+      "story": {
+        "title": "Russia: Ukrainian drone strike on Moscow kills 2",
+        "description": "An oil refinery was hit in one of the largest attacks so far on the Russian capital, as the country holds a parliamentary election. Meanwhile, at least four people were killed in Russian strikes in Ukraine's Kyiv region.",
+        "link": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
