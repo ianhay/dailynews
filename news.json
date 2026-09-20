@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:36:26+00:00",
+  "generated_at": "2026-09-20T23:06:04+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -38,15 +38,15 @@
       "source": "BBC News"
     },
     {
-      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-      "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
-      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "description": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 19,
+      "count": 12,
       "story": {
         "title": "Shark attack prompts rare kill order in Western Australia as victim named",
         "description": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
@@ -123,12 +123,24 @@
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
         "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
         "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 7,
+      "story": {
+        "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
+        "description": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
+        "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -156,18 +168,6 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 5,
-      "story": {
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-        "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
@@ -180,27 +180,39 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 5,
-      "story": {
-        "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
-        "description": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
-        "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
       "count": 5,
       "story": {
-        "title": "Murder accused former police officer Beau Lamarre-Condon trial begins",
+        "title": "Trial begins for Beau Lamarre-Condon over alleged murder of Sydney couple",
         "description": "It is alleged Beau Lamarre-Condon shot a young couple with his service firearm inside a Sydney terrace more than two-and-a-half years ago.",
         "link": "https://www.abc.net.au/news/2026-09-21/officer-beau-lamarre-condon-double-murder-trial-begins-today/107162870",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "Mum's viral barefoot race sparks debate over India's education crisis",
+        "description": "The 47-year-old ran - and won - a 3km race where she hoped to win enough prize money to buy study books for her daughter.",
+        "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 4,
+      "story": {
+        "title": "France to summon Iran envoy after language centre closure in Tehran",
+        "description": "Iran accuses the French language centre of conducting &#039;illegal acts that violated diplomatic conventions&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -216,6 +228,18 @@
       }
     },
     {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 3,
+      "story": {
+        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+        "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+        "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
@@ -228,27 +252,15 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
       "count": 3,
       "story": {
-        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "Mum's viral barefoot race sparks debate over India's education crisis",
-        "description": "The 47-year-old ran - and won - a 3km race where she hoped to win enough prize money to buy study books for her daughter.",
-        "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Qatar PM urges Gulf security framework with Iran",
+        "description": "Qatar’s PM says, the Gulf won&#039;t be the same unless there&#039;s a framework ensuring no one is a threat to each other.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -264,14 +276,26 @@
       }
     },
     {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 2,
       "story": {
         "title": "Houthis say they targeted Saudi capital with ballistic missiles",
         "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
         "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
+      "count": 2,
+      "story": {
+        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+        "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+        "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -288,15 +312,15 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 2,
       "story": {
-        "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
-        "description": "Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.",
-        "link": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+        "description": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+        "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -312,14 +336,38 @@
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 2,
+      "story": {
+        "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
+        "description": "Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second.",
+        "link": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "Trump says monumental arch in Washington, DC will also be military complex",
+        "description": "Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city.",
+        "link": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
       "count": 1,
       "story": {
-        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-        "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
-        "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+        "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+        "description": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+        "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -336,14 +384,14 @@
       }
     },
     {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
       "count": 1,
       "story": {
-        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-        "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -384,26 +432,50 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 1,
       "story": {
-        "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-        "description": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
-        "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+        "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+        "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 1,
       "story": {
-        "title": "Qatar says it is working to revive Iran-US talks",
-        "description": "Qatar’s Foreign Ministry spokesperson tells Bloomberg that mediators are shuttling between Iran and US to revive talks.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
+        "title": "France to summon Iran envoy after language centre closure in Tehran",
+        "description": "Iran accuses the French language centre of conducting &#039;illegal acts that violated diplomatic conventions&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Buenos Aires",
+      "lat": -34.6,
+      "lon": -58.38,
+      "count": 1,
+      "story": {
+        "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
+        "description": "Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 1,
+      "story": {
+        "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
+        "description": "Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -428,30 +500,6 @@
         "title": "Central Colombia forest fire threatens tourist town of Villa de Leyva",
         "description": "The country has battled multiple wildfires amid record-breaking temperatures fuelled by El Nino and drought conditions.",
         "link": "https://www.aljazeera.com/news/2026/9/20/central-colombia-forest-fire-threatens-tourist-town-of-villa-de-leyva?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 1,
-      "story": {
-        "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
-        "description": "Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second.",
-        "link": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Trump says monumental arch in Washington, DC will also be military complex",
-        "description": "Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city.",
-        "link": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -501,54 +549,6 @@
         "description": "Humanoid robots fight in cage match in Shanghai",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Australian music stars pay tribute to John Farnham in special concert",
-        "description": "The sold-out show at Melbourne's Rod Laver Arena was held to raise funds for Head and Neck Cancer Australia, following John Farnham's own health battle in 2022.",
-        "link": "https://www.abc.net.au/news/2026-09-20/john-farnham-tribute-concert/107174288",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "Alex de Minaur fires as Aussie pair clicks in Davis Cup triumph",
-        "description": "Alex de Minaur has returned to form to seal Australia's Davis Cup progression, with the hosts beating Poland 3-1 at Pat Rafter Arena in Brisbane.",
-        "link": "https://www.abc.net.au/news/2026-09-20/de-minaur-fires-as-aussies-down-poland-davis-cup-tennis/107174202",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 1,
-      "story": {
-        "title": "Alex de Minaur fires as Aussie pair clicks in Davis Cup triumph",
-        "description": "Alex de Minaur has returned to form to seal Australia's Davis Cup progression, with the hosts beating Poland 3-1 at Pat Rafter Arena in Brisbane.",
-        "link": "https://www.abc.net.au/news/2026-09-20/de-minaur-fires-as-aussies-down-poland-davis-cup-tennis/107174202",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 1,
-      "story": {
-        "title": "Russia: Ukrainian drone strike on Moscow kills 2",
-        "description": "An oil refinery was hit in one of the largest attacks so far on the Russian capital, as the country holds a parliamentary election. Meanwhile, at least four people were killed in Russian strikes in Ukraine's Kyiv region.",
-        "link": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     }
   ]
