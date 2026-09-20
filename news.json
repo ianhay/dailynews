@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T23:59:31+00:00",
+  "generated_at": "2026-09-20T04:46:07+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,15 +18,15 @@
       "source": "BBC News"
     },
     {
-      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
-      "description": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
-      "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Healey to ask EU finance ministers to let UK into Made in Europe scheme",
       "description": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
       "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches",
+      "description": "The Budget is only six weeks away and the economy is undoubtedly the biggest challenge facing the prime minister.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -52,12 +52,6 @@
   ],
   "economy": [
     {
-      "title": "Is Canada about to join the EU?",
-      "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
-      "link": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
       "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
       "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
@@ -68,6 +62,12 @@
       "description": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
       "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "Interest rates held but Bank signals rise if energy prices stay high",
+      "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 16,
+      "count": 18,
       "story": {
         "title": "Shark attack prompts rare kill order in Western Australia as victim named",
         "description": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
@@ -84,22 +84,34 @@
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 8,
+      "story": {
+        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+        "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+        "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
       "count": 7,
       "story": {
-        "title": "Journalists denied White House access after Trump banned some media outlets",
-        "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+        "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+        "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Trump signs sweeping Russia sanctions bill",
         "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
@@ -111,7 +123,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Trump signs sweeping Russia sanctions bill",
         "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
@@ -120,15 +132,15 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 5,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 6,
       "story": {
-        "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-        "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
-        "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Peruvian journalist shot dead after threatening to expose police",
+        "description": "Peruvian journalist ‘China Polo’ has been shot dead a week after receiving death threats over a police investigation.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/peruvian-journalist-shot-dead-after-threatening-to-expose-police?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -137,10 +149,34 @@
       "lon": 34.75,
       "count": 5,
       "story": {
-        "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-        "description": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.",
-        "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+        "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+        "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 5,
+      "story": {
+        "title": "Journalists denied White House access after Trump banned some media outlets",
+        "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+        "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
+      "count": 4,
+      "story": {
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -156,39 +192,39 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 4,
-      "story": {
-        "title": "Is Canada about to join the EU?",
-        "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
-        "link": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
       "count": 4,
       "story": {
-        "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-        "description": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.",
-        "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Watch: Concertgoers and pro-Palestinian activists arrive at Ed Sheeran concert",
+        "description": "Some Ed Sheeran fans say they are excited to enjoy music and are not there for politics after Macklemore was dropped from the tour for making pro-Palestinian comments.",
+        "link": "https://www.bbc.co.uk/news/videos/ckd68l9g0gy5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 4,
       "story": {
-        "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
-        "description": "Gaza&#039;s IT industry has been devastated from three-years of bombing and destruction.",
-        "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
+        "description": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
+        "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Breaking: Child dead in alleged Sydney stabbing, two other children and woman critical",
+        "description": "NSW Police say all the children are under the age of five and the woman is in her 40s.",
+        "link": "https://www.abc.net.au/news/2026-09-20/stabbing-child-dead-two-injured-woman-hospital-blue-mountains/107173904",
+        "source": "ABC News AU"
       }
     },
     {
@@ -216,14 +252,14 @@
       }
     },
     {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 3,
       "story": {
-        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+        "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+        "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -237,30 +273,6 @@
         "description": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future.",
         "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "European Union",
-      "lat": 50.85,
-      "lon": 4.35,
-      "count": 3,
-      "story": {
-        "title": "Is Canada about to join the EU?",
-        "description": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
-        "link": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
-      "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
       }
     },
     {
@@ -288,6 +300,18 @@
       }
     },
     {
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
+      "count": 2,
+      "story": {
+        "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+        "description": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+        "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Cuba",
       "lat": 21.52,
       "lon": -77.78,
@@ -296,30 +320,6 @@
         "title": "Millions without power as Cuba hit by latest major blackout",
         "description": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
         "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 2,
-      "story": {
-        "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-        "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-        "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 2,
-      "story": {
-        "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
-        "description": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
-        "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -333,6 +333,54 @@
         "description": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
         "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "European Union",
+      "lat": 50.85,
+      "lon": 4.35,
+      "count": 2,
+      "story": {
+        "title": "EU chief backs plan for Canada to become 'associate member'",
+        "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
+        "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
+      "count": 2,
+      "story": {
+        "title": "Australia seeks big tech support for internet safety, AI regulation",
+        "description": "PM Anthony Albanese asks Apple CEO Tim Cook to back Canberra&#039;s online safety laws to &#039;keep Australians safe&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/9/20/australia-seeks-big-tech-support-for-internet-safety-ai-regulation?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 2,
+      "story": {
+        "title": "DR Congo begins Ebola vaccination trials for frontline health workers",
+        "description": "DR Congo is rolling out vaccine trials for health workers at the centre of the country’s Ebola crisis.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/dr-congo-begins-ebola-vaccination-trials-for-frontline-health-workers?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 2,
+      "story": {
+        "title": "Iran war live: Tehran sets terms for talks; Saudi forces foil Riyadh attack",
+        "description": "Iran security chief says Tehran&#039;s demands include an end to war on all fronts and the lifting of US&#039;s naval blockade.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -360,30 +408,6 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 2,
-      "story": {
-        "title": "Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction",
-        "description": "Real Madrid coach Jose Mourinho admits his team does not know how to control matches before Sunday&#039;s La Liga clash.",
-        "link": "https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 2,
-      "story": {
-        "title": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
-        "description": "The Manhattan meeting, coming days before President Donald Trump hosts Chinese President Xi&nbsp;Jinping at the White House in Washington.",
-        "link": "https://www.channelnewsasia.com/business/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-6396966",
-        "source": "CNA"
-      }
-    },
-    {
       "name": "South Africa",
       "lat": -30.6,
       "lon": 22.9,
@@ -392,18 +416,6 @@
         "title": "Grim discoveries of murdered women spark fear in South Africa",
         "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
         "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "Shark attack prompts rare kill order in Western Australia as victim named",
-        "description": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
-        "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -420,14 +432,50 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
       "count": 1,
       "story": {
-        "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
-        "description": "Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, tells Al Jazeera Tehran awaiting Trump response.",
-        "link": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
+        "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+        "description": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
+        "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 1,
+      "story": {
+        "title": "Morocco’s PJD: what has the party learned from its dramatic fall",
+        "description": "After its 2021 defeat, the party with an Islamic reference is rebuilding under Abdelilah Benkirane. Can it regain trust?",
+        "link": "https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Peru",
+      "lat": -9.19,
+      "lon": -75.02,
+      "count": 1,
+      "story": {
+        "title": "Peruvian journalist shot dead after threatening to expose police",
+        "description": "Peruvian journalist ‘China Polo’ has been shot dead a week after receiving death threats over a police investigation.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/peruvian-journalist-shot-dead-after-threatening-to-expose-police?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Chile",
+      "lat": -35.68,
+      "lon": -71.54,
+      "count": 1,
+      "story": {
+        "title": "Michelle Bachelet exits UN chief race after low poll support",
+        "description": "Former Chilean President Michelle Bachelet ends her bid to be the first woman to lead the United Nations.",
+        "link": "https://www.aljazeera.com/news/2026/9/20/michelle-bachelet-exits-un-chief-race-after-low-poll-support?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -456,27 +504,27 @@
       }
     },
     {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "Jerusalem Daily: Gaza’s children return to schools",
-        "description": "It&#039;s the first official day back to school for Gaza&#039;s children.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Rollers capture first wheelchair basketball world title in 12 years",
+        "description": "Australia defeats Italy 81-57 to win the men's IWBF World Championships final in Canada, giving the Rollers their third title in the tournament's history.",
+        "link": "https://www.abc.net.au/news/2026-09-20/iwbf-world-championship-australia-rollers-defeat-italy-final/107173874",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Syria says blast at military site in Deir Az Zor killed 11",
-        "description": "Syrian army holds funeral for soldiers killed in ammunition blast in town of Ayyash, in western Deir Az Zor, on Friday.",
-        "link": "https://www.aljazeera.com/news/2026/9/19/syria-says-blast-at-military-site-in-deir-az-zor-killed-11?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Man fined for failing to tag 'flighty' pet deer with 'sharp antlers'",
+        "description": "An Adelaide Hills man who kept dozens of deer as \"pets\" has been fined after his repeated efforts to comply with an order to place permanent ear tags on the \"flighty animals with sharp antlers\" failed.",
+        "link": "https://www.abc.net.au/news/2026-09-20/court-fines-adelaide-hills-man-failing-to-tag-pet-deer/107133146",
+        "source": "ABC News AU"
       }
     },
     {
@@ -492,18 +540,6 @@
       }
     },
     {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "'We are really scared': NDIS provider shutters day program as federal cuts loom",
-        "description": "Canberra community members are concerned that the closure of a local NDIS program does not bode well ahead of looming federal cuts to the scheme.",
-        "link": "https://www.abc.net.au/news/2026-09-20/ndis-provider-shutters-day-program/107172144",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
@@ -513,42 +549,6 @@
         "description": "The Wallaroos collapse from a 19-0 lead to go down 29-26 against France in a game briefly delayed by a nearby bus fire.",
         "link": "https://www.abc.net.au/news/2026-09-20/wallaroos-collapse-against-france-as-bus-fire-delays-game/107173462",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "Lions to take one big advantage into grand final showdown with Freo",
-        "description": "Brisbane coach Chris Fagan urges the Lions to lean into their experience to seize the rare prize of an AFL premiership three-peat.",
-        "link": "https://www.abc.net.au/news/2026-09-20/brisbane-lions-lean-on-experience-afl-grand-final-fremantle/107173414",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 1,
-      "story": {
-        "title": "German-Russian relations at freezing point",
-        "description": "Russia's full-scale invasion of Ukraine destroyed the once-close relationship between Moscow and Berlin. Yet the far-right AfD is calling for a normalization of relations.",
-        "link": "https://www.dw.com/en/german-russian-relations-at-freezing-point/a-79330741?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
-      "count": 1,
-      "story": {
-        "title": "Pakistan: Suicide bombing death toll rises to at least 31",
-        "description": "More than 100 others have been injured in the militant attack on a police headquarters near the border with Afghanistan. Several militants were still clashing with Pakistan's security forces on Saturday.",
-        "link": "https://www.dw.com/en/pakistan-suicide-bombing-death-toll-rises-to-at-least-31/a-79327432?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     }
   ]
