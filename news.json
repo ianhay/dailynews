@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:27:46+00:00",
+  "generated_at": "2026-09-21T19:41:26+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
       "description": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
       "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
@@ -22,31 +28,25 @@
       "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
       "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "australia": [
     {
-      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-      "description": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "title": "First UK charges brought over 1994 Rwanda genocide",
+      "description": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
+      "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
-      "description": "The penalty follows an inquiry launched into the tech giant six years ago, following complaints from several European consumer rights organisations.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss",
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "description": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-      "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-      "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+      "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
+      "description": "Airlines are angry about the delays, with EasyJet saying the latest incident \"once again calls into question the resilience\" of the system.",
+      "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,10 +72,22 @@
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 14,
+      "story": {
+        "title": "Why younger Australians are facing a tough economic future",
+        "description": "In 40 years, with an estimated population of 40 million, Australia will be more indebted and face what increasingly appears to be a permanent budget deficit.",
+        "link": "https://www.abc.net.au/news/2026-09-22/intergenerational-report-tough-economic-future/107178496",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
-      "count": 10,
+      "count": 11,
       "story": {
         "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
         "description": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
@@ -84,22 +96,10 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 10,
-      "story": {
-        "title": "Australia’s deaths to outnumber births by 2060s, report says",
-        "description": "Number of Australians aged 85 or older projected to triple by 2065-66, according to government forecast.",
-        "link": "https://www.aljazeera.com/economy/2026/9/21/australias-deaths-to-outnumber-births-by-2060s-report-says?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
         "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
@@ -108,22 +108,10 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 8,
-      "story": {
-        "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-        "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
-        "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "Ed Davey calls for immediate 10p cut to fuel duty",
         "description": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
@@ -132,21 +120,21 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 7,
-      "story": {
-        "title": "NFL’s Azeez Al-Shaair honours another Palestinian girl killed by Israel",
-        "description": "Azeez Al-Shaair has paid tribute to another Palestinian child killed by Israel, despite the NFL fine last week.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/nfls-azeez-al-shaair-honours-another-palestinian-girl-killed-by-israel?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
+      "count": 7,
+      "story": {
+        "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+        "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
+        "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
       "count": 6,
       "story": {
         "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
@@ -156,15 +144,15 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
       "count": 5,
       "story": {
-        "title": "Sydney policeman allegedly disguised himself as Uber Eats rider before murders",
-        "description": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
-        "link": "https://www.bbc.co.uk/news/articles/cmx2z10zk736o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Elif Eralp: A leftist leader with Turkish roots dubbed ‘Germany’s Mamdani’",
+        "description": "Victory in Berlin signals that Germany continues to be liberal, that, despite the far right&#039;s rise, experts say.",
+        "link": "https://www.aljazeera.com/features/2026/9/21/elif-eralp-daughter-of-turkish-exiles-and-berlins-next-leftist-mayor?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -173,58 +161,46 @@
       "lon": -77.03,
       "count": 4,
       "story": {
-        "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-        "description": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
+        "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+        "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
         "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 4,
       "story": {
-        "title": "NFL’s Azeez Al-Shaair honours another Palestinian girl killed by Israel",
-        "description": "Azeez Al-Shaair has paid tribute to another Palestinian child killed by Israel, despite the NFL fine last week.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/nfls-azeez-al-shaair-honours-another-palestinian-girl-killed-by-israel?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 4,
-      "story": {
-        "title": "Israeli attacks on Gaza kill three, including a child",
-        "description": "Israeli attacks on Palestinians continue in Gaza despite a &#039;ceasefire&#039; signed in October.",
-        "link": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 4,
-      "story": {
-        "title": "German state elections deal a blow to Chancellor Friedrich Merz",
-        "description": "Elections in Berlin and Mecklenburg-Western Pomerania have dealt the CDU a historic defeat while the AfD saw a massive gain. The pressure on Germany's unpopular chancellor is mounting.",
-        "link": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 3,
-      "story": {
-        "title": "Three held over woman's murder as South Africa police investigate eight other body finds",
-        "description": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
-        "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
+        "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+        "description": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
+        "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Sydney policeman allegedly disguised himself as Uber Eats rider before murders",
+        "description": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2z10zk736o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "India's road rage: When cars become weapons",
+        "description": "Road disputes are turning violent across India, raising questions about status and impunity behind the wheel for drivers of expensive cars.",
+        "link": "https://www.dw.com/en/india-s-road-rage-when-cars-become-weapons/a-79355073?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -264,39 +240,15 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
-      "story": {
-        "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-        "description": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
-        "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 3,
-      "story": {
-        "title": "How Freo's former number one ticket holder has helped Brisbane's dynasty",
-        "description": "Brisbane Lions players have told ABC Sport that a conversation in July with NBA champion Luc Longley has helped the team in its quest for three consecutive AFL premierships.",
-        "link": "https://www.abc.net.au/news/2026-09-21/luc-longley-brisbane-lions-afl-grand-final/107176616",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
       "count": 3,
       "story": {
-        "title": "Iran closes language center in Tehran, France vows response",
-        "description": "In response to the Iranian authorities' decision to close a French language center affiliated with its embassy in Tehran, France vowed to take appropriate measures.",
-        "link": "https://www.dw.com/en/iran-closes-language-center-in-tehran-france-vows-response/a-79348984?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "‘Licence to kill:’ French protests decry police use-of-force bill",
+        "description": "Thousands of protesters across France rallied against a new law they say will give police a &quot;licence to kill”.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/licence-to-kill-french-protests-decry-police-use-of-force-bill?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -312,6 +264,18 @@
       }
     },
     {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 2,
+      "story": {
+        "title": "Two charged with woman's murder as South Africa police investigate eight other body finds",
+        "description": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
+        "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Indonesia",
       "lat": -2.5,
       "lon": 118.0,
@@ -321,6 +285,18 @@
         "description": "Undercover footage recorded by the BBC reveals he has been released after serving less than half his sentence.",
         "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "Photos: Gaza’s children return to class in tents and ruins",
+        "description": "Gaza children return to classrooms after three years, facing challenges of damaged schools, tents, and scarce supplies.",
+        "link": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -348,27 +324,27 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 2,
       "story": {
-        "title": "Mystery object spotted hovering over Tehran",
-        "description": "A mysterious object filmed hovering over Tehran has sparked online speculation.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Nuclear power is back on Southeast Asia's energy agenda",
+        "description": "Rising electricity demand, shocks in energy security and climate commitments are reviving long-stalled plans for nuclear power across Southeast Asia. But proponents of nuclear energy still face major obstacles.",
+        "link": "https://www.dw.com/en/nuclear-power-is-back-on-southeast-asia-s-energy-agenda/a-79358744?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 2,
+      "name": "Westminster",
+      "lat": 51.5,
+      "lon": -0.13,
+      "count": 1,
       "story": {
-        "title": "India's road rage: When cars become weapons",
-        "description": "Road disputes are turning violent across India, raising questions about status and impunity behind the wheel for drivers of expensive cars.",
-        "link": "https://www.dw.com/en/india-s-road-rage-when-cars-become-weapons/a-79355073?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "First UK charges brought over 1994 Rwanda genocide",
+        "description": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
+        "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -420,6 +396,102 @@
       }
     },
     {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 1,
+      "story": {
+        "title": "London Fashion Week 2026: The five trends we'll see in spring",
+        "description": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
+        "link": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 1,
+      "story": {
+        "title": "Protesters blockade Elbit Systems factory over Israel weapons supply",
+        "description": "Nine protesters blocked access to Elbit Systems’ factory in Staffordshire by attaching themselves to five ‘lock-ons’.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Islamabad",
+      "lat": 33.7,
+      "lon": 73.06,
+      "count": 1,
+      "story": {
+        "title": "Protesters march on Islamabad over soaring fuel prices",
+        "description": "Pakistan’s Jamaat-e-Islami party has launched a protest march towards Islamabad over soaring fuel prices.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 1,
+      "story": {
+        "title": "Ceuta solidarity shirt row: How the crisis engulfed Spanish football",
+        "description": "Football has been dragged into growing tensions over the influx of migrants from Morocco to the Spanish enclave Ceuta.",
+        "link": "https://www.aljazeera.com/sports/2026/9/21/ceuta-solidarity-shirt-row-how-the-crisis-engulfed-spanish-football?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tokyo",
+      "lat": 35.68,
+      "lon": 139.77,
+      "count": 1,
+      "story": {
+        "title": "Airplane makes ‘miracle’ landing as Typhoon Dujuan hits Japan",
+        "description": "A plane landing in Tokyo that one passenger called &#039;a miracle&#039; ended with applause as Typhoon Dujuan battered Japan.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/airplane-makes-miracle-landing-as-typhoon-dujuan-hits-japan?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
+      "count": 1,
+      "story": {
+        "title": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
+        "description": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed settler",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 1,
+      "story": {
+        "title": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
+        "description": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed settler",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 1,
+      "story": {
+        "title": "Poor storage or sabotage? Series of explosions in Syria raises fears",
+        "description": "Repeated blasts at military sites expose the risks facing Syria as it rebuilds its army after years of war.",
+        "link": "https://www.aljazeera.com/news/2026/9/21/poor-storage-or-sabotage-series-of-explosions-in-syria-raises-fears?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Egypt",
       "lat": 26.8,
       "lon": 30.8,
@@ -456,78 +528,6 @@
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Why do Sudan’s humanitarian truces keep failing and who is to blame?",
-        "description": "Efforts to bring about humanitarian truces in Sudan hit a dead end as warring factions prioritise battlefield victories.",
-        "link": "https://www.aljazeera.com/news/2026/9/21/why-do-sudans-humanitarian-truces-keep-failing-and-who-is-to-blame?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 1,
-      "story": {
-        "title": "Protests in Texas after ICE agent shoots Venezuelan man",
-        "description": "Protesters gathered in the US state of Texas after an ICE agent shot a Venezuelan man during an immigration enforcement",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protests-in-texas-after-ice-agent-shoots-venezuelan-man?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 1,
-      "story": {
-        "title": "Aliko Dangote: Refining Nigeria’s oil, helping Africa, and creating wealth",
-        "description": "The world’s richest Black man says he aims to make Africa more self-sufficient and less reliant on imports.",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/21/aliko-dangote-refining-nigerias-oil-helping-africa-and-creating-wealth?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Footy fans filthy as airfares soar ahead of grand final",
-        "description": "Return airfares to Melbourne have hit $6,000 ahead of Saturday's AFL Grand Final as Fremantle and Brisbane fans scramble for seats.",
-        "link": "https://www.abc.net.au/news/2026-09-21/afl-grand-final-airfares-surge-fans-scramble-for-seats/107177476",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "Wallabies eye Springboks scalp amid Dockers frenzy in Perth",
-        "description": "The Wallabies are in Perth to face the reigning world champions, hoping the excitement surrounding the Fremantle Dockers will boost them on Sunday.",
-        "link": "https://www.abc.net.au/news/2026-09-21/wallabies-springboks-test-rugby-perth/107176740",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 1,
-      "story": {
-        "title": "Nuclear power is back on Southeast Asia's energy agenda",
-        "description": "Rising electricity demand, shocks in energy security and climate commitments are reviving long-stalled plans for nuclear power across Southeast Asia. But proponents of nuclear energy still face formidable obstacles.",
-        "link": "https://www.dw.com/en/nuclear-power-is-back-on-southeast-asia-s-energy-agenda/a-79358744?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Afghanistan",
       "lat": 33.9,
       "lon": 67.7,
@@ -540,14 +540,14 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 1,
       "story": {
-        "title": "Russia: Ukrainian drone strike on Moscow kills 2",
-        "description": "An oil refinery was hit in one of the largest attacks so far on the Russian capital, as the country holds a parliamentary election. Meanwhile, at least four people were killed in Russian strikes in Ukraine's Kyiv region.",
-        "link": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-rdf",
+        "title": "Iran closes language center in Tehran, France vows response",
+        "description": "In response to the Iranian authorities' decision to close a French language center affiliated with its embassy in Tehran, France vowed to take appropriate measures.",
+        "link": "https://www.dw.com/en/iran-closes-language-center-in-tehran-france-vows-response/a-79348984?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
