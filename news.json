@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T17:43:33+00:00",
+  "generated_at": "2026-09-22T21:07:23+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "How Ceuta, football and Israel are shaping Morocco's election",
+      "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Airlines criticise air traffic control as second glitch causes more disruption",
       "description": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
       "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
@@ -22,15 +28,15 @@
       "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
       "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Rubio defends Trump’s White House ban on CNN, MS NOW and Politico",
-      "description": "The White House launched &#039;Trump TV&#039; as major networks suspended the television pool covering the US president.",
-      "link": "https://www.aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "australia": [
+    {
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
       "description": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
@@ -42,12 +48,6 @@
       "description": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system -  was ruled an accident.",
       "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
-      "description": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone.",
-      "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
@@ -58,24 +58,36 @@
       "source": "BBC News"
     },
     {
-      "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-      "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-      "link": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
-    },
-    {
       "title": "Spain battles climate change on several fronts",
       "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
       "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
+      "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
+      "link": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 12,
+      "story": {
+        "title": "Citizen search for Nannup Four gets underway",
+        "description": "A group of volunteer searchers will begin scouring bushland in Western Australia's South West in a bid for answers to the decades-old missing persons case.",
+        "link": "https://www.abc.net.au/news/2026-09-23/nannup-four-citizen-search-underway-south-west-wa/107139346",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 12,
+      "count": 11,
       "story": {
         "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
         "description": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
@@ -84,15 +96,15 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 11,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 10,
       "story": {
-        "title": "Sri Lanka convicts 15 men over deadly bombing that killed two Australians",
-        "description": "The bombings, considered the deadliest in Sri Lanka's recent history, were carried out on churches and three luxury tourist hotels.",
-        "link": "https://www.abc.net.au/news/2026-09-22/sri-lanka-convicts-15-men-over-deadly-easter-bombing/107183542",
-        "source": "ABC News AU"
+        "title": "How Ceuta, football and Israel are shaping Morocco's election",
+        "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+        "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -108,27 +120,39 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 7,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 6,
       "story": {
-        "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-        "description": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+        "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+        "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 5,
+      "story": {
+        "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+        "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+        "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 4,
       "story": {
-        "title": "What is the White House pool and why is it in a row with Trump?",
-        "description": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
-        "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+        "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -137,22 +161,10 @@
       "lon": 34.47,
       "count": 4,
       "story": {
-        "title": "Trump: ‘My honour to settle eight wars’ including ‘war in Gaza’",
-        "description": "Speaking at the UN General Assembly, US President Donald Trump claimed he helped end the war in Gaza.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-my-honour-to-settle-eight-wars-including-war-in-gaza?traffic_source=rss",
+        "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
+        "description": "Brazilian President Luiz Inacio Lula da Silva condemned the “pain and trauma” inflicted by Israel’s government in Gaza.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "Rates set to rise as RBA governor says 'heat' needs to be taken out of job market",
-        "description": "All four major banks and the bulk of money market traders believe the Reserve Bank will raise interest rates next week and governor Michele Bullock did nothing to dissuade them during a speech in Sydney.",
-        "link": "https://www.abc.net.au/news/2026-09-22/rba-governor-michele-bullock-interest-rate-increase-predictions/107181326",
-        "source": "ABC News AU"
       }
     },
     {
@@ -164,18 +176,6 @@
         "title": "Young Berliners vote overwhelmingly for socialist Left  Party",
         "description": "Berlin's young voters overwhelmingly supported the victorious socialist Left Party. Are the young more radical? Or are the election results just a reflection of current German politics?",
         "link": "https://www.dw.com/en/young-berliners-vote-overwhelmingly-for-socialist-left-party/a-79375167?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 4,
-      "story": {
-        "title": "Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA",
-        "description": "The Russian army targeted economic infrastructure in Ukraine, while Ukraine struck an oil refinery. This comes ahead of the UN General Assembly, where President Volodymyr Zelenskyy is due to meet Trump on the sidelines.",
-        "link": "https://www.dw.com/en/russia-ukraine-trade-deadly-strikes-as-zelenskyy-attends-unga/a-79366022?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -192,39 +192,75 @@
       }
     },
     {
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
+      "count": 3,
+      "story": {
+        "title": "Qatar denounces Israeli aggression across the region",
+        "description": "Qatari Emir Sheikh Tamim bin Hamad Al Thani has denounced Israeli aggression in neighbouring countries.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-denounces-israeli-aggression-across-the-region?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
+        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
+        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
+        "source": "SBS News"
+      }
+    },
+    {
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
+      "count": 2,
+      "story": {
+        "title": "US to build two military bases in Greenland under new deal with Denmark",
+        "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+        "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 2,
+      "story": {
+        "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+        "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+        "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
+      "story": {
+        "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+        "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+        "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
-      "count": 3,
+      "count": 2,
       "story": {
         "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
         "description": "The storm pulled away from Japan after bringing heavy rains and strong winds to Tokyo and surrounding areas.",
         "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 3,
-      "story": {
-        "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-        "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-        "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 3,
-      "story": {
-        "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-        "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-        "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
@@ -264,14 +300,14 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
       "count": 2,
       "story": {
-        "title": "The return of Palestinian football: ‘We are a people who must live’",
-        "description": "The Martyrs’ World Cup brings Palestinian football back after nearly three years, despite military restrictions.",
-        "link": "https://www.aljazeera.com/features/2026/9/22/the-return-of-palestinian-football-we-are-a-people-who-must?traffic_source=rss",
+        "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
+        "description": "Brazilian President Luiz Inacio Lula da Silva condemned the “pain and trauma” inflicted by Israel’s government in Gaza.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -281,21 +317,45 @@
       "lon": 78.0,
       "count": 2,
       "story": {
-        "title": "‘Disgraceful’: Did India bully umpires to win Japan T20 cricket match?",
-        "description": "India survive a big scare against the hosts, beating them by two runs in a rain-hit T20 match in Sano, Japan.",
-        "link": "https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match?traffic_source=rss",
+        "title": "Indian MMA fighter refuses handshake after Asian Games ‘defeat’",
+        "description": "India’s first MMA medal at the Asian Games was overshadowed by controversy over the result.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/indian-mma-fighter-refuses-handshake-after-asian-games?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 2,
       "story": {
-        "title": "Iran war spreads through region as Trump seeks way out",
-        "description": "Washington, Tehran and the Gulf states continue to pursue different objectives while searching for a way to end the Iran war.",
-        "link": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-rdf",
+        "title": "Sudan’s historical famine echoes through latest hunger crisis",
+        "description": "Sudan’s war-driven famine revives memories of past famines as war drives displacement and food shortages.",
+        "link": "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "China watchers split on what Trump-Xi summit will deliver",
+        "description": "US President Donald Trump and Chinese President Xi Jinping are set for a highly anticipated summit in Washington. Some see the meeting as an opportunity to stabilise relations, while others caution that the carefully cho",
+        "link": "https://www.abc.net.au/news/2026-09-23/donald-trump-xi-jinping-meeting-washington-trade-ai/107179684",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 2,
+      "story": {
+        "title": "EU drops sanctions for Russian oligarchs Usmanov and Fridman",
+        "description": "France and Luxembourg were behind the sanctions exemptions for Alisher Usmanov and Mikhail Fridman, a move that Kyiv labeled \"shameful and unjustifiable.\"",
+        "link": "https://www.dw.com/en/eu-drops-sanctions-for-russian-oligarchs-usmanov-and-fridman/a-79381048?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -309,6 +369,18 @@
         "description": "The shooter, a pupil, allegedly took a rifle and shot indiscriminately at his schoolmates in front of their high school. Turkey was shocked by two back-to-back school shootings earlier this year.",
         "link": "https://www.dw.com/en/turkey-several-pupils-injured-in-shooting-outside-school/a-79368728?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 1,
+      "story": {
+        "title": "How Ceuta, football and Israel are shaping Morocco's election",
+        "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+        "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -336,30 +408,6 @@
       }
     },
     {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 1,
-      "story": {
-        "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
-        "description": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media.",
-        "link": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 1,
-      "story": {
-        "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-        "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-        "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Ireland",
       "lat": 53.14,
       "lon": -7.69,
@@ -368,6 +416,18 @@
         "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
         "description": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
         "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "What is the White House pool and why is it in a row with Trump?",
+        "description": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
+        "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -384,21 +444,45 @@
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
-        "description": "Turkish leader says UN has been forced into &#039;dysfunction&#039; and was &#039;bleeding out&#039; in Palestine, Lebanon, Sudan.",
-        "link": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss",
+        "title": "Trump admin asks top US court to reverse pro-Palestinian scholar’s release",
+        "description": "US solicitor general challenges lower court&#039;s ruling on Georgetown scholar&#039;s detention, sparking constitutional debates.",
+        "link": "https://www.aljazeera.com/news/2026/9/22/trump-admin-asks-top-us-court-to-reverse-pro-palestinian-scholars-release?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 1,
+      "story": {
+        "title": "Is Ethiopia heading towards renewed civil war?",
+        "description": "Seven armed groups announce alliance to topple government.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "European Union",
+      "lat": 50.85,
+      "lon": 4.35,
+      "count": 1,
+      "story": {
+        "title": "US signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
+        "description": "NATO and the European Union welcome accord that ends months-long standoff after Trump threatened to seize Greenland.",
+        "link": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
       "count": 1,
       "story": {
         "title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
@@ -432,62 +516,14 @@
       }
     },
     {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
       "count": 1,
       "story": {
-        "title": "Where is the US opening new military bases in Greenland?",
-        "description": "At least two new US bases will be established as part of a deal with Denmark and Greenland.",
-        "link": "https://www.aljazeera.com/news/2026/9/22/where-is-the-us-opening-new-military-bases-in?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
-      "count": 1,
-      "story": {
-        "title": "Jerusalem Daily: Israel besieges Palestinian town",
-        "description": "Israeli forces have effectively turned the Palestinian town of Biddu into military barracks.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/jerusalem-daily-israel-besieges-palestinian-town?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
-      "count": 1,
-      "story": {
-        "title": "Colombia eases gun restrictions despite fears of more violence",
-        "description": "Colombia has loosened gun laws after more than a decade of restrictions. Some fear it will lead to even more violence.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 1,
-      "story": {
-        "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
-        "description": "Iran’s delegation has arrived to New York for the UNGA where the war with the United States will be raised.",
-        "link": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Teen jailed over home invasion that traumatised Melbourne family",
-        "description": "A teenager linked to an aggravated home invasion in Melbourne's east that left a man with 11 stab wounds and permanent eye damage has been jailed for nearly three years.",
-        "link": "https://www.abc.net.au/news/2026-09-22/teenager-jailed-over-violent-kew-home-invasion/107181004",
+        "title": "Federal government urged not to let fire ant eradication funding lapse",
+        "description": "State agriculture ministers met in Canberra on Friday, where they noted fire ant eradication remained \"technically feasible, cost beneficial and in the national interest\".",
+        "link": "https://www.abc.net.au/news/2026-09-23/fire-ant-funding-invasive-species-council-agriculture-ministers/107181716",
         "source": "ABC News AU"
       }
     },
@@ -497,58 +533,22 @@
       "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "'Sophistication' spat over foot traffic decline in Adelaide CBD",
-        "description": "A drop-off in foot traffic in Adelaide's CBD prompts an exchange between the state's Property Council and the city council, which are at odds on parking and residential development.",
-        "link": "https://www.abc.net.au/news/2026-09-22/adelaide-cbd-foot-traffic-decline-exposed-in-council-data/107181662",
+        "title": "British backpacker left by Greyhound bus in outback roadhouse",
+        "description": "A British backpacker was on a Greyhound bus from Alice Springs to Adelaide when she was left at a toilet stop in the middle of the night.",
+        "link": "https://www.abc.net.au/news/2026-09-23/british-backpacker-left-by-greyhound-bus-at-pimba/107165168",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "War of words over Greens' proposal to co-locate data centres and pools",
-        "description": "A war of words has erupted over a suggestion from the ACT Greens that co-locating data centres with Canberra's public pools should be considered.",
-        "link": "https://www.abc.net.au/news/2026-09-22/act-greens-proposal-pair-data-centres-swimming-pools/107181808",
+        "title": "Central Victorian council votes to keep divisive public holiday",
+        "description": "The City of Greater Bendigo council  has voted to keep Bendigo Cup Day as the local public holiday for another five years, despite a push from local businesses to switch to Melbourne Cup Day.",
+        "link": "https://www.abc.net.au/news/2026-09-23/victoria-bendigo-public-holiday-cup-day-vote/107180598",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Iran war spreads through region as Trump seeks way out",
-        "description": "Washington, Tehran and the Gulf states continue to pursue different objectives while searching for a way to end the Iran war.",
-        "link": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 1,
-      "story": {
-        "title": "Mbappe misses France training with illness ahead of Nations League games",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/mbappe-misses-france-training-illness-ahead-nations-league-games-6402966",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Real Madrid call for new LaLiga president following Tebas statements",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/real-madrid-call-new-laliga-president-following-tebas-statements-6402956",
-        "source": "CNA"
       }
     }
   ]
