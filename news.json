@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:27:56+00:00",
+  "generated_at": "2026-09-23T14:22:09+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,27 +32,27 @@
   ],
   "australia": [
     {
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Eleven killed in mass shooting at house in South Africa",
       "description": "One of those killed is believed to be a pregnant woman, police said.",
       "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
-      "description": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
     {
-      "title": "UK economy will grow by less than expected next year, OECD says",
+      "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
       "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
       "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
@@ -72,14 +72,26 @@
   ],
   "places": [
     {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 13,
+      "story": {
+        "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
+        "description": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 12,
       "story": {
-        "title": "Oil platform 'a warning' as government considers new decommissioning rules",
-        "description": "The federal government is paying to keep an oil platform safe after its owners collapsed. The Cliff Head platform off the WA coast has raised fresh questions about the strength of Australia's offshore decommissioning law",
-        "link": "https://www.abc.net.au/news/2026-09-23/government-pays-for-collapsed-oil-platform-cliff-head-wa/107187262",
+        "title": "Half of young Australian adults now living with parents, up from 39 per cent in 2001, survey shows",
+        "description": "Half of all young Australians are still living with their parents, up from 39 per cent in 2001, new survey reveals",
+        "link": "https://www.abc.net.au/news/2026-09-24/hilda-survey-2026/107185914",
         "source": "ABC News AU"
       }
     },
@@ -87,7 +99,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 9,
+      "count": 11,
       "story": {
         "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
         "description": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
@@ -96,69 +108,21 @@
       }
     },
     {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 5,
+      "story": {
+        "title": "OpenAI gives cyber defence tools to Ukraine",
+        "description": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
+        "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
-      "story": {
-        "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-        "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
-        "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 9,
-      "story": {
-        "title": "A new skyline of data centres is rising in rural China",
-        "description": "The BBC visits Inner Mongolia, where Beijing's AI infrastructure is progressing at \"China speed\", says one worker.",
-        "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 6,
-      "story": {
-        "title": "Eleven killed in mass shooting at house in South Africa",
-        "description": "One of those killed is believed to be a pregnant woman, police said.",
-        "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 6,
-      "story": {
-        "title": "How Ceuta, football and Israel are shaping Morocco's election",
-        "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
-        "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 6,
-      "story": {
-        "title": "Germany news: Call to scrap once-a-day gas price rises",
-        "description": "The ADAC motoring association says a once-a-day rule on gas price changes has failed to help drivers' wallets. Entry-level jobs are becoming scarcer, making things hard for those entering the job market. DW has more.",
-        "link": "https://www.dw.com/en/germany-news-call-to-scrap-once-a-day-gas-price-rises/live-79382523?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
       "count": 5,
       "story": {
         "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
@@ -168,15 +132,15 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 5,
       "story": {
-        "title": "UK economy will grow by less than expected next year, OECD says",
-        "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-        "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Pakistan must ‘catch up’ with India in T20 cricket, says coach Hesson",
+        "description": "Pakistan could face India in the knockouts of the Asian Games, where the world champions won gold in 2023.",
+        "link": "https://www.aljazeera.com/sports/2026/9/23/pakistan-must-catch-up-with-india-in-t20-cricket-says-coach-hesson?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -192,10 +156,22 @@
       }
     },
     {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 4,
+      "story": {
+        "title": "Germany's oldest party, the center-left SPD, is in a difficult position following its success in the Mecklenburg-Western Pomerania state election",
+        "description": "Chancellor Friedrich Merz (CDU) has vowed to press ahead with controversial reforms, but resistance is mounting within his coalition partner, the SPD. How much dissent can a governing coalition tolerate?",
+        "link": "https://www.dw.com/en/germany-s-oldest-party-the-center-left-spd-is-in-a-difficult-position-following-its-success-in-the-mecklenburg-western-pomerania-state-election/a-79376827?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Reports of violence against women in Gaza surge, UN agency finds",
         "description": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
@@ -204,10 +180,22 @@
       }
     },
     {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 3,
+      "story": {
+        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+        "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+        "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
         "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
@@ -216,22 +204,46 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 4,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 3,
       "story": {
-        "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-        "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
-        "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+        "title": "How Ceuta, football and Israel are shaping Morocco's election",
+        "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+        "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 3,
+      "story": {
+        "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
+        "description": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 3,
+      "story": {
+        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
+        "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+        "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
         "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
@@ -240,75 +252,75 @@
       }
     },
     {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 3,
       "story": {
-        "title": "A new skyline of data centres is rising in rural China",
-        "description": "The BBC visits Inner Mongolia, where Beijing's AI infrastructure is progressing at \"China speed\", says one worker.",
-        "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "What Palestinian children endure in Israeli detention",
-        "description": "Every day, Fidaa Zalbani checks the room of her son, Mohammed, 17, tidying his bed and arranging untouched clothes.",
-        "link": "https://www.aljazeera.com/features/2026/9/23/inside-israels-prisons-what-palestinian-children-say-they-endure-in-deten?traffic_source=rss",
+        "title": "Can flurry of New York diplomacy lead to US-Iran diplomatic breakthrough?",
+        "description": "Analysts say a deal this week is unlikely - core disagreements between Washington and Tehran remain unresolved.",
+        "link": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
-      "count": 2,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 3,
       "story": {
-        "title": "US to build two military bases in Greenland under new deal with Denmark",
-        "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-        "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
-        "description": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
-        "link": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Syria’s al-Sharaa answers questions on Israel’s violations in Syria",
+        "description": "Syria’s President Ahmed al-Sharaa says Donald Trump should give New Jersey to Israel, instead of the Golan Heights.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/syrias-al-sharaa-answers-questions-on-israels-violations-in-syria?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "Qatar",
       "lat": 25.35,
       "lon": 51.18,
-      "count": 2,
+      "count": 3,
       "story": {
-        "title": "Qatar’s Dakar Rally champ Nasser Al-Attiyah wins Asian Games shooting gold",
-        "description": "Al-Attiyah is the first person to win a gold medal at the Games in the same year as his Dakar Rally triumph.",
-        "link": "https://www.aljazeera.com/sports/2026/9/23/qatars-dakar-rally-champ-nasser-al-attiyah-wins-asian-games-shooting-gold?traffic_source=rss",
+        "title": "Qatar on mediation efforts: ‘We can’t let diplomacy fail’",
+        "description": "Qatar’s Majed al-Ansari says Doha is determined to make diplomacy work to end the US-Iran conflict.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 2,
       "story": {
-        "title": "Pakistan’s latest Trump bet is on drone firm already selling to India",
-        "description": "The company&#039;s cofounder is also an ex-Israeli soldier. Pakistan does not recognise Israel.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+        "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+        "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
+      "story": {
+        "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+        "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+        "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 2,
+      "story": {
+        "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
+        "description": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -317,22 +329,22 @@
       "lon": 69.3,
       "count": 2,
       "story": {
-        "title": "Pakistan’s latest Trump bet is on drone firm already selling to India",
-        "description": "The company&#039;s cofounder is also an ex-Israeli soldier. Pakistan does not recognise Israel.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india?traffic_source=rss",
+        "title": "Pakistan must ‘catch up’ with India in T20 cricket, says coach Hesson",
+        "description": "Pakistan could face India in the knockouts of the Asian Games, where the world champions won gold in 2023.",
+        "link": "https://www.aljazeera.com/sports/2026/9/23/pakistan-must-catch-up-with-india-in-t20-cricket-says-coach-hesson?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Rome",
+      "lat": 41.9,
+      "lon": 12.5,
       "count": 2,
       "story": {
-        "title": "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
-        "description": "France&#039;s Macron says suffering in Gaza should &#039;shame all of us&#039; as Canada&#039;s Carney pledges $71m for two-state efforts.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Colosseum closed after worker dies in 10-metre fall",
+        "description": "A 22-year-old rope access worker dies while installing lights inside Rome's famed Colosseum.",
+        "link": "https://www.abc.net.au/news/2026-09-23/colosseum-worker-dies-after-10-metre-fall/107188496",
+        "source": "ABC News AU"
       }
     },
     {
@@ -341,10 +353,94 @@
       "lon": 13.4,
       "count": 2,
       "story": {
-        "title": "Young Berliners vote overwhelmingly for socialist Left  Party",
-        "description": "Berlin's young voters overwhelmingly supported the victorious socialist Left Party. Are the young more radical? Or are the election results just a reflection of current German politics?",
-        "link": "https://www.dw.com/en/young-berliners-vote-overwhelmingly-for-socialist-left-party/a-79375167?maca=en-rss-en-all-1573-rdf",
+        "title": "Munich, Berlin, Cologne-Rhine-Ruhr – Germany's three Olympic candidates",
+        "description": "Munich, Berlin, or the Cologne-Rhine-Ruhr region? Germany aims to host the Olympic Games again. Three candidates are in the running, with one city considered the slight favorite.",
+        "link": "https://www.dw.com/en/munich-berlin-cologne-rhine-ruhr-germany-s-three-olympic-candidates/a-79386915?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+        "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+        "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 1,
+      "story": {
+        "title": "Eleven killed in mass shooting at house in South Africa",
+        "description": "One of those killed is believed to be a pregnant woman, police said.",
+        "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 1,
+      "story": {
+        "title": "South Sudan's president dissolves government ahead of country's first elections",
+        "description": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
+        "link": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 1,
+      "story": {
+        "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
+        "description": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers.",
+        "link": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 1,
+      "story": {
+        "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+        "description": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
+        "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 1,
+      "story": {
+        "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
+        "description": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
+        "link": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
+      "count": 1,
+      "story": {
+        "title": "US to build two military bases in Greenland under new deal with Denmark",
+        "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+        "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -356,6 +452,18 @@
         "title": "How Ceuta, football and Israel are shaping Morocco's election",
         "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
         "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 1,
+      "story": {
+        "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+        "description": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
+        "link": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -384,50 +492,38 @@
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 1,
       "story": {
-        "title": "What is the White House pool and why is it in a row with Trump?",
-        "description": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
-        "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 1,
-      "story": {
-        "title": "Mirabai Chanu wins Asian Games silver as Ri breaks weightlifting record",
-        "description": "Chanu finally clinches an elusive Asian Games medal in Japan and Ri Song-gum wins North Korea’s first gold.",
-        "link": "https://www.aljazeera.com/sports/2026/9/23/mirabai-chanu-wins-asian-games-silver-as-ri-breaks-weightlifting-record?traffic_source=rss",
+        "title": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
+        "description": "UK to refuel Saudi fighter jets and France to secure energy infrastructure amid fighting with Yemen&#039;s Houthi group.",
+        "link": "https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 1,
       "story": {
-        "title": "Mirabai Chanu wins Asian Games silver as Ri breaks weightlifting record",
-        "description": "Chanu finally clinches an elusive Asian Games medal in Japan and Ri Song-gum wins North Korea’s first gold.",
-        "link": "https://www.aljazeera.com/sports/2026/9/23/mirabai-chanu-wins-asian-games-silver-as-ri-breaks-weightlifting-record?traffic_source=rss",
+        "title": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
+        "description": "UK to refuel Saudi fighter jets and France to secure energy infrastructure amid fighting with Yemen&#039;s Houthi group.",
+        "link": "https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Brussels",
-      "lat": 50.85,
-      "lon": 4.35,
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
       "count": 1,
       "story": {
-        "title": "Qatar says ‘no alternative to diplomacy’ as Belgium and Rwanda restore ties",
-        "description": "Doha lauded for mediating Brussels-Kigali rupture, showcasing its trusted role in international peace efforts.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/qatar-says-no-alternative-to-diplomacy-as-belgium-and-rwanda-restore-ties?traffic_source=rss",
+        "title": "AFCON 2027 qualifiers: Teams, top players, schedule, format, matches",
+        "description": "The 2027 Africa Cup of Nations will be held in Kenya, Uganda and Tanzania, with 24 qualification spots up for grabs.",
+        "link": "https://www.aljazeera.com/sports/2026/9/23/africa-cup-of-nations-afcon-2027-teams-schedule-salah-hakimi-mane?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -437,57 +533,9 @@
       "lon": 51.53,
       "count": 1,
       "story": {
-        "title": "Qatar says ‘no alternative to diplomacy’ as Belgium and Rwanda restore ties",
-        "description": "Doha lauded for mediating Brussels-Kigali rupture, showcasing its trusted role in international peace efforts.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/qatar-says-no-alternative-to-diplomacy-as-belgium-and-rwanda-restore-ties?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Islamabad",
-      "lat": 33.7,
-      "lon": 73.06,
-      "count": 1,
-      "story": {
-        "title": "Pakistan seals roads to Islamabad before protests for Imran Khan’s release",
-        "description": "Police close major highways into Islamabad as supporters of jailed former prime minister plan to march into the capital.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/pakistan-seals-islamabad-roads-before-protests-for-imran-khans-release?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
-      "story": {
-        "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
-        "description": "Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 1,
-      "story": {
-        "title": "Venezuelans protest interim leader Delcy Rodriguez at UN headquarters",
-        "description": "Venezuelans protested in New York against interim President Delcy Rodriguez&#039;s participation in the UN General Assembly.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/aje-onl-nf_venezuelans-protest-delcy-rodriguez-at-unga-220926?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "South Sudan’s Kiir dissolves government ahead of first national elections",
-        "description": "President&#039;s move clears hurdles to long delayed election and raises concern he can now wield unchecked power.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/south-sudan-dissolves-government-ahead-of-first-ever-national-elections?traffic_source=rss",
+        "title": "Qatar on mediation efforts: ‘We can’t let diplomacy fail’",
+        "description": "Qatar’s Majed al-Ansari says Doha is determined to make diplomacy work to end the US-Iran conflict.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -500,54 +548,6 @@
         "title": "Canberrans told to direct anger at Trump over nation's most costly fuel",
         "description": "An inquiry into the capital's high fuel prices will examine why ACT motorists pay more for fuel than people just over the border in New South Wales.",
         "link": "https://www.abc.net.au/news/2026-09-23/barr-blames-trump-for-canberra-fuel-costs/107187258",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "Snowtown murderer moves to pre-release centre after being granted parole",
-        "description": "One of the Snowtown serial killers James Vlassakis is today being transferred to Adelaide Pre-release Centre, marking the first step towards his release into the community.",
-        "link": "https://www.abc.net.au/news/2026-09-23/snowtown-killer-james-vlassakis-transfers-to-pre-release-centre/107184478",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Self-proclaimed 'Coconut Cartel' boss survives attack on his life in Spain",
-        "description": "Sydney underworld figure and \"Coconut Cartel\" boss Iziah Utai has survived an attempt on his life overseas in Europe, sources have told the ABC.",
-        "link": "https://www.abc.net.au/news/2026-09-23/coconut-cartel-iziah-utai-shooting-attempt-marbella-spain/107187206",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Residents near huge data centre demand financial compensation",
-        "description": "A Senate inquiry into artificial intelligence and data centres hears from residents and local councils about the impact of an influx of data centres in Melbourne's suburbs.",
-        "link": "https://www.abc.net.au/news/2026-09-23/senate-inquiry-probes-ai-data-centre-affects-on-communities/107185098",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "'Cannot be saved': Satterley's Perth Hills estate plan rejected",
-        "description": "Controversial plans to develop a town site in a bushfire prone area in the Perth Hills have been stifled by Western Australia's administrative tribunal, which found the proposal was so fundamentally flawed that it could ",
-        "link": "https://www.abc.net.au/news/2026-09-23/satterley-perth-hills-development-plan-rejected-/107185328",
         "source": "ABC News AU"
       }
     }
