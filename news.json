@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T18:33:03+00:00",
+  "generated_at": "2026-09-23T22:09:08+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -52,12 +52,6 @@
   ],
   "economy": [
     {
-      "title": "White House rolling out red carpet for historic Xi Jinping visit",
-      "description": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
       "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
       "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
@@ -68,50 +62,32 @@
       "description": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
       "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
+      "description": "Three 20-somethings tell BBC News how they are navigating life without parental support.",
+      "link": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "places": [
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 11,
-      "story": {
-        "title": "Iran's president tells Trump it will never 'bend the knee'",
-        "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-        "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
     {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
       "count": 11,
       "story": {
-        "title": "Quiz: How well do you know Australian theatre?",
-        "description": "Know your David Williamson from your Ray Lawler? Your Fangirls from your Trophy Boys? Test your knowledge with our Australian theatre quiz.",
-        "link": "https://www.abc.net.au/news/2026-09-24/quiz-australian-theatre-top-100-books/107178400",
+        "title": "Brooks & Dunn, Eric Church lead CMC Rocks 20th anniversary",
+        "description": "Country icons and up-and-coming stars will make the 20th anniversary of Australia's beloved country music festival unforgettable.",
+        "link": "https://www.abc.net.au/news/2026-09-24/cmc-rocks-festival-line-up-2027-country-music-brooks-dunn/107186434",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 10,
-      "story": {
-        "title": "How Ceuta, football and Israel are shaping Morocco's election",
-        "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
-        "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 8,
+      "count": 9,
       "story": {
         "title": "Poland accuses Russian military helicopter of violating its airspace",
         "description": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
@@ -120,22 +96,10 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 7,
-      "story": {
-        "title": "OpenAI gives cyber defence tools to Ukraine",
-        "description": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
-        "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 6,
+      "count": 8,
       "story": {
         "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
         "description": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
@@ -144,10 +108,58 @@
       }
     },
     {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 7,
+      "story": {
+        "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+        "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+        "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 6,
+      "story": {
+        "title": "Iran's president tells Trump it will never 'bend the knee'",
+        "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+        "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 6,
+      "story": {
+        "title": "How Ceuta, football and Israel are shaping Morocco's election",
+        "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+        "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 5,
+      "story": {
+        "title": "Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’",
+        "description": "Ukrainian president urges world leaders to keep choking Russia&#039;s revenues to impede its war efforts.",
+        "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Ethiopia",
       "lat": 9.15,
       "lon": 40.49,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
         "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
@@ -156,27 +168,15 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 5,
-      "story": {
-        "title": "Germany's oldest party, the center-left SPD, is in a difficult position following its success in the Mecklenburg-Western Pomerania state election",
-        "description": "Chancellor Friedrich Merz (CDU) has vowed to press ahead with controversial reforms, but resistance is mounting within his coalition partner, the SPD. How much dissent can a governing coalition tolerate?",
-        "link": "https://www.dw.com/en/germany-s-oldest-party-the-center-left-spd-is-in-a-difficult-position-following-its-success-in-the-mecklenburg-western-pomerania-state-election/a-79376827?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 4,
       "story": {
-        "title": "Reports of violence against women in Gaza surge, UN agency finds",
-        "description": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
-        "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Israel’s ambassador to the US says son injured in West Bank car-ramming",
+        "description": "Palestinian shot dead as Israel&#039;s ambassador to the US identifies injured soldier as his son.",
+        "link": "https://www.aljazeera.com/news/2026/9/23/israels-ambassador-to-the-us-says-son-injured-in-west-bank-car-ramming?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -185,57 +185,33 @@
       "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Heeney 'extremely thankful' after addressing entire Swans club on return",
-        "description": "Isaac Heeney speaks publicly for the first time since he was banned by Sydney for breaching the club's standards after the Swans season came to an end.",
-        "link": "https://www.abc.net.au/news/2026-09-23/afl-sydney-swans-banned-players-heeney-blakey-warner-speak/107187988",
+        "title": "Why this beach was named Sydney's cleanest",
+        "description": "This spot on the city's northern beaches has been named the cleanest, while another popular Sydney beach is given a \"poor\" rating for the fifth year running.",
+        "link": "https://www.abc.net.au/news/2026-09-24/nsw-cleanest-beaches-revealed/107188672",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 3,
-      "story": {
-        "title": "White House rolling out red carpet for historic Xi Jinping visit",
-        "description": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
-        "link": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "Board of Peace plans $2.4bn Gaza reconstruction as Israel kills seven",
-        "description": "Violations against Palestinians in Gaza continue even as world leaders call on Israel to adhere to ceasefire deal.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 3,
-      "story": {
-        "title": "Syria’s al-Sharaa warns Israeli attacks endanger delicate post-war recovery",
-        "description": "President Ahmed al-Sharaa calls for Israeli withdrawal, condemning its attacks as Syria emerges from civil war.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
-      "count": 3,
+      "count": 4,
       "story": {
-        "title": "Could a Left Party government in Berlin expropriate large real estate companies?",
-        "description": "The socialist Left Party won the Berlin election partly on the promise to implement the city's 2021 expropriation referendum as a way to solve the city's rent crisis. But can it really happen?",
-        "link": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683?maca=en-rss-en-all-1573-rdf",
+        "title": "Berlin Airport briefly suspends flights over drone sighting",
+        "description": "Airspace over the German capital was closed for about 45 minutes after a drone was spotted on the runway. Flights have resumed but are experiencing delays.",
+        "link": "https://www.dw.com/en/berlin-airport-briefly-suspends-flights-over-drone-sighting/a-79403865?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 4,
+      "story": {
+        "title": "Germany's oldest party, the center-left SPD, is in a difficult position following its success in the Mecklenburg-Western Pomerania state election",
+        "description": "Chancellor Friedrich Merz (CDU) has vowed to press ahead with controversial reforms, but resistance is mounting within his coalition partner, the SPD. How much dissent can a governing coalition tolerate?",
+        "link": "https://www.dw.com/en/germany-s-oldest-party-the-center-left-spd-is-in-a-difficult-position-following-its-success-in-the-mecklenburg-western-pomerania-state-election/a-79376827?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -243,11 +219,23 @@
       "name": "Madrid",
       "lat": 40.42,
       "lon": -3.7,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
         "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
         "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 3,
+      "story": {
+        "title": "Federal judge delays ruling on White House media ban",
+        "description": "During a roughly 45-minute hearing, a lawyer for CNN, Politico and MS NOW disputed Trump administration arguments that the ban was over national security concerns.",
+        "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -264,26 +252,14 @@
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
-        "description": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
-        "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
-      "count": 2,
-      "story": {
-        "title": "US to build two military bases in Greenland under new deal with Denmark",
-        "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-        "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+        "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
+        "description": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -312,62 +288,14 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 2,
       "story": {
-        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-        "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-        "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 2,
-      "story": {
-        "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-        "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-        "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
-      "count": 2,
-      "story": {
-        "title": "Portugal vs Wales: UEFA Nations League – teams, start, lineups, Ronaldo",
-        "description": "Portugal bring their Nations League defence against Wales, with Cristiano Ronaldo eyeing 1,000 goals before retirement.",
-        "link": "https://www.aljazeera.com/sports/2026/9/23/portugal-vs-wales-uefa-nations-league-teams-start-lineups?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Rome",
-      "lat": 41.9,
-      "lon": 12.5,
-      "count": 2,
-      "story": {
-        "title": "Colosseum closed after worker dies in 10-metre fall",
-        "description": "A 22-year-old rope access worker dies while installing lights inside Rome's famed Colosseum.",
-        "link": "https://www.abc.net.au/news/2026-09-23/colosseum-worker-dies-after-10-metre-fall/107188496",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "White House rolling out red carpet for historic Xi Jinping visit",
-        "description": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
-        "link": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
+        "description": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
+        "link": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -392,30 +320,6 @@
         "title": "Eleven killed in mass shooting at house in South Africa",
         "description": "One of those killed is believed to be a pregnant woman, police said.",
         "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 1,
-      "story": {
-        "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
-        "description": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
-        "link": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "South Sudan's president dissolves government ahead of country's first elections",
-        "description": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
-        "link": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -468,38 +372,50 @@
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 1,
       "story": {
-        "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
-        "description": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
-        "link": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
+        "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+        "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
+      "name": "Tunis",
+      "lat": 36.81,
+      "lon": 10.18,
       "count": 1,
       "story": {
-        "title": "Jerusalem Daily: World leaders condemn Israel at UN",
-        "description": "Palestinians protest Israel’s prison visit bans as settler pogroms continue across the occupied West Bank.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/jerusalem-daily-world-leaders-condemn-israel-at-un?traffic_source=rss",
+        "title": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+        "description": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.",
+        "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
+      "name": "Tunisia",
+      "lat": 33.89,
+      "lon": 9.54,
       "count": 1,
       "story": {
-        "title": "Israel’s destruction leaves Lebanon’s border villages in ruins",
-        "description": "Israel’s destruction leaves Lebanon’s border villages in ruins",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/israels-destruction-leaves-lebanons-border-villages-in-ruins?traffic_source=rss",
+        "title": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+        "description": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.",
+        "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ghana",
+      "lat": 7.95,
+      "lon": -1.02,
+      "count": 1,
+      "story": {
+        "title": "Ivory Coast vs Ghana: AFCON 2027 qualifier, kick-off time, lineups, teams",
+        "description": "A star-studded opening to AFCON 2027 qualifying sees Real Madrid&#039;s Yan Diomande lead Ivory Coast against depleted Ghana.",
+        "link": "https://www.aljazeera.com/sports/2026/9/23/ivory-coast-vs-ghana-caf-afcon-qualifier-prediction-teams-lineups?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -509,46 +425,130 @@
       "lon": -63.6,
       "count": 1,
       "story": {
-        "title": "Argentina to UN: Falkland Islands are a ‘national cause’",
-        "description": "Argentina’s President Javier Milei says the “principle of self-determination does not apply&quot; to the Falkland Islands.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/argentina-to-un-falkland-islands-are-a-national?traffic_source=rss",
+        "title": "Argentina’s Milei says UN ‘looking the other way’ on Falkland Islands",
+        "description": "Argentina steps up its Las Malvinas claim as tensions with the UK grow over offshore oil drilling.",
+        "link": "https://www.aljazeera.com/news/2026/9/23/milei-says-un-looking-the-other-way-on-falkland-islands-dispute?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
       "count": 1,
       "story": {
-        "title": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
-        "description": "UK to refuel Saudi fighter jets and France to secure energy infrastructure amid fighting with Yemen&#039;s Houthi group.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis?traffic_source=rss",
+        "title": "US open to Cuba talks on government change, Marco Rubio says",
+        "description": "Marco Rubio made comments after Trump called Cuba a &#039;failed state&#039; at the UN, prompting Cuban delegation to walk out.",
+        "link": "https://www.aljazeera.com/news/2026/9/23/us-says-it-is-open-to-talks-with-cuba-if-it-changes-government?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
       "count": 1,
       "story": {
-        "title": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
-        "description": "UK to refuel Saudi fighter jets and France to secure energy infrastructure amid fighting with Yemen&#039;s Houthi group.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis?traffic_source=rss",
+        "title": "Wolfsburg terminate Christian Eriksen’s football contract by mutual consent",
+        "description": "The 34-year-old has been recovering from an on-pitch collapse in June during a friendly between Denmark and Ukraine.",
+        "link": "https://www.aljazeera.com/sports/2026/9/23/wolfsburg-terminate-christian-eriksens-contract-by-mutual-consent?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 1,
       "story": {
-        "title": "Canberrans told to direct anger at Trump over nation's most costly fuel",
-        "description": "An inquiry into the capital's high fuel prices will examine why ACT motorists pay more for fuel than people just over the border in New South Wales.",
-        "link": "https://www.abc.net.au/news/2026-09-23/barr-blames-trump-for-canberra-fuel-costs/107187258",
-        "source": "ABC News AU"
+        "title": "Pakistan's jailed former PM Khan's sons told DW the authorities are cracking down ahead of new PTI protests",
+        "description": "The sons of jailed Pakistani ex-PM Imran Khan told DW their father is in ill health while being isolated from family and doctors. Other relatives have been detained ahead of a planned opposition protest.",
+        "link": "https://www.dw.com/en/pakistan-s-jailed-former-pm-khan-s-sons-told-dw-the-authorities-are-cracking-down-ahead-of-new-pti-protests/a-79392147?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Rome",
+      "lat": 41.9,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "Rome's Colosseum closes after worker falls to his death",
+        "description": "The man had been working on a new lighting installation in the iconic Roman amphitheater. Italian authorities said they were working on determining the circumstances of the accident.",
+        "link": "https://www.dw.com/en/rome-s-colosseum-closes-after-worker-falls-to-his-death/a-79387180?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Budapest",
+      "lat": 47.5,
+      "lon": 19.04,
+      "count": 1,
+      "story": {
+        "title": "Hungary: EU Commission wants to unblock €4.2b in funding",
+        "description": "The Commission's president has argued that Budapest is strengthening the rule of law with Viktor Orban finally out of office. Funds had been blocked over corruption allegations under Hungary's former government.",
+        "link": "https://www.dw.com/en/hungary-eu-commission-wants-to-unblock-€4-2b-in-funding/a-79386848?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Hungary",
+      "lat": 47.16,
+      "lon": 19.5,
+      "count": 1,
+      "story": {
+        "title": "Hungary: EU Commission wants to unblock €4.2b in funding",
+        "description": "The Commission's president has argued that Budapest is strengthening the rule of law with Viktor Orban finally out of office. Funds had been blocked over corruption allegations under Hungary's former government.",
+        "link": "https://www.dw.com/en/hungary-eu-commission-wants-to-unblock-€4-2b-in-funding/a-79386848?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 1,
+      "story": {
+        "title": "Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor",
+        "description": "Food supplies to the town of Oleshky in the occupied part of the southern Kherson region have been cut off since May. Efforts by Kyiv to negotiate the evacuation of civilians with Moscow have been largely unsuccessful.",
+        "link": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
+      "count": 1,
+      "story": {
+        "title": "Commentary: Return of tensions in the South China Sea was a matter of time",
+        "description": "Clashes on the water between China and the Philippines have become sharper and more frequent after two years of relative quiet, says Andrew Chubb from the Asia Society Policy Institute.",
+        "link": "https://www.channelnewsasia.com/commentary/south-china-sea-philippines-clash-injury-control-6405116",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 1,
+      "story": {
+        "title": "Trump threatens to rename Lake Ontario as Canada hits back at US tariffs",
+        "description": "Prime Minister Mark Carney says Canada won't be subordinated as 50 per cent US tariffs trigger a CAD$5.4 billion ($5.4 billion) aid package.",
+        "link": "https://www.sbs.com.au/news/article/trump-lake-america-ontario-canada-trade-war-tariffs/o7udweihr",
+        "source": "SBS News"
+      }
+    },
+    {
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
+      "count": 1,
+      "story": {
+        "title": "Eurovision faces fresh scrutiny as the Netherlands withdraws over Gaza tensions",
+        "description": "Earlier this month, Eurovision announced that countries involved in armed conflict would not be considered for hosting the competition.",
+        "link": "https://www.sbs.com.au/news/article/eurovision-faces-fresh-scrutiny-netherlands-withdraws/b3mc38t5t",
+        "source": "SBS News"
       }
     }
   ]
