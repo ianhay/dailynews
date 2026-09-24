@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T20:19:57+00:00",
+  "generated_at": "2026-09-24T23:20:22+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -72,10 +72,22 @@
   ],
   "places": [
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 14,
+      "story": {
+        "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+        "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+        "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 17,
+      "count": 13,
       "story": {
         "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
         "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
@@ -84,27 +96,27 @@
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 9,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 7,
       "story": {
-        "title": "White House restores access to media outlets banned by Trump after judge's order",
-        "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
-        "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+        "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+        "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 9,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 7,
       "story": {
-        "title": "Israel moves to ban main Palestinian-led lists from election",
-        "description": "Israel’s election panel has voted to disqualify the two main Palestinian-led lists from next month’s election.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+        "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+        "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -120,26 +132,14 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
       "count": 7,
       "story": {
-        "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
-        "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
-        "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 7,
-      "story": {
-        "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-        "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-        "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+        "title": "Iran's president tells Trump it will never 'bend the knee'",
+        "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+        "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,26 +156,38 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 6,
       "story": {
-        "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-        "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-        "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+        "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+        "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 6,
       "story": {
-        "title": "Iran's president tells Trump it will never 'bend the knee'",
-        "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-        "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+        "title": "Site renowned for helping build Sydney Harbour Bridge in $1b energy showdown",
+        "description": "The proponents of a $1 billion waste processing facility near Mudgee are preparing for a battle with the NSW government over its energy-from-waste framework, as locals are divided.",
+        "link": "https://www.abc.net.au/news/2026-09-25/cenagen-kandos-cement-works-energy-waste-dispute/107175614",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 5,
+      "story": {
+        "title": "White House restores access to media outlets banned by Trump after judge's order",
+        "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,14 +204,14 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 5,
       "story": {
-        "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-        "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
-        "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+        "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+        "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -207,24 +219,12 @@
       "name": "Poland",
       "lat": 51.9,
       "lon": 19.1,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
         "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
         "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "Breaking: Police officer in marked vehicle killed in Sydney crash",
-        "description": "A female police officer is killed when a marked vehicle she had been travelling in crashes in Sydney's inner west.",
-        "link": "https://www.abc.net.au/news/2026-09-25/sydney-police-officer-in-marked-vehicle-killed-in-crash/107194272",
-        "source": "ABC News AU"
       }
     },
     {
@@ -237,6 +237,18 @@
         "description": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
         "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 3,
+      "story": {
+        "title": "Trump and Xi hold critical talks at White House summit",
+        "description": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -276,15 +288,27 @@
       }
     },
     {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 2,
       "story": {
-        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-        "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-        "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
+        "description": "Zinedine Zidane brings &#039;aura&#039; to his first France game as coach, against Turkiye in Nations League",
+        "link": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ghana",
+      "lat": 7.95,
+      "lon": -1.02,
+      "count": 2,
+      "story": {
+        "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
+        "description": "DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.",
+        "link": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -300,38 +324,38 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
       "count": 2,
       "story": {
-        "title": "Saudi-led coalition says shot down 6 ballistic missiles launched by Houthis",
-        "description": "Yemen&#039;s Houthis said they targeted a &#039;sensitive&#039; site in Saudi Arabia with missiles and drones.",
-        "link": "https://www.aljazeera.com/news/2026/9/24/saudi-led-coalition-says-shot-down-6-ballistic-missiles-launched-by-houthis?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Man dies after being found with life-threatening injuries in Qld home",
+        "description": "Queensland police are investigating what they have described as the sudden death of man in his 80s more than 400 kilometres west of Brisbane.",
+        "link": "https://www.abc.net.au/news/2026-09-25/police-investigate-mans-sudden-death-in-surat/107194526",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
       "count": 2,
       "story": {
-        "title": "Trump and Xi hold US-China talks in Oval Office",
-        "description": "The presidents of the world's two largest economies are in Washington for what Donald Trump has billed a \"big day.\" Bilateral trade, AI and geopolitics are all on the menu. Follow DW for the latest.",
-        "link": "https://www.dw.com/en/trump-and-xi-hold-us-china-talks-in-oval-office/live-79404511?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Brazil’s big-name squad meets mega hype from soccer fanatics",
+        "description": "Football fans have welcomed some of the world's most famous players to a regional city known for its love of another code.",
+        "link": "https://www.abc.net.au/news/2026-09-25/brazilian-community-in-townsville-prepares-for-socceroos-brazil/107190624",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
       "count": 2,
       "story": {
-        "title": "'Pope fever' takes hold as Pope Leo visits France",
-        "description": "Pope Leo XIV is expected to draw huge crowds during his visit to France. As part of his trip, he's also set to address Europe's future and some of the challenges ahead.",
-        "link": "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
+        "title": "Jürgen Klopp starts Germany job with shaky Netherlands draw",
+        "description": "A late Netherlands goal denied Jürgen Klopp a win in his first match as Germany coach. The former Liverpool and Borussia Dortmund boss has big ambitions, but the game showed he's going to need more time to achieve them.",
+        "link": "https://www.dw.com/en/jürgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -356,6 +380,18 @@
         "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
         "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
         "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
+      "count": 1,
+      "story": {
+        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+        "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+        "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -408,6 +444,54 @@
       }
     },
     {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 1,
+      "story": {
+        "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
+        "description": "DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.",
+        "link": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Croatia",
+      "lat": 45.1,
+      "lon": 15.2,
+      "count": 1,
+      "story": {
+        "title": "Croatian court approves extradition in Nord Stream bombing case",
+        "description": "Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.",
+        "link": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Taiwan",
+      "lat": 23.7,
+      "lon": 121.0,
+      "count": 1,
+      "story": {
+        "title": "Trump and Xi hold critical talks at White House summit",
+        "description": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
+      "count": 1,
+      "story": {
+        "title": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
+        "description": "Joao Felix nets the only goal of the game, while Cristiano Ronaldo has an effort ruled out, as Portugal beat Wales 1-0.",
+        "link": "https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Jerusalem",
       "lat": 31.78,
       "lon": 35.22,
@@ -432,39 +516,15 @@
       }
     },
     {
-      "name": "Ghana",
-      "lat": 7.95,
-      "lon": -1.02,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 1,
       "story": {
-        "title": "LIVE: Ivory Coast vs Ghana – AFCON qualifying",
-        "description": "Follow updates, build-up, team news and lineups, from our live text commentary stream coverage as Yan Diomande stars.",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-ivory-coast-vs-ghana-afcon-qualifying?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
-      "count": 1,
-      "story": {
-        "title": "LIVE: Portugal vs Wales – UEFA Nations League",
-        "description": "Follow updates, with build-up, team news and lineups, from our live text commentary stream coverage as Ronaldo stars.",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-portugal-vs-wales-uefa-nations-league?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 1,
-      "story": {
-        "title": "Why are Ireland vs Israel football matches so controversial?",
-        "description": "Ireland and Israel will play two football matches despite growing Irish calls for a boycott due to the genocide in Gaza.",
-        "link": "https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Incredible catch helps South Africa beat Australia in one-day clash",
+        "description": "Marco Jansen takes a catch that needs to be seen to be believed, halting Australia's spirited chase of 298 in the process.",
+        "link": "https://www.abc.net.au/news/2026-09-25/cricket-marco-jansen-catch-south-africa-vs-australia-1st-odi/107194290",
+        "source": "ABC News AU"
       }
     },
     {
@@ -480,54 +540,6 @@
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "Socceroos vs Brazil, everything you need to know",
-        "description": "Everything you need to know as the youthful Socceroos take on a Brazil team on the rebuild under legendary coach Carlo Ancelotti in Queensland, with international friendlies in Townsville and Brisbane.",
-        "link": "https://www.abc.net.au/news/2026-09-25/socceroos-brazil-how-to-watch-when-is-it-where/107189714",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 1,
-      "story": {
-        "title": "Socceroos vs Brazil, everything you need to know",
-        "description": "Everything you need to know as the youthful Socceroos take on a Brazil team on the rebuild under legendary coach Carlo Ancelotti in Queensland, with international friendlies in Townsville and Brisbane.",
-        "link": "https://www.abc.net.au/news/2026-09-25/socceroos-brazil-how-to-watch-when-is-it-where/107189714",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 1,
-      "story": {
-        "title": "Monochrome magic to the allure of aluminium: The art of portraiture",
-        "description": "From early Roman-Egyptian portraits to the selfie, people seem to have an enduring fascination with the human face. But what draws us to this art form? We talk to the semifinalists of Portrait Artist of the Year to find ",
-        "link": "https://www.abc.net.au/news/2026-09-25/the-art-of-portraiture/107176888",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Rome",
-      "lat": 41.9,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Monochrome magic to the allure of aluminium: The art of portraiture",
-        "description": "From early Roman-Egyptian portraits to the selfie, people seem to have an enduring fascination with the human face. But what draws us to this art form? We talk to the semifinalists of Portrait Artist of the Year to find ",
-        "link": "https://www.abc.net.au/news/2026-09-25/the-art-of-portraiture/107176888",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Kremlin",
       "lat": 55.75,
       "lon": 37.62,
@@ -536,18 +548,6 @@
         "title": "Three-way battle for power in world chess: Who will be elected FIDE president in Samarkand?",
         "description": "The era of Russian presidents is coming to an end at the World Chess Federation (FIDE). Two Germans and one Kazakh are up for election. Among the issues at play are money, Kremlin influence, and unanswered questions.",
         "link": "https://www.dw.com/en/three-way-battle-for-power-in-world-chess-who-will-be-elected-fide-president-in-samarkand/a-79413301?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 1,
-      "story": {
-        "title": "EU to condemn war in Ukraine at G20 even if Putin attends",
-        "description": "Russian President Vladimir Putin has been invited to the G20 summit in Miami by the United States. Multiple members of the group have called for Moscow's exclusion over its invasion of Ukraine.",
-        "link": "https://www.dw.com/en/eu-to-condemn-war-in-ukraine-at-g20-even-if-putin-attends/a-79413317?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
