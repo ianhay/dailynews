@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:36:08+00:00",
+  "generated_at": "2026-09-24T16:54:58+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "description": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "'Make women feel seen': Why the Dutch have a new word for labia",
       "description": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
       "link": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
@@ -22,12 +28,6 @@
       "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
       "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-      "description": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "australia": [
@@ -38,15 +38,15 @@
       "source": "BBC News"
     },
     {
-      "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-      "description": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "description": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+      "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -84,38 +84,14 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 11,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 8,
       "story": {
-        "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-        "description": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
-        "link": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 7,
-      "story": {
-        "title": "Iran's president tells Trump it will never 'bend the knee'",
-        "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-        "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 6,
-      "story": {
-        "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
-        "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
-        "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+        "title": "White House restores access to media outlets banned by Trump after judge's order",
+        "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -123,11 +99,23 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 6,
+      "count": 7,
       "story": {
-        "title": "Poland accuses Russian military helicopter of violating its airspace",
-        "description": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
-        "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+        "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+        "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 7,
+      "story": {
+        "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+        "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+        "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -137,10 +125,34 @@
       "lon": 10.4,
       "count": 6,
       "story": {
-        "title": "Germany news: Bundestag to discuss opt-out organ donation",
-        "description": "Parliamentarians debate whether to change Germany's organ donation scheme amid a lack of supply. They will also consider reforms to expand the power of intelligence agencies. DW has more.",
-        "link": "https://www.dw.com/en/germany-news-bundestag-to-discuss-opt-out-organ-donation/live-79406294?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+        "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+        "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 5,
+      "story": {
+        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+        "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+        "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 5,
+      "story": {
+        "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+        "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+        "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -149,9 +161,9 @@
       "lon": 78.0,
       "count": 5,
       "story": {
-        "title": "Indians are discovering the thrill of shopping without paying",
-        "description": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
-        "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+        "title": "Why India's Election Commission is in the eye of a storm - again",
+        "description": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
+        "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -159,7 +171,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "How Ceuta, football and Israel are shaping Morocco's election",
         "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
@@ -168,38 +180,50 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
       "count": 4,
       "story": {
-        "title": "Russian attacks kill eight people across Ukraine as US steps up diplomacy",
-        "description": "US and Russia engage in urgent talks to reduce war&#039;s impact on global energy during UN General Assembly.",
-        "link": "https://www.aljazeera.com/news/2026/9/24/russian-attacks-kill-eight-people-across-ukraine-as-us-steps-up-diplomacy?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Iran's president tells Trump it will never 'bend the knee'",
+        "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+        "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "‘Source of anxiety’: Pakistan cracks down before march to free Imran Khan",
-        "description": "The government has blocked highways to the capital and set up container barriers in preparation for the PTI protest.",
-        "link": "https://www.aljazeera.com/news-analysis/2026/9/24/source-of-anxiety-pakistan-cracks-down-before-march-to-free-imran-khan?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Boy, 11, dies days after being shot in the head at Sydney home",
+        "description": "An 11-year-old boy died several days after he was shot in the head at a home in Sydney's north-west.",
+        "link": "https://www.abc.net.au/news/2026-09-24/11-year-old-boy-shot-in-head-at-sydney-norwest-home-dies/107184260",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 3,
       "story": {
-        "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
-        "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
-        "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+        "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+        "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 3,
+      "story": {
+        "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+        "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+        "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -213,42 +237,6 @@
         "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
         "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 3,
-      "story": {
-        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-        "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-        "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
-      "story": {
-        "title": "Japan’s Ohashi breaks 200m breaststroke world record at Asian Games",
-        "description": "Shin Ohashi, 17, claims his second Asian Games gold with his record-breaking effort in front of a thrilled home crowd.",
-        "link": "https://www.aljazeera.com/sports/2026/9/24/japans-ohashi-breaks-200m-breaststroke-world-record-at-asian-games?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 3,
-      "story": {
-        "title": "US judge blocks Trump’s White House ban on CNN, MS NOW, and Politico",
-        "description": "Trump-nominated judge rules that outlets are likely to succeed in claim they were denied due process.",
-        "link": "https://www.aljazeera.com/news/2026/9/24/us-judge-blocks-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -269,154 +257,46 @@
       "lon": 13.4,
       "count": 3,
       "story": {
-        "title": "Berlin Airport briefly suspends flights over drone sighting",
-        "description": "Airspace over the German capital was closed for about 45 minutes after a drone was spotted on the runway. Flights have resumed but are experiencing delays.",
-        "link": "https://www.dw.com/en/berlin-airport-briefly-suspends-flights-over-drone-sighting/a-79403865?maca=en-rss-en-all-1573-rdf",
+        "title": "Germany news: Berlin officially withdraws Olympics bid",
+        "description": "Berlin's decision to withdraw its Olympic bid means that only Munich and the western Rhine/Ruhr region are left in the running as potential Olympic hosts. DW has more.",
+        "link": "https://www.dw.com/en/germany-news-berlin-officially-withdraws-olympics-bid/live-79406294?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 2,
       "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
+        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
+        "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+        "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
+      "name": "Hong Kong",
+      "lat": 22.32,
+      "lon": 114.17,
       "count": 2,
       "story": {
-        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-        "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-        "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 2,
-      "story": {
-        "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
-        "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
-        "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 2,
-      "story": {
-        "title": "Poland accuses Russian military helicopter of violating its airspace",
-        "description": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
-        "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 2,
-      "story": {
-        "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
-        "description": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
-        "link": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
-        "description": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
-        "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Gaza watches Israel’s elections with fear and antipathy",
-        "description": "Palestinians are following the campaign, but few feel next month&#039;s vote will make their lives any better.",
-        "link": "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss",
+        "title": "Has China received US F-35 parts by diverting an Australian shipment?",
+        "description": "Australia and US investigate F-35 parts mistakenly sent to Hong Kong amid concerns over sensitive military technology.",
+        "link": "https://www.aljazeera.com/news/2026/9/24/has-china-received-us-f-35-parts-by-diverting-an-australian-shipment?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "Self-described 'evil' man avoids jail for wire traps on bike path",
-        "description": "Levi Young-Henderson, 20, receives a suspended sentence for setting wire traps on an Adelaide bike path in 2025.",
-        "link": "https://www.abc.net.au/news/2026-09-24/levi-young-henderson-adelaide-bike-path-wire-traps-sentence/107192422",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 2,
-      "story": {
-        "title": "Malaysia's IHH's unit appeals dismissal of Daiichi Sankyo damages claim",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/business/malaysias-ihhs-unit-appeals-dismissal-daiichi-sankyo-damages-claim-6408241",
+        "title": "Scaffold netting outside buildings must be fire-retardant from March 2027",
+        "description": "Earlier this year, the Singapore government said it was reviewing the early observations from Hong Kong's investigation into the Wang Fuk Court fire, which killed 161 people.",
+        "link": "https://www.channelnewsasia.com/singapore/mom-building-scaffold-fire-safety-requirements-construction-6408551",
         "source": "CNA"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "Eleven killed in mass shooting at house in South Africa",
-        "description": "One of those killed is believed to be a pregnant woman, police said.",
-        "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
-      "story": {
-        "title": "Why is Iran threatening regional airports, and what could be the impact?",
-        "description": "Tehran hints retaliation as Georgia and Azerbaijan suspend Iranian flights amid mounting US sanctions on airlines.",
-        "link": "https://www.aljazeera.com/news/2026/9/24/why-is-iran-threatening-regional-airports-and-what-could-be-the-impact?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 1,
-      "story": {
-        "title": "To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face",
-        "description": "Seven years after warning against US regime change, Venezuela’s interim president thanked the man who delivered it.",
-        "link": "https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -425,82 +305,130 @@
       "lon": 9.5,
       "count": 1,
       "story": {
-        "title": "Greenland’s delegation gets hero’s welcome after signing US-Denmark pact",
-        "description": "Greenland’s delegation returned home to a hero’s welcome after signing a new pact with the US and Denmark.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/greenlands-delegation-gets-heros-welcome-after-signing-us-denmark-pact?traffic_source=rss",
+        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+        "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+        "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
+      "count": 1,
+      "story": {
+        "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
+        "description": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
+        "link": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+        "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+        "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+        "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+        "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ghana",
+      "lat": 7.95,
+      "lon": -1.02,
+      "count": 1,
+      "story": {
+        "title": "LIVE: Ivory Coast vs Ghana – AFCON qualifying",
+        "description": "Follow updates, build-up, team news and lineups, from our live text commentary stream coverage as Yan Diomande stars.",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-ivory-coast-vs-ghana-afcon-qualifying?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
       "count": 1,
       "story": {
-        "title": "Zelenskyy says Ukraine sent two North Korean POWs to South Korea",
-        "description": "The president criticised North Korea for using citizens like &#039;currency&#039; to aid Russia in its war against Ukraine.",
-        "link": "https://www.aljazeera.com/news/2026/9/24/zelenskyy-says-ukraine-sent-two-north-korean-pows-to-south-korea?traffic_source=rss",
+        "title": "LIVE: Portugal vs Wales – UEFA Nations League",
+        "description": "Follow updates, with build-up, team news and lineups, from our live text commentary stream coverage as Ronaldo stars.",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-portugal-vs-wales-uefa-nations-league?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
       "count": 1,
       "story": {
-        "title": "Zelenskyy says Ukraine sent two North Korean POWs to South Korea",
-        "description": "The president criticised North Korea for using citizens like &#039;currency&#039; to aid Russia in its war against Ukraine.",
-        "link": "https://www.aljazeera.com/news/2026/9/24/zelenskyy-says-ukraine-sent-two-north-korean-pows-to-south-korea?traffic_source=rss",
+        "title": "Why are Ireland vs Israel football matches so controversial?",
+        "description": "Ireland and Israel will play two football matches despite growing Irish calls for a boycott due to the genocide in Gaza.",
+        "link": "https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
       "count": 1,
       "story": {
-        "title": "UN funding cuts hit refugees at Cox’s Bazar settlement",
-        "description": "Refugees living in Cox’s Bazar in Bangladesh are feeling the brunt of severe UN funding cuts.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/un-funding-cuts-hit-refugees-at-coxs-bazar-settlement?traffic_source=rss",
+        "title": "Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?",
+        "description": "US secretary of state&#039;s warning comes after he and Trump met the Iraqi PM on the sidelines of the UNGA.",
+        "link": "https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
       "count": 1,
       "story": {
-        "title": "Afghanistan vows to respond after Pakistani air strikes kill four",
-        "description": "Pakistan said it carried out air strikes on 10 locations in Afghanistan used to store and launch drones.",
-        "link": "https://www.aljazeera.com/news/2026/9/24/pakistan-says-it-launches-air-strikes-on-afghanistan-after-drone-attacks?traffic_source=rss",
+        "title": "Hurricane Polo brings fears of heavy rain and landslides in Mexico",
+        "description": "Heavy rains could cause life-threatening flooding and landslides in Mexico, the US National Hurricane Center warned.",
+        "link": "https://www.aljazeera.com/news/2026/9/24/hurricane-polo-hits-mexicos-coast-as-tropical-storm-nolo-approaches-hawaii?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Tunis",
+      "lat": 36.81,
+      "lon": 10.18,
       "count": 1,
       "story": {
-        "title": "Outcry in Sudan as US reportedly holds al-Burhan’s UN visa over truce plan",
-        "description": "Media reports say US withheld army chief&#039;s visa to pressure him into accepting a 90-day truce in Sudan&#039;s civil war.",
-        "link": "https://www.aljazeera.com/news/2026/9/24/outcry-in-sudan-as-us-reportedly-holds-army-chiefs-un-visa-over-ceasefire?traffic_source=rss",
+        "title": "Tunisia fuel strike highlights growing economic and political anger",
+        "description": "A 48-hour strike in Tunis adds to mounting public frustration over worsening living conditions and basic services.",
+        "link": "https://www.aljazeera.com/economy/2026/9/24/tunisia-fuel-strike-highlights-growing-economic-and-political-anger?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Warsaw",
-      "lat": 52.23,
-      "lon": 21.0,
+      "name": "Tunisia",
+      "lat": 33.89,
+      "lon": 9.54,
       "count": 1,
       "story": {
-        "title": "Poland says Starlink station fire 'act of sabotage'",
-        "description": "Polish Deputy Prime Minister Krzysztof Gawkowski said Warsaw believed the attack aimed to disrupt internet access for the Ukrainian military, calling it \"an element of the next phase of hybrid warfare.\"",
-        "link": "https://www.dw.com/en/poland-says-starlink-station-fire-act-of-sabotage/a-79410745?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Tunisia fuel strike highlights growing economic and political anger",
+        "description": "A 48-hour strike in Tunis adds to mounting public frustration over worsening living conditions and basic services.",
+        "link": "https://www.aljazeera.com/economy/2026/9/24/tunisia-fuel-strike-highlights-growing-economic-and-political-anger?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -509,21 +437,81 @@
       "lon": 121.0,
       "count": 1,
       "story": {
-        "title": "Trump welcomes China's Xi for high-stakes summit",
-        "description": "Donald Trump welcomed Xi Jinping to the US by greeting him personally on the tarmac at Joint Base Andrews. The two are expected to discuss trade, AI, Taiwan and Iran during a three-day state visit.",
-        "link": "https://www.dw.com/en/trump-welcomes-china-s-xi-for-high-stakes-summit/live-79404511?maca=en-rss-en-all-1573-rdf",
+        "title": "Trump-Xi summit live: Trade, AI, Iran and Taiwan top US-China talks",
+        "description": "Xi’s first White House visit in more than a decade comes amid ongoing disputes over trade, AI, Taiwan and war in Iran.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/24/trump-xi-summit-live-trade-ai-iran-and-taiwan-top-us-china-talks?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 1,
+      "story": {
+        "title": "Belgium and Rwanda are talking again. Is DR Congo any closer to peace?",
+        "description": "Belgium and Rwanda have restored diplomatic relations after an 18-month rupture over the war in eastern DR Congo.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/belgium-and-rwanda-are-talking-again-is-dr-congo-any-closer-to-peace?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 1,
+      "story": {
+        "title": "Self-described 'evil' man avoids jail for wire traps on bike path",
+        "description": "Levi Young-Henderson, 20, receives a suspended sentence for setting wire traps on an Adelaide bike path in 2025.",
+        "link": "https://www.abc.net.au/news/2026-09-24/levi-young-henderson-adelaide-bike-path-wire-traps-sentence/107192422",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 1,
+      "story": {
+        "title": "Nigeria, US agree to boost mining investment on sidelines of UN General Assembly",
+        "description": "On the sidelines of the UN General Assembly, Nigeria and the US inked a new mining deal. Nigeria is home to deposits of lithium, gold, tin, gemstones, iron ore and phosphate.",
+        "link": "https://www.dw.com/en/nigeria-us-agree-to-boost-mining-investment-on-sidelines-of-un-general-assembly/a-79417444?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "China's new travel rules unsettle tech giants and talent",
-        "description": "Beijing is locking the gates to stop expertise and capital in strategic industries from fleeing. The country accused of industrial-scale intellectual property theft now fears the West will take its own.",
-        "link": "https://www.dw.com/en/china-s-new-travel-rules-unsettle-tech-giants-and-talent/a-79319937?maca=en-rss-en-all-1573-rdf",
+        "title": "UNGA: Abbas blasts US and Israel, calls for Palestinian self-determination",
+        "description": "At the UN General Assembly, Palestinian President Mahmoud Abbas urged nations to support the two-state solution. He stated that his people seek a democratic Palestinian state that can coexist with Israel. DW has more.",
+        "link": "https://www.dw.com/en/unga-abbas-blasts-us-and-israel-calls-for-palestinian-self-determination/live-79366211?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "US-China talks on trade, AI between Trump, Xi beckon",
+        "description": "The presidents of the world's two largest economies are in Washington for what Donald Trump has billed a \"big day.\" Bilateral trade, AI and geopolitics are all on the menu. Follow DW for the latest.",
+        "link": "https://www.dw.com/en/us-china-talks-on-trade-ai-between-trump-xi-beckon/live-79404511?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 1,
+      "story": {
+        "title": "EU to condemn war in Ukraine at G20 even if Putin attends",
+        "description": "Russian President Vladimir Putin has been invited to the G20 summit in Miami by the United States. Multiple members of the group have called for Moscow's exclusion over its invasion of Ukraine.",
+        "link": "https://www.dw.com/en/eu-to-condemn-war-in-ukraine-at-g20-even-if-putin-attends/a-79413317?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -533,21 +521,33 @@
       "lon": 37.6,
       "count": 1,
       "story": {
-        "title": "Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor",
-        "description": "Food supplies to the town of Oleshky in the occupied part of the southern Kherson region have been cut off since May. Efforts by Kyiv to negotiate the evacuation of civilians with Moscow have been largely unsuccessful.",
-        "link": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-all-1573-rdf",
+        "title": "EU to condemn war in Ukraine at G20 even if Putin attends",
+        "description": "Russian President Vladimir Putin has been invited to the G20 summit in Miami by the United States. Multiple members of the group have called for Moscow's exclusion over its invasion of Ukraine.",
+        "link": "https://www.dw.com/en/eu-to-condemn-war-in-ukraine-at-g20-even-if-putin-attends/a-79413317?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 1,
       "story": {
-        "title": "Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor",
-        "description": "Food supplies to the town of Oleshky in the occupied part of the southern Kherson region have been cut off since May. Efforts by Kyiv to negotiate the evacuation of civilians with Moscow have been largely unsuccessful.",
-        "link": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-all-1573-rdf",
+        "title": "'Pope fever' takes hold as Pope Leo visits France",
+        "description": "Pope Leo XIV is expected to draw huge crowds during his visit to France. As part of his trip, he's also set to address Europe's future and some of the challenges ahead.",
+        "link": "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "New Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
+      "count": 1,
+      "story": {
+        "title": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
+        "description": "Bangladesh's absence from the BRICS summit in New Delhi has raised fresh questions about strained ties. Ousted PM Sheikh Hasina's exile in India remains a major obstacle to normalizing relations.",
+        "link": "https://www.dw.com/en/tensions-between-india-and-bangladesh-are-in-focus-after-dhaka-skipped-the-brics-summit-in-delhi/a-79410667?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
