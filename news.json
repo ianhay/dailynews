@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:46:44+00:00",
+  "generated_at": "2026-09-24T05:58:42+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 12,
       "story": {
         "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
         "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
@@ -99,7 +99,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Iran's president tells Trump it will never 'bend the knee'",
         "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
@@ -111,7 +111,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Poland accuses Russian military helicopter of violating its airspace",
         "description": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
@@ -123,7 +123,7 @@
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
         "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
@@ -132,10 +132,34 @@
       }
     },
     {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 5,
+      "story": {
+        "title": "CCTV shows alleged double murderer buying surfboard bag prior to shooting",
+        "description": "A jury has been shown footage of former Sydney police officer Beau Lamarre-Condon buying a surfboard bag prior to the alleged murders of Jesse Baird and Luke Davies, which prosecutors allege he planned to use to dispose ",
+        "link": "https://www.abc.net.au/news/2026-09-24/double-murder-trial-beau-lamarre-condon-shows-cctv-surfboard-bag/107190038",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 5,
+      "story": {
+        "title": "Germany sets out plan to phase out fossil fuels by 2045",
+        "description": "Germany sets out a plan to phase out coal, oil and gas by 2045, reaffirming a climate strategy focused on electrification.",
+        "link": "https://www.dw.com/en/germany-sets-out-plan-to-phase-out-fossil-fuels-by-2045/a-79404028?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Ethiopia",
       "lat": 9.15,
       "lon": 40.49,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
         "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
@@ -144,56 +168,8 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "How Ceuta, football and Israel are shaping Morocco's election",
-        "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
-        "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 4,
-      "story": {
-        "title": "US judge delays ruling on White House ban of CNN, MS NOW, Politico",
-        "description": "A judge heard arguments on Wednesday but did not rule on the case.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/trump-administration-to-defend-its-ban-of-major-news-outlets-in-court?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "Why this beach was named Sydney's cleanest",
-        "description": "This spot on the city's northern beaches has been named the cleanest, while another popular Sydney beach is given a \"poor\" rating for the fifth year running.",
-        "link": "https://www.abc.net.au/news/2026-09-24/nsw-cleanest-beaches-revealed/107188672",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 4,
-      "story": {
-        "title": "Germany's oldest party, the center-left SPD, is in a difficult position following its success in the Mecklenburg-Western Pomerania state election",
-        "description": "Chancellor Friedrich Merz (CDU) has vowed to press ahead with controversial reforms, but resistance is mounting within his coalition partner, the SPD. How much dissent can a governing coalition tolerate?",
-        "link": "https://www.dw.com/en/germany-s-oldest-party-the-center-left-spd-is-in-a-difficult-position-following-its-success-in-the-mecklenburg-western-pomerania-state-election/a-79376827?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
+      "name": "Spain",
+      "lat": 40.46,
       "lon": -3.7,
       "count": 3,
       "story": {
@@ -204,39 +180,27 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 3,
       "story": {
-        "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
-        "description": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
-        "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+        "title": "How Ceuta, football and Israel are shaping Morocco's election",
+        "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+        "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 3,
       "story": {
-        "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
-        "description": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
-        "link": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 3,
-      "story": {
-        "title": "Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’",
-        "description": "Ukrainian president urges world leaders to keep choking Russia&#039;s revenues to impede its war efforts.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
+        "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+        "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -245,9 +209,21 @@
       "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "Israel’s ambassador to the US says son injured in West Bank car-ramming",
-        "description": "Palestinian shot dead as Israel&#039;s ambassador to the US identifies injured soldier as his son.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/israels-ambassador-to-the-us-says-son-injured-in-west-bank-car-ramming?traffic_source=rss",
+        "title": "‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves",
+        "description": "Israeli bulldozers uprooted olive groves near Ramallah in the occupied West Bank weeks before the annual harvest.",
+        "link": "https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 3,
+      "story": {
+        "title": "Venezuela’s Rodriguez pledges elections, path forward in UNGA speech",
+        "description": "Venezuela’s Interim President Delcy Rodriguez says her country must abandon the ‘extremism’ of the past.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/venezuelas-rodriguez-pledges-elections-path-forward-in-unga-speech?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -264,8 +240,20 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "2026 International Emmy Awards nominees include 2 CNA documentaries",
+        "description": "Nominations for the 2026 International Emmy Awards were announced on Thursday (Sep 24) morning, Singapore time.",
+        "link": "https://www.channelnewsasia.com/entertainment/international-emmy-awards-2026-nominees-cna-6407321",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
       "lon": -3.7,
       "count": 2,
       "story": {
@@ -276,39 +264,51 @@
       }
     },
     {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
-        "description": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
-        "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
+        "description": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
+        "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
       "count": 2,
       "story": {
-        "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
-        "description": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
-        "link": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Why have some nations developed while others struggle?",
+        "description": "At UNGA, Iran, Syria and Kenya have highlighted how war and injustice have skewed global development.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/why-have-some-nations-developed-while-others-struggle?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Trump greets Xi on tarmac in rare welcome to start state visit",
-        "description": "The US president met his Chinese counterpart on the tarmac in a rare show of courtesy ahead of the three-day state visit which is expected to cover issues including AI, trade, Iran and Taiwan.",
-        "link": "https://www.abc.net.au/news/2026-09-24/donald-trump-greets-xi-jinping-at-airport-as-state-visit-begins/107189436",
+        "title": "Breaking: Judge orders reversal of Trump's White House media ban",
+        "description": "A federal judge has ordered US President Donald Trump to restore White House access for journalists from CNN, MS NOW and Politico.",
+        "link": "https://www.abc.net.au/news/2026-09-24/us-judge-reverses-donald-trump-media-ban-cnn-politico-ms-now/107192236",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 2,
+      "story": {
+        "title": "The challenge brewing behind the front lines in Ukraine",
+        "description": "A growing dispute has opened a new political front for Ukraine's president as the country continues to fight for its future.",
+        "link": "https://www.sbs.com.au/news/article/ukraine-election-zelenskyy-fedorov-protests/fkikayej6",
+        "source": "SBS News"
       }
     },
     {
@@ -360,26 +360,50 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 1,
       "story": {
-        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-        "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-        "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
+        "description": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
+        "link": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
       "count": 1,
       "story": {
-        "title": "Why is Kenya turning against Tata Chemicals in Magadi?",
-        "description": "A century-old industry faces a reckoning over regulation, jobs and local benefits.",
-        "link": "https://www.aljazeera.com/news/2026/9/24/why-is-kenya-turning-against-tata-chemicals-in-magadi?traffic_source=rss",
+        "title": "Why have some nations developed while others struggle?",
+        "description": "At UNGA, Iran, Syria and Kenya have highlighted how war and injustice have skewed global development.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/why-have-some-nations-developed-while-others-struggle?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
+      "count": 1,
+      "story": {
+        "title": "Australia says OpenAI agent hacked Medicare portal",
+        "description": "Canberra expressed extreme concern to Sam Altman after OpenAI took three months to report the breach.",
+        "link": "https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
+      "count": 1,
+      "story": {
+        "title": "Turkiye agrees to gradual handover of Bashiqa base to Iraq",
+        "description": "Iraqi Prime Minister al-Zaidi and Turkish President Erdogan pledged deeper security cooperation at UNGA.",
+        "link": "https://www.aljazeera.com/news/2026/9/24/turkiye-agrees-to-gradual-handover-of-bashiqa-base-to-iraq?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -420,63 +444,51 @@
       }
     },
     {
-      "name": "Ghana",
-      "lat": 7.95,
-      "lon": -1.02,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Ivory Coast vs Ghana: AFCON 2027 qualifier, kick-off time, lineups, teams",
-        "description": "A star-studded opening to AFCON 2027 qualifying sees Real Madrid&#039;s Yan Diomande lead Ivory Coast against depleted Ghana.",
-        "link": "https://www.aljazeera.com/sports/2026/9/23/ivory-coast-vs-ghana-caf-afcon-qualifier-prediction-teams-lineups?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 1,
-      "story": {
-        "title": "Argentina’s Milei says UN ‘looking the other way’ on Falkland Islands",
-        "description": "Argentina steps up its Las Malvinas claim as tensions with the UK grow over offshore oil drilling.",
-        "link": "https://www.aljazeera.com/news/2026/9/23/milei-says-un-looking-the-other-way-on-falkland-islands-dispute?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
-      "count": 1,
-      "story": {
-        "title": "'That's why Taliban is scared': Cyclist's incredible journey to silver",
-        "description": "Fariba Hashimi wins Asian Games silver in the cycling, five years after escaping Afghanistan for Italy.",
-        "link": "https://www.abc.net.au/news/2026-09-24/asian-games-fariba-hashimi-shares-afghanistan-training-story/107189282",
+        "title": "'Sudden' death of SA woman from falling tree branch preventable, coroner finds",
+        "description": "South Australian school teacher Judith Anne Ditter died in November 2020 when a heavy branch hit a car she was travelling in on an Adelaide Hills road.",
+        "link": "https://www.abc.net.au/news/2026-09-24/inquest-finds-woman-death-from-falling-tree-branch-preventable/107189986",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "'That's why Taliban is scared': Cyclist's incredible journey to silver",
-        "description": "Fariba Hashimi wins Asian Games silver in the cycling, five years after escaping Afghanistan for Italy.",
-        "link": "https://www.abc.net.au/news/2026-09-24/asian-games-fariba-hashimi-shares-afghanistan-training-story/107189282",
+        "title": "Live: Lachie Neale appeal to be heard ahead of GF team announcement",
+        "description": "It's crunch time for Brisbane's Lachie Neale as the dual Brownlow Medallist tries to overturn a ban at the AFL Appeal Board so he can play in the grand final against Fremantle. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-09-24/lachie-neale-afl-appeal-board-hearing-live-blog/107188446",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "'Queen of Scones' hangs up apron after reaching volunteer age limit",
-        "description": "For the first time in nearly 20 years, the Melbourne Royal Show kitchens will be without their 'Queen of Scones'.",
-        "link": "https://www.abc.net.au/news/2026-09-24/melbourne-show-queen-of-scones-joy-davis-volunteer-age-limit/107185362",
+        "title": "Would you travel over 50 hours for your team? This Dockers fan is",
+        "description": "A Dockers victory would mean the world to this Perth student, who is making the journey from his university in the US state of Illinois to the MCG to watch the grand final.",
+        "link": "https://www.abc.net.au/news/2026-09-24/dockers-superfan-rafe-english-travels-from-us-to-afl-grand-final/107190522",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Taiwan",
+      "lat": 23.7,
+      "lon": 121.0,
+      "count": 1,
+      "story": {
+        "title": "Trump welcomes China's Xi for high-stakes summit",
+        "description": "Donald Trump welcomed Xi Jinping to the US by greeting him personally on the tarmac at Joint Base Andrews. The two are expected to discuss trade, AI, Taiwan and Iran during a three-day state visit.",
+        "link": "https://www.dw.com/en/trump-welcomes-china-s-xi-for-high-stakes-summit/live-79404511?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -528,26 +540,14 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
       "count": 1,
       "story": {
-        "title": "Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor",
-        "description": "Food supplies to the town of Oleshky in the occupied part of the southern Kherson region have been cut off since May. Efforts by Kyiv to negotiate the evacuation of civilians with Moscow have been largely unsuccessful.",
-        "link": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 1,
-      "story": {
-        "title": "Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor",
-        "description": "Food supplies to the town of Oleshky in the occupied part of the southern Kherson region have been cut off since May. Efforts by Kyiv to negotiate the evacuation of civilians with Moscow have been largely unsuccessful.",
-        "link": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-all-1573-rdf",
+        "title": "China's new travel rules unsettle tech giants and talent",
+        "description": "Beijing is locking the gates to stop expertise and capital in strategic industries from fleeing. The country accused of industrial-scale intellectual property theft now fears the West will take its own.",
+        "link": "https://www.dw.com/en/china-s-new-travel-rules-unsettle-tech-giants-and-talent/a-79319937?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
