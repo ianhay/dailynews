@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T23:20:22+00:00",
+  "generated_at": "2026-09-25T01:47:44+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "description": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
       "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
       "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
       "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
       "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
       "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,22 +72,10 @@
   ],
   "places": [
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 14,
-      "story": {
-        "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-        "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-        "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 11,
       "story": {
         "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
         "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
@@ -96,26 +84,26 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 7,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 11,
       "story": {
-        "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-        "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-        "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+        "title": "Iran's president tells Trump it will never 'bend the knee'",
+        "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+        "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 7,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 9,
       "story": {
-        "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-        "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
-        "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+        "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+        "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+        "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,14 +120,50 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 7,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 6,
       "story": {
-        "title": "Iran's president tells Trump it will never 'bend the knee'",
-        "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-        "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+        "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+        "description": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 6,
+      "story": {
+        "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+        "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+        "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 6,
+      "story": {
+        "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+        "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+        "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 6,
+      "story": {
+        "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+        "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+        "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -147,47 +171,11 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "Priest killed and four injured in knife attack at Polish abbey",
         "description": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
         "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 6,
-      "story": {
-        "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
-        "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
-        "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 6,
-      "story": {
-        "title": "Site renowned for helping build Sydney Harbour Bridge in $1b energy showdown",
-        "description": "The proponents of a $1 billion waste processing facility near Mudgee are preparing for a battle with the NSW government over its energy-from-waste framework, as locals are divided.",
-        "link": "https://www.abc.net.au/news/2026-09-25/cenagen-kandos-cement-works-energy-waste-dispute/107175614",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 5,
-      "story": {
-        "title": "White House restores access to media outlets banned by Trump after judge's order",
-        "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
-        "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -204,26 +192,14 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 5,
-      "story": {
-        "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-        "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-        "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 4,
       "story": {
-        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-        "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-        "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+        "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+        "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -231,7 +207,7 @@
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "Why India's Election Commission is in the eye of a storm - again",
         "description": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
@@ -243,11 +219,47 @@
       "name": "Washington",
       "lat": 38.9,
       "lon": -77.03,
+      "count": 4,
+      "story": {
+        "title": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
+        "description": "Iranian President Masoud Pezeshkian says Iran wants the US to return to the MoU by early November.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Site renowned for helping build Sydney Harbour Bridge in $1b energy showdown",
+        "description": "The proponents of a $1 billion waste processing facility near Mudgee are preparing for a battle with the NSW government over its energy-from-waste framework, as locals are divided.",
+        "link": "https://www.abc.net.au/news/2026-09-25/cenagen-kandos-cement-works-energy-waste-dispute/107175614",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 3,
       "story": {
-        "title": "Trump and Xi hold critical talks at White House summit",
-        "description": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
+        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+        "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+        "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 3,
+      "story": {
+        "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
+        "description": "Zinedine Zidane brings &#039;aura&#039; to his first France game as coach, against Turkiye in Nations League.",
+        "link": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -264,75 +276,15 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 2,
       "story": {
-        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-        "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-        "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
-      "count": 2,
-      "story": {
-        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-        "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-        "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 2,
-      "story": {
-        "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
-        "description": "Zinedine Zidane brings &#039;aura&#039; to his first France game as coach, against Turkiye in Nations League",
-        "link": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ghana",
-      "lat": 7.95,
-      "lon": -1.02,
-      "count": 2,
-      "story": {
-        "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
-        "description": "DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.",
-        "link": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 2,
-      "story": {
-        "title": "Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction",
-        "description": "Madagascar will attempt to emulate their last shock win over the Super Eagles - a 2-0 victory at AFCON 2019.",
-        "link": "https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 2,
-      "story": {
-        "title": "Man dies after being found with life-threatening injuries in Qld home",
-        "description": "Queensland police are investigating what they have described as the sudden death of man in his 80s more than 400 kilometres west of Brisbane.",
-        "link": "https://www.abc.net.au/news/2026-09-25/police-investigate-mans-sudden-death-in-surat/107194526",
-        "source": "ABC News AU"
+        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
+        "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+        "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -341,10 +293,22 @@
       "lon": -51.9,
       "count": 2,
       "story": {
-        "title": "Brazil’s big-name squad meets mega hype from soccer fanatics",
-        "description": "Football fans have welcomed some of the world's most famous players to a regional city known for its love of another code.",
-        "link": "https://www.abc.net.au/news/2026-09-25/brazilian-community-in-townsville-prepares-for-socceroos-brazil/107190624",
-        "source": "ABC News AU"
+        "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
+        "description": "Luiz Inacio Lula da Silva is up two points, but that&#039;s still within the poll&#039;s margin of error.",
+        "link": "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Taiwan",
+      "lat": 23.7,
+      "lon": 121.0,
+      "count": 2,
+      "story": {
+        "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
+        "description": "Trump, Xi seek stable US-China ties at the White House, but differences over Iran, Taiwan and trade remain unresolved.",
+        "link": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -357,6 +321,54 @@
         "description": "A late Netherlands goal denied Jürgen Klopp a win in his first match as Germany coach. The former Liverpool and Borussia Dortmund boss has big ambitions, but the game showed he's going to need more time to achieve them.",
         "link": "https://www.dw.com/en/jürgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "SFA looking into alleged illegal sale of dog meat in Singapore",
+        "description": "The Singapore Food Agency says it has&nbsp;not approved any source of dog meat.",
+        "link": "https://www.channelnewsasia.com/singapore/dog-meat-singapore-facebook-illegal-6409576",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 1,
+      "story": {
+        "title": "Hundreds of thousands expected in Paris for Pope's visit",
+        "description": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+        "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+        "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+        "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
+      "count": 1,
+      "story": {
+        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+        "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+        "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -432,15 +444,51 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
       "count": 1,
       "story": {
-        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-        "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-        "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
+        "description": "UAE joins Oman, Iraq, Azerbaijan, Georgia and Turkmenistan in restricting access to Iranian airlines.",
+        "link": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 1,
+      "story": {
+        "title": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
+        "description": "A 4.1-percentage-point rise in poverty in the first half of 2026 could be bad news for Milei&#039;s re-election bid.",
+        "link": "https://www.aljazeera.com/news/2026/9/25/argentinas-poverty-rises-to-32-percent-under-milei-with-more-pain-forecast?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
+        "description": "Iranian President Masoud Pezeshkian says Iran wants the US to return to the MoU by early November.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ghana",
+      "lat": 7.95,
+      "lon": -1.02,
+      "count": 1,
+      "story": {
+        "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
+        "description": "DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.",
+        "link": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -468,18 +516,6 @@
       }
     },
     {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
-      "count": 1,
-      "story": {
-        "title": "Trump and Xi hold critical talks at White House summit",
-        "description": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Portugal",
       "lat": 39.4,
       "lon": -8.22,
@@ -492,63 +528,27 @@
       }
     },
     {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
-      "count": 1,
-      "story": {
-        "title": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
-        "description": "In October elections, Israel’s national security minister Itamar Ben-Gvir is hoping to become defence minister.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Collapsing currency and inflation leave families struggling in Sudan",
-        "description": "Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability.",
-        "link": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "Incredible catch helps South Africa beat Australia in one-day clash",
-        "description": "Marco Jansen takes a catch that needs to be seen to be believed, halting Australia's spirited chase of 298 in the process.",
-        "link": "https://www.abc.net.au/news/2026-09-25/cricket-marco-jansen-catch-south-africa-vs-australia-1st-odi/107194290",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Adelaide",
       "lat": -34.93,
       "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "$500m Adelaide University merger squeezed by international student cuts",
-        "description": "The new Adelaide University is not on track to meet its international student targets and is staring down tens of millions in lost revenue, with the federal government's migration clampdown squeezing the business case fo",
-        "link": "https://www.abc.net.au/news/2026-09-25/adelaide-university-off-international-student-targets/107190580",
+        "title": "Prosecutors drop abuse charge against Adelaide child protection worker",
+        "description": "Hannah Joyce Neale appeared in court today where the prosecution withdrew a charge of sexual abuse of a child, which meant she is no longer facing any criminal charges.",
+        "link": "https://www.abc.net.au/news/2026-09-25/child-sexual-abuse-charge-against-protection-worker-dropped/107195334",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Kremlin",
-      "lat": 55.75,
-      "lon": 37.62,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Three-way battle for power in world chess: Who will be elected FIDE president in Samarkand?",
-        "description": "The era of Russian presidents is coming to an end at the World Chess Federation (FIDE). Two Germans and one Kazakh are up for election. Among the issues at play are money, Kremlin influence, and unanswered questions.",
-        "link": "https://www.dw.com/en/three-way-battle-for-power-in-world-chess-who-will-be-elected-fide-president-in-samarkand/a-79413301?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Four people charged over shooting in suburban Perth",
+        "description": "Three men and a woman will face the Fremantle Magistrates Court charged with attempting to kill a 37-year-old man.",
+        "link": "https://www.abc.net.au/news/2026-09-25/charges-laid-by-wa-police-over-hamilton-hill-shooting/107194758",
+        "source": "ABC News AU"
       }
     }
   ]
