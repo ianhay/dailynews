@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T01:47:44+00:00",
+  "generated_at": "2026-09-25T07:28:54+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+      "description": "Trump said he and Xi had \"never gotten along better\" as he hosted the Chinese president at the lavish White House event.",
+      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Hundreds of thousands expected in Paris for Pope's visit",
       "description": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
       "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
@@ -42,15 +48,15 @@
       "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
       "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-      "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
-      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
       "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
@@ -62,12 +68,6 @@
       "description": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
       "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
-      "description": "Three 20-somethings tell BBC News how they are navigating life without parental support.",
-      "link": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 11,
+      "count": 16,
       "story": {
         "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
         "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
@@ -84,10 +84,22 @@
       }
     },
     {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 8,
+      "story": {
+        "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+        "description": "Trump said he and Xi had \"never gotten along better\" as he hosted the Chinese president at the lavish White House event.",
+        "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 11,
+      "count": 8,
       "story": {
         "title": "Iran's president tells Trump it will never 'bend the knee'",
         "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
@@ -99,7 +111,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 9,
+      "count": 7,
       "story": {
         "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
         "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
@@ -120,26 +132,14 @@
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 6,
       "story": {
-        "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-        "description": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
-        "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 6,
-      "story": {
-        "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-        "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-        "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+        "title": "Priest killed and four injured in knife attack at Polish abbey",
+        "description": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+        "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,26 +156,62 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 6,
       "story": {
-        "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-        "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-        "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+        "title": "Why India's Election Commission is in the eye of a storm - again",
+        "description": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
+        "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 5,
       "story": {
-        "title": "Priest killed and four injured in knife attack at Polish abbey",
-        "description": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
-        "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+        "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+        "description": "Trump said he and Xi had \"never gotten along better\" as he hosted the Chinese president at the lavish White House event.",
+        "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 4,
+      "story": {
+        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+        "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+        "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Bungled Sydney Water payroll rollout leaves workers underpaid",
+        "description": "Three unions have voted for work stoppages and work bans after a new payroll system has been routinely paying employees incorrectly or late since July.",
+        "link": "https://www.abc.net.au/news/2026-09-25/sydney-water-faces-industrial-action/107194900",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Taiwan",
+      "lat": 23.7,
+      "lon": 121.0,
+      "count": 3,
+      "story": {
+        "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+        "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+        "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -183,7 +219,7 @@
       "name": "Ethiopia",
       "lat": 9.15,
       "lon": 40.49,
-      "count": 5,
+      "count": 3,
       "story": {
         "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
         "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
@@ -195,7 +231,7 @@
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
         "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
@@ -204,62 +240,26 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
-      "story": {
-        "title": "Why India's Election Commission is in the eye of a storm - again",
-        "description": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
-        "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 4,
-      "story": {
-        "title": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
-        "description": "Iranian President Masoud Pezeshkian says Iran wants the US to return to the MoU by early November.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "Site renowned for helping build Sydney Harbour Bridge in $1b energy showdown",
-        "description": "The proponents of a $1 billion waste processing facility near Mudgee are preparing for a battle with the NSW government over its energy-from-waste framework, as locals are divided.",
-        "link": "https://www.abc.net.au/news/2026-09-25/cenagen-kandos-cement-works-energy-waste-dispute/107175614",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 3,
       "story": {
-        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-        "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-        "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
+        "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+        "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
       "count": 3,
       "story": {
-        "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
-        "description": "Zinedine Zidane brings &#039;aura&#039; to his first France game as coach, against Turkiye in Nations League.",
-        "link": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
+        "title": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
+        "description": "A 4.1-percentage-point rise in poverty in the first half of 2026 could be bad news for Milei&#039;s re-election bid.",
+        "link": "https://www.aljazeera.com/news/2026/9/25/argentinas-poverty-rises-to-32-percent-under-milei-with-more-pain-forecast?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -276,15 +276,51 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Samsung TV owners in Singapore can watch Aespa's latest concert for free from Sep 26",
+        "description": "K-pop group Aespa's&nbsp;Synk: Complaexity In Seoul show will premiere on Samsung TV Plus on Saturday (Sep 26) for users across Singapore,&nbsp;the Philippines, Thailand, South Korea and more.",
+        "link": "https://www.channelnewsasia.com/entertainment/samsung-tv-plus-aespa-synk-complaexity-singapore-6410211",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
       "count": 2,
       "story": {
-        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-        "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-        "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+        "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+        "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 2,
+      "story": {
+        "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+        "description": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+        "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "Japan moves to tighten rules for foreigners, throwing futures into doubt",
+        "description": "Tokyo is raising the bar for permanent residency amid a broader rightward shift in the Asian nation&#039;s politics.",
+        "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -300,15 +336,27 @@
       }
     },
     {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
-        "description": "Trump, Xi seek stable US-China ties at the White House, but differences over Iran, Taiwan and trade remain unresolved.",
-        "link": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Dockers fans to marry outside the MCG during AFL grand final",
+        "description": "Fremantle fans Danni Bloomfield and Matt Abbott have flown to Melbourne from Karratha to get married outside the MCG before watching their beloved Dockers contest the premiership.",
+        "link": "https://www.abc.net.au/news/2026-09-25/dockers-fans-to-marry-outside-mcg-during-afl-grand-final/107195418",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 2,
+      "story": {
+        "title": "Anthony LaPaglia on working with 'gruff' but 'nice' playwright Arthur Miller",
+        "description": "Anthony LaPaglia is about to perform on a hometown stage in Adelaide for the first time with Death of a Salesman, recalling how he worked with the famed playwright on Broadway in the 1990s.",
+        "link": "https://www.abc.net.au/news/2026-09-25/anthony-lapaglia-alison-whyte-death-of-a-salesman/107187934",
+        "source": "ABC News AU"
       }
     },
     {
@@ -324,15 +372,15 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 2,
       "story": {
-        "title": "SFA looking into alleged illegal sale of dog meat in Singapore",
-        "description": "The Singapore Food Agency says it has&nbsp;not approved any source of dog meat.",
-        "link": "https://www.channelnewsasia.com/singapore/dog-meat-singapore-facebook-illegal-6409576",
-        "source": "CNA"
+        "title": "'Pope fever' takes hold as Pope Leo visits France",
+        "description": "Pope Leo XIV is expected to draw huge crowds during his visit to France. As part of his trip, he's also set to address Europe's future and some of the challenges ahead.",
+        "link": "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -348,38 +396,14 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-        "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-        "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
-      "count": 1,
-      "story": {
-        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-        "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-        "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-        "description": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
-        "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+        "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+        "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+        "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -392,6 +416,18 @@
         "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
         "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
         "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
+      "count": 1,
+      "story": {
+        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+        "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+        "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -444,6 +480,66 @@
       }
     },
     {
+      "name": "Austria",
+      "lat": 47.52,
+      "lon": 14.55,
+      "count": 1,
+      "story": {
+        "title": "Israel’s Abu Farchi sent off for gun celebration in Nations League match",
+        "description": "Israel footballer Sayed Abu Farchi was sent off for goal celebration mimicking shooting a gun in match against Austria.",
+        "link": "https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Kuwait",
+      "lat": 29.31,
+      "lon": 47.48,
+      "count": 1,
+      "story": {
+        "title": "Converging crises, chaos and walkouts dominate UNGA Day Three",
+        "description": "Dozens of delegates walked out on Netanyahu, Yemen’s government pleaded for help, and Kuwait riled against threats.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/converging-crises-chaos-and-walkouts-dominate-unga-day-three?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 1,
+      "story": {
+        "title": "Hurricane Polo lashes Mexico as Nolo strengthens near Hawaii",
+        "description": "Mexico&#039;s southwestern communities brace for Hurricane Polo, while Hawaii faces its third hurricane threat of the year.",
+        "link": "https://www.aljazeera.com/news/2026/9/25/hurricane-polo-lashes-mexico-as-nolo-strengthens-near-hawaii?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tokyo",
+      "lat": 35.68,
+      "lon": 139.77,
+      "count": 1,
+      "story": {
+        "title": "Japan moves to tighten rules for foreigners, throwing futures into doubt",
+        "description": "Tokyo is raising the bar for permanent residency amid a broader rightward shift in the Asian nation&#039;s politics.",
+        "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 1,
+      "story": {
+        "title": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
+        "description": "Saudi Arabia, Turkiye and Pakistan move to deepen defence coordination as Houthi attacks and Yemen fighting intensify.",
+        "link": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Iraq",
       "lat": 33.22,
       "lon": 43.68,
@@ -453,102 +549,6 @@
         "description": "UAE joins Oman, Iraq, Azerbaijan, Georgia and Turkmenistan in restricting access to Iranian airlines.",
         "link": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 1,
-      "story": {
-        "title": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
-        "description": "A 4.1-percentage-point rise in poverty in the first half of 2026 could be bad news for Milei&#039;s re-election bid.",
-        "link": "https://www.aljazeera.com/news/2026/9/25/argentinas-poverty-rises-to-32-percent-under-milei-with-more-pain-forecast?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
-      "story": {
-        "title": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
-        "description": "Iranian President Masoud Pezeshkian says Iran wants the US to return to the MoU by early November.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ghana",
-      "lat": 7.95,
-      "lon": -1.02,
-      "count": 1,
-      "story": {
-        "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
-        "description": "DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.",
-        "link": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 1,
-      "story": {
-        "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
-        "description": "DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.",
-        "link": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Croatia",
-      "lat": 45.1,
-      "lon": 15.2,
-      "count": 1,
-      "story": {
-        "title": "Croatian court approves extradition in Nord Stream bombing case",
-        "description": "Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.",
-        "link": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
-      "count": 1,
-      "story": {
-        "title": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
-        "description": "Joao Felix nets the only goal of the game, while Cristiano Ronaldo has an effort ruled out, as Portugal beat Wales 1-0.",
-        "link": "https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "Prosecutors drop abuse charge against Adelaide child protection worker",
-        "description": "Hannah Joyce Neale appeared in court today where the prosecution withdrew a charge of sexual abuse of a child, which meant she is no longer facing any criminal charges.",
-        "link": "https://www.abc.net.au/news/2026-09-25/child-sexual-abuse-charge-against-protection-worker-dropped/107195334",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "Four people charged over shooting in suburban Perth",
-        "description": "Three men and a woman will face the Fremantle Magistrates Court charged with attempting to kill a 37-year-old man.",
-        "link": "https://www.abc.net.au/news/2026-09-25/charges-laid-by-wa-police-over-hamilton-hill-shooting/107194758",
-        "source": "ABC News AU"
       }
     }
   ]
