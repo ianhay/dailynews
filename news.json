@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T18:27:33+00:00",
+  "generated_at": "2026-09-26T21:26:52+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -72,10 +72,22 @@
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 15,
+      "story": {
+        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+        "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+        "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 12,
+      "count": 11,
       "story": {
         "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
         "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
@@ -84,15 +96,27 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 12,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 9,
       "story": {
-        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-        "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-        "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+        "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+        "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 9,
+      "story": {
+        "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+        "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+        "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -108,38 +132,14 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 8,
-      "story": {
-        "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-        "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-        "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 7,
-      "story": {
-        "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-        "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-        "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 7,
+      "count": 8,
       "story": {
-        "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
-        "description": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+        "title": "Republic of Ireland to wear black armbands for Israel game",
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -147,12 +147,36 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 6,
+      "count": 8,
       "story": {
         "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
         "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
         "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 6,
+      "story": {
+        "title": "Republic of Ireland to wear black armbands for Israel game",
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 5,
+      "story": {
+        "title": "From adjustable DJ booths to vibrating vests: Nightclub's accessible revamp",
+        "description": "A Sydney nightclub used a grant from the NSW government to undergo an extensive renovation — with their redesign focused on accessibility.",
+        "link": "https://www.abc.net.au/news/2026-09-27/nsw-inclusive-and-accessible-nightclubs-club-77-sydney/107193400",
+        "source": "ABC News AU"
       }
     },
     {
@@ -168,51 +192,27 @@
       }
     },
     {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 4,
       "story": {
-        "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
-        "description": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+        "title": "Republic of Ireland to wear black armbands for Israel game",
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
       "count": 4,
       "story": {
-        "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
-        "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-        "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "Roosters earn shot at perfect NRLW season with win over Canberra",
-        "description": "The Sydney Roosters are through to the NRLW grand final, continuing their perfect season with a 20-10 victory over Canberra.",
-        "link": "https://www.abc.net.au/news/2026-09-26/roosters-through-to-nrlw-grand-final-with-raiders-win/107199658",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Athens",
-      "lat": 37.98,
-      "lon": 23.73,
-      "count": 3,
-      "story": {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-        "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
+        "description": "Cuba’s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -224,6 +224,18 @@
         "title": "Bangkok roads submerged as flood disaster declared",
         "description": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
         "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 3,
+      "story": {
+        "title": "Tenth woman's body found in South Africa suburb as police probe killings",
+        "description": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
+        "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -240,15 +252,51 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
       "count": 3,
       "story": {
-        "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-        "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-        "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+        "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+        "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+        "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 3,
+      "story": {
+        "title": "Why is violence between Pakistan and Afghanistan recurring?",
+        "description": "Pakistan has carried out new strikes inside Afghanistan.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 3,
+      "story": {
+        "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
+        "description": "Hamas accuses Board of Peace of aligning with Israel after excluding UN agency for Palestinians from Gaza operations.",
+        "link": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 3,
+      "story": {
+        "title": "LIVE: England vs Spain – UEFA Nations League",
+        "description": "Updates from our live text commentary stream coverage as Yamal scores for Spain, but England&#039;s Kane misses penalty.",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/26/live-england-vs-spain-uefa-nations-league?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -257,33 +305,21 @@
       "lon": 2.2,
       "count": 3,
       "story": {
-        "title": "Thousands turn out to greet Pope in France",
-        "description": "The BBC's Hugh Schofield looks at why the visit is met with enthusiasm the Church attributes to growing spirituality among the French.",
-        "link": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Cuba",
-      "lat": 21.52,
-      "lon": -77.78,
-      "count": 3,
-      "story": {
-        "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
-        "description": "Cuba’s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
+        "title": "Several hundred thousand people gather for Pope Leo’s mass in Paris",
+        "description": "Vatican estimates 700,000 people in attendance as the Catholic religious leader continues four-day tour of France.",
+        "link": "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Athens",
+      "lat": 37.98,
+      "lon": 23.73,
       "count": 2,
       "story": {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-        "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+        "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -300,18 +336,6 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 2,
-      "story": {
-        "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-        "description": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
@@ -324,27 +348,15 @@
       }
     },
     {
-      "name": "Peru",
-      "lat": -9.19,
-      "lon": -75.02,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 2,
       "story": {
-        "title": "Robbie Williams' surprise singalong after Peru gig cancelled",
-        "description": "Robbie Williams gave an impromptu performance outside a hotel in Lima after his stadium concert was cancelled.",
-        "link": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
+        "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+        "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Jerusalem Daily: violence continues as the world watches the UNGA",
-        "description": "As the UN General Assembly enters its fifth day, with world leaders denouncing Israeli violence against Palestinians.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -360,51 +372,27 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
       "count": 2,
       "story": {
-        "title": "Girl disabled by Israeli strike urges wheelchairs be let into Gaza",
-        "description": "Disabled and amputee children in Gaza are unable to get new wheelchairs as Israel refuses to allow them in",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/girl-disabled-by-israeli-strike-urges-wheelchairs-be-let-into-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Thousands march in Madrid to protest Spain's housing crisis after eviction of 87-year-old woman",
+        "description": "Maricarmen Abascal's eviction after a 275% rent hike fuels fresh pressure on Pedro Sanchez's government to curb evictions and rising housing costs.",
+        "link": "https://www.channelnewsasia.com/world/madrid-protest-eviction-87-year-old-woman-6413036",
+        "source": "CNA"
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 2,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
       "story": {
-        "title": "In the greatest and cruellest of grand finals, only the Lions believed",
-        "description": "The AFL grand final has never felt so raw as in the five ballistic minutes that elevated the Brisbane Lions to legends and delivered Fremantle the most crushing defeat imaginable.",
-        "link": "https://www.abc.net.au/news/2026-09-26/afl-grand-final-brisbane-belief-sparks-cruel-fremantle-collapse/107199152",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 2,
-      "story": {
-        "title": "Melbourne family holds fears for son missing on Peru hiking trip",
-        "description": "Jordan Yap, 30, was last seen on the second day of his solo trek through the remote Huayhuash mountain range in Peru.",
-        "link": "https://www.abc.net.au/news/2026-09-26/melbourne-hiker-jordan-yap-missing-in-peru/107199402",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 2,
-      "story": {
-        "title": "Pakistan: Suicide attack at police stop kills at least 11",
-        "description": "The blast was claimed by the Pakistani Taliban, which has stepped up attacks on Pakistani security forces in recent years.",
-        "link": "https://www.dw.com/en/pakistan-suicide-attack-at-police-stop-kills-at-least-11/a-79443050?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+        "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -417,6 +405,66 @@
         "description": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott.",
         "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
+      "count": 1,
+      "story": {
+        "title": "Why is violence between Pakistan and Afghanistan recurring?",
+        "description": "Pakistan has carried out new strikes inside Afghanistan.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 1,
+      "story": {
+        "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
+        "description": "At the UN, Saudi Arabia accused Iran of attacks across the region and called for action against the Houthis.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 1,
+      "story": {
+        "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
+        "description": "Russian Foreign Minister Sergey Lavrov vowed that the objectives of Moscow’s military operation will be achieved.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "Colombia extradites leader of armed group to US in shift towards Washington",
+        "description": "Colombian President Abelardo De La Espriella has emerged as close ally the of Trump administration in South America.",
+        "link": "https://www.aljazeera.com/news/2026/9/26/colombia-extradites-leader-of-armed-group-to-us-in-shift-towards-washington?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 1,
+      "story": {
+        "title": "Colombia extradites leader of armed group to US in shift towards Washington",
+        "description": "Colombian President Abelardo De La Espriella has emerged as close ally the of Trump administration in South America.",
+        "link": "https://www.aljazeera.com/news/2026/9/26/colombia-extradites-leader-of-armed-group-to-us-in-shift-towards-washington?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -456,78 +504,6 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "LIVE: England vs Spain – UEFA Nations League",
-        "description": "Follow the updates, with build-up, predictions, team news and lineups, from our live text commentary stream coverage.",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/26/live-england-vs-spain-uefa-nations-league?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz",
-        "description": "Tehran submitted a proposal via Qatar to reopen the strait and resume nuclear talks within a week if Washington agreed.",
-        "link": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
-      "count": 1,
-      "story": {
-        "title": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz",
-        "description": "Tehran submitted a proposal via Qatar to reopen the strait and resume nuclear talks within a week if Washington agreed.",
-        "link": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Austria",
-      "lat": 47.52,
-      "lon": 14.55,
-      "count": 1,
-      "story": {
-        "title": "Russell edges out Verstappen to win in Baku, Antonelli settles for fifth",
-        "description": "George Russell wins Azerbaijan Grand Prix for eighth career F1 victory and first since the Austrian GP in June.",
-        "link": "https://www.aljazeera.com/sports/2026/9/26/russell-edges-out-verstappen-to-win-in-baku-antonelli-settles-for-fifth?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 1,
-      "story": {
-        "title": "Egypt to rest Salah in South Sudan AFCON qualifier over pitch concerns",
-        "description": "Egyptian FA has decided to rest Salah to protect him from playing on artificial turf, which is likelier to cause injury.",
-        "link": "https://www.aljazeera.com/sports/2026/9/26/mohamed-salah-egypt-south-sudan-afcon-qualifier-artificial-turf-pitch?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Egypt to rest Salah in South Sudan AFCON qualifier over pitch concerns",
-        "description": "Egyptian FA has decided to rest Salah to protect him from playing on artificial turf, which is likelier to cause injury.",
-        "link": "https://www.aljazeera.com/sports/2026/9/26/mohamed-salah-egypt-south-sudan-afcon-qualifier-artificial-turf-pitch?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Canberra",
       "lat": -35.28,
       "lon": 149.13,
@@ -540,15 +516,39 @@
       }
     },
     {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "40yo man critically injured in house fire in Adelaide's south-west",
-        "description": "A man has been rushed to hospital with life-threatening injuries following a house fire at Marion.",
-        "link": "https://www.abc.net.au/news/2026-09-26/sa-marion-house-fire-man-critical/107199588",
+        "title": "In the greatest and cruellest of grand finals, only the Lions believed",
+        "description": "The AFL grand final has never felt so raw as in the five ballistic minutes that elevated the Brisbane Lions to legends and delivered Fremantle the most crushing defeat imaginable.",
+        "link": "https://www.abc.net.au/news/2026-09-26/afl-grand-final-brisbane-belief-sparks-cruel-fremantle-collapse/107199152",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
+      "count": 1,
+      "story": {
+        "title": "Russia expected to intensify hybrid war on Europe",
+        "description": "Drone explosions, airspace violations, arson attacks: Poland, Romania, and Moldova are now regularly targeted in Russian attacks against Ukraine. More governments are calling these attacks deliberate acts of aggression.",
+        "link": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Romania",
+      "lat": 45.94,
+      "lon": 24.97,
+      "count": 1,
+      "story": {
+        "title": "Russia expected to intensify hybrid war on Europe",
+        "description": "Drone explosions, airspace violations, arson attacks: Poland, Romania, and Moldova are now regularly targeted in Russian attacks against Ukraine. More governments are calling these attacks deliberate acts of aggression.",
+        "link": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
