@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T21:26:52+00:00",
+  "generated_at": "2026-09-26T23:48:14+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "German town bans 'stumbling stone' memorials to Nazi victims",
       "description": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
       "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
@@ -22,21 +28,9 @@
       "description": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
       "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "australia": [
-    {
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
     {
       "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
       "description": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
@@ -47,6 +41,12 @@
       "title": "White House bars CNN from travelling with Trump on Air Force One",
       "description": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
       "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 15,
+      "count": 16,
       "story": {
         "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
         "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
@@ -87,10 +87,10 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 11,
+      "count": 9,
       "story": {
         "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+        "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
         "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -120,30 +120,6 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 8,
-      "story": {
-        "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-        "description": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
-        "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 8,
-      "story": {
-        "title": "Republic of Ireland to wear black armbands for Israel game",
-        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
@@ -156,10 +132,22 @@
       }
     },
     {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 6,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 7,
+      "story": {
+        "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+        "description": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+        "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 7,
       "story": {
         "title": "Republic of Ireland to wear black armbands for Israel game",
         "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
@@ -168,26 +156,14 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 6,
       "story": {
-        "title": "From adjustable DJ booths to vibrating vests: Nightclub's accessible revamp",
-        "description": "A Sydney nightclub used a grant from the NSW government to undergo an extensive renovation — with their redesign focused on accessibility.",
-        "link": "https://www.abc.net.au/news/2026-09-27/nsw-inclusive-and-accessible-nightclubs-club-77-sydney/107193400",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 4,
-      "story": {
-        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-        "description": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
-        "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+        "title": "Republic of Ireland to wear black armbands for Israel game",
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,6 +192,42 @@
       }
     },
     {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "This bar's renovations could be blueprint for disability-friendly venues",
+        "description": "A Sydney nightclub used a grant from the NSW government to undergo an extensive renovation — with their redesign focused on accessibility.",
+        "link": "https://www.abc.net.au/news/2026-09-27/nsw-inclusive-and-accessible-nightclubs-club-77-sydney/107193400",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 3,
+      "story": {
+        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+        "description": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
+        "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Athens",
+      "lat": 37.98,
+      "lon": 23.73,
+      "count": 3,
+      "story": {
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+        "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Bangkok",
       "lat": 13.75,
       "lon": 100.5,
@@ -233,7 +245,7 @@
       "lon": 22.9,
       "count": 3,
       "story": {
-        "title": "Tenth woman's body found in South Africa suburb as police probe killings",
+        "title": "Tenth woman's body found as South Africa police probe killings",
         "description": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
         "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
@@ -252,6 +264,18 @@
       }
     },
     {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 3,
+      "story": {
+        "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+        "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Ethiopia",
       "lat": 9.15,
       "lon": 40.49,
@@ -264,6 +288,18 @@
       }
     },
     {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 3,
+      "story": {
+        "title": "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
+        "description": "Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty.",
+        "link": "https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -273,54 +309,6 @@
         "description": "Pakistan has carried out new strikes inside Afghanistan.",
         "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
-        "description": "Hamas accuses Board of Peace of aligning with Israel after excluding UN agency for Palestinians from Gaza operations.",
-        "link": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 3,
-      "story": {
-        "title": "LIVE: England vs Spain – UEFA Nations League",
-        "description": "Updates from our live text commentary stream coverage as Yamal scores for Spain, but England&#039;s Kane misses penalty.",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/26/live-england-vs-spain-uefa-nations-league?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 3,
-      "story": {
-        "title": "Several hundred thousand people gather for Pope Leo’s mass in Paris",
-        "description": "Vatican estimates 700,000 people in attendance as the Catholic religious leader continues four-day tour of France.",
-        "link": "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Athens",
-      "lat": 37.98,
-      "lon": 23.73,
-      "count": 2,
-      "story": {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-        "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -348,27 +336,27 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-        "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-        "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Historical picture theatre destroyed in suspicious fire in Melbourne",
+        "description": "Police are investigating an overnight fire that gutted the 105-year-old former Austral Picture Theatre in Collingwood.",
+        "link": "https://www.abc.net.au/news/2026-09-27/collingwood-historical-austral-picture-theatre-destroyed-fire/107200514",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 2,
       "story": {
-        "title": "Thousands of students protest German military conscription",
-        "description": "More than 40,000 students have taken to the streets of Berlin, in protest of Germany&#039;s proposed military service plans.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/thousands-of-students-protest-german-military-conscription?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Paris: Pope Leo XIV celebrates Mass before huge crowd",
+        "description": "The pope addressed around 700,000 people during a Mass at the Place de la Concorde, near the Champs-Elysees. Leo XIV is on a four-day visit to France.",
+        "link": "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -390,7 +378,7 @@
       "count": 1,
       "story": {
         "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+        "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
         "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -408,6 +396,18 @@
       }
     },
     {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 1,
+      "story": {
+        "title": "Powerful storm brings flooding, power outages to northeastern United States",
+        "description": "Authorities warn residents that extreme conditions in the region could pose risks.",
+        "link": "https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Afghanistan",
       "lat": 33.9,
       "lon": 67.7,
@@ -416,6 +416,18 @@
         "title": "Why is violence between Pakistan and Afghanistan recurring?",
         "description": "Pakistan has carried out new strikes inside Afghanistan.",
         "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 1,
+      "story": {
+        "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
+        "description": "Hamas accuses Board of Peace of aligning with Israel after excluding UN agency for Palestinians from Gaza operations.",
+        "link": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -492,26 +504,14 @@
       }
     },
     {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
-      "count": 1,
-      "story": {
-        "title": "Jerusalem Daily: violence continues as the world watches the UNGA",
-        "description": "As the UN General Assembly enters its fifth day, with world leaders denouncing Israeli violence against Palestinians.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Canberra",
       "lat": -35.28,
       "lon": 149.13,
       "count": 1,
       "story": {
-        "title": "Roosters earn shot at perfect NRLW season with win over Canberra",
-        "description": "The Sydney Roosters are through to the NRLW grand final, continuing their perfect season with a 20-10 victory over Canberra.",
-        "link": "https://www.abc.net.au/news/2026-09-26/roosters-through-to-nrlw-grand-final-with-raiders-win/107199658",
+        "title": "The residents and wind farm on the frontline of Australia's energy wars",
+        "description": "Gawara Baya is the largest wind farm to reach construction since Labor introduced a renewables investment scheme. More than 2,000km north of Canberra, residents say net zero is a dream ruining their home.",
+        "link": "https://www.abc.net.au/news/2026-09-27/mount-fox-residents-against-gawara-baya-wind-farm-project/107179828",
         "source": "ABC News AU"
       }
     },
@@ -521,9 +521,9 @@
       "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "In the greatest and cruellest of grand finals, only the Lions believed",
-        "description": "The AFL grand final has never felt so raw as in the five ballistic minutes that elevated the Brisbane Lions to legends and delivered Fremantle the most crushing defeat imaginable.",
-        "link": "https://www.abc.net.au/news/2026-09-26/afl-grand-final-brisbane-belief-sparks-cruel-fremantle-collapse/107199152",
+        "title": "Brisbane players celebrate AFL premiership ahead of fan day in Fitzroy",
+        "description": "Lions players celebrated into the night in Melbourne after their thrilling last-minute win over the Dockers at the MCG.",
+        "link": "https://www.abc.net.au/news/2026-09-27/afl-brisbane-lion-players-fans-celebrate-premiership-win/107199276",
         "source": "ABC News AU"
       }
     },
