@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T04:48:45+00:00",
+  "generated_at": "2026-09-27T10:27:00+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,9 +12,9 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -32,8 +32,14 @@
   ],
   "australia": [
     {
+      "title": "Killer Christa Pike is to be executed within days - but her defence say she's a victim too",
+      "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "description": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+      "description": "The independent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
       "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -42,15 +48,15 @@
       "description": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
       "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "Young people in China are fangirling over a professor who gets their anxiety",
+      "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+      "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
       "description": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
@@ -58,15 +64,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Could an iced coffee freeze you out of the job market?",
-      "description": "Employees and recruiters weigh into the online debate around interview etiquette.",
-      "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
-    },
-    {
-      "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-      "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-      "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+      "title": "Faisal Islam: The two big decisions the chancellor must make",
+      "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+      "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 15,
       "story": {
         "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
         "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
@@ -87,11 +87,11 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 11,
+      "count": 9,
       "story": {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-        "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+        "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -99,35 +99,11 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 7,
       "story": {
         "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
         "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
         "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 8,
-      "story": {
-        "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-        "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-        "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Bangkok",
-      "lat": 13.75,
-      "lon": 100.5,
-      "count": 6,
-      "story": {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "description": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
-        "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -135,24 +111,36 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 6,
+      "count": 7,
       "story": {
-        "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-        "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-        "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Young people in China are fangirling over a professor who gets their anxiety",
+        "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+        "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 6,
       "story": {
-        "title": "Thousands protest in Madrid against Spain’s housing crisis",
-        "description": "Thousands of protesters in Madrid demand answers after the eviction of 87-year-old Maricarmen Abascal.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/thousands-protest-in-madrid-against-spains-housing-crisis?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Two mass shootings in South Africa leave 27 dead",
+        "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+        "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 6,
+      "story": {
+        "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+        "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+        "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -161,45 +149,33 @@
       "lon": 151.21,
       "count": 6,
       "story": {
-        "title": "How the ACT became the 'inevitable victim' of everyone else's bikie laws",
-        "description": "The ACT's chief police officer has no doubt about the damage outlaw bikie gangs are causing in Canberra — while raw numbers in the region do not match those in Sydney and Melbourne, there has been a notable increase in t",
-        "link": "https://www.abc.net.au/news/2026-09-27/act-inside-police-fight-against-rising-bikie-threat/107197350",
+        "title": "Scaffolding at Sydney building site falls onto cars month after wall collapse",
+        "description": "No-one was injured when a large section of scaffolding fell onto vehicles on Wattle Street in Ultimo, just weeks after a wall collapsed injuring two men.",
+        "link": "https://www.abc.net.au/news/2026-09-27/sydney-building-collapses-ultimo-second-time-just-weeks-apart/107201530",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Bangkok",
+      "lat": 13.75,
+      "lon": 100.5,
       "count": 5,
       "story": {
-        "title": "Republic of Ireland to wear black armbands for Israel game",
-        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "description": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
+        "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 5,
-      "story": {
-        "title": "Live: Titans left bloodied as Broncos set up NRLW grand final rematch with Roosters",
-        "description": "The Brisbane Broncos and Sydney Roosters will face off for the NRLW premiership for the second straight year after taking down the Titans on the Gold Coast. Later, the Panthers host the Knights in the second men's prelim",
-        "link": "https://www.abc.net.au/news/2026-09-27/nrl-nrlw-preliminary-finals-live-panthers-knights-titans-broncos/107201092",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Athens",
-      "lat": 37.98,
-      "lon": 23.73,
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
       "count": 4,
       "story": {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-        "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+        "description": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
+        "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,6 +192,18 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 4,
+      "story": {
+        "title": "Republic of Ireland to wear black armbands for Israel game",
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Ireland",
       "lat": 53.14,
       "lon": -7.69,
@@ -228,75 +216,27 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 4,
       "story": {
-        "title": "Thousands protest in Madrid against Spain’s housing crisis",
-        "description": "Thousands of protesters in Madrid demand answers after the eviction of 87-year-old Maricarmen Abascal.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/thousands-protest-in-madrid-against-spains-housing-crisis?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Brunei's crown prince to visit SAFTI City, oceanarium as part of five-day trip to Singapore",
+        "description": "Crown Prince Al-Muhtadee Billah will be in Singapore for the 12th edition of the Singapore-Brunei Young Leaders' Programme.&nbsp;",
+        "link": "https://www.channelnewsasia.com/singapore/brunei-crown-prince-safti-city-singapore-oceanarium-young-leaders-6410986",
+        "source": "CNA"
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
       "count": 3,
       "story": {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-        "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 3,
-      "story": {
-        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-        "description": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
-        "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "Republic of Ireland to wear black armbands for Israel game",
-        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 3,
-      "story": {
-        "title": "White House bars CNN from travelling with Trump on Air Force One",
-        "description": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
-        "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 3,
-      "story": {
-        "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-        "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-        "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+        "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+        "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -305,33 +245,69 @@
       "lon": 69.3,
       "count": 3,
       "story": {
-        "title": "Why is violence between Pakistan and Afghanistan recurring?",
-        "description": "Pakistan has carried out new strikes inside Afghanistan.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
+        "title": "Suicide bombing in northwest Pakistan kills at least 12",
+        "description": "A vehicle laden with explosives rammed into a roadside checkpoint in Pakistan, killing at least a dozen people.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/suicide-bombing-in-northwest-pakistan-kills-at-least-12?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 3,
+      "story": {
+        "title": "Thousands protest in Madrid against Spain’s housing crisis",
+        "description": "Thousands of protesters in Madrid demand answers after the eviction of 87-year-old Maricarmen Abascal.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/thousands-protest-in-madrid-against-spains-housing-crisis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 3,
+      "story": {
+        "title": "Thousands protest in Madrid against Spain’s housing crisis",
+        "description": "Thousands of protesters in Madrid demand answers after the eviction of 87-year-old Maricarmen Abascal.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/thousands-protest-in-madrid-against-spains-housing-crisis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 3,
+      "story": {
+        "title": "Broncos into fifth NRLW grand final after toppling Titans",
+        "description": "Brisbane will get the chance to send retiring club legend Ali Brigginshaw out a winner in the grand final after it overpowered Gold Coast 20-8 at Robina.",
+        "link": "https://www.abc.net.au/news/2026-09-27/broncos-into-fifth-nrlw-grand-final-beating-titans/107201364",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "Tenth woman's body found as South Africa police probe killings",
-        "description": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
-        "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
+        "title": "Republic of Ireland to wear black armbands for Israel game",
+        "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 2,
       "story": {
-        "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
-        "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-        "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+        "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+        "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -341,22 +317,22 @@
       "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-        "description": "Iran’s Pezeshkian says Tehran no longer trusts US talks, shortly before Trump rejected its Hormuz proposal.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Are claims of a white genocide in South Africa real?",
+        "description": "Thousands of white crosses have been displayed in Washington by an Afrikaner lobby group But South Africa's new ambassador Roelf Meyer says there is not a genocide.",
+        "link": "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
       "count": 2,
       "story": {
-        "title": "How the ACT became the 'inevitable victim' of everyone else's bikie laws",
-        "description": "The ACT's chief police officer has no doubt about the damage outlaw bikie gangs are causing in Canberra — while raw numbers in the region do not match those in Sydney and Melbourne, there has been a notable increase in t",
-        "link": "https://www.abc.net.au/news/2026-09-27/act-inside-police-fight-against-rising-bikie-threat/107197350",
-        "source": "ABC News AU"
+        "title": "Malaysia’s Ng, Sivasangari book LA28 Olympics berth with Asian Games gold",
+        "description": "The top seeds defend their Asian Games squash titles, becoming the first players to qualify for the Los Angeles Games.",
+        "link": "https://www.aljazeera.com/sports/2026/9/27/malaysias-ng-subramaniam-book-la28-olympics-berth-with-asian-games-gold?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -365,10 +341,46 @@
       "lon": 78.0,
       "count": 2,
       "story": {
-        "title": "India news: New Delhi, Islamabad trade accusations at UN General Assembly",
-        "description": "Shehbaz Sharif criticized India's policy on Kashmir and praised Pakistan's military, while New Delhi accused Islamabad of supporting cross-border terrorism. DW has more.",
-        "link": "https://www.dw.com/en/india-news-new-delhi-islamabad-trade-accusations-at-un-general-assembly/live-79440869?maca=en-rss-en-all-1573-rdf",
+        "title": "India news: Assam Police detain CJP's Ashutosh Ranka",
+        "description": "Ranka has criticized Assam Chief Minister Himanta Biswa Sarma over schools, land rights and electoral boundaries. DW has more.",
+        "link": "https://www.dw.com/en/india-news-assam-police-detain-cjp-s-ashutosh-ranka/live-79440869?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 2,
+      "story": {
+        "title": "German Olympic Committee names Munich as bid city choice",
+        "description": "Munich has been voted as the city that will bid for the Olympics in 2036, 2040 or 2044. Berlin had been in the running but withdrew on Thursday.",
+        "link": "https://www.dw.com/en/german-olympic-committee-names-munich-as-bid-city-choice/a-79441284?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+        "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Athens",
+      "lat": 37.98,
+      "lon": 23.73,
+      "count": 1,
+      "story": {
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+        "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -384,15 +396,75 @@
       }
     },
     {
-      "name": "Hungary",
-      "lat": 47.16,
-      "lon": 19.5,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
-        "description": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+        "title": "White House bars CNN from travelling with Trump on Air Force One",
+        "description": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+        "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 1,
+      "story": {
+        "title": "Plane carrying DR Congo military delegation crashes",
+        "description": "A plane carrying a Congolese military delegation crashed in DR Congo, killing 17 people, including four civilians.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/plane-carrying-dr-congo-military-delegation-crashes?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Thailand",
+      "lat": 15.87,
+      "lon": 100.99,
+      "count": 1,
+      "story": {
+        "title": "Photos: Heavy rains and flooding in Bangkok force thousands into shelters",
+        "description": "Continuous downpours have hammered several areas of Thailand’s capital.",
+        "link": "https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
+      "count": 1,
+      "story": {
+        "title": "Norway vs Portugal: UEFA Nations League – Ronaldo, Haaland, teams, form",
+        "description": "Norway host two-time UEFA Nations League winners Portugal in Oslo in the second match of the league phase.",
+        "link": "https://www.aljazeera.com/sports/2026/9/27/norway-portugal-uefa-nations-league-ronaldo-haaland-team-news?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Oslo",
+      "lat": 59.91,
+      "lon": 10.75,
+      "count": 1,
+      "story": {
+        "title": "Norway vs Portugal: UEFA Nations League – Ronaldo, Haaland, teams, form",
+        "description": "Norway host two-time UEFA Nations League winners Portugal in Oslo in the second match of the league phase.",
+        "link": "https://www.aljazeera.com/sports/2026/9/27/norway-portugal-uefa-nations-league-ronaldo-haaland-team-news?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
+      "count": 1,
+      "story": {
+        "title": "Norway vs Portugal: UEFA Nations League – Ronaldo, Haaland, teams, form",
+        "description": "Norway host two-time UEFA Nations League winners Portugal in Oslo in the second match of the league phase.",
+        "link": "https://www.aljazeera.com/sports/2026/9/27/norway-portugal-uefa-nations-league-ronaldo-haaland-team-news?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -420,87 +492,27 @@
       }
     },
     {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Venezuela frees 39 political prisoners after post-Maduro talks",
-        "description": "The releases follow a second round of negotiations between Venezuela&#039;s interim government and the opposition.",
-        "link": "https://www.aljazeera.com/news/2026/9/27/venezuela-frees-39-political-prisoners-after-post-maduro-talks?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Freo finds joy in AFLW win, Pies finally off the mark",
+        "description": "Fremantle's AFLW side restores some joy to the Dockers' weekend with victory over Adelaide, while Collingwood claims its first win of the season over GWS.",
+        "link": "https://www.abc.net.au/news/2026-09-27/fremantle-finds-joy-in-aflw-win-pies-finally-off-the-mark/107201496",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
       "count": 1,
       "story": {
-        "title": "Powerful storm brings flooding, power outages to northeastern United States",
-        "description": "Authorities warn residents that extreme conditions in the region could pose risks.",
-        "link": "https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
-      "count": 1,
-      "story": {
-        "title": "Why is violence between Pakistan and Afghanistan recurring?",
-        "description": "Pakistan has carried out new strikes inside Afghanistan.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
-        "description": "Hamas accuses Board of Peace of aligning with Israel after excluding UN agency for Palestinians from Gaza operations.",
-        "link": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
-        "description": "At the UN, Saudi Arabia accused Iran of attacks across the region and called for action against the Houthis.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 1,
-      "story": {
-        "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
-        "description": "Russian Foreign Minister Sergey Lavrov vowed that the objectives of Moscow’s military operation will be achieved.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
-      "count": 1,
-      "story": {
-        "title": "Colombia extradites leader of armed group to US in shift towards Washington",
-        "description": "Colombian President Abelardo De La Espriella has emerged as close ally the of Trump administration in South America.",
-        "link": "https://www.aljazeera.com/news/2026/9/26/colombia-extradites-leader-of-armed-group-to-us-in-shift-towards-washington?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "ACT's top cop backs controversial laws in battle against bikies",
+        "description": "The ACT's chief police officer has no doubt about the damage outlaw bikie gangs are causing in Canberra — while raw numbers in the region do not match those in Sydney and Melbourne, there has been a notable increase in t",
+        "link": "https://www.abc.net.au/news/2026-09-27/act-inside-police-fight-against-rising-bikie-threat/107197350",
+        "source": "ABC News AU"
       }
     },
     {
@@ -509,45 +521,33 @@
       "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "How the ACT became the 'inevitable victim' of everyone else's bikie laws",
+        "title": "ACT's top cop backs controversial laws in battle against bikies",
         "description": "The ACT's chief police officer has no doubt about the damage outlaw bikie gangs are causing in Canberra — while raw numbers in the region do not match those in Sydney and Melbourne, there has been a notable increase in t",
         "link": "https://www.abc.net.au/news/2026-09-27/act-inside-police-fight-against-rising-bikie-threat/107197350",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Taiwan",
+      "lat": 23.7,
+      "lon": 121.0,
       "count": 1,
       "story": {
-        "title": "Paris: Pope Leo XIV celebrates Mass before huge crowd",
-        "description": "The pope addressed around 700,000 people during a Mass at the Place de la Concorde, near the Champs-Elysees. Leo XIV is on a four-day visit to France.",
-        "link": "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+        "title": "No public mentions of Taiwan at official Xi and Trump meeting",
+        "description": "At a high-profile summit between Presidents Donald Trump and Xi Jinping in Washington, there was much talk of trade and artificial intelligence. One of the most contentious issues, Taiwan, was only discussed in private.",
+        "link": "https://www.dw.com/en/no-public-mentions-of-taiwan-at-official-xi-and-trump-meeting/a-79445378?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
+      "name": "Switzerland",
+      "lat": 46.8,
+      "lon": 8.2,
       "count": 1,
       "story": {
-        "title": "Russia expected to intensify hybrid war on Europe",
-        "description": "Drone explosions, airspace violations, arson attacks: Poland, Romania, and Moldova are now regularly targeted in Russian attacks against Ukraine. More governments are calling these attacks deliberate acts of aggression.",
-        "link": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Romania",
-      "lat": 45.94,
-      "lon": 24.97,
-      "count": 1,
-      "story": {
-        "title": "Russia expected to intensify hybrid war on Europe",
-        "description": "Drone explosions, airspace violations, arson attacks: Poland, Romania, and Moldova are now regularly targeted in Russian attacks against Ukraine. More governments are calling these attacks deliberate acts of aggression.",
-        "link": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-all-1573-rdf",
+        "title": "Switzerland: Referendum to decide on stricter neutrality",
+        "description": "Swiss voters will decide whether a stricter application of neutrality is necessary. Swiss neutrality has been enshrined in the constitution since 1848.",
+        "link": "https://www.dw.com/en/switzerland-referendum-to-decide-on-stricter-neutrality/a-79446996?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
