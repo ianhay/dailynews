@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T22:29:56+00:00",
+  "generated_at": "2026-09-28T01:08:07+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Venezuela releases dozens of political prisoners as election calls grow",
       "description": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
       "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
@@ -28,9 +22,21 @@
       "description": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
       "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
     }
   ],
   "australia": [
+    {
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Embattled Serbian president resigns, paving way for early elections",
       "description": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
@@ -42,12 +48,6 @@
       "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
       "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "description": "The independent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
@@ -58,15 +58,15 @@
       "source": "BBC News"
     },
     {
-      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
-      "description": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Faisal Islam: The two big decisions the chancellor must make",
       "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
       "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Could an iced coffee freeze you out of the job market?",
+      "description": "Employees and recruiters weigh into the online debate around interview etiquette.",
+      "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 10,
+      "count": 8,
       "story": {
         "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
         "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
@@ -99,11 +99,23 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "Ireland defeats Israel in controversial UEFA Nations League match",
         "description": "Ireland&#039;s players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.",
         "link": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 7,
+      "story": {
+        "title": "South Korea, Ukraine relations sour over North Korean POW transfer",
+        "description": "South Korea&#039;s presidential office criticised Ukraine for denying POW nondisclosure agreement.",
+        "link": "https://www.aljazeera.com/news/2026/9/27/south-korea-ukraine-relations-sour-over-north-korean-pow-transfer?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -120,34 +132,10 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 6,
-      "story": {
-        "title": "Young people in China are fangirling over a professor who gets their anxiety",
-        "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
-        "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 6,
-      "story": {
-        "title": "South Korea, Ukraine relations sour over North Korean POW transfer",
-        "description": "South Korea&#039;s presidential office criticised Ukraine for denying POW nondisclosure agreement.",
-        "link": "https://www.aljazeera.com/news/2026/9/27/south-korea-ukraine-relations-sour-over-north-korean-pow-transfer?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Ireland",
       "lat": 53.14,
       "lon": -7.69,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "We ship our gym equipment all over the world",
         "description": "Northern Ireland's economic output, which is broadly equivalent to UK GDP, rose by 2.3% in the year to June.",
@@ -161,34 +149,34 @@
       "lon": 90.0,
       "count": 5,
       "story": {
-        "title": "Russia expected to intensify hybrid war on Europe",
-        "description": "Drone explosions, airspace violations, arson attacks: Poland, Romania, and Moldova are now regularly targeted in Russian attacks against Ukraine. More governments are calling these attacks deliberate acts of aggression.",
-        "link": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 4,
-      "story": {
-        "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-        "description": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
-        "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "'Deeply regrettable': South Korea demands apology over POW transfer by Ukraine",
+        "description": "Seoul accuses Ukraine of announcing the transfer of North Korean soldiers caught fighting for Russia to South Korea in breach of a non-disclosure agreement.",
+        "link": "https://www.abc.net.au/news/2026-09-28/south-korea-demands-apology-from-ukraine-over-pow-announcement/107202624",
+        "source": "ABC News AU"
       }
     },
     {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
+      "count": 5,
+      "story": {
+        "title": "Morning kayakers treated to rare dolphin sighting in Sydney Harbour",
+        "description": "A pod of about 10 dolphins delights kayakers in Sydney Harbour this morning, with one kayak tour operator saying it's rare to see the animals that far west.",
+        "link": "https://www.abc.net.au/news/2026-09-28/sydney-harbour-dolphins-spotted-west-of-bridge/107202526",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 4,
       "story": {
-        "title": "'People were on the floor': Patient's 23-hour wait at Sydney hospital",
-        "description": "Adnaan spent 23 hours on a hard chair at Sydney's Westmead Hospital before leaving without a bed. New figures show he is not alone.",
-        "link": "https://www.abc.net.au/news/2026-09-28/sydney-westmead-hospital-emergency-wait-times/107164844",
-        "source": "ABC News AU"
+        "title": "Young people in China are fangirling over a professor who gets their anxiety",
+        "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+        "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -204,14 +192,26 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
       "count": 3,
       "story": {
-        "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-        "description": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
-        "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+        "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+        "description": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+        "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "Why some Indian civil servants become heroes for doing their jobs",
+        "description": "In a system often marked by red tape and exhausting delays, officers seen to be following the rules get adulation.",
+        "link": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -228,15 +228,39 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 3,
       "story": {
-        "title": "Alleged rape on campus sparks violent protest at Indian university",
-        "description": "Student protests at an Indian university have turned violent following claims that a female student was raped on campus.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss",
+        "title": "South Korea, Ukraine relations sour over North Korean POW transfer",
+        "description": "South Korea&#039;s presidential office criticised Ukraine for denying POW nondisclosure agreement.",
+        "link": "https://www.aljazeera.com/news/2026/9/27/south-korea-ukraine-relations-sour-over-north-korean-pow-transfer?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 3,
+      "story": {
+        "title": "South Korea, Ukraine relations sour over North Korean POW transfer",
+        "description": "South Korea&#039;s presidential office criticised Ukraine for denying POW nondisclosure agreement.",
+        "link": "https://www.aljazeera.com/news/2026/9/27/south-korea-ukraine-relations-sour-over-north-korean-pow-transfer?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Birrell claims long-awaited WTA title, but loses top Aussie ranking",
+        "description": "Kim Birrell downs compatriot Maya Joint to claim her first WTA title, but loses her number one ranking as another Australian performs well in Singapore.",
+        "link": "https://www.abc.net.au/news/2026-09-28/tennis-kim-birrell-claims-first-wta-title-but-loses-top-spot/107202476",
+        "source": "ABC News AU"
       }
     },
     {
@@ -248,6 +272,42 @@
         "title": "Switzerland rejects stricter interpretation of its neutrality",
         "description": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
         "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 2,
+      "story": {
+        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+        "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 2,
+      "story": {
+        "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+        "description": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Bangkok",
+      "lat": 13.75,
+      "lon": 100.5,
+      "count": 2,
+      "story": {
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "description": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
+        "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -264,18 +324,6 @@
       }
     },
     {
-      "name": "Cuba",
-      "lat": 21.52,
-      "lon": -77.78,
-      "count": 2,
-      "story": {
-        "title": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
-        "description": "Cuba&#039;s deputy foreign minister slams US sanctions, labelling them &#039;equivalent to genocide&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
@@ -285,18 +333,6 @@
         "description": "Ireland has been thrust into the global spotlight over two controversial Nations League football games against Israel.",
         "link": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Birrell claims long awaited WTA title, but loses top Aussie ranking",
-        "description": "Kim Birrell downs compatriot Maya Joint to claim her first WTA title, but loses her No1 ranking as another Australian performs well in Singapore.",
-        "link": "https://www.abc.net.au/news/2026-09-28/tennis-kim-birrell-claims-first-wta-title-but-loses-top-spot/107202476",
-        "source": "ABC News AU"
       }
     },
     {
@@ -312,15 +348,15 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
       "story": {
-        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-        "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-        "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Bank of Japan debated need for faster rate hikes, July minutes show",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/business/bank-japan-debated-need-faster-rate-hikes-july-minutes-show-6414456",
+        "source": "CNA"
       }
     },
     {
@@ -336,18 +372,6 @@
       }
     },
     {
-      "name": "Bangkok",
-      "lat": 13.75,
-      "lon": 100.5,
-      "count": 1,
-      "story": {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "description": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
-        "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Athens",
       "lat": 37.98,
       "lon": 23.73,
@@ -356,18 +380,6 @@
         "title": "British national among six dead in building explosion close to Acropolis in Athens",
         "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
         "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 1,
-      "story": {
-        "title": "Brazil's Lula bans online gambling ahead of presidential election",
-        "description": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
-        "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -456,6 +468,18 @@
       }
     },
     {
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
+      "count": 1,
+      "story": {
+        "title": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
+        "description": "Cuba&#039;s deputy foreign minister slams US sanctions, labelling them &#039;equivalent to genocide&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
@@ -468,39 +492,15 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Seoul",
+      "lat": 37.57,
+      "lon": 126.98,
       "count": 1,
       "story": {
-        "title": "South Korea, Ukraine relations sour over North Korean POW transfer",
-        "description": "South Korea&#039;s presidential office criticised Ukraine for denying POW nondisclosure agreement.",
-        "link": "https://www.aljazeera.com/news/2026/9/27/south-korea-ukraine-relations-sour-over-north-korean-pow-transfer?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 1,
-      "story": {
-        "title": "South Korea, Ukraine relations sour over North Korean POW transfer",
-        "description": "South Korea&#039;s presidential office criticised Ukraine for denying POW nondisclosure agreement.",
-        "link": "https://www.aljazeera.com/news/2026/9/27/south-korea-ukraine-relations-sour-over-north-korean-pow-transfer?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
-      "count": 1,
-      "story": {
-        "title": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
-        "description": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/jerusalem-daily-israeli-opposition-leaders-unite-to-drive-out-netanyahu?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "'Deeply regrettable': South Korea demands apology over POW transfer by Ukraine",
+        "description": "Seoul accuses Ukraine of announcing the transfer of North Korean soldiers caught fighting for Russia to South Korea in breach of a non-disclosure agreement.",
+        "link": "https://www.abc.net.au/news/2026-09-28/south-korea-demands-apology-from-ukraine-over-pow-announcement/107202624",
+        "source": "ABC News AU"
       }
     },
     {
