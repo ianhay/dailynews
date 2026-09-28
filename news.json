@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:28:21+00:00",
+  "generated_at": "2026-09-28T15:51:08+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "description": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+      "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Venezuela releases dozens of political prisoners as election calls grow",
       "description": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
       "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
@@ -21,12 +27,6 @@
       "title": "Switzerland rejects stricter interpretation of its neutrality",
       "description": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
       "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -38,15 +38,15 @@
       "source": "BBC News"
     },
     {
-      "title": "Embattled Serbian president resigns, paving way for early elections",
-      "description": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+      "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
-      "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+      "title": "Plan for controversial Sydney data centre scrapped after push-back",
+      "description": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -58,15 +58,15 @@
       "source": "BBC News"
     },
     {
-      "title": "Faisal Islam: The two big decisions the chancellor must make",
-      "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
-      "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+      "title": "What is the Budget and what could be in it?",
+      "description": "Chancellor John Healey will set out his plans for UK taxes in October.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     },
     {
-      "title": "Could an iced coffee freeze you out of the job market?",
-      "description": "Employees and recruiters weigh into the online debate around interview etiquette.",
-      "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+      "title": "Faisal Islam: The two big decisions the chancellor must make",
+      "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+      "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -84,22 +84,10 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 8,
-      "story": {
-        "title": "Young people in China are fangirling over a professor who gets their anxiety",
-        "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
-        "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 6,
+      "count": 10,
       "story": {
         "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
         "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
@@ -111,19 +99,43 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
+      "count": 9,
+      "story": {
+        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+        "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+        "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 7,
+      "story": {
+        "title": "UK diesel price hits all-time high, the RAC says",
+        "description": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 6,
       "story": {
-        "title": "Russian strikes kill eight, injure dozens across Ukraine",
-        "description": "Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.",
-        "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Plan for controversial Sydney data centre scrapped after push-back",
+        "description": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
+        "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "Why some Indian civil servants become heroes for doing their jobs",
         "description": "In a system often marked by red tape and exhausting delays, officers seen to be following the rules get adulation.",
@@ -132,74 +144,38 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "Seoul",
+      "lat": 37.57,
+      "lon": 126.98,
       "count": 5,
       "story": {
-        "title": "Russian strikes kill eight, injure dozens across Ukraine",
-        "description": "Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.",
-        "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 5,
-      "story": {
-        "title": "Singapore’s Loh Kean Yew through to Asian Games badminton final after beating South Korea’s Yoo",
-        "description": "Loh Kean Yew, the first Singaporean to reach an Asian Games badminton final, will battle Thailand’s Kunlavut Vitidsarn for gold.",
-        "link": "https://www.channelnewsasia.com/sport/loh-kean-yew-asian-games-badminton-semi-final-6414736",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
-      "count": 4,
-      "story": {
-        "title": "Embattled Serbian president resigns, paving way for early elections",
-        "description": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
-        "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+        "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+        "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 4,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 5,
       "story": {
-        "title": "Two mass shootings in South Africa leave 28 dead",
-        "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-        "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+        "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+        "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 4,
       "story": {
-        "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
-        "description": "Ireland scored a 3-0 victory over Israel in a politically-charged UEFA Nations League match played in Hungary.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 3,
-      "story": {
-        "title": "Venezuela releases dozens of political prisoners as election calls grow",
-        "description": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
-        "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+        "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+        "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -207,7 +183,7 @@
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "German town bans 'stumbling stone' memorials to Nazi victims",
         "description": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
@@ -216,82 +192,10 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 3,
-      "story": {
-        "title": "US, China list goods recommended for tariff cuts following Trump-Xi summit",
-        "description": "Washington and Beijing announce details of agreement to reduce tariffs on $60bn of trade.",
-        "link": "https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 3,
-      "story": {
-        "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
-        "description": "Ireland scored a 3-0 victory over Israel in a politically-charged UEFA Nations League match played in Hungary.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 3,
-      "story": {
-        "title": "Eight dead in Thailand floods since mid-September",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/asia/thailand-floods-deaths-heavy-rain-disaster-6414981",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
-      "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
-      }
-    },
-    {
-      "name": "Switzerland",
-      "lat": 46.8,
-      "lon": 8.2,
-      "count": 2,
-      "story": {
-        "title": "Switzerland rejects stricter interpretation of its neutrality",
-        "description": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
-        "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 2,
-      "story": {
-        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-        "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-        "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
         "description": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
@@ -300,10 +204,34 @@
       }
     },
     {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 3,
+      "story": {
+        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+        "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 3,
+      "story": {
+        "title": "Young people in China are fangirling over a professor who gets their anxiety",
+        "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+        "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Lima",
       "lat": -12.05,
       "lon": -77.04,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
         "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
@@ -312,15 +240,147 @@
       }
     },
     {
-      "name": "White House",
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 3,
+      "story": {
+        "title": "Israeli fans direct monkey chants and military slogans at Ireland’s players",
+        "description": "Israeli fans directed monkey chants at Ireland&#039;s Adam Idah, who scored a goal in his team&#039;s 3-0 Nations League win.",
+        "link": "https://www.aljazeera.com/sports/2026/9/28/israeli-fans-monkey-chants-ireland-adam-idah-uefa-nations-league?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 3,
+      "story": {
+        "title": "Russia expected to intensify hybrid war on Europe",
+        "description": "Drone explosions, airspace violations, arson attacks: Poland, Romania, and Moldova are now regularly targeted in Russian attacks against Ukraine. More governments are calling these attacks deliberate acts of aggression.",
+        "link": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Washington",
       "lat": 38.9,
       "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Anthropic CEO Amodei to have dinner with Trump at White House",
-        "description": "Private dinner will be the first one-on-one meeting between the two men, according to reports.",
-        "link": "https://www.aljazeera.com/economy/2026/9/28/anthropic-ceo-amodei-to-have-dinner-with-trump-at-white-house?traffic_source=rss",
+        "title": "Trump-Xi summit: What wasn't said might matter the most",
+        "description": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+        "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Serbia",
+      "lat": 44.02,
+      "lon": 21.01,
+      "count": 2,
+      "story": {
+        "title": "Embattled Serbian president resigns, paving way for early elections",
+        "description": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+        "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 2,
+      "story": {
+        "title": "Venezuela releases dozens of political prisoners as election calls grow",
+        "description": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
+        "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 2,
+      "story": {
+        "title": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
+        "description": "Big Bang played London's Tottenham Hotspur Stadium, marking a long-awaited return for the group that helped build the blueprint for modern K-pop.",
+        "link": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Bangkok",
+      "lat": 13.75,
+      "lon": 100.5,
+      "count": 2,
+      "story": {
+        "title": "Thai police arrest jet skier after joyride through flooded Bangkok streets",
+        "description": "Thai police arrest jet skier after joyride through flooded Bangkok streets",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/thai-police-arrest-jet-skier-after-joyride-through-flooded-bangkok-streets?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 2,
+      "story": {
+        "title": "Ethiopia accuses Sudan, Egypt of backing Tigray rebels as fighting rages",
+        "description": "Sudan army denies backing Tigray fighters, says rival paramilitary RSF receiving support from within Ethiopia.",
+        "link": "https://www.aljazeera.com/news/2026/9/28/ethiopia-accuses-sudan-egypt-of-backing-tigray-rebels-as-fighting-rages?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 2,
+      "story": {
+        "title": "Ethiopia accuses Sudan, Egypt of backing Tigray rebels as fighting rages",
+        "description": "Sudan army denies backing Tigray fighters, says rival paramilitary RSF receiving support from within Ethiopia.",
+        "link": "https://www.aljazeera.com/news/2026/9/28/ethiopia-accuses-sudan-egypt-of-backing-tigray-rebels-as-fighting-rages?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 2,
+      "story": {
+        "title": "Ethiopia accuses Sudan, Egypt of backing Tigray rebels as fighting rages",
+        "description": "Sudan army denies backing Tigray fighters, says rival paramilitary RSF receiving support from within Ethiopia.",
+        "link": "https://www.aljazeera.com/news/2026/9/28/ethiopia-accuses-sudan-egypt-of-backing-tigray-rebels-as-fighting-rages?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Palestinians denounce Israeli minister Ben-Gvir’s threats against prisoner",
+        "description": "Footage of national security minister taunting Hassan Salama in his cell draws sharp condemnation from Palestinians.",
+        "link": "https://www.aljazeera.com/news/2026/9/28/palestinians-denounce-israeli-minister-ben-gvirs-threats-against-prisoner?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 2,
+      "story": {
+        "title": "Trial begins for man accused of hacking friend to death with machete",
+        "description": "A man accused of hacking his friend to death with a machete in Melbourne's west two years ago hit his victim at least 39 times, the Victorian Supreme Court has heard.",
+        "link": "https://www.abc.net.au/news/2026-09-28/deer-park-machete-murder-trial-victorian-supreme-court/107205524",
+        "source": "ABC News AU"
       }
     },
     {
@@ -329,93 +389,45 @@
       "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
-        "description": "Ireland scored a 3-0 victory over Israel in a politically-charged UEFA Nations League match played in Hungary.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 2,
-      "story": {
-        "title": "Socceroos expect Brazil backlash in Brisbane",
-        "description": "Veteran Socceroos back Aziz Behich has explained how the side can counter an inevitable Brazilian backlash in Brisbane.",
-        "link": "https://www.abc.net.au/news/2026-09-28/socceroos-expect-brazil-backlash-in-brisbane/107204678",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 2,
-      "story": {
-        "title": "Ukraine, South Korea relations sour over North Korean POWs",
-        "description": "South Korea has accused Ukraine of breaching a confidentiality agreement over the transfer of North Korean prisoners of war — and of denying the deal's existence. Seoul has demanded an apology.",
-        "link": "https://www.dw.com/en/ukraine-south-korea-relations-sour-over-north-korean-pows/a-79451515?maca=en-rss-en-all-1573-rdf",
+        "title": "Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy",
+        "description": "Ireland easily beat Israel in a Nations League fixture that 24 hours earlier appeared in doubt. One Irish player pulled out of the match to express his opposition to Israel's actions in the Gaza Strip.",
+        "link": "https://www.dw.com/en/ireland-beat-israel-3-0-in-nations-league-match-overshadowed-by-political-controversy/a-79455254?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
-      "count": 2,
-      "story": {
-        "title": "No public mentions of Taiwan at official Xi and Trump meeting",
-        "description": "At a high-profile summit between Presidents Donald Trump and Xi Jinping in Washington, there was much talk of trade and artificial intelligence. One of the most contentious issues, Taiwan, was only discussed in private.",
-        "link": "https://www.dw.com/en/no-public-mentions-of-taiwan-at-official-xi-and-trump-meeting/a-79445378?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 2,
-      "story": {
-        "title": "Siti Hasmah, wife of former Malaysian PM Mahathir, dies aged 100",
-        "description": "She died at Malaysia's National Heart Institute at about 9.20am on Sep 28.&nbsp;Prime Minister Anwar Ibrahim said she will be accorded a state funeral.",
-        "link": "https://www.channelnewsasia.com/asia/malaysia-siti-hasmah-mahathir-wife-dies-6414626",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Bangkok",
-      "lat": 13.75,
-      "lon": 100.5,
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
       "count": 1,
       "story": {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "description": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
-        "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+        "title": "Mexico's Pacific coast braces for Hurricane Polo",
+        "description": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
+        "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Athens",
-      "lat": 37.98,
-      "lon": 23.73,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 1,
       "story": {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-        "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+        "title": "Two mass shootings in South Africa leave 28 dead",
+        "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+        "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "Switzerland",
+      "lat": 46.8,
+      "lon": 8.2,
       "count": 1,
       "story": {
-        "title": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
-        "description": "Big Bang played London's Tottenham Hotspur Stadium, marking a long-awaited return for the group that helped build the blueprint for modern K-pop.",
-        "link": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
+        "title": "Switzerland rejects stricter interpretation of its neutrality",
+        "description": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
+        "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -432,98 +444,26 @@
       }
     },
     {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
       "count": 1,
       "story": {
-        "title": "US, China list goods recommended for tariff cuts following Trump-Xi summit",
-        "description": "Washington and Beijing announce details of agreement to reduce tariffs on $60bn of trade.",
-        "link": "https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss",
+        "title": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz",
+        "description": "The continued blockade of the Strait of Hormuz has forced Iraq to look for alternatives to export its oil.",
+        "link": "https://www.aljazeera.com/economy/2026/9/28/iraq-looks-for-oil-export-alternatives-to-the-troubled-strait-of-hormuz?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 1,
       "story": {
-        "title": "Russian strikes kill eight, injure dozens across Ukraine",
-        "description": "Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.",
-        "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Sudanese army impounds dozens of motorcycles in Blue Nile curfew",
-        "description": "Dozens of motorcycles were impounded in Sudan’s Blue Nile State, after their riders were accused of flouting a curfew.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/sudanese-army-impounds-dozens-of-motorcycles-in-blue-nile-curfew?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Hungary",
-      "lat": 47.16,
-      "lon": 19.5,
-      "count": 1,
-      "story": {
-        "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
-        "description": "Ireland scored a 3-0 victory over Israel in a politically-charged UEFA Nations League match played in Hungary.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Algeria",
-      "lat": 28.03,
-      "lon": 1.66,
-      "count": 1,
-      "story": {
-        "title": "Floods inundate roads in southeastern Algeria",
-        "description": "Circulating footage showed significant flooding, following heavy rain in southeastern Algeria.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
-      "count": 1,
-      "story": {
-        "title": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
-        "description": "Goncalo Ramos starts in place of Cristiano Ronaldo and scores the winner for Portugal in Oslo.",
-        "link": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Oslo",
-      "lat": 59.91,
-      "lon": 10.75,
-      "count": 1,
-      "story": {
-        "title": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
-        "description": "Goncalo Ramos starts in place of Cristiano Ronaldo and scores the winner for Portugal in Oslo.",
-        "link": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Norway",
-      "lat": 60.47,
-      "lon": 8.47,
-      "count": 1,
-      "story": {
-        "title": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
-        "description": "Goncalo Ramos starts in place of Cristiano Ronaldo and scores the winner for Portugal in Oslo.",
-        "link": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss",
+        "title": "Why South Korea is demanding an apology from Ukraine over North Korean PoWs",
+        "description": "Seoul says Kyiv agreed to a nondisclosure agreement over the prisoners but broke it.",
+        "link": "https://www.aljazeera.com/news/2026/9/28/why-south-korea-is-demanding-an-apology-from-ukraine-over-north-korean-pows?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -531,6 +471,18 @@
       "name": "Brisbane",
       "lat": -27.47,
       "lon": 153.03,
+      "count": 1,
+      "story": {
+        "title": "Socceroos expect Brazil backlash in Brisbane",
+        "description": "Veteran Socceroos back Aziz Behich has explained how the side can counter an inevitable Brazilian backlash in Brisbane.",
+        "link": "https://www.abc.net.au/news/2026-09-28/socceroos-expect-brazil-backlash-in-brisbane/107204678",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
       "count": 1,
       "story": {
         "title": "Socceroos expect Brazil backlash in Brisbane",
@@ -549,6 +501,54 @@
         "description": "The 18-year-old allegedly knocked over the two and four-year-old brothers at the Belconnen mall and kicked one of them.",
         "link": "https://www.abc.net.au/news/2026-09-28/man-accused-assaulting-two-young-boys-belconnen-bail/107204050",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "Sicily: Mount Etna ash disrupts Catania flights again",
+        "description": "A thick ash cloud from Mount Etna has been disrupting flights to Catania in Sicily for several days. Italy and Europe's most active volcano, Etna has impacted air travel several times this summer.",
+        "link": "https://www.dw.com/en/sicily-mount-etna-ash-disrupts-catania-flights-again/a-79462773?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
+      "count": 1,
+      "story": {
+        "title": "Turkey: Comedian convicted for 'insulting' Erdogan in show",
+        "description": "Deniz Goktas was convicted of two of three charges, including \"insulting\" the president, but was released pending the appeal process. Nominally, Turkey is a secular country with free speech.",
+        "link": "https://www.dw.com/en/turkey-comedian-convicted-for-insulting-erdogan-in-show/a-79455759?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Hungary",
+      "lat": 47.16,
+      "lon": 19.5,
+      "count": 1,
+      "story": {
+        "title": "Hungary lifts PM Peter Magyar’s immunity, clears way for probes into 2 former Orban ministers",
+        "description": "Prime Minister Peter Magyar has backed the move himself. Two former ministers who served under his rival Viktor Orban now face separate corruption probes.",
+        "link": "https://www.dw.com/en/hungary-lifts-pm-peter-magyar-s-immunity-clears-way-for-probes-into-2-former-orban-ministers/a-79458651?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
+      "count": 1,
+      "story": {
+        "title": "Will Jürgen Klopp's charisma be enough for Germany?",
+        "description": "After defeat to Greece, Jürgen Klopp is confronted with the real challenge of his task as Germany head coach. Can his charisma alone push this group forward?",
+        "link": "https://www.dw.com/en/will-jürgen-klopp-s-charisma-be-enough-for-germany/a-79455266?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
