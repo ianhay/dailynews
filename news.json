@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:01:17+00:00",
+  "generated_at": "2026-09-29T20:10:13+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,8 +12,8 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Burnham to unveil public body to invest in electricity grid",
-      "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+      "title": "Burnham says public body will invest in electricity grid",
+      "description": "The prime minister said he wants to reduce energy costs in his first conference speech as Labour leader.",
       "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     },
@@ -24,13 +24,19 @@
       "source": "BBC Business"
     },
     {
-      "title": "Man City’s Premier League charges: What’s the latest and what comes next?",
-      "description": "Swingeing sanctions against City for breaching financial fair play rules would send shockwaves through English football.",
-      "link": "https://www.aljazeera.com/sports/2026/9/29/man-citys-premier-league-charges-whats-the-latest-and-what-comes-next?traffic_source=rss",
+      "title": "Morocco’s king names Fatima Ezzahra El Mansouri first woman PM",
+      "description": "Fatima Ezzahra El Mansouri becomes the second woman to serve as prime minister in the Arab world.",
+      "link": "https://www.aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
   "australia": [
+    {
+      "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+      "description": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
       "description": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
@@ -38,15 +44,9 @@
       "source": "BBC News"
     },
     {
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "description": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
-      "description": "The measures include a proposed ban on evictions until 2030 and the automatic renewal of tenant contracts.",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+      "title": "First female prime minister named in Morocco after winning elections",
+      "description": "Her appointment by the king makes her only the second woman to lead a government in the Arab world.",
+      "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -64,10 +64,10 @@
       "source": "BBC News"
     },
     {
-      "title": "Watch: Bangkok locals create floating market during floods",
-      "description": "As sellers waded through floodwaters to sell produce like fish and vegetables from floating platforms and foam boxes, buyers walked or paddled between the makeshift stalls to buy their groceries.",
-      "link": "https://www.bbc.co.uk/news/videos/c6q8jlqvjgdlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "What is the triple lock and why are people talking about it?",
+      "description": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.",
+      "link": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,31 +75,19 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 13,
       "story": {
-        "title": "OpenAI scraps rollout of new model over safety concerns",
-        "description": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-        "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "title": "The Frenemy: How Australia navigates superpower rivalry",
+        "description": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
+        "link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 11,
-      "story": {
-        "title": "UK diesel price hits all-time high, the RAC says",
-        "description": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
-        "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
       }
     },
     {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 10,
       "story": {
         "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
         "description": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
@@ -111,7 +99,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 8,
+      "count": 10,
       "story": {
         "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
         "description": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
@@ -120,10 +108,22 @@
       }
     },
     {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 7,
+      "story": {
+        "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+        "description": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
+        "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
         "description": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
@@ -132,50 +132,62 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 4,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 7,
       "story": {
-        "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
-        "description": "The measures include a proposed ban on evictions until 2030 and the automatic renewal of tenant contracts.",
-        "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "When are the Dally M Awards? Who is the favourite?",
+        "description": "The NRL's and NRLW's best gather in Sydney tonight to crown rugby league's biggest stars at the Dally M Awards. Here is what you need to know.",
+        "link": "https://www.abc.net.au/news/2026-09-30/dally-m-awards-night-nrl-when-is-it-who-is-favourite/107204386",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 4,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 6,
       "story": {
-        "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
-        "description": "Human rights groups say some 5,000 returnees could face violence, persecution and forced conscription.",
-        "link": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 4,
-      "story": {
-        "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
-        "description": "Human rights groups say some 5,000 returnees could face violence, persecution and forced conscription.",
-        "link": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "UK diesel price hits all-time high, the RAC says",
+        "description": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 4,
+      "count": 5,
       "story": {
-        "title": "The Frenemy: How Australia navigates superpower rivalry",
-        "description": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
-        "link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump rules out joint US-China venture to develop AI",
+        "description": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
+        "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 5,
+      "story": {
+        "title": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
+        "description": "Dozens of mourners in Gaza grieve the loss of their loved ones as they bury the fragmented remains of relatives killed.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 3,
+      "story": {
+        "title": "First female prime minister named in Morocco after winning elections",
+        "description": "Her appointment by the king makes her only the second woman to lead a government in the Arab world.",
+        "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,15 +204,15 @@
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
       "count": 3,
       "story": {
-        "title": "Brazil beat Socceroos in fractious, entertaining clash",
-        "description": "The Socceroos once again gave Brazil an enormous scare, but the five-time world champions rallied to secure a 4-2 win at a packed Lang Park in Brisbane.",
-        "link": "https://www.abc.net.au/news/2026-09-29/socceroos-live-updates-australia-vs-brazil-brisbane/107204744",
-        "source": "ABC News AU"
+        "title": "Close-up look at Turner's '£50m' Rome painting on show in the city",
+        "description": "Turner’s early 19th century painting - Rome, from Mount Aventine - will be on display in the Italian capital for the first time ahead of an auction in London in December.",
+        "link": "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -209,22 +221,34 @@
       "lon": 10.4,
       "count": 3,
       "story": {
-        "title": "AI: Concern as Germany plans to double data center capacity",
-        "description": "Germany is rewriting the rules to attract data center investment from AI companies. But local communities are becoming increasingly skeptical.",
-        "link": "https://www.dw.com/en/ai-concern-as-germany-plans-to-double-data-center-capacity/a-79407981?maca=en-rss-en-all-1573-rdf",
+        "title": "Germany news: Bremerhaven port to receive defense boost",
+        "description": "Bremerhaven's port and Bremen's airport will be upgraded for German, NATO defense needs in case of an attack on the alliance. It comes as European countries upgrade militarily amid Russia's war in Ukraine. Follow DW.",
+        "link": "https://www.dw.com/en/germany-news-bremerhaven-port-to-receive-defense-boost/live-79468663?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
       "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
+        "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+        "description": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
+        "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 2,
+      "story": {
+        "title": "Nigerian dances non-stop for seven days in world record bid",
+        "description": "Crowds cheered on Ben Dancer as completed his challenge and he has now gone to  hospital for a check-up",
+        "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -252,63 +276,99 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
       "count": 2,
       "story": {
-        "title": "Israeli air strike kills Hamas leader in Gaza",
-        "description": "An Israeli air-strike kills Izz al-Din Al-Beik, the head of Hamas' armed wing in the northern Gaza Strip.",
-        "link": "https://www.abc.net.au/news/2026-09-29/israeli-air-strike-kills-hamas-leader-in-gaza/107209362",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 2,
-      "story": {
-        "title": "'Remarkable lives': Slain police officers honoured in Canberra",
-        "description": "An emotional service in Canberra for National Police Remembrance Day has honoured officers who have died in the line of duty, with new touchstones displaying the names of four officers added to the National Police Memori",
-        "link": "https://www.abc.net.au/news/2026-09-29/act-national-police-remembrance-day-officers-killed-porepunkah/107208514",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 2,
-      "story": {
-        "title": "Brazil beat Socceroos in fractious, entertaining clash",
-        "description": "The Socceroos once again gave Brazil an enormous scare, but the five-time world champions rallied to secure a 4-2 win at a packed Lang Park in Brisbane.",
-        "link": "https://www.abc.net.au/news/2026-09-29/socceroos-live-updates-australia-vs-brazil-brisbane/107204744",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-        "description": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
-        "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+        "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
+        "description": "Human rights groups say some 5,000 returnees could face violence, persecution and forced conscription.",
+        "link": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Jordan",
-      "lat": 30.59,
-      "lon": 36.24,
-      "count": 1,
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
+      "count": 2,
       "story": {
-        "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
-        "description": "National Rally President Jordan Bardella says he will sue for libel over comments he is accused of making as a young activist.",
-        "link": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
+        "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
+        "description": "Human rights groups say some 5,000 returnees could face violence, persecution and forced conscription.",
+        "link": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Baghdad",
+      "lat": 33.31,
+      "lon": 44.36,
+      "count": 2,
+      "story": {
+        "title": "US troops fully withdraw from Baghdad base after two decades",
+        "description": "US Army soldiers have fully withdrawn from the US base in Baghdad.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
+      "count": 2,
+      "story": {
+        "title": "Can Iraq handle future security challenges alone?",
+        "description": "More than two decades of US military presence in Iraq comes to an end.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/29/can-iraq-handle-future-security-challenges-alone?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Madrid residents feel the impact of Spain’s housing crisis",
+        "description": "Spain’s housing crisis is deepening as soaring rents and a shortage of homes put affordable housing out of reach.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/madrid-residents-feel-the-impact-of-spains-housing-crisis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 2,
+      "story": {
+        "title": "Ethiopia blames regional rivals as risk of conflict spillover rises",
+        "description": "Ethiopia accuses Sudan and Egypt of backing armed groups, deepening tensions amid internal unrest.",
+        "link": "https://www.aljazeera.com/news/2026/9/29/ethiopia-blames-regional-rivals-as-risk-of-conflict-spillover-rises?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 2,
+      "story": {
+        "title": "Ethiopia blames regional rivals as risk of conflict spillover rises",
+        "description": "Ethiopia accuses Sudan and Egypt of backing armed groups, deepening tensions amid internal unrest.",
+        "link": "https://www.aljazeera.com/news/2026/9/29/ethiopia-blames-regional-rivals-as-risk-of-conflict-spillover-rises?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 2,
+      "story": {
+        "title": "Sicily: Mount Etna ash disrupts Catania flights again",
+        "description": "A thick ash cloud from Mount Etna has been disrupting flights to Catania in Sicily for several days. Italy and Europe's most active volcano, Etna has impacted air travel several times this summer.",
+        "link": "https://www.dw.com/en/sicily-mount-etna-ash-disrupts-catania-flights-again/a-79462773?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -324,14 +384,14 @@
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
+      "name": "Jordan",
+      "lat": 30.59,
+      "lon": 36.24,
       "count": 1,
       "story": {
-        "title": "Nigerian dances non-stop for seven days in world record bid",
-        "description": "Crowds cheered on Ben Dancer as completed his challenge and he has now gone to  hospital for a check-up",
-        "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
+        "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+        "description": "National Rally President Jordan Bardella says he will sue for libel over comments he is accused of making as a young activist.",
+        "link": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -360,62 +420,50 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Rome",
+      "lat": 41.9,
+      "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-        "description": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
-        "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+        "title": "Close-up look at Turner's '£50m' Rome painting on show in the city",
+        "description": "Turner’s early 19th century painting - Rome, from Mount Aventine - will be on display in the Italian capital for the first time ahead of an auction in London in December.",
+        "link": "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Bangkok",
-      "lat": 13.75,
-      "lon": 100.5,
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
       "count": 1,
       "story": {
-        "title": "Watch: Bangkok locals create floating market during floods",
-        "description": "As sellers waded through floodwaters to sell produce like fish and vegetables from floating platforms and foam boxes, buyers walked or paddled between the makeshift stalls to buy their groceries.",
-        "link": "https://www.bbc.co.uk/news/videos/c6q8jlqvjgdlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 1,
-      "story": {
-        "title": "People escape historic Kyiv building hit by Russian drone",
-        "description": "The BBC's Paul Adams reports from the scene of the strike on Ukraine's National Academy of Sciences.",
-        "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Sudan takes centre stage on final day of UNGA",
-        "description": "Sudan&#039;s foreign minister addressed the UNGA as his country faces war, mass displacement and a worsening aid shortfall.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_sudan-takes-centre-stage-on-final-day-of-unga-290926?traffic_source=rss",
+        "title": "Jerusalem Daily: Israeli worshippers attack Palestinian man",
+        "description": "Settler pogroms intensify as a total lockdown of the occupied West Bank enters its third day.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
       "count": 1,
       "story": {
-        "title": "Estonia says Russia ordered August arson attack on defence company",
-        "description": "Tallinn accuses Moscow of responsibility for the fire at Estonian company Milrem Robotics, a supplier of unmanned ground vehicles to Ukraine.",
-        "link": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss",
+        "title": "Ethiopia blames regional rivals as risk of conflict spillover rises",
+        "description": "Ethiopia accuses Sudan and Egypt of backing armed groups, deepening tensions amid internal unrest.",
+        "link": "https://www.aljazeera.com/news/2026/9/29/ethiopia-blames-regional-rivals-as-risk-of-conflict-spillover-rises?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Croatia",
+      "lat": 45.1,
+      "lon": 15.2,
+      "count": 1,
+      "story": {
+        "title": "LIVE: Spain vs Croatia – Nations League",
+        "description": "Build-up, teams and live text coverage as World champions Spain host Croatia on matchday two of the UEFA Nations League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/29/live-spain-vs-croatia-nations-league?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -425,34 +473,46 @@
       "lon": -7.69,
       "count": 1,
       "story": {
-        "title": "Ireland lost to Israel when they stepped on the pitch",
-        "description": "But the Irish football team can still redeem itself.",
-        "link": "https://www.aljazeera.com/opinions/2026/9/29/ireland-lost-to-israel?traffic_source=rss",
+        "title": "Ireland undecided on approach for next game against Israel, coach says",
+        "description": "Ireland played the first Nations League game despite unease among some players over Israel&#039;s genocidal war in Gaza.",
+        "link": "https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Lebanese are watching Israel’s upcoming election, but few expect change",
-        "description": "Lebanese are anticipating continued Israeli aggression in Lebanon after the election.",
-        "link": "https://www.aljazeera.com/news/2026/9/29/lebanese-are-watching-israels-upcoming-election-but-few-expect-change?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Vietnam",
-      "lat": 14.06,
-      "lon": 108.28,
-      "count": 1,
-      "story": {
-        "title": "Missing Australian human rights activist charged in Vietnam",
-        "description": "Vietnamese authorities charge an Australian man and two other people with planning to carry out terrorist activities, but a pro-democracy group believes the men were abducted in an act of \"transnational repression\".",
-        "link": "https://www.abc.net.au/news/2026-09-29/missing-human-rights-activist-cambodia-charged-vietnam/107208750",
+        "title": "Key station in Melbourne Airport rail plan to be built by 2031",
+        "description": "A long-awaited train line to the Melbourne Airport is a step closer, with the state and federal governments announcing a timeline for completion of the nearby Keilor East station.",
+        "link": "https://www.abc.net.au/news/2026-09-30/keilor-east-station-melbourne-airport-rail-2031-completion/107208916",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
+      "count": 1,
+      "story": {
+        "title": "Quiz: Pack your bags, we're going on a trip around the world",
+        "description": "Which aircraft is currently used on the Qantas non-stop flight from Perth to London? And which Australian artist is known for his paintings of Sydney Harbour?",
+        "link": "https://www.abc.net.au/news/2026-09-30/travel-quiz-september-30/107203376",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 1,
+      "story": {
+        "title": "Estonia blames Russia for arson attack on defense company",
+        "description": "The Estonian government accused Moscow of an \"act of sabotage\" that is part of Russia's broader campaign across Europe. The Baltic state has received support from EU and NATO leaders.",
+        "link": "https://www.dw.com/en/estonia-blames-russia-for-arson-attack-on-defense-company/a-79478937?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -480,30 +540,6 @@
       }
     },
     {
-      "name": "Baghdad",
-      "lat": 33.31,
-      "lon": 44.36,
-      "count": 1,
-      "story": {
-        "title": "Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years as Baghdad delays militia disarmament",
-        "description": "As the US completes its military withdrawal from Iraq, Baghdad declares a new era of sovereignty. But as US troops leave, questions remain over militias, foreign forces and the country's future security.",
-        "link": "https://www.dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years-as-baghdad-delays-militia-disarmament/a-79462926?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
-      "count": 1,
-      "story": {
-        "title": "Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years as Baghdad delays militia disarmament",
-        "description": "As the US completes its military withdrawal from Iraq, Baghdad declares a new era of sovereignty. But as US troops leave, questions remain over militias, foreign forces and the country's future security.",
-        "link": "https://www.dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years-as-baghdad-delays-militia-disarmament/a-79462926?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Lima",
       "lat": -12.05,
       "lon": -77.04,
@@ -512,42 +548,6 @@
         "title": "Spain grows fruit and vegetables for Europe — but it's running out of water",
         "description": "Spain's southern coast produces up to 25% of Europe's fruit and vegetables. But amid intensive farming, climate change and illegal wells, the water it takes to grow them is drying up.",
         "link": "https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Buenos Aires",
-      "lat": -34.6,
-      "lon": -58.38,
-      "count": 1,
-      "story": {
-        "title": "Argentina's Milei threatens UK with international legal action over Falkland Islands oil project",
-        "description": "A major offshore oil project is opening a new front in the Falklands sovereignty dispute, with Buenos Aires threatening legal action and sanctions against companies involved.",
-        "link": "https://www.dw.com/en/argentina-s-milei-threatens-uk-with-international-legal-action-over-falkland-islands-oil-project/a-79469107?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 1,
-      "story": {
-        "title": "France: Student protests over conditions at French high schools fuel political clashes",
-        "description": "Over 160 people were arrested and dozens injured after student protests in France descended into violence. With a presidential election approaching, senior politicians are pointing fingers at each other.",
-        "link": "https://www.dw.com/en/france-student-protests-over-conditions-at-french-high-schools-fuel-political-clashes/a-79467746?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Sicily: Mount Etna ash disrupts Catania flights again",
-        "description": "A thick ash cloud from Mount Etna has been disrupting flights to Catania in Sicily for several days. Italy and Europe's most active volcano, Etna has impacted air travel several times this summer.",
-        "link": "https://www.dw.com/en/sicily-mount-etna-ash-disrupts-catania-flights-again/a-79462773?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
