@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:57:52+00:00",
+  "generated_at": "2026-09-30T21:23:15+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,21 +32,21 @@
   ],
   "australia": [
     {
+      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+      "description": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "UK-France 'one in, one out' migrant scheme scrapped",
+      "description": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
+      "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Girl has multiple surgeries to control infections after strike in Gaza",
       "description": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
       "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Singapore launches matchmaking service for government workers",
-      "description": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate.",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Botswana condemned for slaughtering 23 elephants for independence celebrations",
-      "description": "The government authorises the hunting of elephants and dozens of other wild animals for independence day feasts.",
-      "link": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,27 +72,27 @@
   ],
   "places": [
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 13,
-      "story": {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "description": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
-        "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 15,
       "story": {
         "title": "OpenAI scraps rollout of new model over safety concerns",
         "description": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
         "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 10,
+      "story": {
+        "title": "What we know about stabbing on Flydubai flight to Israel",
+        "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+        "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -108,14 +108,14 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Dubai",
+      "lat": 25.2,
+      "lon": 55.27,
       "count": 6,
       "story": {
-        "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-        "description": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
-        "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+        "title": "What we know about stabbing on Flydubai flight to Israel",
+        "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+        "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,22 +132,46 @@
       }
     },
     {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 5,
       "story": {
-        "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-        "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
-        "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+        "description": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+        "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 5,
+      "story": {
+        "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
+        "description": "In the emotional letter, the judge describes the survivor as \"the bravest little girl this court has ever seen\".",
+        "link": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 5,
+      "story": {
+        "title": "‘Disagreement’ over $1m tax debt led to cream puff venue closure, boss says",
+        "description": "Sydney yum cha institution Emperor's Garden comes to an agreement with the Australian Taxation Office to pay back debts of more than $1 million.",
+        "link": "https://www.abc.net.au/news/2026-10-01/sydney-emperors-garden-famous-for-cream-puff-to-repay-ato-debt/107204372",
+        "source": "ABC News AU"
       }
     },
     {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Girl has multiple surgeries to control infections after strike in Gaza",
         "description": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
@@ -159,7 +183,7 @@
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
         "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
@@ -168,87 +192,51 @@
       }
     },
     {
-      "name": "Tel Aviv",
-      "lat": 32.08,
-      "lon": 34.78,
-      "count": 5,
-      "story": {
-        "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
-        "description": "Israel&#039;s prime minister said one of the pilots stabbed the other and then tried to crash the plane.",
-        "link": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 5,
-      "story": {
-        "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
-        "description": "Residents block an Orange Order parade in a standoff that has revived tensions, legal disputes and political conflict.",
-        "link": "https://www.aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
-      "story": {
-        "title": "Jai Arrow told 'nothing' about pre-grand final tribute",
-        "description": "As Jai Arrow is honoured with the Provan-Summons Medal at the Dally M Awards in Sydney, he says he knows \"nothing\" about a tribute reportedly planned ahead of the NRL grand final on Sunday.",
-        "link": "https://www.abc.net.au/news/2026-09-30/jai-arrow-told-nothing-about-nrl-grand-final-tribute/107214322",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
-      "story": {
-        "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
-        "description": "In the emotional letter, the judge describes the survivor as \"the bravest little girl this court has ever seen\".",
-        "link": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
-      "count": 4,
-      "story": {
-        "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
-        "description": "Israel&#039;s prime minister said one of the pilots stabbed the other and then tried to crash the plane.",
-        "link": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
       "count": 4,
       "story": {
-        "title": "Germany debates alleged antisemitism in the Left Party",
-        "description": "The Central Council of Jews in Germany thinks the Left Party is dangerous. Other Jews, however, are showing solidarity with the party. How does that add up?",
-        "link": "https://www.dw.com/en/germany-debates-alleged-antisemitism-in-the-left-party/a-79493282?maca=en-rss-en-all-1573-rdf",
+        "title": "Five EU states plan first deportation center in Africa for 2027",
+        "description": "Greece, Germany, Austria, Denmark and the Netherlands are moving forward with plans to establish deportation centers outside the EU. An African partner country has reportedly already been selected.",
+        "link": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 3,
       "story": {
-        "title": "Singapore launches matchmaking service for government workers",
-        "description": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate.",
-        "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
+        "title": "UK-France 'one in, one out' migrant scheme scrapped",
+        "description": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
+        "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 3,
+      "story": {
+        "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
+        "description": "Flydubai flight diverts to Saudi Arabia after cockpit emergency, as Netanyahu alleges a crash attempt.",
+        "link": "https://www.aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
+      "count": 3,
+      "story": {
+        "title": "Ronaldo leaves Portugal camp amid reports of rift with coach Jorge Jesus",
+        "description": "Ronaldo did not play in Portugal’s 2-1 win over Norway ‌on Sunday and will now miss the game against Denmark.",
+        "link": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -264,14 +252,14 @@
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Luxury prison in Indonesia demolished after public outcry",
-        "description": "Indonesian lawmakers on Wednesday ordered the demolition of a controversial luxury compound inside a penitentiary near the capital.",
-        "link": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
+        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+        "description": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+        "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -288,51 +276,75 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
       "count": 2,
       "story": {
-        "title": "China extends 52-year unbeaten record as Asian Games organisers apologise",
-        "description": "Chinese divers were unstoppable as the country&#039;s sizeable overall tally of gold medals swelled to 150.",
-        "link": "https://www.aljazeera.com/sports/2026/9/30/china-extends-52-year-unbeaten-record-as-asian-games-organisers-apologise?traffic_source=rss",
+        "title": "Gas pipeline explodes in Syria, knocks three power plants offline",
+        "description": "Powe rationing hours are to increase as a result of the blast.",
+        "link": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
       "count": 2,
       "story": {
-        "title": "Palestinian archaeologists race against time to save Gaza’s heritage",
-        "description": "A Palestinian team rescued Gaza&#039;s artefacts. The question now is where to store them.",
-        "link": "https://www.aljazeera.com/features/2026/9/30/palestinian-archaeologists-race-against-time-to-save-gazas-heritage?traffic_source=rss",
+        "title": "Norway launches probe into 11 senior officials over US Epstein files links",
+        "description": "Norway investigates over $13m in state grants linked to Epstein and top ministers.",
+        "link": "https://www.aljazeera.com/news/2026/9/30/norway-launches-probe-into-11-senior-officials-over-us-epstein-files-links?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Baghdad",
-      "lat": 33.31,
-      "lon": 44.36,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
       "count": 2,
       "story": {
-        "title": "Iraq celebrates National Sovereignty Day as US troops withdraw",
-        "description": "Iraq’s security forces held parades in Baghdad and Najaf to celebrate ‘Sovereignty Day’ as US troops withdraw.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/iraq-celebrates-national-sovereignty-day-as-us-troops-withdraw?traffic_source=rss",
+        "title": "A political dynasty? Why the Bolsonaro family dominates Brazil’s right wing",
+        "description": "For a third election in a row, a Bolsonaro family member is the leading right-wing contender for Brazil&#039;s presidency.",
+        "link": "https://www.aljazeera.com/news/longform/2026/9/30/a-political-dynasty-why-the-bolsonaro-family-dominates-brazils-right-wing?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
       "count": 2,
       "story": {
-        "title": "After 10-year probe, police want 54 people charged over Grenfell Tower blaze",
-        "description": "Almost a decade since London's Grenfell Tower fire disaster, police have asked prosecutors to consider charging 54 people and 20 organisations over the blaze, which killed 72 people.",
-        "link": "https://www.abc.net.au/news/2026-09-30/grenfell-tower-police-recommend-dozens-of-charges/107198342",
-        "source": "ABC News AU"
+        "title": "Ronaldo leaves Portugal camp amid reports of rift with coach Jorge Jesus",
+        "description": "Ronaldo did not play in Portugal’s 2-1 win over Norway ‌on Sunday and will now miss the game against Denmark.",
+        "link": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
+      "count": 2,
+      "story": {
+        "title": "Five EU states plan first deportation center in Africa for 2027",
+        "description": "Greece, Germany, Austria, Denmark and the Netherlands are moving forward with plans to establish deportation centers outside the EU. An African partner country has reportedly already been selected.",
+        "link": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
+      "count": 1,
+      "story": {
+        "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+        "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+        "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -344,6 +356,18 @@
         "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
         "description": "The deadly fighting has also spread to neighbouring regions, stranding tourists in Lalibela.",
         "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 1,
+      "story": {
+        "title": "Singapore launches matchmaking service for government workers",
+        "description": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate.",
+        "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -360,194 +384,170 @@
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 1,
       "story": {
-        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-        "description": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-        "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
-      "count": 1,
-      "story": {
-        "title": "Couple describes relief at rescue after whale destroys their yacht",
-        "description": "Jeremy and Gemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
-        "link": "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 1,
-      "story": {
-        "title": "Fires and blockades as students stage school protests across France",
-        "description": "More than 400 people, mainly minors, were arrested on Tuesday, the country's interior minister says.",
-        "link": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Romania",
-      "lat": 45.94,
-      "lon": 24.97,
-      "count": 1,
-      "story": {
-        "title": "Romania’s political crisis intensifies as Parliament rejects pro-EU PM",
-        "description": "Siegfried Muresan&#039;s loss of the confidence motion increases the prospect for snap elections.",
-        "link": "https://www.aljazeera.com/news/2026/9/30/romanian-political-crisis-intensifies-as-parliament-rejects-pro-eu-pm?traffic_source=rss",
+        "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
+        "description": "Displaced by war and shut out of formal jobs, young Sudanese are turning to art, small businesses, and entrepeneurship.",
+        "link": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Rome",
+      "lat": 41.9,
+      "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "Is Spain’s anti-eviction decree a fix for its housing crisis?",
-        "description": "The government blames &#039;savage speculation&#039; as critics say new measures leave small landlords &#039;out in the cold&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/9/30/is-spains-anti-eviction-decree-a-fix-to-its-housing-crisis?traffic_source=rss",
+        "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
+        "description": "Trump said former Fed chair Jerome Powell should resign anyway.",
+        "link": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 1,
       "story": {
-        "title": "Denmark vs Portugal: UEFA Nations League – Ronaldo, Hojlund, teams, form",
-        "description": "Reigning champions Portugal look to build on their winning start as they take on Denmark on match day three.",
-        "link": "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss",
+        "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
+        "description": "Moscow claims that NATO is preparing an air and naval blockade in the Baltic Sea.",
+        "link": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
       "count": 1,
       "story": {
-        "title": "Denmark vs Portugal: UEFA Nations League – Ronaldo, Hojlund, teams, form",
-        "description": "Reigning champions Portugal look to build on their winning start as they take on Denmark on match day three.",
-        "link": "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss",
+        "title": "Video: Bangladesh Dengue deaths surpass 233 in deadly outbreak",
+        "description": "Bangladesh’s health authorities report that at least 233 people have died from dengue fever.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/video-bangladesh-dengue-deaths-surpass-233-in-deadly-outbreak?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
+      "name": "Kuala Lumpur",
+      "lat": 3.14,
+      "lon": 101.69,
       "count": 1,
       "story": {
-        "title": "Rainwater washes away highway in Nigeria",
-        "description": "Heavy rain over three days caused severe flooding along the Agbarho-Ughelli highway in Delta State, southern Nigeria.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/rainwater-washes-away-highway-in-nigeria?traffic_source=rss",
+        "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
+        "description": "Kuala Lumpur calls it a voluntary process, but many are raising safety concerns.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
       "count": 1,
       "story": {
-        "title": "Russian attacks on Ukraine’s Kyiv region kill four, target power grid",
-        "description": "City officials say three killed in Ukraine&#039;s capital, as emergency services say child killed in the surrounding region.",
-        "link": "https://www.aljazeera.com/news/2026/9/30/russian-attacks-on-ukraines-kyiv-region-kill-four-target-power-grid?traffic_source=rss",
+        "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
+        "description": "Kuala Lumpur calls it a voluntary process, but many are raising safety concerns.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
       "count": 1,
       "story": {
-        "title": "Israel to 'ramp up' aviation security after pilot 'tries to crash plane'",
-        "description": "Benjamin Netanyahu says a commercial flight with 174 people on board bound for Tel Aviv had to divert to Saudi Arabia after one pilot stabbed the other and \"apparently tried to crash the plane\".",
-        "link": "https://www.abc.net.au/news/2026-10-01/flydubai-ez1073-diverts-after-accusations-of-pilot-stabbing/107214522",
+        "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
+        "description": "Kuala Lumpur calls it a voluntary process, but many are raising safety concerns.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 1,
+      "story": {
+        "title": "MI5 warns UK academics to cut ties with Chinese group over alleged spying",
+        "description": "UK intelligence agency accuses Chinese institute of funding academic research to boost Beijing’s espionage capability.",
+        "link": "https://www.aljazeera.com/news/2026/9/30/mi5-warns-uk-academics-to-cut-ties-with-chinese-group-over-alleged-spying?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "Teenagers charged over bag snatches after allegedly targeting lone women",
+        "description": "Three males have been charged after youths allegedly carried out robberies in Melbourne's south-east targeting mostly lone women.",
+        "link": "https://www.abc.net.au/news/2026-10-01/teens-charged-after-women-robbed-in-melbourne-bag-snatches/107214754",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 1,
       "story": {
-        "title": "Garbage truck driver charged over elderly pedestrian's death",
-        "description": "The driver of a rubbish truck that struck and killed an elderly man in Perth's south-east earlier this month is charged with dangerous driving.",
-        "link": "https://www.abc.net.au/news/2026-09-30/man-charged-over-garbage-truck-death-in-queens-park/107214024",
+        "title": "Australia strikes back to avoid ODI whitewash ahead of Test series",
+        "description": "Australia avoided a whitewash in their ODI series in South Africa, with Pat Cummins's encouraging comeback and the return to form of Adam Zampa and Alex Carey inspiring them to a rain-interrupted win in Potchefstroom.",
+        "link": "https://www.abc.net.au/news/2026-10-01/australia-defeats-south-africa-in-third-odi-by-45-runs-dls/107214814",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Jordan",
-      "lat": 30.59,
-      "lon": 36.24,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 1,
       "story": {
-        "title": "Co-pilot attempted to crash plane from Dubai to Tel Aviv, Netanyahu says",
-        "description": "Passenger Miryam Shira Ohayon said the plane was \"pretty much out of control\" when one of the pilots tried to stab the other while they were flying over Jordan en route from Dubai to Tel Aviv.",
-        "link": "https://www.abc.net.au/news/2026-09-30/dubai-to-tel-aviv-flight-signals-emergency/107213638",
+        "title": "Nepal's dire warning to the rest of the world",
+        "description": "Just days after a plea for global climate action, Nepal faces yet another disaster.",
+        "link": "https://www.abc.net.au/news/2026-10-01/fight-for-climate-justice-after-another-wave-of-floods-in-nepal/107213838",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
+      "name": "Austria",
+      "lat": 47.52,
+      "lon": 14.55,
       "count": 1,
       "story": {
-        "title": "Nathan Cleary accepts maiden Dally M Medal from his dad's couch",
-        "description": "Injured Penrith superstar Nathan Cleary has claimed his maiden Dally M Medal, with Brisbane fullback Tamika Upton taking the NRLW award for the third time in four seasons.",
-        "link": "https://www.abc.net.au/news/2026-09-30/dally-m-medal-awards-ceremony-red-carpet-live-blog/107204384",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
-      "story": {
-        "title": "Iran's nuclear program remains shrouded in mystery as the regime debates ditching non-proliferation",
-        "description": "Iran's nuclear program is entering a critical phase as Tehran debates dropping out of a nuclear non-proliferation treaty. Satellite images also show activity at known nuclear sites.",
-        "link": "https://www.dw.com/en/iran-s-nuclear-program-remains-shrouded-in-mystery-as-the-regime-debates-ditching-non-proliferation/a-79488197?maca=en-rss-en-all-1573-rdf",
+        "title": "Five EU states plan first deportation center in Africa for 2027",
+        "description": "Greece, Germany, Austria, Denmark and the Netherlands are moving forward with plans to establish deportation centers outside the EU. An African partner country has reportedly already been selected.",
+        "link": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
       "count": 1,
       "story": {
-        "title": "Lawyer of Junaid Hafeez, a Pakistai scholar imprisoned for 13 years, is hopeful for his release",
-        "description": "A former Fullbright scholar, Junaid Hafeez was sentenced to death under Pakistan's controversial blasphemy laws. His family and lawyer told DW there is now hope a court will overturn the conviction.",
-        "link": "https://www.dw.com/en/lawyer-of-junaid-hafeez-a-pakistai-scholar-imprisoned-for-13-years-is-hopeful-for-his-release/a-79490207?maca=en-rss-en-all-1573-rdf",
+        "title": "Five EU states plan first deportation center in Africa for 2027",
+        "description": "Greece, Germany, Austria, Denmark and the Netherlands are moving forward with plans to establish deportation centers outside the EU. An African partner country has reportedly already been selected.",
+        "link": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
+      "name": "Tel Aviv",
+      "lat": 32.08,
+      "lon": 34.78,
       "count": 1,
       "story": {
-        "title": "India news: Key opposition leaders meet to discuss poll body row",
-        "description": "India's opposition leaders meet in New Delhi to push back against voter roll revisions and discuss poll body chief Gyanesh Kumar. DW has more.",
-        "link": "https://www.dw.com/en/india-news-key-opposition-leaders-meet-to-discuss-poll-body-row/live-79481549?maca=en-rss-en-all-1573-rdf",
+        "title": "Flydubai pilot investigated over possible attempt to crash Tel Aviv-bound flight",
+        "description": "A Flydubai service from the UAE to Israel made an emergency landing after the copilot stabbed the captain. Eyewitnesses said he attempted to crash the plane before he was subdued by passengers.",
+        "link": "https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
