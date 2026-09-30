@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:18:38+00:00",
+  "generated_at": "2026-09-30T16:57:52+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Three takeaways from Trump's 'Super Intelligence' summit",
       "description": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
       "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
@@ -21,12 +27,6 @@
       "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
       "description": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
       "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Watch: Couple describes relief at rescue after whale destroys their yacht",
-      "description": "Jeremy and Gemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
-      "link": "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -44,19 +44,13 @@
       "source": "BBC News"
     },
     {
-      "title": "More than 400 detained as France student protests escalate",
-      "description": "Students have been protesting conditions and resources in high schools since last week.",
-      "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+      "title": "Botswana condemned for slaughtering 23 elephants for independence celebrations",
+      "description": "The government authorises the hunting of elephants and dozens of other wild animals for independence day feasts.",
+      "link": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
-    {
-      "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-      "description": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
-      "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
     {
       "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
       "description": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
@@ -64,30 +58,24 @@
       "source": "BBC News"
     },
     {
-      "title": "Doubters spur me on: why female DIY is booming",
+      "title": "Doubters spur me on: why more women are taking up DIY",
       "description": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
       "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "What is the triple lock and why are people talking about it?",
+      "description": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.",
+      "link": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
   "places": [
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 13,
-      "story": {
-        "title": "The Frenemy: How Australia navigates superpower rivalry",
-        "description": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
-        "link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 9,
+      "count": 13,
       "story": {
         "title": "Girl has multiple surgeries to control infections after strike in Gaza",
         "description": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
@@ -96,10 +84,22 @@
       }
     },
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 13,
+      "story": {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "description": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "UK diesel price hits all-time high, the RAC says",
         "description": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
@@ -108,14 +108,14 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 6,
       "story": {
-        "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
-        "description": "In the emotional letter, the judge describes the survivor as \"the bravest little girl this court has ever seen\".",
-        "link": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
+        "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+        "description": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+        "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -123,24 +123,72 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 6,
+      "count": 5,
       "story": {
-        "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
-        "description": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
-        "link": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+        "description": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+        "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
       "count": 5,
       "story": {
-        "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
-        "description": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
-        "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+        "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+        "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+        "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 5,
+      "story": {
+        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+        "description": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+        "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 5,
+      "story": {
+        "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+        "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
+        "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Tel Aviv",
+      "lat": 32.08,
+      "lon": 34.78,
+      "count": 5,
+      "story": {
+        "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
+        "description": "Israel&#039;s prime minister said one of the pilots stabbed the other and then tried to crash the plane.",
+        "link": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 5,
+      "story": {
+        "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
+        "description": "Residents block an Orange Order parade in a standoff that has revived tensions, legal disputes and political conflict.",
+        "link": "https://www.aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -150,28 +198,52 @@
       "count": 5,
       "story": {
         "title": "Jai Arrow told 'nothing' about pre-grand final tribute",
-        "description": "As Jai Arrow is honoured with the Provan-Summons Medal at the Dally M Awards in Sydney, he says he knows \"nothing\" about a tribute reportedly taking place ahead of the NRL grand final on Sunday.",
+        "description": "As Jai Arrow is honoured with the Provan-Summons Medal at the Dally M Awards in Sydney, he says he knows \"nothing\" about a tribute reportedly planned ahead of the NRL grand final on Sunday.",
         "link": "https://www.abc.net.au/news/2026-09-30/jai-arrow-told-nothing-about-nrl-grand-final-tribute/107214322",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 4,
       "story": {
-        "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-        "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
-        "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+        "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
+        "description": "In the emotional letter, the judge describes the survivor as \"the bravest little girl this court has ever seen\".",
+        "link": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Dubai",
+      "lat": 25.2,
+      "lon": 55.27,
+      "count": 4,
+      "story": {
+        "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
+        "description": "Israel&#039;s prime minister said one of the pilots stabbed the other and then tried to crash the plane.",
+        "link": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 4,
+      "story": {
+        "title": "Germany debates alleged antisemitism in the Left Party",
+        "description": "The Central Council of Jews in Germany thinks the Left Party is dangerous. Other Jews, however, are showing solidarity with the party. How does that add up?",
+        "link": "https://www.dw.com/en/germany-debates-alleged-antisemitism-in-the-left-party/a-79493282?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
       "name": "Singapore",
       "lat": 1.35,
       "lon": 103.82,
-      "count": 4,
+      "count": 2,
       "story": {
         "title": "Singapore launches matchmaking service for government workers",
         "description": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate.",
@@ -180,122 +252,26 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "description": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
-        "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 3,
-      "story": {
-        "title": "More than 400 detained as France student protests escalate",
-        "description": "Students have been protesting conditions and resources in high schools since last week.",
-        "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 3,
-      "story": {
-        "title": "The Frenemy: How Australia navigates superpower rivalry",
-        "description": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
-        "link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 3,
-      "story": {
-        "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
-        "description": "A Flydubai plane travelling from Dubai to Israel made an emergency landing in Saudi Arabia.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
-      "count": 3,
-      "story": {
-        "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
-        "description": "A Flydubai plane travelling from Dubai to Israel made an emergency landing in Saudi Arabia.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 3,
-      "story": {
-        "title": "S Korea demands apology over DMZ blasts as N Korea denies planting mines",
-        "description": "South Korea calls for a formal apology from North Korea over the DMZ explosion that injured three soldiers.",
-        "link": "https://www.aljazeera.com/news/2026/9/30/south-korea-demands-apology-over-dmz-blasts-as-north-denies-planting-mines?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 3,
-      "story": {
-        "title": "Germany news: Cabinet approves care reform bill",
-        "description": "The German Cabinet has approved a draft bill on reforming the care system after long debate. Police have launched raids across Germany targeting Hells Angels gangs and a money-laundering network. DW has more.",
-        "link": "https://www.dw.com/en/germany-news-cabinet-approves-care-reform-bill/live-79481802?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Pyongyang",
-      "lat": 39.03,
-      "lon": 125.75,
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
       "count": 2,
       "story": {
-        "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-        "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
-        "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+        "title": "Africa's richest man launches Kenya oil refinery despite land protests",
+        "description": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
+        "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 2,
       "story": {
-        "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
-        "description": "The murders of 12 women near Johannesburg has caused a outcry about the scale of violence against women.",
-        "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 2,
-      "story": {
-        "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-        "description": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
-        "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+        "title": "Luxury prison in Indonesia demolished after public outcry",
+        "description": "Indonesian lawmakers on Wednesday ordered the demolition of a controversial luxury compound inside a penitentiary near the capital.",
+        "link": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -312,27 +288,75 @@
       }
     },
     {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "Baghdad celebrates, Kurds concerned as US completes Iraq withdrawal",
-        "description": "This final withdrawal of troops ends a 12-year mission to fight the Islamic State group, after the US began winding down its military presence in Iraq in 2024.",
-        "link": "https://www.abc.net.au/news/2026-09-30/us-military-completes-iraq-withdrawal/107214128",
+        "title": "China extends 52-year unbeaten record as Asian Games organisers apologise",
+        "description": "Chinese divers were unstoppable as the country&#039;s sizeable overall tally of gold medals swelled to 150.",
+        "link": "https://www.aljazeera.com/sports/2026/9/30/china-extends-52-year-unbeaten-record-as-asian-games-organisers-apologise?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Palestinian archaeologists race against time to save Gaza’s heritage",
+        "description": "A Palestinian team rescued Gaza&#039;s artefacts. The question now is where to store them.",
+        "link": "https://www.aljazeera.com/features/2026/9/30/palestinian-archaeologists-race-against-time-to-save-gazas-heritage?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Baghdad",
+      "lat": 33.31,
+      "lon": 44.36,
+      "count": 2,
+      "story": {
+        "title": "Iraq celebrates National Sovereignty Day as US troops withdraw",
+        "description": "Iraq’s security forces held parades in Baghdad and Najaf to celebrate ‘Sovereignty Day’ as US troops withdraw.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/iraq-celebrates-national-sovereignty-day-as-us-troops-withdraw?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 2,
+      "story": {
+        "title": "After 10-year probe, police want 54 people charged over Grenfell Tower blaze",
+        "description": "Almost a decade since London's Grenfell Tower fire disaster, police have asked prosecutors to consider charging 54 people and 20 organisations over the blaze, which killed 72 people.",
+        "link": "https://www.abc.net.au/news/2026-09-30/grenfell-tower-police-recommend-dozens-of-charges/107198342",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 2,
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 1,
       "story": {
-        "title": "Garbage truck driver charged over elderly pedestrian's death",
-        "description": "The driver of a rubbish truck that struck and killed an elderly man in Perth's south-east earlier this month is charged with dangerous driving.",
-        "link": "https://www.abc.net.au/news/2026-09-30/man-charged-over-garbage-truck-death-in-queens-park/107214024",
-        "source": "ABC News AU"
+        "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
+        "description": "The deadly fighting has also spread to neighbouring regions, stranding tourists in Lalibela.",
+        "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pyongyang",
+      "lat": 39.03,
+      "lon": 125.75,
+      "count": 1,
+      "story": {
+        "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+        "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
+        "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -348,74 +372,74 @@
       }
     },
     {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 1,
-      "story": {
-        "title": "Africa's richest man to launch Kenya oil refinery despite land protests",
-        "description": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
-        "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-        "description": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
-        "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 1,
-      "story": {
-        "title": "The Frenemy: How Australia navigates superpower rivalry",
-        "description": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
-        "link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "New Zealand",
       "lat": -41.0,
       "lon": 174.0,
       "count": 1,
       "story": {
-        "title": "Watch: Couple describes relief at rescue after whale destroys their yacht",
+        "title": "Couple describes relief at rescue after whale destroys their yacht",
         "description": "Jeremy and Gemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
         "link": "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Islamabad",
-      "lat": 33.7,
-      "lon": 73.06,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 1,
       "story": {
-        "title": "Pakistan vows to defend Saudi Arabia against Houthis",
-        "description": "Pakistan says Islamabad will make “whatever means” available to Saudi Arabia if Saudi faces threats from the Houthis.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss",
+        "title": "Fires and blockades as students stage school protests across France",
+        "description": "More than 400 people, mainly minors, were arrested on Tuesday, the country's interior minister says.",
+        "link": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Romania",
+      "lat": 45.94,
+      "lon": 24.97,
+      "count": 1,
+      "story": {
+        "title": "Romania’s political crisis intensifies as Parliament rejects pro-EU PM",
+        "description": "Siegfried Muresan&#039;s loss of the confidence motion increases the prospect for snap elections.",
+        "link": "https://www.aljazeera.com/news/2026/9/30/romanian-political-crisis-intensifies-as-parliament-rejects-pro-eu-pm?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "Pakistan vows to defend Saudi Arabia against Houthis",
-        "description": "Pakistan says Islamabad will make “whatever means” available to Saudi Arabia if Saudi faces threats from the Houthis.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss",
+        "title": "Is Spain’s anti-eviction decree a fix for its housing crisis?",
+        "description": "The government blames &#039;savage speculation&#039; as critics say new measures leave small landlords &#039;out in the cold&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/9/30/is-spains-anti-eviction-decree-a-fix-to-its-housing-crisis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
+      "count": 1,
+      "story": {
+        "title": "Denmark vs Portugal: UEFA Nations League – Ronaldo, Hojlund, teams, form",
+        "description": "Reigning champions Portugal look to build on their winning start as they take on Denmark on match day three.",
+        "link": "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
+      "count": 1,
+      "story": {
+        "title": "Denmark vs Portugal: UEFA Nations League – Ronaldo, Hojlund, teams, form",
+        "description": "Reigning champions Portugal look to build on their winning start as they take on Denmark on match day three.",
+        "link": "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -425,57 +449,93 @@
       "lon": 8.7,
       "count": 1,
       "story": {
-        "title": "Nigeria and Ghana suffer huge AFCON 2027 qualifying shocks",
-        "description": "The Gambia come back to beat ‌Ghana 4-2, while Guinea Bissau beat Nigeria 3-0 despite seven Premier League starters.",
-        "link": "https://www.aljazeera.com/sports/2026/9/30/nigeria-and-ghana-suffer-huge-afcon-2027-qualifying-shocks?traffic_source=rss",
+        "title": "Rainwater washes away highway in Nigeria",
+        "description": "Heavy rain over three days caused severe flooding along the Agbarho-Ughelli highway in Delta State, southern Nigeria.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/rainwater-washes-away-highway-in-nigeria?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Ghana",
-      "lat": 7.95,
-      "lon": -1.02,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 1,
       "story": {
-        "title": "Nigeria and Ghana suffer huge AFCON 2027 qualifying shocks",
-        "description": "The Gambia come back to beat ‌Ghana 4-2, while Guinea Bissau beat Nigeria 3-0 despite seven Premier League starters.",
-        "link": "https://www.aljazeera.com/sports/2026/9/30/nigeria-and-ghana-suffer-huge-afcon-2027-qualifying-shocks?traffic_source=rss",
+        "title": "Russian attacks on Ukraine’s Kyiv region kill four, target power grid",
+        "description": "City officials say three killed in Ukraine&#039;s capital, as emergency services say child killed in the surrounding region.",
+        "link": "https://www.aljazeera.com/news/2026/9/30/russian-attacks-on-ukraines-kyiv-region-kill-four-target-power-grid?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 1,
       "story": {
-        "title": "Met recommends charging 54 people, 20 organisations over Grenfell blaze",
-        "description": "Almost a decade since London's Grenfell Tower fire disaster, police have asked prosecutors to consider charging 54 people and 20 organisations over the blaze, which killed 72 people.",
-        "link": "https://www.abc.net.au/news/2026-09-30/grenfell-tower-police-recommend-dozens-of-charges/107198342",
+        "title": "Israel to 'ramp up' aviation security after pilot 'tries to crash plane'",
+        "description": "Benjamin Netanyahu says a commercial flight with 174 people on board bound for Tel Aviv had to divert to Saudi Arabia after one pilot stabbed the other and \"apparently tried to crash the plane\".",
+        "link": "https://www.abc.net.au/news/2026-10-01/flydubai-ez1073-diverts-after-accusations-of-pilot-stabbing/107214522",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Baghdad",
-      "lat": 33.31,
-      "lon": 44.36,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Baghdad celebrates, Kurds concerned as US completes Iraq withdrawal",
-        "description": "This final withdrawal of troops ends a 12-year mission to fight the Islamic State group, after the US began winding down its military presence in Iraq in 2024.",
-        "link": "https://www.abc.net.au/news/2026-09-30/us-military-completes-iraq-withdrawal/107214128",
+        "title": "Garbage truck driver charged over elderly pedestrian's death",
+        "description": "The driver of a rubbish truck that struck and killed an elderly man in Perth's south-east earlier this month is charged with dangerous driving.",
+        "link": "https://www.abc.net.au/news/2026-09-30/man-charged-over-garbage-truck-death-in-queens-park/107214024",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Tel Aviv",
-      "lat": 32.08,
-      "lon": 34.78,
+      "name": "Jordan",
+      "lat": 30.59,
+      "lon": 36.24,
       "count": 1,
       "story": {
-        "title": "Flydubai pilot investigated over possible attempt to crash Tel Aviv-bound flight",
-        "description": "Israeli media say authorities are investigating whether a Flydubai pilot tried to crash an Israel-bound plane before it diverted to Saudi Arabia.",
-        "link": "https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-rdf",
+        "title": "Co-pilot attempted to crash plane from Dubai to Tel Aviv, Netanyahu says",
+        "description": "Passenger Miryam Shira Ohayon said the plane was \"pretty much out of control\" when one of the pilots tried to stab the other while they were flying over Jordan en route from Dubai to Tel Aviv.",
+        "link": "https://www.abc.net.au/news/2026-09-30/dubai-to-tel-aviv-flight-signals-emergency/107213638",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 1,
+      "story": {
+        "title": "Nathan Cleary accepts maiden Dally M Medal from his dad's couch",
+        "description": "Injured Penrith superstar Nathan Cleary has claimed his maiden Dally M Medal, with Brisbane fullback Tamika Upton taking the NRLW award for the third time in four seasons.",
+        "link": "https://www.abc.net.au/news/2026-09-30/dally-m-medal-awards-ceremony-red-carpet-live-blog/107204384",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Iran's nuclear program remains shrouded in mystery as the regime debates ditching non-proliferation",
+        "description": "Iran's nuclear program is entering a critical phase as Tehran debates dropping out of a nuclear non-proliferation treaty. Satellite images also show activity at known nuclear sites.",
+        "link": "https://www.dw.com/en/iran-s-nuclear-program-remains-shrouded-in-mystery-as-the-regime-debates-ditching-non-proliferation/a-79488197?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "Lawyer of Junaid Hafeez, a Pakistai scholar imprisoned for 13 years, is hopeful for his release",
+        "description": "A former Fullbright scholar, Junaid Hafeez was sentenced to death under Pakistan's controversial blasphemy laws. His family and lawyer told DW there is now hope a court will overturn the conviction.",
+        "link": "https://www.dw.com/en/lawyer-of-junaid-hafeez-a-pakistai-scholar-imprisoned-for-13-years-is-hopeful-for-his-release/a-79490207?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -488,66 +548,6 @@
         "title": "India news: Key opposition leaders meet to discuss poll body row",
         "description": "India's opposition leaders meet in New Delhi to push back against voter roll revisions and discuss poll body chief Gyanesh Kumar. DW has more.",
         "link": "https://www.dw.com/en/india-news-key-opposition-leaders-meet-to-discuss-poll-body-row/live-79481549?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Sweden",
-      "lat": 60.13,
-      "lon": 18.64,
-      "count": 1,
-      "story": {
-        "title": "'Alternative Nobel' honors women's rights activists, AI researcher",
-        "description": "The Right Livelihood Award has gone to a female AI researcher and women fighting repression. The Sweden-based prize has been dubbed an \"alternative Nobel.\"",
-        "link": "https://www.dw.com/en/alternative-nobel-honors-women-s-rights-activists-ai-researcher/a-79481171?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Hungary",
-      "lat": 47.16,
-      "lon": 19.5,
-      "count": 1,
-      "story": {
-        "title": "Hungary's reckoning with Orban's corrupt system picks up speed with high-profile arrests",
-        "description": "Hungary's Prime Minister Peter Magyar vowed to dismantle Orban's corrupt networks. High-profile figures are being arrested and many Hungarians are pushing for swift accountability, but the rule of law takes time.",
-        "link": "https://www.dw.com/en/hungary-s-reckoning-with-orban-s-corrupt-system-picks-up-speed-with-high-profile-arrests/a-79473714?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Seoul",
-      "lat": 37.57,
-      "lon": 126.98,
-      "count": 1,
-      "story": {
-        "title": "North Korea denies South's claim, calls DMZ blast a 'farce'",
-        "description": "North Korean leader Kim Jong Un's sister Kim Yo Jong has accused Seoul of conspiracy after it blamed Pyongyang for the blast in the DMZ.",
-        "link": "https://www.dw.com/en/north-korea-denies-south-s-claim-calls-dmz-blast-a-farce/a-79481164?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 1,
-      "story": {
-        "title": "Morocco: King appoints first woman prime minister",
-        "description": "The appointment of Fatima Zahra Mansouri comes after her center-right party won last week's parliamentary elections in Morocco. She had previously served as mayor of the city of Marrakesh.",
-        "link": "https://www.dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 1,
-      "story": {
-        "title": "Estonia blames Russia for arson attack on defense company",
-        "description": "The Estonian government accused Moscow of an \"act of sabotage\" that is part of Russia's broader campaign across Europe. The Baltic state has received support from EU and NATO leaders.",
-        "link": "https://www.dw.com/en/estonia-blames-russia-for-arson-attack-on-defense-company/a-79478937?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
