@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T06:03:24+00:00",
+  "generated_at": "2026-10-02T13:03:34+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
       "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
       "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
@@ -19,24 +25,12 @@
     },
     {
       "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across northern region.",
+      "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
       "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
-      "description": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "australia": [
-    {
-      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-      "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
     {
       "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
       "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
@@ -48,9 +42,21 @@
       "description": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
       "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+      "description": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
+      "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "UK diesel price hits £2 a litre as US calls for Europe to release more stocks",
+      "description": "The RAC says diesel price rises are showing no signs of slowing, \"heaping more misery\" onto drivers.",
+      "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
     {
       "title": "PM warned Rosebank oil field could breach West Bank sanctions",
       "description": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.",
@@ -62,12 +68,6 @@
       "description": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
       "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Doubters spur me on: why more women are taking up DIY",
-      "description": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
-      "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,11 +75,35 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 11,
       "story": {
         "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
         "description": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
         "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 9,
+      "story": {
+        "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+        "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+        "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 9,
+      "story": {
+        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+        "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+        "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -96,34 +120,22 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 8,
+      "name": "Dubai",
+      "lat": 25.2,
+      "lon": 55.27,
+      "count": 7,
       "story": {
-        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-        "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-        "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+        "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+        "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+        "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 8,
-      "story": {
-        "title": "Iran urges Iraq to lift flight ban amid US sanctions",
-        "description": "Iran calls on Iraq to remove flight curbs after US sanctions, in a move that has strained bilateral ties.",
-        "link": "https://www.aljazeera.com/news/2026/10/2/iran-urges-iraq-to-lift-flight-ban-amid-us-sanctions?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
         "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
@@ -132,39 +144,15 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 6,
-      "story": {
-        "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-        "description": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
-        "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 6,
-      "story": {
-        "title": "Row between Ukraine, South Korea mounts over North Korean POWs",
-        "description": "South Korea’s ⁠President accused Ukraine of ⁠undermining him by disclosing POW transfer deal",
-        "link": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
       "count": 6,
       "story": {
-        "title": "US pressures EU allies to release diesel stockpiles",
-        "description": "The Trump administration has called on its European allies, particularly Germany and France, to release strategic diesel reserves in an effort to ease fuel prices. The EU will hold an emergency meeting on Friday.",
-        "link": "https://www.dw.com/en/us-pressures-eu-allies-to-release-diesel-stockpiles/a-79509571?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Support for Merz plunges after CDU’s losses to Germany’s right and left",
+        "description": "Chancellor Friedrich Merz hits a record low approval rating after his party suffered defeats in three state elections.",
+        "link": "https://www.aljazeera.com/news/2026/10/2/just-one-in-10-germans-thinks-merz-is-up-to-the-job-after-election-wipeout?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -174,80 +162,32 @@
       "count": 5,
       "story": {
         "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-        "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across northern region.",
+        "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
         "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
-      "count": 4,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 5,
       "story": {
-        "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-        "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-        "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+        "title": "Spain and China are cosying up - to the anger of many in the EU",
+        "description": "Amid global tumult, the two countries' alliance is not the only unlikely pairing.",
+        "link": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 4,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 5,
       "story": {
-        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-        "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-        "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 4,
-      "story": {
-        "title": "Row between Ukraine, South Korea mounts over North Korean POWs",
-        "description": "South Korea’s ⁠President accused Ukraine of ⁠undermining him by disclosing POW transfer deal",
-        "link": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "Greene joins Cats as AFL teams make off-season moves",
-        "description": "Toby Greene has become the first major AFL free agency domino to fall, with Greater Western Sydney to receive a second-round draft pick for losing their former captain to Geelong.",
-        "link": "https://www.abc.net.au/news/2026-10-02/toby-greene-joins-geelong-cats-from-gws-giants/107220978",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "FAO official says he lost his job for criticising Israeli policies in Gaza",
-        "description": "The FAO official said he was told his contract would not be renewed over an alleged breach of impartiality on Gaza.",
-        "link": "https://www.aljazeera.com/news/2026/10/2/fao-official-says-he-lost-his-job-for-criticising-israeli-policies-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 3,
-      "story": {
-        "title": "France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form",
-        "description": "France face neighbours Italy in new coach Zinedine Zidane&#039;s first home game, with Mbappe out injured.",
-        "link": "https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss",
+        "title": "New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?",
+        "description": "By the end of November, three US aircraft carriers and two amphibious landing groups will be positioned near Iran.",
+        "link": "https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -255,7 +195,7 @@
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
-      "count": 2,
+      "count": 4,
       "story": {
         "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
         "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
@@ -264,10 +204,22 @@
       }
     },
     {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 4,
+      "story": {
+        "title": "What’s behind France’s school protests?",
+        "description": "Many French schools are still closed as protests over learning conditions continue across the country.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-reported-natascha-paris-school-fr?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Seoul",
       "lat": 37.57,
       "lon": 126.98,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
         "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
@@ -279,35 +231,59 @@
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
-      "count": 2,
+      "count": 3,
       "story": {
-        "title": "Japan raises permanent residency fee by 20 times",
-        "description": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
-        "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+        "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+        "description": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
+        "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 2,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 3,
       "story": {
-        "title": "Spain and China are cosying up - to the anger of many in the EU",
-        "description": "Amid global tumult, the two countries alliance is not the only unlikely pairing.",
-        "link": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+        "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+        "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 3,
+      "story": {
+        "title": "South Korea demands Ukraine apology over POW disclosure",
+        "description": "Ukrainian President Volodymyr Zelenskyy's disclosure of the transfer of North Korean prisoners of war (POWs) to Seoul has caused a major diplomatic spat between Seoul and Kyiv.",
+        "link": "https://www.dw.com/en/south-korea-demands-ukraine-apology-over-pow-disclosure/a-79510305?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
+        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
+        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
+        "source": "SBS News"
+      }
+    },
+    {
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
       "count": 2,
       "story": {
-        "title": "Spain and China are cosying up - to the anger of many in the EU",
-        "description": "Amid global tumult, the two countries alliance is not the only unlikely pairing.",
-        "link": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+        "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+        "description": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
+        "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -324,39 +300,111 @@
       }
     },
     {
-      "name": "Tel Aviv",
-      "lat": 32.08,
-      "lon": 34.78,
+      "name": "Tunis",
+      "lat": 36.81,
+      "lon": 10.18,
       "count": 2,
       "story": {
-        "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-        "description": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
-        "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 2,
-      "story": {
-        "title": "Everything you need to know about Brazil’s tight presidential race",
-        "description": "Voters will soon decide between President Luiz Inácio Lula da Silva and the son of former President Jair Bolsonaro.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/everything-you-need-to-know-about-brazils-tight-presidential-race?traffic_source=rss",
+        "title": "Tunisia softens its ‘false news’ penalty. What really changed, and why now?",
+        "description": "Fines replace jail terms for first-time &#039;false news&#039; offences under a decree rights groups say is still repressive.",
+        "link": "https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Piastri likens track to 'sandpaper' as F1 returns to Malaysia",
-        "description": "Formula 1 is heading back to Malaysia's Sepang International Circuit after a nine-year hiatus this weekend, with more than half the drivers on the grid unfamiliar with a track that is hosting the rescheduled Bahrain Gran",
-        "link": "https://www.abc.net.au/news/2026-10-02/f1-returns-to-malaysia-oscar-piastri/107220710",
+        "title": "Washington’s diplomacy in Sudan has backfired",
+        "description": "Pressure meant to isolate Sudan’s army has instead left Washington isolated and a ceasefire further out of reach.",
+        "link": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 2,
+      "story": {
+        "title": "‘Containerabad’: Pakistan’s capital and truckers bleed money amid lockdown",
+        "description": "As Islamabad prepares for another opposition march, drivers and businesses are counting the cost of the barricades.",
+        "link": "https://www.aljazeera.com/features/2026/10/2/containerabad-pakistans-capital-and-truckers-bleed-money-amid-lockdown?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "New Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
+      "count": 2,
+      "story": {
+        "title": "Indian authorities clamp down as ‘cockroach’ movement launches new protests",
+        "description": "Demonstrators gather in Mumbai and New Delhi to demand the resignation of Election Commission chief.",
+        "link": "https://www.aljazeera.com/news/2026/10/2/indian-authorities-clamp-down-as-cockroach-movement-launches-new-protests?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Austria",
+      "lat": 47.52,
+      "lon": 14.55,
+      "count": 2,
+      "story": {
+        "title": "Protests disrupt Ireland football match with ‘Palestine tennis balls’",
+        "description": "Protesters interrupted Ireland’s match against Austria with tennis balls and Palestine flags.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-sv-ireland-austria-game-tennis-balls-ie?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Arab party leader forced to withdraw from Israeli elections",
+        "description": "Palestinian participation in upcoming Knesset vote continues to shrink with withdrawal of Sami Abu Shehadeh.",
+        "link": "https://www.aljazeera.com/news/2026/10/2/arab-party-leader-forced-to-withdraw-from-israeli-elections?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Taiwan",
+      "lat": 23.7,
+      "lon": 121.0,
+      "count": 2,
+      "story": {
+        "title": "US delivers F-16V fighter jets to Taiwan as island eyes threat from China",
+        "description": "Amid threats from China, Taipai is growing concerned about the Trump administration&#039;s commitment to arming the island.",
+        "link": "https://www.aljazeera.com/news/2026/10/2/us-delivers-f-16v-fighter-jets-to-taiwan-as-island-eyes-threat-from-china?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 2,
+      "story": {
+        "title": "Woman who stopped Adelaide beach brawl speaks out",
+        "description": "In an exclusive interview with the ABC, a woman who tried to stop a brawl on an Adelaide beach before being pelted with bottles has spoken publicly for the first time.",
+        "link": "https://www.abc.net.au/news/2026-10-02/woman-who-intervened-in-adelaide-beach-fight-speaks-out/107220794",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 2,
+      "story": {
+        "title": "South Korea demands Ukraine apology over POW disclosure",
+        "description": "Ukrainian President Volodymyr Zelenskyy's disclosure of the transfer of North Korean prisoners of war (POWs) to Seoul has caused a major diplomatic spat between Seoul and Kyiv.",
+        "link": "https://www.dw.com/en/south-korea-demands-ukraine-apology-over-pow-disclosure/a-79510305?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -389,9 +437,9 @@
       "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "Allergic to prawns? A Singapore trial is studying whether you can build up a tolerance",
-        "description": "Prawn allergy can mean more than simply skipping the crustacean on your plate, especially when shellfish is common in Singapore cooking. Could gradually exposing the body to prawn offer another way to manage the allergy?",
-        "link": "https://www.channelnewsasia.com/wellness/prawn-allergy-singapore-first-trial-oral-immunotherapy-6425956",
+        "title": "More than 390kg of cannabis detected in container at Pasir Panjang Scanning Station",
+        "description": "Preliminary investigations found that the drugs were transiting through Singapore and bound for another country.",
+        "link": "https://www.channelnewsasia.com/singapore/391kg-cannabis-seized-pasir-panjang-scanning-station-6426746",
         "source": "CNA"
       }
     },
@@ -408,6 +456,18 @@
       }
     },
     {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Spain and China are cosying up - to the anger of many in the EU",
+        "description": "Amid global tumult, the two countries' alliance is not the only unlikely pairing.",
+        "link": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Havana",
       "lat": 23.13,
       "lon": -82.38,
@@ -420,14 +480,14 @@
       }
     },
     {
-      "name": "Cuba",
-      "lat": 21.52,
-      "lon": -77.78,
+      "name": "Tel Aviv",
+      "lat": 32.08,
+      "lon": 34.78,
       "count": 1,
       "story": {
-        "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
-        "description": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
-        "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+        "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+        "description": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
+        "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -444,110 +504,50 @@
       }
     },
     {
-      "name": "Switzerland",
-      "lat": 46.8,
-      "lon": 8.2,
+      "name": "Tunisia",
+      "lat": 33.89,
+      "lon": 9.54,
       "count": 1,
       "story": {
-        "title": "How Switzerland lost 20 percent of its ice in five years",
-        "description": "Swiss glaciers have lost more than 5 percent of their ice, threatening the country’s alpine economy.",
-        "link": "https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years?traffic_source=rss",
+        "title": "Tunisia softens its ‘false news’ penalty. What really changed, and why now?",
+        "description": "Fines replace jail terms for first-time &#039;false news&#039; offences under a decree rights groups say is still repressive.",
+        "link": "https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Chile",
-      "lat": -35.68,
-      "lon": -71.54,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 1,
       "story": {
-        "title": "Student protests in Chile turn to violent clashes with police",
-        "description": "Riot police in Chile’s capital deployed tear gas and water cannons to disperse hundreds of students.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/student-protests-in-chile-turn-to-violent-clashes-with-police?traffic_source=rss",
+        "title": "Washington’s diplomacy in Sudan has backfired",
+        "description": "Pressure meant to isolate Sudan’s army has instead left Washington isolated and a ceasefire further out of reach.",
+        "link": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Addis Ababa",
-      "lat": 9.03,
-      "lon": 38.74,
+      "name": "Islamabad",
+      "lat": 33.7,
+      "lon": 73.06,
       "count": 1,
       "story": {
-        "title": "Eritrea severs diplomatic ties with Ethiopia in row over Tigray",
-        "description": "Eritrea has severed diplomatic ties with Ethiopia after Addis Ababa closed its embassy in Asmara",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/eritrea-severs-diplomatic-ties-with-ethiopia-in-row-over-tigray?traffic_source=rss",
+        "title": "‘Containerabad’: Pakistan’s capital and truckers bleed money amid lockdown",
+        "description": "As Islamabad prepares for another opposition march, drivers and businesses are counting the cost of the barricades.",
+        "link": "https://www.aljazeera.com/features/2026/10/2/containerabad-pakistans-capital-and-truckers-bleed-money-amid-lockdown?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
       "count": 1,
       "story": {
-        "title": "Iran urges Iraq to lift flight ban amid US sanctions",
-        "description": "Iran calls on Iraq to remove flight curbs after US sanctions, in a move that has strained bilateral ties.",
-        "link": "https://www.aljazeera.com/news/2026/10/2/iran-urges-iraq-to-lift-flight-ban-amid-us-sanctions?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
-      "story": {
-        "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
-        "description": "Massive US military deployment to the Middle East includes 50,000 troops, F-35s and Marines to pressure Tehran.",
-        "link": "https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "European Union",
-      "lat": 50.85,
-      "lon": 4.35,
-      "count": 1,
-      "story": {
-        "title": "The price Europe pays for keeping AI under control",
-        "description": "The European Union (EU) has introduced some of the world&#039;s strictest Artificial Intelligence (AI) laws.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/the-price-europe-pays-for-keeping-ai-under-control?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Trump says US may ask Europe to release diesel reserves",
-        "description": "Skyrocketing diesel prices have pushed Washington to weigh an export ban, raising alarm across European economies.",
-        "link": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-        "description": "1,439 Palestinians have been killed in Gaza and 5,052 injured since the &#039;ceasefire&#039; began in October 2025.",
-        "link": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form",
-        "description": "France face neighbours Italy in new coach Zinedine Zidane&#039;s first home game, with Mbappe out injured.",
-        "link": "https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss",
+        "title": "Explosions reported near military airport in Syria’s Idlib province",
+        "description": "Two explosions have occurred near Taftanaz military airport in Syria’s Idlib province, sending smoke into the sky.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-syria-explosion-clip?traffic_source=rss",
         "source": "Al Jazeera"
       }
     }
