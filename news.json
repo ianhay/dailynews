@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:52:44+00:00",
+  "generated_at": "2026-10-03T23:41:14+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -33,20 +33,20 @@
   "australia": [
     {
       "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "description": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
       "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Women given shorts at Oktoberfest to prevent upskirting",
-      "description": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
       "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
       "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
       "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Riot police clash with students as education protests rage in France",
+      "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 15,
+      "count": 13,
       "story": {
         "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
         "description": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
@@ -87,7 +87,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 10,
+      "count": 12,
       "story": {
         "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
         "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
@@ -99,7 +99,7 @@
       "name": "Dubai",
       "lat": 25.2,
       "lon": 55.27,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
         "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
@@ -108,37 +108,13 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 7,
-      "story": {
-        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-        "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-        "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 7,
-      "story": {
-        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-        "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-        "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-        "description": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+        "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
         "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -156,6 +132,30 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 5,
+      "story": {
+        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+        "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+        "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 5,
+      "story": {
+        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+        "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+        "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -168,15 +168,15 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 4,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 5,
       "story": {
-        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-        "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-        "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Just four hours from Singapore, Sri Lanka offers two very different safari experiences",
+        "description": "Yala may be famous for its big cats, but elephants, mouse-deer, crocodiles and birdlife make the journey just as memorable when the star attraction fails to appear.",
+        "link": "https://www.channelnewsasia.com/experiences/sri-lanka-safari-yala-gal-oya-6401341",
+        "source": "CNA"
       }
     },
     {
@@ -192,6 +192,30 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 4,
+      "story": {
+        "title": "Israeli settlers attack Palestinian farmers during olive harvest",
+        "description": "Israeli settlers attack Palestinian farmers during olive harvest",
+        "link": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
+      "count": 4,
+      "story": {
+        "title": "Fernandes denies Portugal rift, hails Ronaldo after walk out",
+        "description": "Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within Portugal’s squad.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
@@ -204,62 +228,26 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 3,
       "story": {
-        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-        "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-        "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+        "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+        "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 3,
       "story": {
-        "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
-        "description": "Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
-      "count": 3,
-      "story": {
-        "title": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
-        "description": "Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes says forward remains team&#039;s &#039;greatest symbol&#039;.",
-        "link": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Croatia",
-      "lat": 45.1,
-      "lon": 15.2,
-      "count": 3,
-      "story": {
-        "title": "England trounce Croatia 7-0 in Nations League as Kane goal run continues",
-        "description": "Harry Kane scores in sixth successive away game for England as Bukayo Saka also scores twice in Nations League thumping.",
-        "link": "https://www.aljazeera.com/sports/2026/10/3/england-trounce-croatia-7-0-in-nations-league-as-kane-goal-run-continues?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 3,
-      "story": {
-        "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
-        "description": "Israeli journalists asked coach Hallgrimsson about the Flydubai attack and alleged racist abuse by Ireland&#039;s players.",
-        "link": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
+        "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
+        "description": "Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to &#039;end a genocide in Gaza&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -288,18 +276,6 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 2,
-      "story": {
-        "title": "Riot police clash with students as education protests rage in France",
-        "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-        "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
@@ -324,14 +300,14 @@
       }
     },
     {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 2,
       "story": {
-        "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-        "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-        "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+        "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+        "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -345,18 +321,6 @@
         "description": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
         "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
-        "description": "Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -396,6 +360,30 @@
       }
     },
     {
+      "name": "Croatia",
+      "lat": 45.1,
+      "lon": 15.2,
+      "count": 2,
+      "story": {
+        "title": "England trounce Croatia 7-0 in Nations League as Kane goal run continues",
+        "description": "Harry Kane scores in sixth successive away game for England as Bukayo Saka also scores twice in Nations League thumping.",
+        "link": "https://www.aljazeera.com/sports/2026/10/3/england-trounce-croatia-7-0-in-nations-league-as-kane-goal-run-continues?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 2,
+      "story": {
+        "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
+        "description": "Israeli journalists asked coach Hallgrimsson about the Flydubai attack and alleged racist abuse by Ireland&#039;s players.",
+        "link": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Kenya",
       "lat": -0.02,
       "lon": 37.9,
@@ -408,15 +396,27 @@
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 2,
       "story": {
-        "title": "North Korea fires ballistic missile into sea, Seoul says",
-        "description": "North Korea fired a ballistic missile toward the sea off its east coast, the South Korean military has said.",
-        "link": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Houthis target Saudi oil facility as hostilities escalate in Yemen",
+        "description": "Yemen's Iran-aligned Houthis say they targeted a Saudi Arabian oil company in retaliation for Saudi attacks on Yemen.",
+        "link": "https://www.abc.net.au/news/2026-10-04/houthi-saudi-yemen-iraq-middle-east-hostilities/107226524",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 2,
+      "story": {
+        "title": "Unintended consequences of war in Iran are helping the climate",
+        "description": "The Iran war is turbocharging global electrification. But experts say the global grid needs to roughly double in size, as infrastructure bottlenecks prevent a clean energy revolution.",
+        "link": "https://www.abc.net.au/news/2026-10-04/iran-war-electrification-climate-goals/107213828",
+        "source": "ABC News AU"
       }
     },
     {
@@ -428,18 +428,6 @@
         "title": "Netherlands coach Xavi joins critics of new-look international window",
         "description": "",
         "link": "https://www.channelnewsasia.com/sport/netherlands-coach-xavi-joins-critics-new-look-international-window-6429556",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Air quality back to moderate across Singapore after central region hits unhealthy range",
-        "description": "There remains a risk of smoke haze affecting Singapore, with the 24-hour PSI forecast to be in the high-moderate to low-unhealthy range, the National Environment Agency said on Saturday.",
-        "link": "https://www.channelnewsasia.com/singapore/haze-moderate-air-quality-central-region-6429496",
         "source": "CNA"
       }
     },
@@ -480,6 +468,18 @@
       }
     },
     {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 1,
+      "story": {
+        "title": "Riot police clash with students as education protests rage in France",
+        "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+        "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
@@ -488,6 +488,18 @@
         "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
         "description": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
         "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 1,
+      "story": {
+        "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+        "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+        "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -536,18 +548,6 @@
         "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
         "description": "President Abdelmadjid Tebboune says Algiers deployed warplanes to Niamey in late August following an attack by mutineers.",
         "link": "https://www.aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
-      "count": 1,
-      "story": {
-        "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
-        "description": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
         "source": "Al Jazeera"
       }
     }
