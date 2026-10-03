@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T13:13:06+00:00",
+  "generated_at": "2026-10-03T17:32:18+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Why has Brazil accused the US of election interference?",
+      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
       "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
       "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
@@ -22,18 +28,12 @@
       "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
       "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-      "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "australia": [
     {
-      "title": "Protesters across Spain demand action over housing crisis",
-      "description": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "description": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
       "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -108,18 +108,6 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 8,
-      "story": {
-        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-        "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-        "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -132,10 +120,22 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 7,
+      "story": {
+        "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+        "description": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 6,
       "story": {
         "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
         "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
@@ -144,14 +144,14 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 5,
       "story": {
-        "title": "Protesters across Spain demand action over housing crisis",
-        "description": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+        "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+        "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -164,18 +164,6 @@
         "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
         "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
         "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 5,
-      "story": {
-        "title": "Riot police clash with students as education protests rage in France",
-        "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-        "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -204,14 +192,26 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 4,
+      "story": {
+        "title": "Why has Brazil accused the US of election interference?",
+        "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+        "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 3,
       "story": {
-        "title": "Kim wins Asian Games gold to secure military exemption",
-        "description": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+        "title": "Riot police clash with students as education protests rage in France",
+        "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+        "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -228,39 +228,15 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 3,
       "story": {
-        "title": "Palestinians gather for football amid Gaza’s ruins",
-        "description": "Displaced Palestinians gathered to watch a friendly football match in Gaza’s Khan Younis.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 3,
-      "story": {
-        "title": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
-        "description": "Foreign Ministry says it summoned India&#039;s ⁠charge d&#039;affaires to lodge &#039;strong protest&#039; over killing of two civilians.",
-        "link": "https://www.aljazeera.com/news/2026/10/3/pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 3,
-      "story": {
-        "title": "Red Bull’s Verstappen grabs pole position for Bahrain GP in Malaysia",
-        "description": "Lewis Hamilton of Ferrari to start second on the grid in Sepang with Red Bull&#039;s ⁠Isack Hadjar third.",
-        "link": "https://www.aljazeera.com/sports/2026/10/3/red-bulls-verstappen-grabs-pole-position-for-bahrain-gp-in-malaysia?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+        "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+        "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -276,15 +252,15 @@
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 3,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 2,
       "story": {
-        "title": "North Korea fires ballistic missile into sea, Seoul says",
-        "description": "North Korea fired a ballistic missile toward the sea off its east coast, the South Korean military has said.",
-        "link": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Kim wins Asian Games gold to secure military exemption",
+        "description": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -300,15 +276,39 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
       "count": 2,
       "story": {
-        "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
-        "description": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
-        "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+        "description": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 2,
+      "story": {
+        "title": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
+        "description": "The multi-vehicle crash occurred in the Salama area, 90km southeast of Nairobi, killing mostly Catholic pilgrims.",
+        "link": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Israel election double standard: Arab leader forced out, far right cleared",
+        "description": "Palestinian Israeli leader forced to withdraw candidature while far-right Israeli leaders allowed to run in polls.",
+        "link": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -324,15 +324,51 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
         "title": "Palestinians gather for football amid Gaza’s ruins",
         "description": "Displaced Palestinians gathered to watch a friendly football match in Gaza’s Khan Younis.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 2,
+      "story": {
+        "title": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
+        "description": "Foreign Ministry says it summoned India&#039;s ⁠charge d&#039;affaires to lodge &#039;strong protest&#039; over killing of two civilians.",
+        "link": "https://www.aljazeera.com/news/2026/10/3/pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "What is FC Barcelona’s Negreira case, and what are the charges?",
+        "description": "Real Madrid accuse Barcelona of paying former refereeing official Jose Maria Enriquez Negreira between 2001 and 2018.",
+        "link": "https://www.aljazeera.com/sports/2026/10/3/what-is-fc-barcelonas-negreira-case-and-what-are-the-charges?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
+      "count": 2,
+      "story": {
+        "title": "Verstappen claims pole at Grand Prix in Malaysia",
+        "description": "Max Verstappen delivered a sublime lap in his Red Bull to qualify fastest for Sunday's Formula 1 Bahrain Grand Prix in Malaysia.",
+        "link": "https://www.abc.net.au/news/2026-10-03/max-verstappen-claims-pole-bahrain-grand-prix-malaysia-formula-1/107225410",
+        "source": "ABC News AU"
       }
     },
     {
@@ -360,6 +396,54 @@
       }
     },
     {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 2,
+      "story": {
+        "title": "North Korea fires ballistic missile into sea, Seoul says",
+        "description": "North Korea fired a ballistic missile toward the sea off its east coast, the South Korean military has said.",
+        "link": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
+      "count": 2,
+      "story": {
+        "title": "Netherlands coach Xavi joins critics of new-look international window",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/netherlands-coach-xavi-joins-critics-new-look-international-window-6429556",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Air quality back to moderate across Singapore after central region hits unhealthy range",
+        "description": "There remains a risk of smoke haze affecting Singapore, with the 24-hour PSI forecast to be in the high-moderate to low-unhealthy range, the National Environment Agency said on Saturday.",
+        "link": "https://www.channelnewsasia.com/singapore/haze-moderate-air-quality-central-region-6429496",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "Why has Brazil accused the US of election interference?",
+        "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+        "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "London",
       "lat": 51.5,
       "lon": -0.12,
@@ -384,14 +468,14 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 1,
       "story": {
-        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-        "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-        "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+        "description": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
+        "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -444,111 +528,27 @@
       }
     },
     {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
       "count": 1,
       "story": {
-        "title": "World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers",
-        "description": "Italy&#039;s Jannik Sinner has not played since Wimbledon win in July, missing US Open and ongoing ATP 500 event in Beijing.",
-        "link": "https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss",
+        "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+        "description": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
+      "name": "Nairobi",
+      "lat": -1.29,
+      "lon": 36.82,
       "count": 1,
       "story": {
-        "title": "World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers",
-        "description": "Italy&#039;s Jannik Sinner has not played since Wimbledon win in July, missing US Open and ongoing ATP 500 event in Beijing.",
-        "link": "https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss",
+        "title": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
+        "description": "The multi-vehicle crash occurred in the Salama area, 90km southeast of Nairobi, killing mostly Catholic pilgrims.",
+        "link": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Shanghai",
-      "lat": 31.23,
-      "lon": 121.47,
-      "count": 1,
-      "story": {
-        "title": "World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers",
-        "description": "Italy&#039;s Jannik Sinner has not played since Wimbledon win in July, missing US Open and ongoing ATP 500 event in Beijing.",
-        "link": "https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
-      "count": 1,
-      "story": {
-        "title": "How AI is helping Mexico detect breast cancer earlier",
-        "description": "Mexico is turning to AI to speed up breast cancer detection as long waits and a shortage of specialists hamper screening",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-mexico-ai-breast-cancer-julia-pkg?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "What is FC Barcelona’s Negreira case, and what are the charges?",
-        "description": "Real Madrid accuse Barcelona of paying former refereeing official Jose Maria Enriquez Negreira between 2001 and 2018.",
-        "link": "https://www.aljazeera.com/sports/2026/10/3/what-is-fc-barcelonas-negreira-case-and-what-are-the-charges?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 1,
-      "story": {
-        "title": "‘Trauma still there’: A decades-old standoff returns to Northern Ireland",
-        "description": "Families who lived through one of the Troubles’ worst flashpoints fear its legacy is reaching another generation.",
-        "link": "https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "Sharks could linger off Perth coast despite whale carcass removal",
-        "description": "Some of Perth's most seasoned swimmers are taking a break from the ocean amid ongoing shark sightings, after a whale carcass washed up on Monday.",
-        "link": "https://www.abc.net.au/news/2026-10-03/sharks-set-to-linger-off-perth-beaches-after-whale-removed/107223760",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Hong Kong",
-      "lat": 22.32,
-      "lon": 114.17,
-      "count": 1,
-      "story": {
-        "title": "Australian arrested for holding 'pistol-like object' in Hong Kong",
-        "description": "The man was reportedly on holiday with his family and had been drinking alcohol.",
-        "link": "https://www.abc.net.au/news/2026-10-03/australian-arrested-in-hong-kong-for-holding-pistol-like-object/107220366",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
-      "count": 1,
-      "story": {
-        "title": "Greece returns remains of Czar Samuel to Bulgaria",
-        "description": "A warrior emperor who ruled the Bulgarian Empire in the Middle Ages, Czar Samuel is a symbol of Bulgarian national identity. But his remains have been in Greece for decades – and he is also claimed by North Macedonia.",
-        "link": "https://www.dw.com/en/greece-returns-remains-of-czar-samuel-to-bulgaria/a-79530104?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     }
   ]
