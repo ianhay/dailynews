@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T01:49:44+00:00",
+  "generated_at": "2026-10-03T07:52:38+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "Russia strikes second major bridge in Kyiv, mayor says",
+      "description": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Riot police clash with students as education protests rage in France",
       "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
       "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
@@ -42,17 +48,11 @@
       "description": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
       "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-      "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
     {
-      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
       "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
       "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -72,22 +72,10 @@
   ],
   "places": [
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 14,
-      "story": {
-        "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-        "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-        "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 15,
       "story": {
         "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
         "description": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
@@ -96,14 +84,14 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 8,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 12,
       "story": {
-        "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-        "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
-        "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+        "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+        "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+        "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,6 +99,42 @@
       "name": "Dubai",
       "lat": 25.2,
       "lon": 55.27,
+      "count": 9,
+      "story": {
+        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+        "description": "The flydubai flight from Dubai to Tel Aviv was carrying more than 170 people when the attack took place.",
+        "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 8,
+      "story": {
+        "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+        "description": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
+        "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 7,
+      "story": {
+        "title": "Riot police clash with students as education protests rage in France",
+        "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+        "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 7,
       "story": {
         "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
@@ -120,46 +144,82 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
       "count": 6,
       "story": {
-        "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-        "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
-        "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia strikes second major bridge in Kyiv, mayor says",
+        "description": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+        "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 5,
+      "story": {
+        "title": "Gaza voters want jobs and security as Palestinian elections approach",
+        "description": "Ahead of first Palestinian national elections in 20 years, people in Gaza hope to rebuild after Israeli destruction.",
+        "link": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 6,
+      "count": 5,
       "story": {
-        "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
-        "description": "Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+        "title": "Two Iranians charged over alleged plot targeting Jewish community in UK",
+        "description": "Two Iranian men are accused of preparing to ​commit attack in Manchester on or before Yom Kippur.",
+        "link": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 5,
       "story": {
-        "title": "Riot police clash with students as education protests rage in France",
-        "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-        "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+        "title": "FOMO and 4am wake-up call get Pallister in the ocean",
+        "description": "Lani Pallister won four gold medals and booked her spot at the world short course championships in Sydney this week, but that didn't stop her from flying to Queensland to win the Bluff to Bar ocean race.",
+        "link": "https://www.abc.net.au/news/2026-10-03/lani-pallister-backs-up-short-course-titles-with-ocean-swim-win/107225056",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 4,
+      "story": {
+        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+        "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 4,
+      "story": {
+        "title": "Brazil’s Lula and Bolsonaro draw thousands as campaigns near end",
+        "description": "Brazilian President Lula da Silva held his final campaign rally in Rio de Janeiro on Friday",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/brazils-lula-and-bolsonaro-draw-thousands-as-campaigns-near-end?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "South Korea",
       "lat": 36.5,
       "lon": 127.9,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "North Korea fires ballistic missile towards the sea, South Korea says",
         "description": "A ballistic missile fired from the North Korean port city of Wonsan flies more than 700km, South Korea&#039;s military says.",
@@ -171,7 +231,7 @@
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "North Korea fires ballistic missile towards the sea, South Korea says",
         "description": "A ballistic missile fired from the North Korean port city of Wonsan flies more than 700km, South Korea&#039;s military says.",
@@ -180,27 +240,15 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 4,
       "story": {
-        "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-        "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-        "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "Roosters met with Rabbi Eli Schlanger days before Bondi attack",
-        "description": "Five days before one of Australia's darkest days, a group of Sydney Roosters players visited a Bondi synagogue. What happened next would change the meaning of that meeting forever.",
-        "link": "https://www.abc.net.au/news/2026-10-03/roosters-met-with-rabbi-eli-schlanger-days-before-bondi-attack/107223728",
-        "source": "ABC News AU"
+        "title": "Singapore adults are getting more active, but eating more calories and salt: MOH, HPB surveys",
+        "description": "People are eating out more frequently, and this is one reason behind the increase in calorie, saturated fat and sodium intake.",
+        "link": "https://www.channelnewsasia.com/singapore/health-diet-calorie-food-salt-moh-hpb-6423211",
+        "source": "CNA"
       }
     },
     {
@@ -209,106 +257,22 @@
       "lon": 30.52,
       "count": 3,
       "story": {
-        "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-        "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
-        "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia strikes second major bridge in Kyiv, mayor says",
+        "description": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+        "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
+      "name": "Tel Aviv",
+      "lat": 32.08,
+      "lon": 34.78,
+      "count": 2,
       "story": {
-        "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
-        "description": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
-        "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
+        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+        "description": "The flydubai flight from Dubai to Tel Aviv was carrying more than 170 people when the attack took place.",
+        "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
-      "count": 3,
-      "story": {
-        "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-        "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-        "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 3,
-      "story": {
-        "title": "US and Australia suspend diplomatic operations in Brazil before election",
-        "description": "Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.",
-        "link": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
-        "description": "Retired General Nitzan Alon says more captives could have returned alive and a deal was possible &#039;maybe a year earlier&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "Arab party leader withdraws from Israeli elections",
-        "description": "Palestinian politician Sami Abu Shehadeh withdrew from Israel’s upcoming election.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 3,
-      "story": {
-        "title": "WA photos capture unseasonal rain and a hint of summer in September",
-        "description": "The state experienced a mixed bag of weather in September. Looking back at our viewers' photos shows just how different WA's climate can be from one end of the state to the other.",
-        "link": "https://www.abc.net.au/news/2026-10-03/heavy-rain-summer-like-heat-varied-climate-in-september-wa/107218120",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 3,
-      "story": {
-        "title": "Germany's Franz Reindl elected new IIHF president",
-        "description": "Franz Reindl has been elected president of ice hockey's world governing body. The former forward was a member of West Germany's Olympic bronze medal-winning team.",
-        "link": "https://www.dw.com/en/germany-s-franz-reindl-elected-new-iihf-president/a-79521799?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
-      "story": {
-        "title": "The Weeknd Singapore concert review: After Hours Til Dawn is a spectacular return after 8 years",
-        "description": "Eight years after his last show in Singapore, The Weeknd made a triumphant return on Friday (Oct 2) with powerhouse vocals, dazzling lasers and a larger-than-life production that proved just how far he has come as a perf",
-        "link": "https://www.channelnewsasia.com/entertainment/weeknd-singapore-2026-after-hours-til-dawn-6428206",
-        "source": "CNA"
       }
     },
     {
@@ -324,14 +288,14 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
       "count": 2,
       "story": {
-        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-        "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-        "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+        "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+        "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -348,51 +312,51 @@
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 2,
       "story": {
-        "title": "France held 1-1 by Italy in Zidane home debut after Olise stunner",
-        "description": "Italy&#039;s Alessandro Bastoni cancels out Michael Olise&#039;s opener for France in 1-1 UEFA Nations League draw in Saint-Denis.",
-        "link": "https://www.aljazeera.com/sports/2026/10/2/france-held-by-italy-in-zidanes-homecoming-after-olise-stunner?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "How the eviction of an 87-year-old became Spain's 'last straw'",
+        "description": "The average rental price in Spain has almost doubled over the past decade. When Maricarmen Abascal was evicted, she became the symbol of a fed-up nation.",
+        "link": "https://www.abc.net.au/news/2026-10-03/how-the-case-of-maricarmen-could-change-spain-housing/107210212",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 2,
       "story": {
-        "title": "Israeli general: Gaza captives could have been freed a year earlier",
-        "description": "Israeli Gen. Nitzan Alon told a Washington Institute forum that all Gaza captives could&#039;ve been freed a year earlier.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "WA photos capture unseasonal rain and a hint of summer in September",
+        "description": "The state experienced a mixed bag of weather in September. Looking back at our viewers' photos shows just how different WA's climate can be from one end of the state to the other.",
+        "link": "https://www.abc.net.au/news/2026-10-03/heavy-rain-summer-like-heat-varied-climate-in-september-wa/107218120",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
       "count": 2,
       "story": {
-        "title": "Latin America sees China as more positive global influence than US: Poll",
-        "description": "Annual Latinobarometro survey finds views of China’s influence improving as perceptions of US influence worsen.",
-        "link": "https://www.aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "German reunification: How inequality is shaping a new East German identity",
+        "description": "A new study highlights persistent structural disparities in wealth and leadership positions between East and West Germany, 36 years after reunification.",
+        "link": "https://www.dw.com/en/german-reunification-how-inequality-is-shaping-a-new-east-german-identity/a-79518541?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 2,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 1,
       "story": {
-        "title": "Could conflict in Ethiopia expand across the region?",
-        "description": "Addis Ababa accuses Egypt, Eritrea and Sudan of backing armed groups.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+        "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+        "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -444,14 +408,38 @@
       }
     },
     {
-      "name": "Tel Aviv",
-      "lat": 32.08,
-      "lon": 34.78,
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
       "count": 1,
       "story": {
-        "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
-        "description": "Smit Machchhar recalls midair disaster after co-pilot&#039;s attack on Flydubai flight to Tel Aviv.",
-        "link": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
+        "title": "‘Trauma still there’: A decades-old standoff returns to Northern Ireland",
+        "description": "Families who lived through one of the Troubles’ worst flashpoints fear its legacy is reaching another generation.",
+        "link": "https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "India vs Pakistan live: Asian Games cricket final",
+        "description": "Follow our live score and text commentary from the gold-medal match as Pakistan chase 212 to win in Japan.",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 1,
+      "story": {
+        "title": "Gaza voters want jobs and security as Palestinian elections approach",
+        "description": "Ahead of first Palestinian national elections in 20 years, people in Gaza hope to rebuild after Israeli destruction.",
+        "link": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -468,87 +456,99 @@
       }
     },
     {
-      "name": "Rome",
-      "lat": 41.9,
+      "name": "Italy",
+      "lat": 42.5,
       "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "Latin America sees China as more positive global influence than US: Poll",
-        "description": "Annual Latinobarometro survey finds views of China’s influence improving as perceptions of US influence worsen.",
-        "link": "https://www.aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll?traffic_source=rss",
+        "title": "France held 1-1 by Italy in Zidane home debut after Olise stunner",
+        "description": "Italy&#039;s Alessandro Bastoni cancels out Michael Olise&#039;s opener for France in 1-1 UEFA Nations League draw in Saint-Denis.",
+        "link": "https://www.aljazeera.com/sports/2026/10/2/france-held-by-italy-in-zidanes-homecoming-after-olise-stunner?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Baghdad",
-      "lat": 33.31,
-      "lon": 44.36,
+      "name": "Hong Kong",
+      "lat": 22.32,
+      "lon": 114.17,
       "count": 1,
       "story": {
-        "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
-        "description": "Mahan Air is excluded from the agreement as Baghdad says Washington granted its request for a waiver.",
-        "link": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
-      "count": 1,
-      "story": {
-        "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
-        "description": "Mahan Air is excluded from the agreement as Baghdad says Washington granted its request for a waiver.",
-        "link": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 1,
-      "story": {
-        "title": "Could conflict in Ethiopia expand across the region?",
-        "description": "Addis Ababa accuses Egypt, Eritrea and Sudan of backing armed groups.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Addis Ababa",
-      "lat": 9.03,
-      "lon": 38.74,
-      "count": 1,
-      "story": {
-        "title": "Could conflict in Ethiopia expand across the region?",
-        "description": "Addis Ababa accuses Egypt, Eritrea and Sudan of backing armed groups.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
-      "count": 1,
-      "story": {
-        "title": "Jerusalem Daily: Who gets to run in Israel’s elections?",
-        "description": "Palestinians in Israel are asking whether they will have a fair say in the upcoming Israeli elections.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "Diseases of the past like measles and diphtheria are making a comeback",
-        "description": "A recent outbreak of measles in Adelaide has sparked concern from health authorities, but it's not the only infectious illness where cases are rising once again.",
-        "link": "https://www.abc.net.au/news/2026-10-03/measles-and-other-diseases-are-making-a-comeback/107218766",
+        "title": "Australian arrested for holding 'pistol-like object' in Hong Kong",
+        "description": "The man was reportedly on holiday with his family and had been drinking alcohol.",
+        "link": "https://www.abc.net.au/news/2026-10-03/australian-arrested-in-hong-kong-for-holding-pistol-like-object/107220366",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 1,
+      "story": {
+        "title": "Argentina launches cash-for-citizenship scheme",
+        "description": "Investors seeking the fastest but most costly route to Argentine citizenship can choose between a non-refundable gift of $350,000, or buying a government bond for $800,000, if they think that will pay off in the end.",
+        "link": "https://www.dw.com/en/argentina-launches-cash-for-citizenship-scheme/a-79520708?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
+      "count": 1,
+      "story": {
+        "title": "Turkey: Stock market scandal hits half a million investors",
+        "description": "Asset managers are alleged to have artificially inflated the value of their funds. Turkish authorities have made multiple arrests, and a leading AKP lawmakers has resigned.",
+        "link": "https://www.dw.com/en/turkey-stock-market-scandal-hits-half-a-million-investors/a-79494710?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 1,
+      "story": {
+        "title": "High school students in Paris' deprived suburbs spark national protest movement",
+        "description": "While France ranks in the middle of OECD countries for spending on education, the average expenditure per secondary school student has remained little changed over the last decade.",
+        "link": "https://www.channelnewsasia.com/world/france-students-police-clash-protests-6428896",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
+      "count": 1,
+      "story": {
+        "title": "Fast cars, slow queues: Malaysia hosts F1 race after 9 years, but some fans fume",
+        "description": "The long queues for shuttle buses at Sepang International Circuit reportedly prompted some to walk several kilometres out of the area along main roads and motorways, according to their posts on TikTok.\n&nbsp;",
+        "link": "https://www.channelnewsasia.com/asia/f1-malaysia-sepang-shuttle-bus-queues-fans-complain-6428766",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
+      "count": 1,
+      "story": {
+        "title": "Eurovision faces fresh scrutiny as the Netherlands withdraws over Gaza tensions",
+        "description": "Earlier this month, Eurovision announced that countries involved in armed conflict would not be considered for hosting the competition.",
+        "link": "https://www.sbs.com.au/news/article/eurovision-faces-fresh-scrutiny-netherlands-withdraws/b3mc38t5t",
+        "source": "SBS News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 1,
+      "story": {
+        "title": "'Can't abstain from this debate': Pacific nations the next frontier in deep-sea mining",
+        "description": "Pacific nations could find themselves in the middle of a trade stand-off between the US and China.",
+        "link": "https://www.sbs.com.au/news/article/australia-cannot-afford-to-abstain-pacific-nations-the-next-frontier-in-deep-sea-mining/u7eq8xbht",
+        "source": "SBS News"
       }
     }
   ]
