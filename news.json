@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T05:22:08+00:00",
+  "generated_at": "2026-10-04T11:14:34+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,25 +12,31 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Why has Brazil accused the US of election interference?",
       "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
       "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-      "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "title": "Will Spain's housing crisis lead to a snap election?",
+      "description": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
+      "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "australia": [
+    {
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Cornell president says university 'must do better' after frat house rape allegations",
       "description": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
@@ -41,12 +47,6 @@
       "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
       "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Debris found from plane that went missing off US coast",
-      "description": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,23 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 11,
       "story": {
-        "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
-        "description": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
-        "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 9,
-      "story": {
-        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-        "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-        "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "title": "Australia investigating Flydubai co-pilot's links to country",
+        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+        "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -101,33 +89,9 @@
       "lon": 90.0,
       "count": 7,
       "story": {
-        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-        "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-        "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 7,
-      "story": {
-        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-        "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-        "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 7,
-      "story": {
-        "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
-        "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
-        "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+        "description": "Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.",
+        "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -135,7 +99,7 @@
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
         "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
@@ -144,14 +108,62 @@
       }
     },
     {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 7,
+      "story": {
+        "title": "NRLW quick hits: Roosters complete 101-year first as Aiken stars",
+        "description": "The 2026 Sydney Roosters NRLW side has cemented its legacy with a crushing grand final win over the Brisbane Broncos. Here are the quick hits from the NRLW grand final.",
+        "link": "https://www.abc.net.au/news/2026-10-04/nrlw-grand-final-quick-hits-sydney-roosters-brisbane-broncos/107227144",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 6,
+      "story": {
+        "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+        "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+        "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 6,
+      "story": {
+        "title": "Ukraine to target Russian refineries as Zelenskyy responds to air strikes",
+        "description": "Faced with a new Moscow policy designed to force people to abandon Kyiv and other cities, the Ukrainian president says he will double down on attacking Russian oil reserves.",
+        "link": "https://www.abc.net.au/news/2026-10-04/ukraine-to-hit-russian-refineries-in-response-to-moscow-strikes/107226904",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 5,
       "story": {
-        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-        "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-        "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "title": "Australia investigating Flydubai co-pilot's links to country",
+        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+        "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 5,
+      "story": {
+        "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+        "description": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+        "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -159,60 +171,24 @@
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
-      "count": 5,
+      "count": 4,
       "story": {
-        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-        "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-        "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+        "description": "Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.",
+        "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
-      "story": {
-        "title": "Tragedy will drive Knights to bring home NRL trophy, fans say",
-        "description": "Thousands of Knights supporters descend on Stadium Australia as they eagerly await their team's battle against the Sydney Roosters for NRL grand final glory.",
-        "link": "https://www.abc.net.au/news/2026-10-04/tragedy-will-drive-newcastle-knights-to-win-nrl-grand-final-2026/107226932",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
+      "name": "Dubai",
+      "lat": 25.2,
+      "lon": 55.27,
       "count": 4,
       "story": {
-        "title": "Why has Brazil accused the US of election interference?",
-        "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-        "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+        "title": "Australia investigating Flydubai co-pilot's links to country",
+        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+        "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
-      "story": {
-        "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-        "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-        "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 4,
-      "story": {
-        "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
-        "description": "Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to &#039;end a genocide in Gaza&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -221,33 +197,21 @@
       "lon": 10.4,
       "count": 4,
       "story": {
-        "title": "Germany's Merz arrives in Kyiv to pledge more support",
-        "description": "Chancellor Friedrich Merz is expected to announce a new raft of measures to support Ukraine, including military aid and plans for the joint production of interceptor drones.",
-        "link": "https://www.dw.com/en/germany-s-merz-arrives-in-kyiv-to-pledge-more-support/a-79534734?maca=en-rss-en-all-1573-rdf",
+        "title": "Germany news: Many believe Merkel more capable than Merz",
+        "description": "Nearly half of Germans view former Chancellor Angela Merkel as better suited to handle Germany's challenges than current Chancellor Friedrich Merz. Also, today is the last day of Oktoberfest in Munich. DW has the latest.",
+        "link": "https://www.dw.com/en/germany-news-many-believe-merkel-more-capable-than-merz/live-79528092?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 4,
-      "story": {
-        "title": "TWG Tea opens its largest store in the world at Changi Airport – with its first permanent museum",
-        "description": "The Singapore-born tea brand’s new 2,700 sq ft flagship brings together more than 1,000 teas, a museum of antique tea wares and exclusive creations for travellers on the move.",
-        "link": "https://www.channelnewsasia.com/experiences/twg-tea-largest-store-changi-airport-6430376",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 3,
       "story": {
-        "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-        "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-        "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+        "title": "Kim wins Asian Games gold to secure military exemption",
+        "description": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -257,106 +221,94 @@
       "lon": 37.6,
       "count": 3,
       "story": {
-        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-        "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-        "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
+        "description": "Moscow faces a huge decommissioning bill at home even as it expands its nuclear industry abroad.",
+        "link": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 3,
+      "story": {
+        "title": "The story of a book in Gaza: A treasured possession given new lease of life",
+        "description": "With libraries, schools and homes destroyed in Gaza, surviving books have become treasured possessions.",
+        "link": "https://www.aljazeera.com/features/2026/10/4/the-story-of-a-book-in-gaza-a-treasured-possession-given-new-lease-of-life?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "West Indies beat India in record chase as Hope hits 162 in third ODI",
+        "description": "Shai Hope&#039;s 162 leads the West Indies to a record cricket run chase as they beat India by five wickets in the third ODI.",
+        "link": "https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
+      "count": 3,
+      "story": {
+        "title": "Red Bull's Verstappen wins Bahrain Grand Prix in Malaysia",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/asia/f1-bahrain-grand-prix-malaysia-red-bull-verstappen-win-6430696",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "'Chaotic' Asian Games threaten Japan hopes of hosting Olympics again",
+        "description": "The Asian Games in Aichi-Nagoya saw a catalogue of mishaps, from athletes taken to the wrong venues to the North Korean national anthem played for the South Korean hockey team.",
+        "link": "https://www.channelnewsasia.com/sport/asian-games-japan-chaos-6430521",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 2,
+      "story": {
+        "title": "Why Canada is preparing for a (long shot) US invasion",
+        "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+        "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 2,
       "story": {
-        "title": "Israeli settlers attack Palestinian farmers during olive harvest",
-        "description": "Israeli settlers attack Palestinian farmers during olive harvest",
-        "link": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
-      "count": 3,
-      "story": {
-        "title": "Fernandes denies Portugal rift, hails Ronaldo after walk out",
-        "description": "Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within Portugal’s squad.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Will Spain's housing crisis lead to a snap election?",
+        "description": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
+        "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 3,
-      "story": {
-        "title": "Aussie duo and new world number one fall at China Open",
-        "description": "Kimberley Birrell and Storm Hunter are knocked out at the China Open second round, along with newly minted world number one Elena Rybakina.",
-        "link": "https://www.abc.net.au/news/2026-10-04/aussie-duo-and-new-world-number-one-fall-at-china-open/107226486",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
       "count": 2,
       "story": {
-        "title": "Houthis claim strike on Saudi energy facility as Yemen fighting intensifies",
-        "description": "Smoke and fire seen near an Aramco site in Riyadh as Houthis allege precise missile and drone strikes.",
-        "link": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
+        "title": "Sabalenka, Rybakina handed shock defeats at China Open tennis",
+        "description": "The Belarusian’s exit follows top seed Rybakina losing to unseeded Charaeva in her first match as world number one.",
+        "link": "https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
-      "count": 2,
-      "story": {
-        "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
-        "description": "The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece.",
-        "link": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Bulgaria",
-      "lat": 42.73,
-      "lon": 25.49,
-      "count": 2,
-      "story": {
-        "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
-        "description": "The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece.",
-        "link": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Croatia",
-      "lat": 45.1,
-      "lon": 15.2,
-      "count": 2,
-      "story": {
-        "title": "England trounce Croatia 7-0 in Nations League as Kane goal run continues",
-        "description": "Harry Kane scores in sixth successive away game for England as Bukayo Saka also scores twice in Nations League thumping.",
-        "link": "https://www.aljazeera.com/sports/2026/10/3/england-trounce-croatia-7-0-in-nations-league-as-kane-goal-run-continues?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 2,
-      "story": {
-        "title": "SA government says prior parklands works set precedent for MotoGP circuit",
-        "description": "The city O-Bahn tunnel and new Women's and Children's Hospital have set precedents for major work in the Adelaide parklands, the state government has argued in a MotoGP circuit assessment.",
-        "link": "https://www.abc.net.au/news/2026-10-04/sa-government-major-works-motogp-plans/107226950",
-        "source": "ABC News AU"
       }
     },
     {
@@ -372,27 +324,15 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
-        "description": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why negotiations keep failing.",
-        "link": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Why has Brazil accused the US of election interference?",
-        "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-        "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Singapore athletes met 'internal medal projections' at Asian Games, will look to close gap to golds: Officials",
+        "description": "Singapore's athletes ended the Asian Games with two gold, nine silver and seven bronze medals.",
+        "link": "https://www.channelnewsasia.com/sport/athletes-internal-medal-projections-asian-games-6430366",
+        "source": "CNA"
       }
     },
     {
@@ -432,50 +372,26 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Ghana",
+      "lat": 7.95,
+      "lon": -1.02,
       "count": 1,
       "story": {
-        "title": "Kim wins Asian Games gold to secure military exemption",
-        "description": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+        "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+        "description": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
+        "link": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Seoul",
-      "lat": 37.57,
-      "lon": 126.98,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-        "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
-        "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 1,
-      "story": {
-        "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
-        "description": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
-        "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Algeria",
-      "lat": 28.03,
-      "lon": 1.66,
-      "count": 1,
-      "story": {
-        "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
-        "description": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
-        "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
+        "title": "Why has Brazil accused the US of election interference?",
+        "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+        "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -516,39 +432,123 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 1,
       "story": {
-        "title": "Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa",
-        "description": "Returnees face economic hardship and limited support as they try to rebuild in Zimbabwe.",
-        "link": "https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss",
+        "title": "Is the Sudanese army gaining momentum against the RSF?",
+        "description": "The SAF claims victory in a vital North Kordofan town, weakening RSF’s access to fighters and supply routes.",
+        "link": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "Serbian populist leader Vucic launches campaign for prime minister",
-        "description": "Former Serbian President Aleksandar Vucic is seeking to extend his hold on power through a parliamentary vote.",
-        "link": "https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss",
+        "title": "Gaza’s Christians mourn mother and daughter killed in Israeli attack",
+        "description": "Maysa Abu Daoud and her daughter Mary al-Najjar among five Palestinians killed in Gaza City attack.",
+        "link": "https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
       "count": 1,
       "story": {
-        "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
-        "description": "Fighting in Yemen displaces more civilians, as Trump says a decision on Iran is coming.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
+        "title": "Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack",
+        "description": "The Saudi-led coalition spokesman says the Yemeni armed group is &#039;attempting to divert attention&#039; from its losses.",
+        "link": "https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 1,
+      "story": {
+        "title": "NRLW quick hits: Roosters complete 101-year first as Aiken stars",
+        "description": "The 2026 Sydney Roosters NRLW side has cemented its legacy with a crushing grand final win over the Brisbane Broncos. Here are the quick hits from the NRLW grand final.",
+        "link": "https://www.abc.net.au/news/2026-10-04/nrlw-grand-final-quick-hits-sydney-roosters-brisbane-broncos/107227144",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "How non-monogamy and mental health shaped Rowena Wise's songwriting",
+        "description": "A changed perspective on the rules of love, mental health and estrangement makes the Melbourne-based singer-songwriter's new album especially gripping.",
+        "link": "https://www.abc.net.au/news/2026-10-04/rowena-wise-bad-things-feel-good-album-tour-non-monogamy/107176152",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 1,
+      "story": {
+        "title": "SA government says prior parklands works set precedent for MotoGP circuit",
+        "description": "The city O-Bahn tunnel and new Women's and Children's Hospital have set precedents for major work in the Adelaide parklands, the state government has argued in a MotoGP circuit assessment.",
+        "link": "https://www.abc.net.au/news/2026-10-04/sa-government-major-works-motogp-plans/107226950",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 1,
+      "story": {
+        "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
+        "description": "Reports indicate Ethiopian government forces have made advances against a northern rebel group. Renewed fighting has raised fears the conflict could spill over into the wider region.",
+        "link": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Peru",
+      "lat": -9.19,
+      "lon": -75.02,
+      "count": 1,
+      "story": {
+        "title": "Peru: Fire burning on road to Machu Picchu kills 1",
+        "description": "One person has died and two others have suffered burns in a fire near the main access route to the historic sanctuary of Machu Picchu.",
+        "link": "https://www.dw.com/en/peru-fire-burning-on-road-to-machu-picchu-kills-1/a-79534344?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
+        "description": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why negotiations keep failing.",
+        "link": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
+      "count": 1,
+      "story": {
+        "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
+        "description": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why negotiations keep failing.",
+        "link": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
