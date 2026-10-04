@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:57:11+00:00",
+  "generated_at": "2026-10-04T19:30:09+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,7 +12,7 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "title": "Why Canada is wargaming a (long shot) US invasion",
       "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
       "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -38,7 +38,7 @@
       "source": "BBC News"
     },
     {
-      "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
       "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
       "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 17,
       "story": {
         "title": "Australia investigating Flydubai co-pilot's links to country",
         "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
@@ -96,50 +96,14 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 8,
-      "story": {
-        "title": "Tedesco wins Churchill Medal after leading Roosters to grand final win",
-        "description": "After skippering the Sydney Roosters to their first men's premiership in seven years, James Tedesco claims the Clive Churchill Medal as the player of the match in the grand final.",
-        "link": "https://www.abc.net.au/news/2026-10-04/nrl-grand-final-james-tedesco-clive-churchill-medal-roosters/107227582",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "Watch: What we know about Russian strikes on Kyiv bridges",
         "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
         "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 7,
-      "story": {
-        "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
-        "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-        "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 7,
-      "story": {
-        "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-        "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,15 +120,27 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 6,
       "story": {
-        "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-        "description": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-        "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+        "title": "Australia investigating Flydubai co-pilot's links to country",
+        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+        "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 6,
+      "story": {
+        "title": "War on Iran: Is escalation more likely than a deal?",
+        "description": "Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks.",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -173,21 +149,33 @@
       "lon": 10.4,
       "count": 6,
       "story": {
-        "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
-        "description": "German chancellor visits Kyiv amid air raid sirens, pledging strong support as Russian strikes disrupt the capital.",
-        "link": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
+        "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
+        "description": "German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 5,
       "story": {
-        "title": "Australia investigating Flydubai co-pilot's links to country",
-        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
-        "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+        "title": "Indian police accused of sexual harassment against journalists at protest",
+        "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+        "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 5,
+      "story": {
+        "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+        "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -195,7 +183,7 @@
       "name": "Dubai",
       "lat": 25.2,
       "lon": 55.27,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Australia investigating Flydubai co-pilot's links to country",
         "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
@@ -204,10 +192,34 @@
       }
     },
     {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 4,
+      "story": {
+        "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+        "description": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+        "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Tedesco wins Churchill Medal after leading Roosters to grand final win",
+        "description": "After skippering the Sydney Roosters to their first men's premiership in seven years, James Tedesco claims the Clive Churchill Medal as the player of the match in the grand final.",
+        "link": "https://www.abc.net.au/news/2026-10-04/nrl-grand-final-james-tedesco-clive-churchill-medal-roosters/107227582",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Ethiopia",
       "lat": 9.15,
       "lon": 40.49,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
         "description": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
@@ -228,12 +240,24 @@
       }
     },
     {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 3,
+      "story": {
+        "title": "Three years of genocide in Gaza through one man’s camera",
+        "description": "For almost three years, Ibrahim Rabaa has filmed fragments of his life through Israel’s genocide in Gaza.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
       "count": 2,
       "story": {
-        "title": "Why Canada is preparing for a (long shot) US invasion",
+        "title": "Why Canada is wargaming a (long shot) US invasion",
         "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
         "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
@@ -276,51 +300,39 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 2,
       "story": {
-        "title": "‘Did he know?’: Why Israel is rejecting an October 7 reckoning",
-        "description": "The fixation on Netanyahu’s failures allows Israel to avoid confronting what it has done in Gaza.",
-        "link": "https://www.aljazeera.com/opinions/2026/10/4/did-he-know-why-israel-is-rejecting-an-october-7-reckoning?traffic_source=rss",
+        "title": "Air strike in Sudan kills UN aid truck driver: WFP",
+        "description": "Trucks were &#039;clearly marked as humanitarian vehicles&#039;, UN agency says.",
+        "link": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
-        "description": "Moscow faces a huge decommissioning bill at home even as it expands its nuclear industry abroad.",
-        "link": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "De Minaur fights back to reach China Open semis",
+        "description": "Australia's Alex de Minaur pulls out a comeback win to reach the semifinals of the China Open in Beijing.",
+        "link": "https://www.abc.net.au/news/2026-10-05/de-minaur-fights-back-to-reach-china-open-semis/107227642",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 2,
       "story": {
-        "title": "India news: Police order probe amid sexual harassment allegations against officers at Delhi protest",
-        "description": "Three women journalists say police officers sexually harassed them as they covered protests demanding the resignation of India's election chief. Meanwhile, LGBTQIA influencer Mad Sandhu was shot dead in Amritsar.",
-        "link": "https://www.dw.com/en/india-news-police-order-probe-amid-sexual-harassment-allegations-against-officers-at-delhi-protest/live-79527537?maca=en-rss-en-all-1573-rdf",
+        "title": "Pakistan: Imran Khan supporters demand ex-PM's release",
+        "description": "Thousands of Imran Khan supporters have begun a trek to Islamabad to demand he be freed as Pakistan's political leadership remains in deadlock. The government has set up roadblocks to keep protesters at bay.",
+        "link": "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Air quality briefly returns to unhealthy range in central Singapore",
-        "description": "The 24-hour PSI re-entered the unhealthy range in the central region at 9pm on Sunday and improved to the moderate range two hours later.",
-        "link": "https://www.channelnewsasia.com/singapore/air-quality-unhealthy-range-central-singapore-haze-6430901",
-        "source": "CNA"
       }
     },
     {
@@ -372,6 +384,78 @@
       }
     },
     {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 1,
+      "story": {
+        "title": "Man City’s Cavan Sullivan becomes youngest US international goalscorer",
+        "description": "Sullivan’s goal beat fellow teenager Julian Hall&#039;s record for United States which was only set against Chile on Tuesday.",
+        "link": "https://www.aljazeera.com/sports/2026/10/4/us-and-man-citys-cavan-sullivan-becomes-youngest-international-goalscorer?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Chile",
+      "lat": -35.68,
+      "lon": -71.54,
+      "count": 1,
+      "story": {
+        "title": "Man City’s Cavan Sullivan becomes youngest US international goalscorer",
+        "description": "Sullivan’s goal beat fellow teenager Julian Hall&#039;s record for United States which was only set against Chile on Tuesday.",
+        "link": "https://www.aljazeera.com/sports/2026/10/4/us-and-man-citys-cavan-sullivan-becomes-youngest-international-goalscorer?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
+      "count": 1,
+      "story": {
+        "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
+        "description": "Jerusalem Daily: Israeli forces arrest school children during raid",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
+      "count": 1,
+      "story": {
+        "title": "Philippines arrests 244 suspects in online scam crackdown",
+        "description": "Criminals accused of using Philippine offshore gaming operators (POGOs) as cover for human trafficking, fraud, murder.",
+        "link": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
+      "count": 1,
+      "story": {
+        "title": "LIVE: Portugal vs Norway – UEFA Nations League",
+        "description": "Follow updates from our live text commentary stream coverage as Cristiano Ronaldo focus switches to Bruno Fernandes.",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
+      "count": 1,
+      "story": {
+        "title": "LIVE: Portugal vs Norway – UEFA Nations League",
+        "description": "Follow updates from our live text commentary stream coverage as Cristiano Ronaldo focus switches to Bruno Fernandes.",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
@@ -408,38 +492,14 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
       "count": 1,
       "story": {
-        "title": "Iran says Hormuz to remain closed until US meets conditions",
-        "description": "Tehran says reopening Strait of Hormuz has been its main goal, while the US continues to focus on nuclear talks.",
-        "link": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Is the Sudanese army gaining momentum against the RSF?",
-        "description": "The SAF claims victory in a vital North Kordofan town, weakening RSF’s access to fighters and supply routes.",
-        "link": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "NRLW quick hits: Roosters complete 101-year first as Aiken stars",
-        "description": "The 2026 Sydney Roosters NRLW side has cemented its legacy with a crushing grand final win over the Brisbane Broncos. Here are the quick hits from the NRLW grand final.",
-        "link": "https://www.abc.net.au/news/2026-10-04/nrlw-grand-final-quick-hits-sydney-roosters-brisbane-broncos/107227144",
+        "title": "De Minaur fights back to reach China Open semis",
+        "description": "Australia's Alex de Minaur pulls out a comeback win to reach the semifinals of the China Open in Beijing.",
+        "link": "https://www.abc.net.au/news/2026-10-05/de-minaur-fights-back-to-reach-china-open-semis/107227642",
         "source": "ABC News AU"
       }
     },
@@ -449,9 +509,9 @@
       "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "How non-monogamy and mental health shaped Rowena Wise's songwriting",
-        "description": "A changed perspective on the rules of love, mental health and estrangement makes the Melbourne-based singer-songwriter's new album especially gripping.",
-        "link": "https://www.abc.net.au/news/2026-10-04/rowena-wise-bad-things-feel-good-album-tour-non-monogamy/107176152",
+        "title": "Fire destroys prestige car workshop in Melbourne's north-west",
+        "description": "Firefighters have battled for more than two hours to control a blaze inside a car workshop in Airport West early this morning.",
+        "link": "https://www.abc.net.au/news/2026-10-05/fire-destroys-prestige-car-workshop-in-airport-west/107228184",
         "source": "ABC News AU"
       }
     },
@@ -461,94 +521,34 @@
       "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "SA government says prior parklands works set precedent for MotoGP circuit",
-        "description": "The city O-Bahn tunnel and new Women's and Children's Hospital have set precedents for major work in the Adelaide parklands, the state government has argued in a MotoGP circuit assessment.",
-        "link": "https://www.abc.net.au/news/2026-10-04/sa-government-major-works-motogp-plans/107226950",
+        "title": "Farmer fined $60k for clearing native vegetation north of Adelaide",
+        "description": "A 73-year-old farmer is fined $60,000 for clearing more than 250 hectares of native vegetation at a property at Port Wakefield.",
+        "link": "https://www.abc.net.au/news/2026-10-05/port-wakefield-native-vegetation-clearing-leads-to-court-fine/107221572",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Peru",
-      "lat": -9.19,
-      "lon": -75.02,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 1,
       "story": {
-        "title": "Peru: Fire burning on road to Machu Picchu kills 1",
-        "description": "One person has died and two others have suffered burns in a fire near the main access route to the historic sanctuary of Machu Picchu.",
-        "link": "https://www.dw.com/en/peru-fire-burning-on-road-to-machu-picchu-kills-1/a-79534344?maca=en-rss-en-all-1573-rdf",
+        "title": "Australia's fossil fuel expansion 'slap in the face' to Pacific nations",
+        "description": "Australia's climate credentials will be under the spotlight at pre-COP talks in Fiji with a major coal mine expansion approved just days prior.",
+        "link": "https://www.abc.net.au/news/2026-10-05/pre-cop31-australia-challenged-over-fossil-fuel-expansion/107220650",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Islamabad",
+      "lat": 33.7,
+      "lon": 73.06,
+      "count": 1,
+      "story": {
+        "title": "Pakistan: Imran Khan supporters demand ex-PM's release",
+        "description": "Thousands of Imran Khan supporters have begun a trek to Islamabad to demand he be freed as Pakistan's political leadership remains in deadlock. The government has set up roadblocks to keep protesters at bay.",
+        "link": "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
-        "description": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why negotiations keep failing.",
-        "link": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
-      "count": 1,
-      "story": {
-        "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
-        "description": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why negotiations keep failing.",
-        "link": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
-      "count": 1,
-      "story": {
-        "title": "Greece returns remains of Czar Samuel to Bulgaria",
-        "description": "A warrior emperor who ruled the Bulgarian Empire in the Middle Ages, Czar Samuel is a symbol of Bulgarian national identity. But his remains have been in Greece for decades – and he is also claimed by North Macedonia.",
-        "link": "https://www.dw.com/en/greece-returns-remains-of-czar-samuel-to-bulgaria/a-79530104?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Bulgaria",
-      "lat": 42.73,
-      "lon": 25.49,
-      "count": 1,
-      "story": {
-        "title": "Greece returns remains of Czar Samuel to Bulgaria",
-        "description": "A warrior emperor who ruled the Bulgarian Empire in the Middle Ages, Czar Samuel is a symbol of Bulgarian national identity. But his remains have been in Greece for decades – and he is also claimed by North Macedonia.",
-        "link": "https://www.dw.com/en/greece-returns-remains-of-czar-samuel-to-bulgaria/a-79530104?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 1,
-      "story": {
-        "title": "Messi farewell closes a long, hard-won love story with Argentina",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/messi-farewell-closes-long-hard-won-love-story-argentina-6431021",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Croatia",
-      "lat": 45.1,
-      "lon": 15.2,
-      "count": 1,
-      "story": {
-        "title": "Modric 'ashamed' after England hand Croatia worst defeat in their history",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/modric-ashamed-after-england-hand-croatia-worst-defeat-in-their-history-6430606",
-        "source": "CNA"
       }
     }
   ]
