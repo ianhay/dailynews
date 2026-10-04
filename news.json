@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T19:30:09+00:00",
+  "generated_at": "2026-10-04T22:55:47+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,21 +12,21 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Indian police accused of sexually harassing journalists at protest",
+      "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Why Canada is wargaming a (long shot) US invasion",
       "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
       "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Why has Brazil accused the US of election interference?",
-      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Will Spain's housing crisis lead to a snap election?",
-      "description": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
-      "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 17,
+      "count": 12,
       "story": {
         "title": "Australia investigating Flydubai co-pilot's links to country",
         "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
@@ -108,6 +108,18 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 8,
+      "story": {
+        "title": "Australia investigating Flydubai co-pilot's links to country",
+        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+        "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
@@ -117,30 +129,6 @@
         "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
         "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 6,
-      "story": {
-        "title": "Australia investigating Flydubai co-pilot's links to country",
-        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
-        "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 6,
-      "story": {
-        "title": "War on Iran: Is escalation more likely than a deal?",
-        "description": "Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks.",
-        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -156,14 +144,14 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
       "count": 5,
       "story": {
-        "title": "Indian police accused of sexual harassment against journalists at protest",
-        "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
-        "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+        "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+        "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,58 +168,34 @@
       }
     },
     {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
-      "count": 4,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 5,
       "story": {
-        "title": "Australia investigating Flydubai co-pilot's links to country",
-        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
-        "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
+        "description": "The abrupt redeployment to the US comes after several &#039;terrorism-related&#039; arrests were made outside RAF Fairford.",
+        "link": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 4,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 5,
       "story": {
-        "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-        "description": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-        "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "Tedesco wins Churchill Medal after leading Roosters to grand final win",
-        "description": "After skippering the Sydney Roosters to their first men's premiership in seven years, James Tedesco claims the Clive Churchill Medal as the player of the match in the grand final.",
-        "link": "https://www.abc.net.au/news/2026-10-04/nrl-grand-final-james-tedesco-clive-churchill-medal-roosters/107227582",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
-      "count": 3,
-      "story": {
-        "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-        "description": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
-        "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Imran Khan’s party launches march to Islamabad demanding his release",
+        "description": "Supporters of jailed former Pakistani prime minister Imran Khan have launched a long march towards Islamabad.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "US Marine arrested over murder of woman in Okinawa, Japan",
         "description": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
@@ -240,26 +204,86 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 3,
       "story": {
-        "title": "Three years of genocide in Gaza through one man’s camera",
-        "description": "For almost three years, Ibrahim Rabaa has filmed fragments of his life through Israel’s genocide in Gaza.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Indian police accused of sexually harassing journalists at protest",
+        "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+        "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "Why Canada is wargaming a (long shot) US invasion",
         "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
         "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
+      "count": 3,
+      "story": {
+        "title": "Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals",
+        "description": "Holders Portugal first team to qualify for 2026-27 UEFA Nations League despite Cristiano Ronaldo&#039;s absence.",
+        "link": "https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Islamabad",
+      "lat": 33.7,
+      "lon": 73.06,
+      "count": 3,
+      "story": {
+        "title": "Imran Khan’s party launches march to Islamabad demanding his release",
+        "description": "Supporters of jailed former Pakistani prime minister Imran Khan have launched a long march towards Islamabad.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
+        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
+        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
+        "source": "SBS News"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 2,
+      "story": {
+        "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+        "description": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+        "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Dubai",
+      "lat": 25.2,
+      "lon": 55.27,
+      "count": 2,
+      "story": {
+        "title": "Australia investigating Flydubai co-pilot's links to country",
+        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+        "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -300,6 +324,30 @@
       }
     },
     {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 2,
+      "story": {
+        "title": "Ireland refuse handshake with Israel and don armbands in Nations League tie",
+        "description": "Republic of Ireland football players again wear black armbands and refuse handshakes with Israel in UEFA Nations League.",
+        "link": "https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
+      "count": 2,
+      "story": {
+        "title": "Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals",
+        "description": "Holders Portugal first team to qualify for 2026-27 UEFA Nations League despite Cristiano Ronaldo&#039;s absence.",
+        "link": "https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Sudan",
       "lat": 12.86,
       "lon": 30.22,
@@ -312,27 +360,27 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "De Minaur fights back to reach China Open semis",
-        "description": "Australia's Alex de Minaur pulls out a comeback win to reach the semifinals of the China Open in Beijing.",
-        "link": "https://www.abc.net.au/news/2026-10-05/de-minaur-fights-back-to-reach-china-open-semis/107227642",
-        "source": "ABC News AU"
+        "title": "Three years of genocide in Gaza through one man’s camera",
+        "description": "For almost three years, Ibrahim Rabaa has filmed fragments of his life through Israel’s genocide in Gaza.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 2,
       "story": {
-        "title": "Pakistan: Imran Khan supporters demand ex-PM's release",
-        "description": "Thousands of Imran Khan supporters have begun a trek to Islamabad to demand he be freed as Pakistan's political leadership remains in deadlock. The government has set up roadblocks to keep protesters at bay.",
-        "link": "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Labuschagne set for Test after first ton in 11 months",
+        "description": "Marnus Labuschagne makes his case to keep the number three spot in Friday's first Test against South Africa, with a timely century in a warm-up match.",
+        "link": "https://www.abc.net.au/news/2026-10-05/labuschagne-set-for-test-after-first-ton-in-11-months/107228250",
+        "source": "ABC News AU"
       }
     },
     {
@@ -341,9 +389,9 @@
       "lon": 101.98,
       "count": 2,
       "story": {
-        "title": "Red Bull's Verstappen wins Bahrain Grand Prix in Malaysia",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/asia/f1-bahrain-grand-prix-malaysia-red-bull-verstappen-win-6430696",
+        "title": "Commentary: Malaysia has diplomatic leverage in tackling transboundary haze",
+        "description": "The haze is a recurring regional risk that can be forecast, prepared for and diplomatically managed, says Oh Ei Sun from Pacific Research Center of Malaysia.",
+        "link": "https://www.channelnewsasia.com/commentary/haze-malaysia-indonesia-emergency-asean-6427126",
         "source": "CNA"
       }
     },
@@ -381,6 +429,18 @@
         "description": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
         "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 1,
+      "story": {
+        "title": "France to shutter up to 500 schools as more student protests called",
+        "description": "Education minister cites safety concerns for closures as organisers call for resumption of protests.",
+        "link": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -432,98 +492,14 @@
       }
     },
     {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
-      "count": 1,
-      "story": {
-        "title": "LIVE: Portugal vs Norway – UEFA Nations League",
-        "description": "Follow updates from our live text commentary stream coverage as Cristiano Ronaldo focus switches to Bruno Fernandes.",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Norway",
-      "lat": 60.47,
-      "lon": 8.47,
-      "count": 1,
-      "story": {
-        "title": "LIVE: Portugal vs Norway – UEFA Nations League",
-        "description": "Follow updates from our live text commentary stream coverage as Cristiano Ronaldo focus switches to Bruno Fernandes.",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Why does the US want to deport Salah Sarsour?",
-        "description": "A US judge has ruled a prominent Palestinian rights advocate can be deported under a controversial, cold-war era law.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/why-does-the-us-want-to-deport-salah-sarsour?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
-      "count": 1,
-      "story": {
-        "title": "‘We need freedom’: New Delhi women protest sexual violence",
-        "description": "Aditi Subramanian joined protests after the alleged gang rape of a teenager in New Delhi, calling for women’s safety.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/we-need-freedom-new-delhi-women-protest-sexual-violence?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Addis Ababa",
-      "lat": 9.03,
-      "lon": 38.74,
-      "count": 1,
-      "story": {
-        "title": "Somali president: Ethiopia can access our port, but must negotiate",
-        "description": "Somali President Hassan Sheikh Mohamud says  Addis Ababa has yet to come to Mogadishu to negotiate access to sea ports.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somali-president-ethiopia-can-access-our-port-but-must-negotiate?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 1,
-      "story": {
-        "title": "De Minaur fights back to reach China Open semis",
-        "description": "Australia's Alex de Minaur pulls out a comeback win to reach the semifinals of the China Open in Beijing.",
-        "link": "https://www.abc.net.au/news/2026-10-05/de-minaur-fights-back-to-reach-china-open-semis/107227642",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Fire destroys prestige car workshop in Melbourne's north-west",
-        "description": "Firefighters have battled for more than two hours to control a blaze inside a car workshop in Airport West early this morning.",
-        "link": "https://www.abc.net.au/news/2026-10-05/fire-destroys-prestige-car-workshop-in-airport-west/107228184",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Adelaide",
       "lat": -34.93,
       "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Farmer fined $60k for clearing native vegetation north of Adelaide",
-        "description": "A 73-year-old farmer is fined $60,000 for clearing more than 250 hectares of native vegetation at a property at Port Wakefield.",
-        "link": "https://www.abc.net.au/news/2026-10-05/port-wakefield-native-vegetation-clearing-leads-to-court-fine/107221572",
+        "title": "19yo driver allegedly rammed rideshare with two people inside",
+        "description": "A 19-year-old driver who allegedly rammed a rideshare vehicle carrying two passengers has been arrested in Adelaide's north, with SA Police also responding to several other crashes, including one in which a 53-year-old m",
+        "link": "https://www.abc.net.au/news/2026-10-05/driver-arrested-for-allegedly-ramming-rideshare-vehicle/107228344",
         "source": "ABC News AU"
       }
     },
@@ -533,21 +509,45 @@
       "lon": -77.04,
       "count": 1,
       "story": {
-        "title": "Australia's fossil fuel expansion 'slap in the face' to Pacific nations",
-        "description": "Australia's climate credentials will be under the spotlight at pre-COP talks in Fiji with a major coal mine expansion approved just days prior.",
-        "link": "https://www.abc.net.au/news/2026-10-05/pre-cop31-australia-challenged-over-fossil-fuel-expansion/107220650",
+        "title": "Live: Chris Bowen won't detail final cost of pre-COP meeting",
+        "description": "Climate Change Minister Chris Bowen hasn't detailed the final cost of the pre-COP Pacific meeting starting today. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-10-05/federal-politics-live-blog-albanese-pre-cop/107228246",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Islamabad",
-      "lat": 33.7,
-      "lon": 73.06,
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
       "count": 1,
       "story": {
-        "title": "Pakistan: Imran Khan supporters demand ex-PM's release",
-        "description": "Thousands of Imran Khan supporters have begun a trek to Islamabad to demand he be freed as Pakistan's political leadership remains in deadlock. The government has set up roadblocks to keep protesters at bay.",
-        "link": "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-rdf",
+        "title": "Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere?",
+        "description": "An Anthropic report says the AI model Claude was used in pro-Russian campaigns in the Central African Republic. Similar allegations were raised for the Democratic Republic of the Congo, Kenya, Sudan and Mali.",
+        "link": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 1,
+      "story": {
+        "title": "Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere?",
+        "description": "An Anthropic report says the AI model Claude was used in pro-Russian campaigns in the Central African Republic. Similar allegations were raised for the Democratic Republic of the Congo, Kenya, Sudan and Mali.",
+        "link": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Peru",
+      "lat": -9.19,
+      "lon": -75.02,
+      "count": 1,
+      "story": {
+        "title": "Peru: Fire burning on road to Machu Picchu kills 1",
+        "description": "One person has died and two others have suffered burns in a fire near the main access route to the historic sanctuary of Machu Picchu.",
+        "link": "https://www.dw.com/en/peru-fire-burning-on-road-to-machu-picchu-kills-1/a-79534344?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
