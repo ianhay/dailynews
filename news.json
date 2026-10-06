@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:03:32+00:00",
+  "generated_at": "2026-10-06T19:44:51+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,13 +24,19 @@
       "source": "BBC News"
     },
     {
-      "title": "Watch: How Brazil's dramatic election unfolded",
-      "description": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
-      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+      "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
+    {
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Kenya confirms its first Ebola death as outbreak spreads",
       "description": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
@@ -38,15 +44,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
-      "description": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-      "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "title": "AfD candidate elected speaker of German regional parliament for first time",
+      "description": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,10 +72,22 @@
   ],
   "places": [
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 15,
+      "story": {
+        "title": "Ship sinks and crew missing after Black Sea drone attack",
+        "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 12,
       "story": {
         "title": "OpenAI admits response to Australian government hacks 'not good enough'",
         "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
@@ -84,10 +96,10 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 11,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 7,
       "story": {
         "title": "Ship sinks and crew missing after Black Sea drone attack",
         "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
@@ -96,10 +108,34 @@
       }
     },
     {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 6,
+      "story": {
+        "title": "Tear gas in Paris and Marseille as school protests grow across France",
+        "description": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+        "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 6,
+      "story": {
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+        "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "Indian opposition MPs detained in protest against election chief",
         "description": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
@@ -108,34 +144,10 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 7,
-      "story": {
-        "title": "Qatar and India among seven countries bidding for 2036 Olympics, IOC says",
-        "description": "South Africa, Turkiye, Germany, Hungary and South Korea are on the list of countries revealed by the IOC.",
-        "link": "https://www.aljazeera.com/sports/2026/10/6/qatar-and-india-among-seven-countries-bidding-for-2036-olympics-ioc-says?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
-      "story": {
-        "title": "Ship sinks and crew missing after Black Sea drone attack",
-        "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
-        "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "How India became dangerously addicted to Chinese imports",
         "description": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
@@ -144,38 +156,38 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 5,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 6,
       "story": {
-        "title": "Demonstrators clash with riot police in France as education protests mount",
-        "description": "School blockades and clashes intensify in France as frustration rises over government education policy.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/demonstrators-clash-with-riot-police-in-france-as-education-protests-mount?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 4,
-      "story": {
-        "title": "Mapping where US bombers are based globally",
-        "description": "The US has pulled its B-1 bombers from RAF Fairford amid Iran fears. Here&#039;s where else they can fly from.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/mapping-where-us-bombers-are-based-around-the-world?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Munich up against at least six competitors for 2036 Olympics",
+        "description": "The International Olympic Committee has revealed the six other countries intending to bid for the 2036 Olympic Games. This comes after Germany selected Munich as its Olympic candidate.",
+        "link": "https://www.dw.com/en/munich-up-against-at-least-six-competitors-for-2036-olympics/a-79566678?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "Jerusalem Daily:  Tension high in Israel ahead of October 7",
+        "description": "Jerusalem Daily:  Tension high in Israel ahead of October 7",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 4,
       "story": {
-        "title": "How Palestinian reporters defied Israel’s genocide to redefine journalism",
-        "description": "Western media under scrutiny for promoting Israeli narrative rather than standing up for vulnerable journalists in Gaza.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/how-palestinian-reporters-defied-israels-genocide-to-redefine-journalism?traffic_source=rss",
+        "title": "Catalan separatist Puigdemont to return to Spain after warrant lifted",
+        "description": "Spain&#039;s Constitutional Court ruled an amnesty law for Catalan separatists applied to the politician.",
+        "link": "https://www.aljazeera.com/news/2026/10/6/catalan-separatist-leader-puigdemont-to-return-home-after-warrant-lifted?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -185,9 +197,9 @@
       "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Top OpenAI boss on hack apology tour 'can't explain' Australian AI distrust",
-        "description": "OpenAI's chief strategy officer, Jason Kwon, made his first public appearance in Sydney since the hack, saying he could not explain why Australians distrust AI.",
-        "link": "https://www.abc.net.au/news/2026-10-06/openai-hearing-apology-key-takeaways/107235640",
+        "title": "From books to trips, tackle this weeks travel's quiz",
+        "description": "What's the airport code for Sydney's soon-to-open second international airport? And which Dan Brown book is set inside the Louvre?",
+        "link": "https://www.abc.net.au/news/2026-10-07/travel-quiz-october-7/107209148",
         "source": "ABC News AU"
       }
     },
@@ -204,62 +216,50 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 3,
-      "story": {
-        "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-        "description": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
-        "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 3,
-      "story": {
-        "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-        "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
-        "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "How Palestinian reporters defied Israel’s genocide to redefine journalism",
-        "description": "Western media under scrutiny for promoting Israeli narrative rather than standing up for vulnerable journalists in Gaza.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/how-palestinian-reporters-defied-israels-genocide-to-redefine-journalism?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 2,
-      "story": {
-        "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-        "description": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
-        "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Congo",
       "lat": -4.04,
       "lon": 21.76,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "Kenya confirms its first Ebola death as outbreak spreads",
         "description": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
         "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Bulgaria",
+      "lat": 42.73,
+      "lon": 25.49,
+      "count": 3,
+      "story": {
+        "title": "Ship sinks off Bulgaria after drone attack in Black Sea",
+        "description": "Ship sinks off Bulgaria after drone attack in Black Sea",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 3,
+      "story": {
+        "title": "Third driveway car firebombing in Melbourne in as many days",
+        "description": "Two cars have been destroyed and a home damaged by fire in another overnight arson attack in Melbourne.",
+        "link": "https://www.abc.net.au/news/2026-10-07/third-driveway-car-firebombing-in-melbourne-in-as-many-days/107236916",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+        "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,39 +276,39 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 2,
       "story": {
-        "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
-        "description": "Russia says 290 drones targeted Moscow and nearby regions in the overnight Ukrainian assault.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss",
+        "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+        "description": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+        "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "In Gaza, we cannot even begin to recover from trauma",
+        "description": "The genocide has killed many and left the rest broken. For us, survivors, recovery is not on the horizon.",
+        "link": "https://www.aljazeera.com/opinions/2026/10/6/in-gaza-we-cannot-even-begin-to-recover-from-trauma?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 2,
       "story": {
-        "title": "Qatar and India among seven countries bidding for 2036 Olympics, IOC says",
-        "description": "South Africa, Turkiye, Germany, Hungary and South Korea are on the list of countries revealed by the IOC.",
-        "link": "https://www.aljazeera.com/sports/2026/10/6/qatar-and-india-among-seven-countries-bidding-for-2036-olympics-ioc-says?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "How Palestinian reporters defied Israel’s genocide to redefine journalism",
-        "description": "Western media under scrutiny for promoting Israeli narrative rather than standing up for vulnerable journalists in Gaza.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/how-palestinian-reporters-defied-israels-genocide-to-redefine-journalism?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Naked Trump statue goes on display in Strasbourg",
+        "description": "Titled \"The Orange Plague,\" a gold-coated statue presents Donald Trump sitting on a smaller man's back. The Danish artist blamed Trump for getting in the way of efforts to address climate change.",
+        "link": "https://www.dw.com/en/naked-trump-statue-goes-on-display-in-strasbourg/a-79568640?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -317,22 +317,34 @@
       "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "Singapore refers eight civil servants to police over property purchases",
-        "description": "Minister announces referrals after think tank paper finds link between purchases and unannounced MRT stations.",
-        "link": "https://www.aljazeera.com/economy/2026/10/6/singapore-refers-eight-civil-servants-to-police-over-property-purchases?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Go-Ahead won Tampines bus contract on quality despite higher bid; most services now improved: Jeffrey Siow",
+        "description": "Go-Ahead Singapore's proposal was strongest in plans to manage large-scale electric bus operations and maintenance, says the transport minister.",
+        "link": "https://www.channelnewsasia.com/singapore/go-ahead-tampines-bus-services-bid-jeffrey-siow-parliament-6437046",
+        "source": "CNA"
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 2,
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 1,
       "story": {
-        "title": "Malaysia’s Anwar to host Myanmar leader as repatriations near 10,000",
-        "description": "Myanmar President Min Aung Hlaing to visit Kuala Lumpur &#039;in the next few days&#039;, Anwar Ibrahim says.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/malaysias-anwar-to-host-myanmar-leader-as-repatriations-surpass-10000?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Tear gas in Paris and Marseille as school protests grow across France",
+        "description": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+        "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Finland",
+      "lat": 61.92,
+      "lon": 25.75,
+      "count": 1,
+      "story": {
+        "title": "Finland orders halt to work on two Google data centres",
+        "description": "The order affecting two planned data centres follows concerns over forest clearance.",
+        "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -372,18 +384,6 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 1,
-      "story": {
-        "title": "Watch: How Brazil's dramatic election unfolded",
-        "description": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
-        "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Rome",
       "lat": 41.9,
       "lon": 12.5,
@@ -396,159 +396,159 @@
       }
     },
     {
-      "name": "Havana",
-      "lat": 23.13,
-      "lon": -82.38,
+      "name": "New Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
       "count": 1,
       "story": {
-        "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
-        "description": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
-        "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Cuba",
-      "lat": 21.52,
-      "lon": -77.78,
-      "count": 1,
-      "story": {
-        "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
-        "description": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
-        "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Islamabad",
-      "lat": 33.7,
-      "lon": 73.06,
-      "count": 1,
-      "story": {
-        "title": "Pakistan, Turkiye and Saudi deterrence against Houthis: What that means",
-        "description": "Islamabad says its role is defensive, but Riyadh&#039;s offensive in Yemen tests how long it can stay out of the fight.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means?traffic_source=rss",
+        "title": "Indian opposition leaders detained during voter lists protest",
+        "description": "Police detained Indian opposition leaders during a protest outside the Election Commission in New Delhi where lawmakers",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/indian-opposition-leaders-detained-during-voter-lists-protest?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
       "count": 1,
       "story": {
-        "title": "Pakistan, Turkiye and Saudi deterrence against Houthis: What that means",
-        "description": "Islamabad says its role is defensive, but Riyadh&#039;s offensive in Yemen tests how long it can stay out of the fight.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means?traffic_source=rss",
+        "title": "Jerusalem Daily:  Tension high in Israel ahead of October 7",
+        "description": "Jerusalem Daily:  Tension high in Israel ahead of October 7",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
+      "name": "Nairobi",
+      "lat": -1.29,
+      "lon": 36.82,
       "count": 1,
       "story": {
-        "title": "Pakistan, Turkiye and Saudi deterrence against Houthis: What that means",
-        "description": "Islamabad says its role is defensive, but Riyadh&#039;s offensive in Yemen tests how long it can stay out of the fight.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means?traffic_source=rss",
+        "title": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return",
+        "description": "More than 4,000 people have died in the worst outbreak in the DR Congo&#039;s history, with confirmed cases surpassing 8,300.",
+        "link": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 1,
       "story": {
-        "title": "Qatar and India among seven countries bidding for 2036 Olympics, IOC says",
-        "description": "South Africa, Turkiye, Germany, Hungary and South Korea are on the list of countries revealed by the IOC.",
-        "link": "https://www.aljazeera.com/sports/2026/10/6/qatar-and-india-among-seven-countries-bidding-for-2036-olympics-ioc-says?traffic_source=rss",
+        "title": "Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open",
+        "description": "Novac Djokovic won 102nd match of his career, while ATP 500 tournament victory was Carlos Alcaraz&#039;s third of the year.",
+        "link": "https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Hungary",
-      "lat": 47.16,
-      "lon": 19.5,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 1,
       "story": {
-        "title": "Qatar and India among seven countries bidding for 2036 Olympics, IOC says",
-        "description": "South Africa, Turkiye, Germany, Hungary and South Korea are on the list of countries revealed by the IOC.",
-        "link": "https://www.aljazeera.com/sports/2026/10/6/qatar-and-india-among-seven-countries-bidding-for-2036-olympics-ioc-says?traffic_source=rss",
+        "title": "Is Europe preparing for a wider war with Russia?",
+        "description": "A British war-game show simulating a Russian attack has drawn a nuclear warning from Moscow.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
+      "name": "Norway",
+      "lat": 60.47,
+      "lon": 8.47,
       "count": 1,
       "story": {
-        "title": "Qatar and India among seven countries bidding for 2036 Olympics, IOC says",
-        "description": "South Africa, Turkiye, Germany, Hungary and South Korea are on the list of countries revealed by the IOC.",
-        "link": "https://www.aljazeera.com/sports/2026/10/6/qatar-and-india-among-seven-countries-bidding-for-2036-olympics-ioc-says?traffic_source=rss",
+        "title": "FIFA chief Infantino’s ‘abuse of power’ questioned by Norway in complaints",
+        "description": "The three complaints filed by Norway&#039;s football body ask FIFA&#039;s Ethics Committee to examine Infantino&#039;s conduct.",
+        "link": "https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
+      "name": "Croatia",
+      "lat": 45.1,
+      "lon": 15.2,
       "count": 1,
       "story": {
-        "title": "UEFA to investigate spitting incident at Ireland-Israel football match",
-        "description": "An Israeli player is accused of spitting on an Irish coach as the teams returned to their dressing rooms at half-time.",
-        "link": "https://www.aljazeera.com/sports/2026/10/6/uefa-to-investigate-spitting-incident-at-ireland-israel-football?traffic_source=rss",
+        "title": "Croatia vs Spain LIVE:– UEFA Nations League",
+        "description": "Follow updates, with build-up and team news, from our live text commentary stream coverage as Lamine Yamal headlines.",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/6/live-crostia-vs-spain-uefa-nations-league?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "‘Hitting the right nail’: Refugee rescue group defiant as Greece targets it",
-        "description": "Aegean Boat Report founder Tommy Olsen insists he is defending the rule of law, as Greece opens trial against him.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss",
+        "title": "Birzeit University memorial destruction aims to crush Palestinian memory",
+        "description": "Israeli soldiers removed the monument to students and alumni killed by Israel and replaced it with a fig sapling.",
+        "link": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Seoul",
-      "lat": 37.57,
-      "lon": 126.98,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 1,
       "story": {
-        "title": "South Korea considers steps to force North Korea apology for DMZ mine blast",
-        "description": "Seoul has urged Pyongyang to remove any other mines planted on the southern side of the military demarcation line.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/south-korea-considers-steps-to-force-north-korea-apology-for-dmz-mine-blast?traffic_source=rss",
+        "title": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
+        "description": "Energy Minister Prince Abdulaziz bin ⁠Salman says capacity restored after major attack last month.",
+        "link": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Pyongyang",
-      "lat": 39.03,
-      "lon": 125.75,
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
       "count": 1,
       "story": {
-        "title": "South Korea considers steps to force North Korea apology for DMZ mine blast",
-        "description": "Seoul has urged Pyongyang to remove any other mines planted on the southern side of the military demarcation line.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/south-korea-considers-steps-to-force-north-korea-apology-for-dmz-mine-blast?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Geelong scores major coup with Matildas-Colombia clash",
+        "description": "The Matildas will return to Victoria this year, with Geelong picked to host the second leg of a two-match series against Colombia",
+        "link": "https://www.abc.net.au/news/2026-10-07/geelong-matildas-coup-regional-centre-to-host-colombia-clash/107235524",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "South Korea considers steps to force North Korea apology for DMZ mine blast",
-        "description": "Seoul has urged Pyongyang to remove any other mines planted on the southern side of the military demarcation line.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/south-korea-considers-steps-to-force-north-korea-apology-for-dmz-mine-blast?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Some public transport trips are more expensive in Adelaide than anywhere else",
+        "description": "Some South Australians pay more for their bus, train and tram trips in Adelaide than the equivalent journey elsewhere in Australia.",
+        "link": "https://www.abc.net.au/news/2026-10-07/adelaide-public-transport-fares/107218668",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 1,
+      "story": {
+        "title": "AI digital human Yuri has 100,000 fans and now a Chinese ID card",
+        "description": "Beijing is issuing AI digital humans with identity cards in a bid to hold companies accountable and ensuring state surveillance applies to the virtual world.",
+        "link": "https://www.abc.net.au/news/2026-10-07/china-trials-identity-card-for-ai-digital-humans/107232848",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 1,
+      "story": {
+        "title": "Former German spy chief arrested over alleged espionage and treason",
+        "description": "August Hanning, who ran Berlin's BND foreign intelligence service, is accused of paying to access secret documents for a foreign spy service.",
+        "link": "https://www.abc.net.au/news/2026-10-07/german-spy-chief-teason-allegations/107236556",
+        "source": "ABC News AU"
       }
     }
   ]
