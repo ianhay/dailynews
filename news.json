@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:12:25+00:00",
+  "generated_at": "2026-10-06T00:15:06+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Spain PM pins hopes on housing crisis to help win snap election",
+      "description": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
       "description": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
       "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
@@ -22,31 +28,25 @@
       "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
       "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Watch: How Brazil's dramatic election unfolded",
-      "description": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
-      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "australia": [
     {
-      "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-      "description": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Spanish PM Sánchez calls early election after housing protests",
-      "description": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+      "title": "France braces for national day of school protests after injuries and mass arrests",
+      "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
       "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
       "description": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
       "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
+      "description": "A homecoming celebration turned into a scene of deadly violence, as dozens of shots were fired into a crowd.",
+      "link": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -64,9 +64,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-      "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+      "title": "Five reasons India's stock market is sinking even when its economy is growing",
+      "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 15,
       "story": {
         "title": "Rare tornado whips through small Australian town",
         "description": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
@@ -96,34 +96,10 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 7,
-      "story": {
-        "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-        "description": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-        "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 7,
-      "story": {
-        "title": "How India became dangerously addicted to Chinese imports",
-        "description": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
-        "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 7,
+      "count": 9,
       "story": {
         "title": "PM warned Rosebank oil field could breach West Bank sanctions",
         "description": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.",
@@ -132,26 +108,38 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 7,
-      "story": {
-        "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
-        "description": "The withdrawal means the US lost a convenient launchpad, not its underlying strike capability, said an expert.",
-        "link": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
         "description": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
         "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 6,
+      "story": {
+        "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
+        "description": "Trump shifts blame for fuel price hikes to blue states like California and Ukraine strikes on Russian oil refineries.",
+        "link": "https://www.aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 5,
+      "story": {
+        "title": "How India became dangerously addicted to Chinese imports",
+        "description": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
+        "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -161,41 +149,29 @@
       "lon": 10.4,
       "count": 5,
       "story": {
-        "title": "Germany at risk of 'violent conflict' with Russia, intelligence chief warns",
-        "description": "The warning from a German intelligence chief comes as Russia carries out strikes across Ukraine and on a Turkish civilian boat in the Black Sea.",
-        "link": "https://www.abc.net.au/news/2026-10-06/ukraine-germany-russia-violent-conflict-/107231422",
+        "title": "Mary Fowler withdraws from Matildas squad for Germany, Haiti games",
+        "description": "Mary Fowler will be replaced by Leah Davidson for the upcoming friendlies, with the Matildas star withdrawing due to personal circumstances.",
+        "link": "https://www.abc.net.au/news/2026-10-06/mary-fowler-withdraws-matildas-squad-for-germany-haiti-games/107231866",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 4,
       "story": {
-        "title": "Spanish PM Sánchez calls early election after housing protests",
-        "description": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
-        "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+        "title": "France braces for national day of school protests after injuries and mass arrests",
+        "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+        "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "Runner honours mother in epic Perth to Sydney relay for DV awareness",
-        "description": "Alongside five mates, Hayden Sumner has completed a cross-country relay from Perth to Sydney in honour of his late mother, who spent years in abusive relationships.",
-        "link": "https://www.abc.net.au/news/2026-10-05/project-australia-run-cottesloe-to-bondi-for-domestic-violence/107229530",
-        "source": "ABC News AU"
       }
     },
     {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
         "description": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
@@ -204,14 +180,14 @@
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 3,
       "story": {
-        "title": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
-        "description": "The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry.",
-        "link": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
+        "title": "Spain PM pins hopes on housing crisis to help win snap election",
+        "description": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
+        "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -228,15 +204,27 @@
       }
     },
     {
-      "name": "Romania",
-      "lat": 45.94,
-      "lon": 24.97,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 3,
       "story": {
-        "title": "Two dead after ship sinks off Romania following fire",
-        "description": "Two dead after ship sinks off Romania following fire",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/two-dead-after-ship-sinks-off-romania-following-fire?traffic_source=rss",
+        "title": "Turkiye, Pakistan agree to military deployment to Saudi Arabia",
+        "description": "Turkiye, Saudi Arabia and Pakistan have agreed to trigger collective deterrence measures in response to Houthi attacks.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/turkiye-pakistan-agree-to-military-deployment-to-saudi-arabia?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
+        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
+        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
+        "source": "SBS News"
       }
     },
     {
@@ -252,14 +240,14 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 2,
       "story": {
-        "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-        "description": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
-        "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+        "title": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
+        "description": "The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry.",
+        "link": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,50 +264,86 @@
       }
     },
     {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
       "count": 2,
       "story": {
-        "title": "DR Congo boat collision kills at least 30, dozens missing",
-        "description": "Two vessels crashed while navigating the Congo River in Equateur province at night.",
-        "link": "https://www.aljazeera.com/news/2026/10/5/dr-congo-boat-collision-kills-at-least-30-dozens-missing?traffic_source=rss",
+        "title": "What’s happening in Ethiopia?",
+        "description": "Ethiopia is facing renewed fighting in the north, just four years after the devastating Tigray war ended.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-happening-in-ethiopia?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 2,
       "story": {
-        "title": "IS-linked Australians in Iraq face 'risk of unfair prosecution', HRW warns",
-        "description": "Human Rights Watch is warning 13 Australians believed to be held in Iraqi jails on suspicion of links to the Islamic State group face inhumane treatment and potential execution.",
-        "link": "https://www.abc.net.au/news/2026-10-05/australians-held-in-iraq-face-potential-execution-hrw/107228916",
+        "title": "Israeli forces kill one, injure several in occupied West Bank",
+        "description": "Palestinians in West Bank are suffering increasing Israeli violence and repression.",
+        "link": "https://www.aljazeera.com/news/2026/10/5/israeli-forces-kill-one-injure-several-in-occupied-west-bank?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 2,
+      "story": {
+        "title": "Turkiye, Pakistan agree to military deployment to Saudi Arabia",
+        "description": "Turkiye, Saudi Arabia and Pakistan have agreed to trigger collective deterrence measures in response to Houthi attacks.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/turkiye-pakistan-agree-to-military-deployment-to-saudi-arabia?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Romania",
+      "lat": 45.94,
+      "lon": 24.97,
+      "count": 2,
+      "story": {
+        "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
+        "description": "The latest suspected incursion on NATO&#039;s eastern flank increases fears that the war in Ukraine threatens to spill over.",
+        "link": "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
+      "count": 2,
+      "story": {
+        "title": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
+        "description": "Israel ordered East Jerusalem consulate to be closed after Britain sanctioned settlements in the occupied West Bank.",
+        "link": "https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 2,
+      "story": {
+        "title": "Breaking: Jaymie Graham named new North Melbourne AFL coach",
+        "description": "North Melbourne confirms that Fremantle assistant coach Jaymie Graham is the new Kangaroos coach, succeeding Alastair Clarkson.",
+        "link": "https://www.abc.net.au/news/2026-10-06/jaymie-graham-named-new-north-melbourne-afl-coach/107232272",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously",
-        "description": "For Pacific island nations, climate change is no distant threat. As seas rise, they're bringing the real-time consequences of a warming planet directly to world leaders in Tuvalu.",
-        "link": "https://www.dw.com/en/as-rising-seas-threaten-low-lying-pacific-islands-regional-leaders-call-on-the-world-to-take-climate-more-seriously/a-79540127?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "At Oct 7 memorial, Netanyahu says will be no Hamas rule in Gaza",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/world/netanyahu-says-no-hamas-rule-gaza-6433686",
+        "title": "Air quality in unhealthy range across most of Singapore",
+        "description": "In an update on Monday evening, the National Environment Agency said the 24-hour PSI for Singapore was forecast to be in the high moderate to mid unhealthy range.",
+        "link": "https://www.channelnewsasia.com/singapore/haze-air-quality-psi-oct-6-6434591",
         "source": "CNA"
       }
     },
@@ -332,6 +356,30 @@
         "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
         "description": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
         "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Spain PM pins hopes on housing crisis to help win snap election",
+        "description": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
+        "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 1,
+      "story": {
+        "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+        "description": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
+        "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -372,99 +420,39 @@
       }
     },
     {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
       "count": 1,
       "story": {
-        "title": "Jerusalem Daily: Netanyahu gives voters dramatic ultimatum",
-        "description": "Israeli Prime Minister Benjamin Netanyahu has given voters an election ultimatum: Vote for him or vote for Palestine.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/jerusalem-daily-netanyahu-gives-voters-dramatic-ultimatum?traffic_source=rss",
+        "title": "Freed Syrians recount torture in Israeli detention centre",
+        "description": "Syrians released from Israeli detention have described abuse behind bars.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/freed-syrians-recount-torture-in-israeli-detention-centre?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
       "count": 1,
       "story": {
-        "title": "Rohingya activist says it’s unfair to send refugees back to Myanmar",
-        "description": "Rohingya activist says it’s unfair to send refugees back to Myanmar",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/rohingya-activist-says-its-unfair-to-send-refugees-back-to-myanmar?traffic_source=rss",
+        "title": "Mexico seeks evidence of border shooting that prompted US troop deployment",
+        "description": "Mexico&#039;s Sheinbaum has expressed concern about US officials overstepping norms on security cooperation.",
+        "link": "https://www.aljazeera.com/news/2026/10/5/mexico-seeks-evidence-of-border-shooting-that-prompted-us-troop-deployment?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
       "count": 1,
       "story": {
-        "title": "LIVE: France vs Belgium – UEFA Nations League",
-        "description": "Build-up. teams and live text commentary stream of France&#039;s Nations League Group A1 game against Belgium in Paris",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss",
+        "title": "DR Congo boat collision kills at least 30, dozens missing",
+        "description": "Two vessels crashed while navigating the Congo River in Equateur province at night.",
+        "link": "https://www.aljazeera.com/news/2026/10/5/dr-congo-boat-collision-kills-at-least-30-dozens-missing?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 1,
-      "story": {
-        "title": "What happened between Ireland and Israel in their Nations League match?",
-        "description": "Spitting allegations, no handshakes, and bowed heads headlined the second Nations League fixture.",
-        "link": "https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "A drive through the West Bank",
-        "description": "Palestinians in the occupied West Bank are left asking world leaders: where exactly is our state meant to go?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/a-drive-through-the-west-bank?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 1,
-      "story": {
-        "title": "Lionel Messi to join Argentina for farewell match against Benin",
-        "description": "The friendly marks a symbolic passing of the torch for a player whose international legacy includes a World Cup title.",
-        "link": "https://www.aljazeera.com/sports/2026/10/5/lionel-messi-argentina-farewell-final-match-benin?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Norway",
-      "lat": 60.47,
-      "lon": 8.47,
-      "count": 1,
-      "story": {
-        "title": "Norway proposes temporary ban on smart glasses amid privacy fears",
-        "description": "The push comes amid growing ethical and privacy concerns around the new devices, which have been marketed by technology giants such as Meta.",
-        "link": "https://www.abc.net.au/news/2026-10-06/norway-smart-glasses-temporary-ban/107231636",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
-      "count": 1,
-      "story": {
-        "title": "US accuses California woman of spying on Taiwan president's son for China",
-        "description": "The FBI says authorities have arrested a California woman and accused her of spying on a son of Taiwan's president at the direction of Chinese officials.",
-        "link": "https://www.abc.net.au/news/2026-10-05/us-accuses-california-woman-of-surveilling-taiwan-president-son/107231000",
-        "source": "ABC News AU"
       }
     },
     {
@@ -473,21 +461,9 @@
       "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Runner honours mother in epic Perth to Sydney relay for DV awareness",
-        "description": "Alongside five mates, Hayden Sumner has completed a cross-country relay from Perth to Sydney in honour of his late mother, who spent years in abusive relationships.",
-        "link": "https://www.abc.net.au/news/2026-10-05/project-australia-run-cottesloe-to-bondi-for-domestic-violence/107229530",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "Yemen's government declares major operation against Houthis",
-        "description": "The Yemeni president says the military is working to recapture vast parts of the country from the Houthis, who have withstood a series of attacks from Saudi Arabia, the UAE and their Western allies over the years.",
-        "link": "https://www.abc.net.au/news/2026-10-05/yemeni-government-launches-offensive-to-seize-all-areas-from-ira/107228550",
+        "title": "WA has high hopes for Land Forces as anti-war activists prepare to protest",
+        "description": "Australia's biggest defence expo is making its debut in Perth with the WA government saying it is important \"strategically, commercially\" as anti-war activists prepare to protest.",
+        "link": "https://www.abc.net.au/news/2026-10-06/wa-government-defence-conference-trade-show-land-force-security/107223860",
         "source": "ABC News AU"
       }
     },
@@ -528,6 +504,18 @@
       }
     },
     {
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
+      "count": 1,
+      "story": {
+        "title": "Iran poised to exploit security vacuum as US leaves Iraq",
+        "description": "The end of the US military mission in Iraq leaves the Kurdistan region facing a severe security vacuum. As Erbil grapples with deep internal divisions, Tehran is well positioned to make strategic gains.",
+        "link": "https://www.dw.com/en/iran-poised-to-exploit-security-vacuum-as-us-leaves-iraq/a-79550833?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Beijing",
       "lat": 39.9,
       "lon": 116.4,
@@ -548,6 +536,18 @@
         "title": "Germany news: Spy chief warns Russia conflict risk growing",
         "description": "Moscow is already waging a \"shadow war\" against Europe, the head of Germany's foreign intelligence service says. The Left Party is taking a case over remarks by the CDU's Katherina Reiche to a top court. DW has more.",
         "link": "https://www.dw.com/en/germany-news-spy-chief-warns-russia-conflict-risk-growing/live-79542789?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 1,
+      "story": {
+        "title": "As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously",
+        "description": "For Pacific island nations, climate change is no distant threat. As seas rise, they're bringing the real-time consequences of a warming planet directly to world leaders in Tuvalu.",
+        "link": "https://www.dw.com/en/as-rising-seas-threaten-low-lying-pacific-islands-regional-leaders-call-on-the-world-to-take-climate-more-seriously/a-79540127?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
