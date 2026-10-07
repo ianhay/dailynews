@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T11:56:32+00:00",
+  "generated_at": "2026-10-07T18:49:05+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,9 +12,9 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "India's opposition leader dragged on to bus as police break up protest",
-      "description": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "title": "Israelis demand accountability over 7 October failures three years after attacks",
+      "description": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -24,9 +24,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "What does a year-long ceasefire in Gaza look like?",
-      "description": "Israel attacked Gaza nine days out of 10 during a so-called ceasefire.",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like?traffic_source=rss",
+      "title": "Spanish unions call general strike over housing before snap election",
+      "description": "The general strike is the first to be jointly backed by Spain&#039;s two largest unions ‌in 14 years.",
+      "link": "https://www.aljazeera.com/news/2026/10/7/spanish-unions-call-general-strike-over-housing-before-snap-election?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
@@ -38,9 +38,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15",
-      "description": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+      "description": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -52,7 +52,7 @@
   ],
   "economy": [
     {
-      "title": "Former Barclays traders have rate-rigging convictions quashed",
+      "title": "Ex-bankers jailed for rigging rates have convictions quashed",
       "description": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.",
       "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
@@ -72,10 +72,22 @@
   ],
   "places": [
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 11,
+      "story": {
+        "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+        "description": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+        "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 10,
       "story": {
         "title": "OpenAI admits response to Australian government hacks 'not good enough'",
         "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
@@ -87,23 +99,11 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 12,
+      "count": 9,
       "story": {
-        "title": "How US military aid to Israel continues three years into Gaza genocide",
-        "description": "US military aid and arms transfer continue unchanged, as US public sentiment shifts.",
-        "link": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 10,
-      "story": {
-        "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-        "description": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
-        "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+        "title": "Israelis demand accountability over 7 October failures three years after attacks",
+        "description": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
+        "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,110 +120,38 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 7,
       "story": {
-        "title": "How US military aid to Israel continues three years into Gaza genocide",
-        "description": "US military aid and arms transfer continue unchanged, as US public sentiment shifts.",
-        "link": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+        "description": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
+        "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
+      "count": 7,
+      "story": {
+        "title": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
+        "description": "Far-right and far-left parties gain ground in local elections as Merz&#039;s approval rating sinks.",
+        "link": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 6,
       "story": {
-        "title": "Germany: Ex-spy chief sent to pretrial detention on treason charges",
-        "description": "August Hanning has been remanded into pretrial detention after his Tuesday arrest. The case has prompted calls for transparency when spies leave the government.",
-        "link": "https://www.dw.com/en/germany-ex-spy-chief-sent-to-pretrial-detention-on-treason-charges/a-79576300?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 5,
-      "story": {
-        "title": "Israeli attacks across Gaza kill at least four Palestinians",
-        "description": "Israeli air strike kills Palestinian Civil Defence rescue volunteer in northern Gaza.",
-        "link": "https://www.aljazeera.com/news/2026/10/7/israeli-attacks-across-gaza-kill-at-least-four-palestinians?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
-      "story": {
-        "title": "India's opposition leader dragged on to bus as police break up protest",
-        "description": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
-        "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 4,
-      "story": {
-        "title": "US sets new demands for Iran deal: What are they?",
-        "description": "US Vice President Vance’s call for reduced nuclear enrichment suggests room for compromise, but major obstacles remain.",
-        "link": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 4,
-      "story": {
-        "title": "At least 11 killed as Russia launches ‘massive’ attack on Ukraine",
-        "description": "Ukraine&#039;s air force says Russia launched 130 drones, 48 cruise missiles and ballistic missiles in overnight attack.",
-        "link": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "'One of the greats' signs off after fourth Roosters premiership",
-        "description": "High-flying winger Daniel Tupou retires from the NRL after winning his fourth grand final with the Sydney Roosters.",
-        "link": "https://www.abc.net.au/news/2026-10-07/daniel-tupou-retirement-sydney-roosters-nrl-grand-final/107238806",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 3,
-      "story": {
-        "title": "Girl pleads for world leaders to save her country from climate change",
-        "description": "A 13-year-old girl has called on world leaders to act on climate change and save her country, Tuvalu.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/girl-pleads-for-world-leaders-to-save-her-country-from-climate-change?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 3,
-      "story": {
-        "title": "Head coach Scaloni’s emotional farewell to ‘irreplaceable’ Messi",
-        "description": "Argentina’s head coach Lionel Scaloni said it was an ‘emotional day’ as Lionel Messi ends his international career.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss",
+        "title": "How genocide in Gaza followed Bosnia’s painful pattern",
+        "description": "Three years into Israel’s war on Gaza, we examine patterns that echo the Srebrenica genocide in Bosnia and Herzegovina.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-genocide-in-gaza-followed-bosnias-painful-pattern?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -231,7 +159,7 @@
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
-      "count": 2,
+      "count": 4,
       "story": {
         "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
         "description": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
@@ -240,10 +168,22 @@
       }
     },
     {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 4,
+      "story": {
+        "title": "Coco Gauff says online racist abuse was ‘draining’ after China Open exit",
+        "description": "Coco Gauff admits the racism she suffered during China Open exhausted her after US tennis star missed out on quarters.",
+        "link": "https://www.aljazeera.com/sports/2026/10/7/coco-gauff-says-online-racist-abuse-was-draining-after-china-open-exit?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "Watch: How Spain's housing crisis has resulted in an early general election",
         "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
@@ -252,51 +192,99 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 3,
       "story": {
-        "title": "Advocates decry detention of Kashmiri filmmaker Arfat Sheikh by ICE in US",
-        "description": "Arfat Sheikh was arrested at Washington Dulles International Airport on September 24, advocacy group says.",
-        "link": "https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss",
+        "title": "Saudi Arabia says three foreign nationals killed in attacks on airports",
+        "description": "Moroccan, Algerian women killed in Abha, Sudanese national killed in Riyadh.",
+        "link": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 3,
+      "story": {
+        "title": "Why music in Iran is more than just entertainment",
+        "description": "Iranian authorities are trying to persuade prominent singers in exile to return home. While the state seeks to harness music as a political tool, music has also become a powerful expression of dissent and resistance.",
+        "link": "https://www.dw.com/en/why-music-in-iran-is-more-than-just-entertainment/a-79583224?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
+        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
+        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
+        "source": "SBS News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 2,
       "story": {
-        "title": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
-        "description": "Yemeni government says one of the missiles hit Aden airport&#039;s runway minutes before a flight from Cairo was due to land.",
-        "link": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
+        "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+        "description": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
+        "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 2,
+      "story": {
+        "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+        "description": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
+        "link": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 2,
+      "story": {
+        "title": "Saudi Arabia says three foreign nationals killed in attacks on airports",
+        "description": "Moroccan, Algerian women killed in Abha, Sudanese national killed in Riyadh.",
+        "link": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 2,
       "story": {
-        "title": "'Could almost speak Mandarin to everyone': Chinese visitors flock to Australia",
-        "description": "As China's week-long national day holiday comes to an end, data suggests an increase in flight bookings from China to Australia.",
-        "link": "https://www.abc.net.au/news/2026-10-07/chinese-tourist-visit-australia-in-golden-week/107236690",
-        "source": "ABC News AU"
+        "title": "How Israel’s genocide in Gaza pulled Britons into the Palestine movement",
+        "description": "Britons are risking freedom and reputations to stand with Palestinians and challenge government policy.",
+        "link": "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 2,
       "story": {
-        "title": "Indonesia's VP likely didn't finish high school and it could cost him his job",
-        "description": "Indonesia's Constitutional Court has refused to disqualify Vice-President Gibran Rakabuming Raka over questions about his educational history, but experts say he could be impeached anyway.",
-        "link": "https://www.abc.net.au/news/2026-10-07/indonesia-vp-disqualification-education-credentials/107233362",
-        "source": "ABC News AU"
+        "title": "Millions of Pakistanis get government fuel relief but some miss out",
+        "description": "Pakistan has subsidised petrol for millions, but some economists caution that those most needing help are left out.",
+        "link": "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -305,93 +293,129 @@
       "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "MPs back tighter data centre regulations but raise questions on competitiveness, sustainability",
-        "description": "&nbsp;A law was passed in parliament&nbsp;requiring operators of data centres in Singapore with a critical IT load of at least 3 megawatts to be licensed.",
-        "link": "https://www.channelnewsasia.com/singapore/data-centre-regulations-digital-infrastructure-bill-6438941",
-        "source": "CNA"
+        "title": "What Singapore really thinks of Australian solar power export plan",
+        "description": "It has unrivalled ambition and is backed by a tech billionaire, but Sun Cable's plans to export solar power to Singapore are floundering.",
+        "link": "https://www.abc.net.au/news/2026-10-08/sun-cable-plans-to-send-australian-solar-energy-to-singapore/107229542",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Doha",
-      "lat": 25.29,
-      "lon": 51.53,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 2,
+      "story": {
+        "title": "'Birthday gift to Putin': At least 24 killed in Russian strikes on Ukraine",
+        "description": "Ukrainian President Volodymyr Zelenskyy said a strike on a residential building in Pryluky, which killed four children, was one of the 'most vile\" from Moscow's army.",
+        "link": "https://www.abc.net.au/news/2026-10-08/russia-strikes-kill-20-birthday-putin/107241102",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
+      "count": 2,
+      "story": {
+        "title": "Ronaldo stays on under cloud as Messi exits internationals",
+        "description": "Just hours before Lionel Messi played his last match for Argentina, Cristiano Ronaldo posted his latest salvo in a row with Portugal. Ronaldo wants to play on despite the troubles, while Messi bathed in adulation.",
+        "link": "https://www.dw.com/en/ronaldo-stays-on-under-cloud-as-messi-exits-internationals/a-79574551?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
       "count": 1,
       "story": {
-        "title": "Doha Debates: Should We Trust the News?",
-        "description": "Is today’s news built to serve the truth?",
-        "link": "https://www.aljazeera.com/video/doha-debates/2026/10/7/doha-debates-should-we-trust-the-news?traffic_source=rss",
+        "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+        "description": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
+        "link": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 1,
+      "story": {
+        "title": "Five reasons India's stock market is sinking even when its economy is growing",
+        "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+        "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
+      "count": 1,
+      "story": {
+        "title": "Saudi Arabia says three foreign nationals killed in attacks on airports",
+        "description": "Moroccan, Algerian women killed in Abha, Sudanese national killed in Riyadh.",
+        "link": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
+      "name": "Algeria",
+      "lat": 28.03,
+      "lon": 1.66,
       "count": 1,
       "story": {
-        "title": "CAS to hear Senegal appeal over AFCON title awarded to Morocco",
-        "description": "Court of Arbitration for Sport (CAS) hearing set to begin after Senegal stripped of Africa Cup of Nations title by CAF.",
-        "link": "https://www.aljazeera.com/sports/2026/10/7/cas-to-hear-senegal-appeal-over-afcon-title-awarded-to-morocco?traffic_source=rss",
+        "title": "Saudi Arabia says three foreign nationals killed in attacks on airports",
+        "description": "Moroccan, Algerian women killed in Abha, Sudanese national killed in Riyadh.",
+        "link": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Bulgaria",
-      "lat": 42.73,
-      "lon": 25.49,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Bulgaria ends search for missing crew after drone strike sinks cargo ship",
-        "description": "Rescuers halt operation off the coast after finding no survivors.",
-        "link": "https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship?traffic_source=rss",
+        "title": "Most Americans oppose Trump’s taxpayer-funded ‘golden age’ ads: Poll",
+        "description": "Trump says he will pay for future ads, but the White House says taxpayers will not be reimbursed for past ones.",
+        "link": "https://www.aljazeera.com/news/2026/10/7/most-americans-oppose-trumps-taxpayer-funded-golden-age-ads-poll?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
       "count": 1,
       "story": {
-        "title": "Myanmar’s Min Aung Hlaing visits Malaysia amid concerns over repatriations",
-        "description": "Myanmar leader Min Aung Hlaing arrives in Malaysia on his first visit since the 2021 coup.",
-        "link": "https://www.aljazeera.com/news/2026/10/7/myanmars-min-aung-hlaing-visits-malaysia-amid-concerns-over-repatriations?traffic_source=rss",
+        "title": "Jerusalem Daily: Gaza’s devastation, three years after October 7",
+        "description": "Three years after the October 7 attacks, more than 74,000 people have been killed in Gaza.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
       "count": 1,
       "story": {
-        "title": "Myanmar’s Min Aung Hlaing visits Malaysia amid concerns over repatriations",
-        "description": "Myanmar leader Min Aung Hlaing arrives in Malaysia on his first visit since the 2021 coup.",
-        "link": "https://www.aljazeera.com/news/2026/10/7/myanmars-min-aung-hlaing-visits-malaysia-amid-concerns-over-repatriations?traffic_source=rss",
+        "title": "UEFA football leaders meet to shape strategy to oust FIFA’s Infantino",
+        "description": "European football leaders gather in Berlin with the aim of shaping strategy to oust Gianni Infantino as FIFA president.",
+        "link": "https://www.aljazeera.com/sports/2026/10/7/uefa-football-leaders-meet-to-shape-strategy-to-oust-fifas-infantino?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Cairo",
-      "lat": 30.04,
-      "lon": 31.24,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 1,
       "story": {
-        "title": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
-        "description": "Yemeni government says one of the missiles hit Aden airport&#039;s runway minutes before a flight from Cairo was due to land.",
-        "link": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Finland",
-      "lat": 61.92,
-      "lon": 25.75,
-      "count": 1,
-      "story": {
-        "title": "Finland orders halt to work on Google data centre sites",
-        "description": "Finnish opposition has called for measures to prevent power shortages, soaring energy prices caused by data centres.",
-        "link": "https://www.aljazeera.com/news/2026/10/7/finland-orders-halt-to-work-on-google-data-sites-over-environment-concerns?traffic_source=rss",
+        "title": "South Korea signals military exemption cuts for athletes after Asian Games",
+        "description": "South Korea signals cuts to military exemptions for gold medallists after backlash over athletes&#039; Asian Games comments.",
+        "link": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -408,6 +432,18 @@
       }
     },
     {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "'No doubt': Hockey adamant corruption is flourishing in Washington",
+        "description": "Donald Trump might be the most influential US president of the past 100 years according to Joe Hockey but that doesn't mean he hasn't \"diminished' the standing of the US globally.",
+        "link": "https://www.abc.net.au/news/2026-10-07/hockey-calls-out-us-corruption-during-trump-second-presidency/107237782",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Canberra",
       "lat": -35.28,
       "lon": 149.13,
@@ -420,9 +456,21 @@
       }
     },
     {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
+      "count": 1,
+      "story": {
+        "title": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
+        "description": "Pakistan and Turkey have agreed to provide \"practical measures\" to defend Saudi Arabia against Houthi attacks. Could a new alliance reshape the war against the Houthis in Yemen?",
+        "link": "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
       "count": 1,
       "story": {
         "title": "Ronaldo stays on under cloud as Messi exits internationals",
@@ -432,87 +480,15 @@
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
       "count": 1,
       "story": {
-        "title": "CNA Explains: What are the grievances driving the expanding school protests in France?",
-        "description": "A strike over working conditions and staff shortages at a high school in a Parisian suburb has morphed into nationwide demonstrations protesting the state of France’s education system.",
-        "link": "https://www.channelnewsasia.com/world/cna-explains-france-school-student-protest-unrest-demonstrations-6438771",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Hong Kong",
-      "lat": 22.32,
-      "lon": 114.17,
-      "count": 1,
-      "story": {
-        "title": "Greenpeace catches Hong Kong geopark ‘golden week’ visitors damaging marine life",
-        "description": "These included catching live sea cucumbers, using metal tools to dig out sea snails and clams, and picking up coral skeletons.",
-        "link": "https://www.channelnewsasia.com/east-asia/hong-kong-marine-life-forage-caught-golden-week-visitors-greenpeace-6438996",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
-      "count": 1,
-      "story": {
-        "title": "Thailand floods death toll rises to 60 since mid-September",
-        "description": "In central Prachinburi province, 19 people have died, according to the Department of Disaster Prevention and Mitigation.",
-        "link": "https://www.channelnewsasia.com/asia/thailand-floods-death-toll-rain-bangkok-6438936",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Vietnam",
-      "lat": 14.06,
-      "lon": 108.28,
-      "count": 1,
-      "story": {
-        "title": "Vietnam's central bank says inflation is higher than targeted but remains under control",
+        "title": "Airbus says Biman Bangladesh confirms order for 10 jets",
         "description": "",
-        "link": "https://www.channelnewsasia.com/business/vietnams-central-bank-says-inflation-higher-targeted-remains-under-control-6438831",
+        "link": "https://www.channelnewsasia.com/business/airbus-says-biman-bangladesh-confirms-order-10-jets-6440276",
         "source": "CNA"
-      }
-    },
-    {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
-      "count": 1,
-      "story": {
-        "title": "Man gets jail, caning for human trafficking after tricking Singaporean woman into sex work in Dubai",
-        "description": "The woman thought&nbsp;Achraf Arjaouy was a wealthy pilot who wanted to marry her, and engaged in sex work to raise funds so she could go with him to Qatar.",
-        "link": "https://www.channelnewsasia.com/singapore/italian-man-jail-caning-trafficking-singaporean-woman-dubai-6438696",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
-      "count": 1,
-      "story": {
-        "title": "Man gets jail, caning for human trafficking after tricking Singaporean woman into sex work in Dubai",
-        "description": "The woman thought&nbsp;Achraf Arjaouy was a wealthy pilot who wanted to marry her, and engaged in sex work to raise funds so she could go with him to Qatar.",
-        "link": "https://www.channelnewsasia.com/singapore/italian-man-jail-caning-trafficking-singaporean-woman-dubai-6438696",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 1,
-      "story": {
-        "title": "Trump threatens to rename Lake Ontario as Canada hits back at US tariffs",
-        "description": "Prime Minister Mark Carney says Canada won't be subordinated as 50 per cent US tariffs trigger a CAD$5.4 billion ($5.4 billion) aid package.",
-        "link": "https://www.sbs.com.au/news/article/trump-lake-america-ontario-canada-trade-war-tariffs/o7udweihr",
-        "source": "SBS News"
       }
     },
     {
