@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T23:41:33+00:00",
+  "generated_at": "2026-10-07T05:24:36+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+      "description": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Indian opposition MPs detained in protest against election chief",
       "description": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
       "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
@@ -22,31 +28,25 @@
       "description": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
       "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-      "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "australia": [
     {
-      "title": "Kenya confirms its first Ebola death as outbreak spreads",
-      "description": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
-      "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "description": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "AfD candidate elected speaker of German regional parliament for first time",
-      "description": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+      "title": "Former Australian bishop jailed for sexually abusing young men",
+      "description": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.",
+      "link": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "title": "Pornhub returns to Australia but only for adults with Apple devices",
+      "description": "The world's most popular porn site went dark in March in Australia due to age verification laws.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,43 +75,31 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 16,
       "story": {
-        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-        "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
-        "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "title": "Former Australian bishop jailed for sexually abusing young men",
+        "description": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.",
+        "link": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 8,
+      "story": {
+        "title": "'One of the greats' signs off after fourth Roosters premiership",
+        "description": "High-flying winger Daniel Tupou retires from the NRL after winning his fourth grand final with the Sydney Roosters.",
+        "link": "https://www.abc.net.au/news/2026-10-07/daniel-tupou-retirement-sydney-roosters-nrl-grand-final/107238806",
+        "source": "ABC News AU"
       }
     },
     {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
-      "story": {
-        "title": "Ship sinks and crew missing after Black Sea drone attack",
-        "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
-        "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
       "count": 7,
-      "story": {
-        "title": "How India became dangerously addicted to Chinese imports",
-        "description": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
-        "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 6,
       "story": {
         "title": "Ship sinks and crew missing after Black Sea drone attack",
         "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
@@ -123,7 +111,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
         "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
@@ -132,27 +120,39 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 6,
-      "story": {
-        "title": "Live: Suspended Swans star may seek shock AFL trade",
-        "description": "Reports suggest suspended Sydney star Nick Blakey could be talking to rival clubs about a shock trade. Follow all the news and debate from the AFL trade period in our live blog.",
-        "link": "https://www.abc.net.au/news/2026-10-07/afl-trade-period-live-blog-wednesday-october-7/107234160",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "Indian opposition MPs detained in protest against election chief",
         "description": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
         "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 6,
+      "story": {
+        "title": "The small African nation ready for Messi's big night",
+        "description": "Benin are about to have their own moment in the limelight as they visit Argentina for Lionel Messi's final game.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqly0lx461m8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 6,
+      "story": {
+        "title": "How India became dangerously addicted to Chinese imports",
+        "description": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
+        "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -168,27 +168,39 @@
       }
     },
     {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 5,
+      "story": {
+        "title": "Singapore to push for deeper ASEAN integration, wider partnerships as bloc chair in 2027: Vivian Balakrishnan",
+        "description": "Speaking at the Milken Institute Asia Summit, the Foreign Affairs Minister also discussed navigating the US-China rivalry and warned of the risks posed by increasingly autonomous AI agents",
+        "link": "https://www.channelnewsasia.com/cna/vivian-balakrishnan-milken-asean-integration-chair-ai-agents-6437041",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 4,
       "story": {
-        "title": "The small African nation ready for Messi's big night",
-        "description": "Benin are about to have their own moment in the limelight as they visit Argentina for Lionel Messi's final game.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cqly0lx461m8o?at_medium=RSS&at_campaign=rss",
+        "title": "Ship sinks and crew missing after Black Sea drone attack",
+        "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 4,
       "story": {
-        "title": "Merino scores twice as Spain beat Croatia 2-1 in Nations League",
-        "description": "Mikel Merino turns game for Spain in Croatia to maintain their 100 percent group-stage record in UEFA Nations League.",
-        "link": "https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Blackstone-backed AirTrunk to invest $1 billion in Japan data centre campus",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/business/blackstone-backed-airtrunk-invest-1-billion-in-japan-data-centre-campus-6438441",
+        "source": "CNA"
       }
     },
     {
@@ -197,9 +209,21 @@
       "lon": 34.75,
       "count": 3,
       "story": {
-        "title": "US lawmakers call on Israel to release imprisoned doctor Hussam Abu Safia",
-        "description": "Progressive US representatives seek to bring attention to Israeli abuse and detention of Palestinian medical worker.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/us-lawmakers-call-on-israel-to-release-imprisoned-doctor-hussam-abu-safia?traffic_source=rss",
+        "title": "Israelis pause to mark October 7 Hamas-attack anniversary",
+        "description": "Israelis gathered at memorials to mark the moment the Hamas-led attack began on October 7, 2023.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Buenos Aires",
+      "lat": -34.6,
+      "lon": -58.38,
+      "count": 3,
+      "story": {
+        "title": "Lionel Messi plays final Argentina game to roaring Buenos Aires farewell",
+        "description": "Lionel Messi played his final game for Argentina in a friendly against Benin, ending a 21-year international career.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/10-7-messi-final-game-sv-mp4?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -209,10 +233,10 @@
       "lon": -77.04,
       "count": 3,
       "story": {
-        "title": "Naked Trump statue goes on display in Strasbourg",
-        "description": "Titled \"The Orange Plague,\" a gold-coated statue presents Donald Trump sitting on a smaller man's back. The Danish artist blamed Trump for getting in the way of efforts to address climate change.",
-        "link": "https://www.dw.com/en/naked-trump-statue-goes-on-display-in-strasbourg/a-79568640?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Australia top court rules against coal mine expansion, citing climate harm",
+        "description": "Campaigners say ruling sets a precedent requiring climate damage be weighed when fossil fuel projects are considered.",
+        "link": "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -224,42 +248,6 @@
         "title": "Tear gas in Paris and Marseille as school protests grow across France",
         "description": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
         "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 2,
-      "story": {
-        "title": "Kenya confirms its first Ebola death as outbreak spreads",
-        "description": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
-        "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 2,
-      "story": {
-        "title": "Kenya confirms its first Ebola death as outbreak spreads",
-        "description": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
-        "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 2,
-      "story": {
-        "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
-        "description": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-        "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,39 +264,63 @@
       }
     },
     {
-      "name": "Buenos Aires",
-      "lat": -34.6,
-      "lon": -58.38,
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
       "count": 2,
       "story": {
-        "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
-        "description": "Thousands of Argentina fans poured into Buenos Aires’ Monumental stadium ahead of Lionel Messi’s final match.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
+        "title": "Explosion shutters Venezuela’s second-largest oil refinery",
+        "description": "An explosion has ripped through Venezuela&#039;s second-largest oil refinery, causing it to suspend activities.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
       "count": 2,
       "story": {
-        "title": "Japan's real wages rise for eighth straight month in August",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/business/japans-real-wages-rise-eighth-straight-month-in-august-6437826",
-        "source": "CNA"
+        "title": "Syrian embassy returns seized passport after 43 years",
+        "description": "Syria&#039;s embassy in Berlin has returned the passport of a citizen that the former Assad government seized 43 years ago.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 2,
       "story": {
-        "title": "Air quality in parts of Singapore in unhealthy range",
-        "description": "24-hour PSI readings in central, eastern and western Singapore were in the unhealthy range at 7am,&nbsp;while 1-hour PM2.5 readings were also elevated in these regions.",
-        "link": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-air-quality-oct-7-6437771",
-        "source": "CNA"
+        "title": "Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF",
+        "description": "At least 10 civilians were killed in West Kordofan and 5,500 displaced in Blue Nile as clashes widened on Tuesday.",
+        "link": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Where is Spain headed after the snap election announcement?",
+        "description": "Prime Minister Pedro Sanchez is taking a gamble by calling an early election in Spain. The housing crisis, migration and the rise of the right-wing populist Vox party are all likely to dominate the campaign.",
+        "link": "https://www.dw.com/en/where-is-spain-headed-after-the-snap-election-announcement/a-79567959?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Finland",
+      "lat": 61.92,
+      "lon": 25.75,
+      "count": 1,
+      "story": {
+        "title": "Finland orders halt to work on two Google data centres",
+        "description": "The order affecting two planned data centres follows concerns over forest clearance.",
+        "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -324,14 +336,26 @@
       }
     },
     {
-      "name": "Finland",
-      "lat": 61.92,
-      "lon": 25.75,
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
       "count": 1,
       "story": {
-        "title": "Finland orders halt to work on two Google data centres",
-        "description": "The order affecting two planned data centres follows concerns over forest clearance.",
-        "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+        "title": "Kenya confirms its first Ebola death as outbreak spreads",
+        "description": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+        "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 1,
+      "story": {
+        "title": "Kenya confirms its first Ebola death as outbreak spreads",
+        "description": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+        "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -360,14 +384,14 @@
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 1,
       "story": {
-        "title": "Watch: Moment Indonesian shoe shop is torn apart by explosion",
-        "description": "Police have said it is “strongly suspected” that the incident was caused by a gas leak.",
-        "link": "https://www.bbc.co.uk/news/videos/cmkg7dx8wpygo?at_medium=RSS&at_campaign=rss",
+        "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
+        "description": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
+        "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -384,14 +408,38 @@
       }
     },
     {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
       "count": 1,
       "story": {
-        "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
-        "description": "Frequent outages have fuelled protests against the government of interim Venezuelan President Delcy Rodriguez.",
-        "link": "https://www.aljazeera.com/news/longform/2026/10/6/we-are-desperate-venezuelas-power-cuts-fuel-growing-public-anger?traffic_source=rss",
+        "title": "Tree nearly as old as US torn down to expand Mexico border wall",
+        "description": "A 200-year-old cottonwood tree has been cut down to make way for a 44-km US-Mexico double border wall despite protests.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/tree-nearly-as-old-as-us-torn-down-to-expand-mexico-border-wall?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 1,
+      "story": {
+        "title": "Syrian embassy returns seized passport after 43 years",
+        "description": "Syria&#039;s embassy in Berlin has returned the passport of a citizen that the former Assad government seized 43 years ago.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
+      "count": 1,
+      "story": {
+        "title": "Iran war live: Houthi missiles hit Aden airport, another downed over Riyadh",
+        "description": "Yemeni forces claim they have tightened control over the highest peak in the Jabal Habashi district of Taiz.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -408,134 +456,14 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "US arrests suspect in connection with Tumbler Ridge school shooting",
-        "description": "The suspect, from the western state of Washington, allegedly gave money and advice to the attacker over the internet.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Croatia",
-      "lat": 45.1,
-      "lon": 15.2,
-      "count": 1,
-      "story": {
-        "title": "Merino scores twice as Spain beat Croatia 2-1 in Nations League",
-        "description": "Mikel Merino turns game for Spain in Croatia to maintain their 100 percent group-stage record in UEFA Nations League.",
-        "link": "https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tokyo",
-      "lat": 35.68,
-      "lon": 139.77,
-      "count": 1,
-      "story": {
-        "title": "Tokyo protests US military presence after Okinawa killing",
-        "description": "Protesters rallied outside the US Embassy in Tokyo after a US Marine was arrested for the killing of a 39-year-old woman",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 1,
-      "story": {
-        "title": "Why Flavio Bolsonaro outperformed the polls in Brazil’s election",
-        "description": "A late right-wing shift, a banking scandal and economic frustration may be behind Bolsonaro&#039;s last-minute gains.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "US lawmakers call on Israel to release imprisoned doctor Hussam Abu Safia",
-        "description": "Progressive US representatives seek to bring attention to Israeli abuse and detention of Palestinian medical worker.",
-        "link": "https://www.aljazeera.com/news/2026/10/6/us-lawmakers-call-on-israel-to-release-imprisoned-doctor-hussam-abu-safia?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
-      "count": 1,
-      "story": {
-        "title": "Ronaldo apologizes for Portugal walkout; says Jesus broke promise",
-        "description": "Cristiano Ronaldo accuses Portugal coach Jorge Jesus of broken promises, but leaves international return open.",
-        "link": "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
-      "count": 1,
-      "story": {
-        "title": "Indian opposition leaders detained during voter lists protest",
-        "description": "Police detained Indian opposition leaders during a protest outside the Election Commission in New Delhi where lawmakers",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/indian-opposition-leaders-detained-during-voter-lists-protest?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "Queensland father charged with killing three-month-old",
-        "description": "The baby was transferred to a Brisbane hospital, where he died from his injuries on Tuesday afternoon.",
-        "link": "https://www.abc.net.au/news/2026-10-07/man-charged-with-killing-ipswich-baby-boy/107237458",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "Ukraine says South Korean exports helped ease Russia's drone-strike crisis",
-        "description": "Russia has imported fuel from South Korean ports, easing the impact of a fuel crisis caused by Ukrainian drone strikes on Russian oil refineries, Ukraine's top sanctions official says.",
-        "link": "https://www.abc.net.au/news/2026-10-07/south-korea-weapons-to-russia-ukraine-says-easing-crisis/107237356",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "Canberra Airport proposes all-event stadium in city centre",
-        "description": "Canberra Airport has unveiled a proposal for a stadium in Canberra's CBD, which the government has previously ruled out, but the airport insists it is the best location for a \"world-class, all-event\" facility.",
-        "link": "https://www.abc.net.au/news/2026-10-07/canberra-airport-proposes-all-event-stadium-in-civic/107235890",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "Aussies dealt major injury blow ahead of first South Africa Test",
-        "description": "Australia will have to reshuffle its line-up for the series opener against the Proteas in Durban after one of its stars is ruled out with an injury.",
-        "link": "https://www.abc.net.au/news/2026-10-07/cricket-australia-south-africa-first-test-cameron-green-durban/107236966",
+        "title": "Paedophile child psychiatrist who conducted bogus 'puberty checks' jailed",
+        "description": "Benjamin Wen is sentenced to more than a decade behind bars for sexually abusing boys he treated at his clinic in Perth's south.",
+        "link": "https://www.abc.net.au/news/2026-10-07/psychiatrist-benjamin-wen-sentenced-for-child-sex-abuse/107236528",
         "source": "ABC News AU"
       }
     },
@@ -549,6 +477,78 @@
         "description": "The man, a British national in his twenties, was arrested in London in suspicion of \"preparing terrorist acts.\"",
         "link": "https://www.dw.com/en/uk-seventh-arrest-made-after-air-base-plot/a-79566985?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 1,
+      "story": {
+        "title": "Tigray war may spill over to Eritrea — helped by Prime Minister Abiy Ahmed's rhetoric",
+        "description": "Ethiopia's Prime Minister Abiy Ahmed is consolidating power, but he must contend with a regional alliance opposing him and a Tigray conflict that could spill over into Eritrea.",
+        "link": "https://www.dw.com/en/tigray-war-may-spill-over-to-eritrea-helped-by-prime-minister-abiy-ahmed-s-rhetoric/a-79562957?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Brussels",
+      "lat": 50.85,
+      "lon": 4.35,
+      "count": 1,
+      "story": {
+        "title": "Brussels looks to capture Big Tech through tax on large corporations, FT reports",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/business/brussels-looks-capture-big-tech-through-tax-large-corporations-ft-reports-6438476",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
+      "count": 1,
+      "story": {
+        "title": "Melaka to head to the polls on Nov 14 in another test of shifting political alliances in Malaysia",
+        "description": "Nearly 700,000 voters in Melaka are set to cast their ballots in the state polls on Nov 14.",
+        "link": "https://www.channelnewsasia.com/asia/melaka-elections-polls-barisan-nasional-anwar-6432636",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 1,
+      "story": {
+        "title": "South Korea weighs cuts to military exemptions for athletes, artists following Asian Games controversy",
+        "description": "South Korea’s men’s football Asiad triumph was quickly overshadowed by controversy after some players appeared to celebrate securing military service exemptions.",
+        "link": "https://www.channelnewsasia.com/east-asia/south-korea-military-conscription-exemption-review-6438351",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 1,
+      "story": {
+        "title": "Indonesia's Constitutional Court dismisses petition to disqualify VP Gibran over education credentials",
+        "description": "Indonesia's election law requires presidential and vice-presidential candidates to have completed senior high school or hold an equivalent qualification.&nbsp;",
+        "link": "https://www.channelnewsasia.com/asia/indonesia-court-dismiss-gibran-vice-president-education-credentials-challenge-6437971",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 1,
+      "story": {
+        "title": "Decoding Japan PM Takaichi’s ‘important neighbour’ message to China - what it means for ties",
+        "description": "After nearly a year of tensions sparked by Takaichi’s remarks on Taiwan, experts say Tokyo and Beijing appear to be testing the waters on repairing ties - but significant hurdles remain.",
+        "link": "https://www.channelnewsasia.com/east-asia/japan-sanae-takaichi-policy-speech-china-relations-taiwan-6435836",
+        "source": "CNA"
       }
     }
   ]
