@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:10:22+00:00",
+  "generated_at": "2026-10-08T19:22:20+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,7 +12,13 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Italy overhauls electoral system after fiercely contested debate",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
       "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
       "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -22,19 +28,13 @@
       "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
       "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "France's school protests: What lies behind the anger",
-      "description": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "australia": [
     {
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-      "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "description": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -44,19 +44,13 @@
       "source": "BBC News"
     },
     {
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
-      "description": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
-    {
-      "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
-      "description": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
     {
       "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
       "description": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
@@ -68,6 +62,12 @@
       "description": "The decision comes after nearly half a million people voted on a shortlist of 18 creatures.",
       "link": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
+      "description": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,23 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 16,
       "story": {
-        "title": "Mine backed by US, Australia and Gina Rinehart moves towards construction",
-        "description": "After decades in development, a $1.8 billion rare earths mining project has finally seen ground broken in remote Central Australia.",
-        "link": "https://www.abc.net.au/news/2026-10-08/arafura-nolans-rare-earths-mine-alice-springs-nt-ground-broken/107240942",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 11,
-      "story": {
-        "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-        "description": "Ukraine accused Russia of targeting the crowded vehicles in the frontline city of Kramatorsk to kill as many civilians as possible.",
-        "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+        "title": "Adidas sues Australian label White Fox over four stripes design",
+        "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+        "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -99,11 +87,47 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
+      "count": 11,
+      "story": {
+        "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+        "description": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+        "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 10,
       "story": {
         "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-        "description": "Ukraine accused Russia of targeting the crowded vehicles in the frontline city of Kramatorsk to kill as many civilians as possible.",
+        "description": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
         "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 6,
+      "story": {
+        "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+        "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+        "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 5,
+      "story": {
+        "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+        "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+        "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,7 +135,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
         "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
@@ -120,62 +144,26 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 6,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 5,
       "story": {
-        "title": "Outspoken Indian actor Nana Patekar suddenly dies at 75",
-        "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-        "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+        "title": "France's school protests: What lies behind the anger",
+        "description": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 5,
-      "story": {
-        "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-        "description": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
-        "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 5,
-      "story": {
-        "title": "UK’s Burnham ‘open’ to Germany joining GCAP fighter jet programme",
-        "description": "GCAP pact between the UK, Italy and Japan to build a new fighter jet welcomed Canada as an ‘observer&#039; in July",
-        "link": "https://www.aljazeera.com/news/2026/10/8/uks-burnham-open-to-germany-joining-gcap-fighter-jet-programme?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 5,
-      "story": {
-        "title": "Sri Lanka arrests ex-President Rajapaksa’s wife in graft case",
-        "description": "Sri Lanka’s former first lady Shiranthi Rajapaksa, wife of Mahinda Rajapaksa, has been arrested in a corruption case.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/sri-lanka-arrests-ex-president-rajapaksas-wife-in-graft-case?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-        "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+        "title": "Adidas sues Australian label White Fox over four stripes design",
+        "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+        "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,39 +180,27 @@
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
       "count": 4,
       "story": {
-        "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-        "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
-        "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+        "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+        "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 4,
       "story": {
-        "title": "France's school protests: What lies behind the anger",
-        "description": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
-        "link": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 3,
-      "story": {
-        "title": "Italy overhauls electoral system after fiercely contested debate",
-        "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
-        "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+        "description": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
+        "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -240,38 +216,14 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 3,
       "story": {
-        "title": "EU trade envoy opens talks with Beijing, says China trade deficit ‘unsustainable’",
-        "description": "EU trade envoy Maros Sefcovic began two days of talks in Beijing aimed at averting a trade war, calling for better access to the Chinese market and stronger economic security.",
-        "link": "https://www.channelnewsasia.com/east-asia/china-eu-trade-war-deficit-unsustainable-6442226",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
-      "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 2,
-      "story": {
-        "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-        "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
-        "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+        "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+        "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+        "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -279,7 +231,7 @@
       "name": "Saudi Arabia",
       "lat": 23.9,
       "lon": 45.1,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
         "description": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies.",
@@ -288,14 +240,50 @@
       }
     },
     {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 3,
+      "story": {
+        "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+        "description": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
+        "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 3,
+      "story": {
+        "title": "US will not resume strikes on Iran before midterms — Trump",
+        "description": "President Donald Trump said the US will not resume strikes on Iran before the midterm elections on November 3. High gas and grocery prices are top concerns for voters.",
+        "link": "https://www.dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Chile",
+      "lat": -35.68,
+      "lon": -71.54,
       "count": 2,
       "story": {
-        "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
-        "description": "The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports.",
-        "link": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
+        "title": "Residents airlifted to safety after flooding in central Chile",
+        "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+        "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 2,
+      "story": {
+        "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+        "description": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
+        "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -308,18 +296,18 @@
         "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
         "description": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers.",
         "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "source": "BBC Business"
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
       "count": 2,
       "story": {
-        "title": "Malaysia PM says will work on Myanmar’s ASEAN reintegration",
-        "description": "Myanmar leader Min Aung Hlaing in Malaysia for a two-day visit, his first since he became president in April.",
-        "link": "https://www.aljazeera.com/news/2026/10/8/malaysia-to-help-myanmar-reintegrate-into-asean-despite-rights-concerns?traffic_source=rss",
+        "title": "Israel opens first-ever pavilion at Morocco defence show",
+        "description": "Israel opened its first national pavilion at Morocco&#039;s Marrakech Air Show, joined by Israel&#039;s top military contractors.",
+        "link": "https://www.aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -329,10 +317,46 @@
       "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "Gaza war sped up India’s shift towards Israel under Modi",
-        "description": "As even Israel&#039;s traditional allies are distancing themselves from Netanyahu, Modi&#039;s India has embraced the country.",
-        "link": "https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss",
+        "title": "Jerusalem Daily: Remembrance and mourning",
+        "description": "Thousands protest worldwide in solidarity with Gaza as Palestinians mourn those being killed in daily Israeli strikes.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 2,
+      "story": {
+        "title": "South Africa vs Australia Test series, everything you need to know",
+        "description": "Australia heads back to South Africa for a three-Test series for the first time since 2018 and the infamous Sandpapergate series. Here's everything you need to know.",
+        "link": "https://www.abc.net.au/news/2026-10-09/south-africa-vs-australia-test-series-when-is-it-what-time-where/107232566",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 2,
+      "story": {
+        "title": "EU envoy in Beijing for talks to calm trade tensions",
+        "description": "The EU trade envoy said he hoped to make progress in tackling the bloc's \"unsustainable\" trade imbalance with China. Beijing called for trade disputes to be resolved through equal dialogue.",
+        "link": "https://www.dw.com/en/eu-envoy-in-beijing-for-talks-to-calm-trade-tensions/a-79598713?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 2,
+      "story": {
+        "title": "Germany news: UK's Burnham visits Berlin for talks with Merz",
+        "description": "UK Prime Minister Andy Burnham is visiting Berlin to launch a new bilateral treaty and hold talks with Chancellor Friedrich Merz. President Steinmeier is on a state visit to France.",
+        "link": "https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -342,56 +366,44 @@
       "count": 2,
       "story": {
         "title": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
-        "description": "Two ships have sunk off the coast of Bulgaria and Romania after drone attacks in recent days. Sofia has held back on pointing the finger at Russia. What does that mean for security in the Black Sea and the region?",
+        "description": "Two ships have sunk off the coast of Bulgaria and Romania after drone attacks in recent days. Bulgaria has held back on pointing the finger at Russia. What does that mean for security in the Black Sea and the region?",
         "link": "https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Landmark ASEAN digital pact will guide region on AI, digital economy: Marcos",
-        "description": "Parties are also making “good progress” on the code of conduct for the South China Sea, Philippine President Ferdinand Marcos Jr said at a forum in Singapore.",
-        "link": "https://www.channelnewsasia.com/asia/philippine-president-ferdinand-marcos-jr-forbes-asean-6442061",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-        "description": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
-        "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+        "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+        "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+        "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-        "description": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
-        "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+        "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+        "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+        "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-        "description": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
-        "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+        "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+        "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+        "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -408,14 +420,38 @@
       }
     },
     {
-      "name": "Chile",
-      "lat": -35.68,
-      "lon": -71.54,
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
       "count": 1,
       "story": {
-        "title": "Residents airlifted to safety after flooding in central Chile",
-        "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
-        "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+        "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+        "description": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+        "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 1,
+      "story": {
+        "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+        "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+        "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 1,
+      "story": {
+        "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+        "description": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
+        "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -432,74 +468,14 @@
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
       "count": 1,
       "story": {
-        "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-        "description": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
-        "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Istanbul",
-      "lat": 41.0,
-      "lon": 28.98,
-      "count": 1,
-      "story": {
-        "title": "Two killed after building partially collapses in Turkiye’s Istanbul",
-        "description": "Eight survivors rescued from the rubble as fears of further collapse slow operations in Istanbul’s Maltepe district.",
-        "link": "https://www.aljazeera.com/news/2026/10/8/two-killed-after-building-partially-collapses-in-turkiye-capital?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
-      "count": 1,
-      "story": {
-        "title": "Why has Iraq devalued its currency, and why are some MPs against it?",
-        "description": "MPs oppose dinar devaluation, citing increased living costs and financial strain on Iraq’s most vulnerable populations.",
-        "link": "https://www.aljazeera.com/economy/2026/10/8/why-has-iraq-devalued-its-currency-and-why-are-some-mps-against-it?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 1,
-      "story": {
-        "title": "India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?",
-        "description": "India, Turkiye, Egypt and the US have put forward proposals for ceasefires in bid to protect global energy and shipping.",
-        "link": "https://www.aljazeera.com/news/2026/10/8/india-to-turkiye-can-new-proposals-to-broker-russia-ukraine-truce-succeed?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Photos: Protests erupt after 87-year-old evicted woman dies in Madrid",
-        "description": "Nationwide outrage grows after the death of woman whose eviction sparked protests and political tensions.",
-        "link": "https://www.aljazeera.com/gallery/2026/10/8/photos-protests-erupt-after-87-year-old-evicted-woman-dies-in-madrid?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 1,
-      "story": {
-        "title": "Malaysia PM says will work on Myanmar’s ASEAN reintegration",
-        "description": "Myanmar leader Min Aung Hlaing in Malaysia for a two-day visit, his first since he became president in April.",
-        "link": "https://www.aljazeera.com/news/2026/10/8/malaysia-to-help-myanmar-reintegrate-into-asean-despite-rights-concerns?traffic_source=rss",
+        "title": "Colombian embassy to open in Jerusalem, Israeli FM says",
+        "description": "Colombian President Abelardo De la Espriella had promised closer ties with Israel on the campaign trail.",
+        "link": "https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -509,21 +485,57 @@
       "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "Why Israel loves skunk water",
-        "description": "Israel’s foul-smelling weapon turns Palestinian repression into a sales pitch.",
-        "link": "https://www.aljazeera.com/opinions/2026/10/8/why-israel-loves-skunk-water?traffic_source=rss",
+        "title": "Jerusalem Daily: Remembrance and mourning",
+        "description": "Thousands protest worldwide in solidarity with Gaza as Palestinians mourn those being killed in daily Israeli strikes.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
+      "name": "Manila",
+      "lat": 14.6,
+      "lon": 120.98,
       "count": 1,
       "story": {
-        "title": "Two more charged with murder over fatal house party attack",
-        "description": "Two more men have been charged with murder over the death of a 21-year-old man at a house party south of Brisbane, bringing the total number of people charged to 11.",
-        "link": "https://www.abc.net.au/news/2026-10-08/qld-two-charged-with-murder-bahrs-scrub/107244732",
+        "title": "Video shows dramatic eruption of volcano near Manila",
+        "description": "Taal Volcano near the Philippine capital briefly erupted, sending a dark grey ash plume 4,000 metres above its crater.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-shows-dramatic-eruption-of-volcano-near-manila?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
+      "count": 1,
+      "story": {
+        "title": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
+        "description": "Saudi Arabia says two of the missiles intercepted were headed towards the capital, Riyadh.",
+        "link": "https://www.aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 1,
+      "story": {
+        "title": "Shoot the People: Global Activism through Misan Harriman’s Lens",
+        "description": "Influential British Nigerian photographer and activist Misan Harriman captures global protests that drive social change.",
+        "link": "https://www.aljazeera.com/video/witness/2026/10/8/shoot-the-people-global-activism-through-misan-harrimans-lens?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 1,
+      "story": {
+        "title": "Singapore launches new dating app — but not everyone qualifies",
+        "description": "FirstDate is exclusively for public servants and comes as fertility and marriage rates fall in the city-state. Will it help turn them around?",
+        "link": "https://www.abc.net.au/news/2026-10-09/singapore-dating-app-firstdate-matchmaker-civil-servants/107229898",
         "source": "ABC News AU"
       }
     },
@@ -533,21 +545,9 @@
       "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Melbourne man accused of spreading Islamic State material granted bail",
-        "description": "A Melbourne magistrate has granted bail to 65-year-old Mohamed Bakit, telling a court he has a significant neurological disability.",
-        "link": "https://www.abc.net.au/news/2026-10-08/alleged-isis-propagandist-mohamed-bakit-granted-bail/107244368",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "'Group of individuals' impacted by data breach at SA hospital",
-        "description": "An Adelaide private hospital has notified individuals and cyber security authorities of a data breach of personal information.",
-        "link": "https://www.abc.net.au/news/2026-10-08/group-of-individuals-impacted-by-st-andrews-hospital-data-breach/107243514",
+        "title": "Car burnt in driveway in Melbourne's south-east 14th this week",
+        "description": "A police commander says it is believed the repeated arson attacks are linked to organised crime and appear to be an intimidation tactic.",
+        "link": "https://www.abc.net.au/news/2026-10-09/car-burnt-in-hampton-park-driveway-melbourne/107245944",
         "source": "ABC News AU"
       }
     }
