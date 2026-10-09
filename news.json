@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:51:57+00:00",
+  "generated_at": "2026-10-09T05:37:28+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,7 +32,7 @@
   ],
   "australia": [
     {
-      "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
       "description": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
       "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -64,10 +64,10 @@
       "source": "BBC Business"
     },
     {
-      "title": "Ex-bankers jailed for rigging rates have convictions quashed",
-      "description": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
+      "title": "EU envoy in Beijing for talks to calm trade tensions",
+      "description": "The EU trade envoy said he hoped to make progress in tackling the bloc's \"unsustainable\" trade imbalance with China. Beijing called for trade disputes to be resolved through equal dialogue.",
+      "link": "https://www.dw.com/en/eu-envoy-in-beijing-for-talks-to-calm-trade-tensions/a-79598713?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 11,
       "story": {
         "title": "Adidas sues Australian label White Fox over four stripes design",
         "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
@@ -84,10 +84,22 @@
       }
     },
     {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 11,
+      "story": {
+        "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
+        "description": "Crew members express relief after a record 265 days at sea that strained conditions on board.",
+        "link": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 7,
+      "count": 10,
       "story": {
         "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
         "description": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
@@ -99,23 +111,11 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
         "description": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
         "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 7,
-      "story": {
-        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-        "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,22 +132,58 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 5,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 4,
       "story": {
-        "title": "Putin pledges Russia’s support to end US-led war on Iran",
-        "description": "The Russian and Iranian presidents met in Turkmenistan ahead of regional summit.",
-        "link": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
+        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+        "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+        "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 4,
+      "story": {
+        "title": "France's school protests: What lies behind the anger",
+        "description": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 4,
+      "story": {
+        "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
+        "description": "Russia and China block US efforts to expand the Darfur arms embargo to cover all of Sudan amid ongoing conflict.",
+        "link": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 4,
+      "story": {
+        "title": "EU pulls sponsorship from Disinfo2026 event in Lithuania",
+        "description": "The EU's diplomatic service, Canada and host nation Lithuania all pulled support from a disinformation event in Vilnius. Amid reports of US pressure, the EU said it was \"uncomfortable with the framing\" of some panels.",
+        "link": "https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
       "name": "Venezuela",
       "lat": 6.4,
       "lon": -66.6,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
         "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
@@ -168,14 +204,14 @@
       }
     },
     {
-      "name": "Seoul",
-      "lat": 37.57,
-      "lon": 126.98,
+      "name": "Chile",
+      "lat": -35.68,
+      "lon": -71.54,
       "count": 3,
       "story": {
-        "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-        "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
-        "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+        "title": "Residents airlifted to safety after flooding in central Chile",
+        "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+        "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,26 +228,14 @@
       }
     },
     {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
       "count": 3,
       "story": {
-        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-        "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-        "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 3,
-      "story": {
-        "title": "France's school protests: What lies behind the anger",
-        "description": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
-        "link": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
+        "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+        "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+        "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -233,69 +257,69 @@
       "lon": 34.47,
       "count": 3,
       "story": {
-        "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
-        "description": "Islamic Relief calls for global action as deadly Israeli attacks in Gaza continue and humanitarian conditions worsen.",
-        "link": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
+        "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
+        "description": "An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood, killing several people, including children.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 3,
       "story": {
-        "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
-        "description": "Islamic Relief calls for global action as deadly Israeli attacks in Gaza continue and humanitarian conditions worsen.",
-        "link": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Woman, 71, treated on 'cold floor' of Adelaide hospital",
+        "description": "A woman details how she spent four hours on the floor of the Noarlunga Hospital while being treated for a chronic lung condition.",
+        "link": "https://www.abc.net.au/news/2026-10-09/woman-treated-on-cold-floor-of-adelaide-hospital/107246716",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 3,
-      "story": {
-        "title": "EU pulls sponsorship from Disinfo2026 event in Lithuania",
-        "description": "The EU's diplomatic service, Canada and host nation Lithuania all pulled support from a disinformation event in Vilnius. Amid reports of US pressure, the EU said it was \"uncomfortable with the framing\" of some panels.",
-        "link": "https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 3,
-      "story": {
-        "title": "EU envoy in Beijing for talks to calm trade tensions",
-        "description": "The EU trade envoy said he hoped to make progress in tackling the bloc's \"unsustainable\" trade imbalance with China. Beijing called for trade disputes to be resolved through equal dialogue.",
-        "link": "https://www.dw.com/en/eu-envoy-in-beijing-for-talks-to-calm-trade-tensions/a-79598713?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Chile",
-      "lat": -35.68,
-      "lon": -71.54,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 2,
       "story": {
-        "title": "Residents airlifted to safety after flooding in central Chile",
-        "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
-        "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+        "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+        "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+        "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 2,
+      "story": {
+        "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+        "description": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
+        "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Seoul",
+      "lat": 37.57,
+      "lon": 126.98,
       "count": 2,
       "story": {
         "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
         "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
         "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 2,
+      "story": {
+        "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
+        "description": "Residents of Adigrat tell the BBC they have seen truck loads of soldiers from Eritrea moving south.",
+        "link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -309,6 +333,18 @@
         "description": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers.",
         "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 2,
+      "story": {
+        "title": "Mexico prison clash in strife-torn Sinaloa state leaves 10 dead",
+        "description": "Nine inmates and one visitor killed in Sinaloa prison riot, local authorities say.",
+        "link": "https://www.aljazeera.com/news/2026/10/9/mexico-prison-clash-in-strife-torn-sinaloa-state-leaves-10-dead?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -329,33 +365,9 @@
       "lon": 22.9,
       "count": 2,
       "story": {
-        "title": "South Africa protests turn violent amid rage over asylum ruling",
-        "description": "Several cars torched and foreign-run businesses forced to shut in Johannesburg&#039;s Soweto and coastal city of Durban.",
-        "link": "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 2,
-      "story": {
-        "title": "Prosecutors in Maradona death trial seek sentences up to 12 years",
-        "description": "Seven medical professionals face calls for 12-year prison sentences in trial over Argentina icon Diego Maradona&#039;s death.",
-        "link": "https://www.aljazeera.com/sports/2026/10/8/prosecutors-in-maradona-death-trial-seek-sentences-up-to-12-years?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 2,
-      "story": {
-        "title": "Breaking: Man found dead by police after 'serious incident' in Perth's south",
-        "description": "Homicide detectives are investigating the death of a man at a house in Orelia, with a second man found at the property taken into custody.",
-        "link": "https://www.abc.net.au/news/2026-10-09/man-found-dead-by-police-after-serious-incident-in-orelia-perth/107246536",
+        "title": "The mixed fortunes of Australia's last South African touring party",
+        "description": "Some players from Australia's last Test tour of South Africa saw their careers skyrocket, while others couldn't recapture the same heights. Here is a look at what came of each member of the 2018 touring party.",
+        "link": "https://www.abc.net.au/news/2026-10-09/cricket-australia-2018-south-africa-tour-where-are-they-now/107089932",
         "source": "ABC News AU"
       }
     },
@@ -372,14 +384,38 @@
       }
     },
     {
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
+      "count": 2,
+      "story": {
+        "title": "Afghan women facing arrest for dress code violations: UN",
+        "description": "In recent months, the Taliban authorities in Afghanistan have arrested or detained dozens of women for alleged violations of dress codes and for appearing in public without a male guardian.",
+        "link": "https://www.dw.com/en/afghan-women-facing-arrest-for-dress-code-violations-un/a-79605758?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Singapore",
       "lat": 1.35,
       "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "Singapore haze: 1-hour PM2.5 readings in elevated range across all regions",
-        "description": "As of 7am, 24-hour PSI readings were in the unhealthy range in all five regions as well.",
-        "link": "https://www.channelnewsasia.com/singapore/haze-air-quality-unhealthy-psi-pm25-oct-9-6444671",
+        "title": "Live: Haze persists across Singapore with air quality at unhealthy levels",
+        "description": "The 24-hour PSI hit 184 in the central region at noon - the highest in this haze season.",
+        "link": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-unhealthy-psi-6445146",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Hong Kong",
+      "lat": 22.32,
+      "lon": 114.17,
+      "count": 2,
+      "story": {
+        "title": "Hong Kong singer GEM and longtime boyfriend rumoured to have secretly married",
+        "description": "Mark Ngai’s grandfather was once married to Hong Kong actress Rosamund Kwan.",
+        "link": "https://www.channelnewsasia.com/node/6444861",
         "source": "CNA"
       }
     },
@@ -392,30 +428,6 @@
         "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
         "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
         "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-        "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
-        "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 1,
-      "story": {
-        "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
-        "description": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -480,14 +492,14 @@
       }
     },
     {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
       "count": 1,
       "story": {
-        "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
-        "description": "Residents of Adigrat tell the BBC they have seen truck loads of soldiers from Eritrea moving south.",
-        "link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
+        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+        "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+        "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -497,8 +509,8 @@
       "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "White House blocks Microsoft from foreign worker hiring program",
-        "description": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+        "title": "White House blocks Microsoft from foreign worker hiring programme",
+        "description": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
         "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
       }
@@ -516,38 +528,26 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
       "count": 1,
       "story": {
-        "title": "What is the Mecca defence pact?",
-        "description": "Saudi Arabia, Turkiye and Pakistan are activating their defence pact to counter attacks from Yemen’s Houthis.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss",
+        "title": "Northern Ireland’s Sinn Fein faces police probe as protest tensions fester",
+        "description": "The Democratic Unionist Party calls for the prosecution of Sinn Fein lawmakers who participated in the protest.",
+        "link": "https://www.aljazeera.com/news/2026/10/9/northern-irelands-sinn-fein-faces-police-probe-as-protest-tensions-fester?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 1,
       "story": {
-        "title": "Philippines ex-President Duterte fit to stand trial, ICC rules",
-        "description": "The former president is able to understand the charges and follow the proceedings, panel of experts find.",
-        "link": "https://www.aljazeera.com/news/2026/10/8/philippines-ex-president-duterte-fit-to-stand-trial-icc-rules?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 1,
-      "story": {
-        "title": "Israel opens first-ever pavilion at Morocco defence show",
-        "description": "Israel opened its first national pavilion at Morocco&#039;s Marrakech Air Show, joined by Israel&#039;s top military contractors.",
-        "link": "https://www.aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show?traffic_source=rss",
+        "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
+        "description": "Russia and China block US efforts to expand the Darfur arms embargo to cover all of Sudan amid ongoing conflict.",
+        "link": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
         "source": "Al Jazeera"
       }
     }
