@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:44:31+00:00",
+  "generated_at": "2026-10-09T23:07:06+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,21 +32,21 @@
   ],
   "australia": [
     {
-      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-      "description": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+      "description": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found  at the bottom of a well.",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
       "title": "France promises 3,000 extra teachers in first step to calm student protests",
       "description": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
       "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
-      "description": "Dr Vincent Brown was allegedly a \"leader\" or \"supervisor\" of violent acts carried out by others in the early days of the genocide.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -64,10 +64,10 @@
       "source": "BBC Business"
     },
     {
-      "title": "Israeli settler attacks target Palestinian olive harvest in West Bank",
-      "description": "At least 19 settler attacks recorded across territory on Friday as Israeli forces separately detain 16 Palestinians.",
-      "link": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
-      "source": "Al Jazeera"
+      "title": "Kalshi probes suspicious trades tied to Trump press secretary pick, WSJ reports",
+      "description": "",
+      "link": "https://www.channelnewsasia.com/business/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-6448026",
+      "source": "CNA"
     }
   ],
   "places": [
@@ -75,11 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 14,
       "story": {
-        "title": "Adidas sues Australian label White Fox over four stripes design",
-        "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
-        "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+        "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+        "description": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found  at the bottom of a well.",
+        "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -87,24 +87,36 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 6,
+      "count": 11,
       "story": {
-        "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-        "description": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-        "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 7,
+      "story": {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 6,
       "story": {
-        "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-        "description": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
-        "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "NT council's China trade mission questioned amid cost-of-living crisis",
+        "description": "Questions have been raised over Darwin City Council leading a delegation of businesses to China and Vietnam later this year, on a trip that will cost local ratepayers thousands of dollars.",
+        "link": "https://www.abc.net.au/news/2026-10-10/darwin-city-council-china-vietnam-delegation-amid-rate-rise/107242730",
+        "source": "ABC News AU"
       }
     },
     {
@@ -120,38 +132,38 @@
       }
     },
     {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 5,
+      "story": {
+        "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+        "description": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
+        "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 4,
+      "story": {
+        "title": "Commentator Katie Zacharia picked as new White House press secretary",
+        "description": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+        "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
         "description": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
         "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
-      "story": {
-        "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-        "description": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
-        "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
-      "story": {
-        "title": "Meet India's feisty Gen Z protester who is taking on Modi",
-        "description": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
-        "link": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,27 +192,39 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "Meet India's feisty Gen Z protester who is taking on Modi",
+        "description": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
+        "link": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 4,
+      "count": 3,
       "story": {
-        "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
-        "description": "Humanitarian and human rights groups call out Israel&#039;s continued killings and restrictions across the enclave.",
-        "link": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
+        "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+        "description": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack.",
+        "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 3,
       "story": {
-        "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-        "description": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
-        "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+        "description": "Several US allies call to &#039;defend&#039; and &#039;protect&#039; the ICC following Washington&#039;s decision to sanction the judiciary body.",
+        "link": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -216,39 +240,27 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 3,
       "story": {
-        "title": "Palestinians seek protection from violent settlers during olive harvest",
-        "description": "Palestinian farmers harvesting olives in the occupied West Bank are calling on international activists to protect them.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/palestinians-seek-protection-from-violent-settlers-during-olive-harvest?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 3,
-      "story": {
-        "title": "Live: Matildas take on world number three Germany in friendly",
-        "description": "The Matildas take on world number three Germany without gun Mary Fowler, as Tori Tumeth, Courtney Newbon and Hana Lowry hope for a debut in Karlsruhe. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-10-10/matildas-vs-germany-friendly-live-blog/107250258",
+        "title": "Melbourne hit by sixth consecutive night of arson attacks",
+        "description": "Victoria Police are investigating another car fire in Melbourne after six consecutive days of arson attacks across the city.",
+        "link": "https://www.abc.net.au/news/2026-10-10/taylors-lakes-oakleigh-south-fires/107250932",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 3,
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 2,
       "story": {
-        "title": "China, EU reach deal to 'moderate' China's car exports to EU",
-        "description": "An agreement between the EU and China would reduce exports of Chinese electric and plug-in hybrid cars to the 27-member European bloc by up to 50%, according to the EU trade envoy.",
-        "link": "https://www.dw.com/en/china-eu-reach-deal-to-moderate-china-s-car-exports-to-eu/a-79621394?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+        "description": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+        "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -264,6 +276,42 @@
       }
     },
     {
+      "name": "Dubai",
+      "lat": 25.2,
+      "lon": 55.27,
+      "count": 2,
+      "story": {
+        "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+        "description": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack.",
+        "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+        "description": "Several US allies call to &#039;defend&#039; and &#039;protect&#039; the ICC following Washington&#039;s decision to sanction the judiciary body.",
+        "link": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+        "description": "Several US allies call to &#039;defend&#039; and &#039;protect&#039; the ICC following Washington&#039;s decision to sanction the judiciary body.",
+        "link": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Brussels",
       "lat": 50.85,
       "lon": 4.35,
@@ -276,15 +324,27 @@
       }
     },
     {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
       "count": 2,
       "story": {
-        "title": "Bangladesh’s mango diplomacy with India has reached its limits",
-        "description": "Cultural gestures have kept relations from collapsing, but repairing ties with India will require tough negotiations.",
-        "link": "https://www.aljazeera.com/opinions/2026/10/9/bangladeshs-mango-diplomacy-with-india-has-reached-its-limits?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Mexican men guilty of murdering brothers Jake and Callum Robinson",
+        "description": "Three men are found guilty of killing Jake and Callum Robinson and their friend Carter Rhoad while they were camping in Mexico in 2024.",
+        "link": "https://www.abc.net.au/news/2026-10-10/jake-callum-robinson-mexico-murder-trial-verdict/107231538",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 2,
+      "story": {
+        "title": "Is China seeking to restrict Taiwan's cultural presence?",
+        "description": "From coffee competitions to literature awards, Beijing appears to be working to limit Taiwan's international cultural and political impact.",
+        "link": "https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -293,34 +353,10 @@
       "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "'Cutthroat' hawker culture fights for survival in Singapore",
-        "description": "The city state boasts a rich and vibrant hawker scene serving affordable and delicious food, but faces the choice of preserving heritage or low prices.",
-        "link": "https://www.abc.net.au/news/2026-10-10/singapore-hawker-stall-culture-cheap-food-heritage-preserve/107209692",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 2,
-      "story": {
-        "title": "EU pulls sponsorship from Disinfo2026 event in Lithuania",
-        "description": "The EU's diplomatic service, Canada and host nation Lithuania all pulled support from a disinformation event in Vilnius. Amid reports of US pressure, the EU said it was \"uncomfortable with the framing\" of some panels.",
-        "link": "https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
-        "description": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
-        "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Singapore's air quality remains in unhealthy range",
+        "description": "The 24-hour PSI readings eased overnight after reaching new highs for this year's haze season on Friday.",
+        "link": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-unhealthy-oct-10-6446631",
+        "source": "CNA"
       }
     },
     {
@@ -332,6 +368,18 @@
         "title": "Man named Hitler Mussolini elected mayor in Peru",
         "description": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
         "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
+        "description": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
+        "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -348,30 +396,6 @@
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 1,
-      "story": {
-        "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
-        "description": "We explain why Indonesia’s peatland fires are so difficult to battle and produce so much haze.",
-        "link": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "White House blocks Microsoft from foreign worker hiring programme",
-        "description": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
-        "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "London",
       "lat": 51.5,
       "lon": -0.12,
@@ -381,6 +405,66 @@
         "description": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
         "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "How will Spain’s housing crisis affect elections?",
+        "description": "Snap vote called after Parliament rejects measures to protect tenants and freeze rents.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Chile",
+      "lat": -35.68,
+      "lon": -71.54,
+      "count": 1,
+      "story": {
+        "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
+        "description": "Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.",
+        "link": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 1,
+      "story": {
+        "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
+        "description": "Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.",
+        "link": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ecuador",
+      "lat": -1.83,
+      "lon": -78.18,
+      "count": 1,
+      "story": {
+        "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
+        "description": "Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.",
+        "link": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 1,
+      "story": {
+        "title": "Injured Orangutan rescued from Indonesia wildfires",
+        "description": "A young orangutan has been rescued from wildfires on Borneo Island in Indonesia.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -408,15 +492,39 @@
       }
     },
     {
-      "name": "Chile",
-      "lat": -35.68,
-      "lon": -71.54,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "Driver films from inside vehicle as car swept away in Chile floods",
-        "description": "Driver films from inside vehicle as car swept away in Chile floods",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/driver-films-from-inside-vehicle-as-car-swept-away-in-chile-floods?traffic_source=rss",
+        "title": "Palestinians seek protection from violent settlers during olive harvest",
+        "description": "Palestinian farmers harvesting olives in the occupied West Bank are calling on international activists to protect them.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/palestinians-seek-protection-from-violent-settlers-during-olive-harvest?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 1,
+      "story": {
+        "title": "Trump strikes deal with Putin for Russia to supply diesel to US",
+        "description": "In an apparent reversal of Washington's campaign to squeeze Russian fuel revenue powering the war in Ukraine, Donald Trump says Moscow will supply diesel to the US.",
+        "link": "https://www.abc.net.au/news/2026-10-10/trump-strikes-deal-with-putin-for-russia-to-supply-diesel-to-us/107250922",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Vietnam",
+      "lat": 14.06,
+      "lon": 108.28,
+      "count": 1,
+      "story": {
+        "title": "NT council's China trade mission questioned amid cost-of-living crisis",
+        "description": "Questions have been raised over Darwin City Council leading a delegation of businesses to China and Vietnam later this year, on a trip that will cost local ratepayers thousands of dollars.",
+        "link": "https://www.abc.net.au/news/2026-10-10/darwin-city-council-china-vietnam-delegation-amid-rate-rise/107242730",
+        "source": "ABC News AU"
       }
     },
     {
@@ -425,69 +533,9 @@
       "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Two men met on a Port Adelaide ship — a Nobel and Apocalypse Now ensued",
-        "description": "When a young English lawyer crossed paths with a Polish sailor aboard a clipper ship at Port Adelaide in 1893, neither of them was a public figure. Only later did John Galsworthy and Joseph Conrad become two of the most ",
-        "link": "https://www.abc.net.au/news/2026-10-10/nobel-winner-john-galsworthy-met-joseph-conrad-at-port-adelaide/107241272",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Fiona O'Byrne wins 2026 Lester Prize with painting of daughter",
-        "description": "The Melbourne-based artist, who has been painting her children for more than a decade, has won $50,000 for the artwork.",
-        "link": "https://www.abc.net.au/news/2026-10-09/lester-prize-winners-announced-2026-fiona-obyrne-portrait/107238658",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "Litchfield fireworks help Australia to ODI victory over Bangladesh",
-        "description": "A quick fire half-century to Phoebe Litchfield has helped Australia to a commanding seven-wicket victory over Bangladesh in their first ODI in Brisbane.",
-        "link": "https://www.abc.net.au/news/2026-10-09/australia-romps-to-odi-victory-over-bangladesh/107250156",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "Anthony De Ceglie steps down as Perth Bears CEO",
-        "description": "The NRL team, the first from WA since 1997, did not give a reason for his departure.",
-        "link": "https://www.abc.net.au/news/2026-10-09/perth-bears-ceo-anthony-de-ceglie-steps-down/107250116",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "More than 65,000 Canberrans are waiting to see a medical specialist",
-        "description": "Canberra Health Services has promised to undertake a review after revealing more than 10 per cent of Canberrans are waiting to see a specialist through the public system.",
-        "link": "https://www.abc.net.au/news/2026-10-09/act-one-in-ten-waiting-see-specialist-public-health-system/107249546",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
-      "count": 1,
-      "story": {
-        "title": "Australia and New Zealand police target motorbike gang deemed 'high threat'",
-        "description": "An outlaw motorbike gang police say puts \"profits ahead of public safety\" has been targeted by authorities in a bid to undermine its criminal control.",
-        "link": "https://www.abc.net.au/news/2026-10-09/qld-lone-wolf-outlaw-motorbike-gang-targeted/107249476",
+        "title": "Shop owners ramp up security due to rise in Pokémon card thefts",
+        "description": "Almost $20,000 worth of Pokémon and other trading cards were allegedly stolen from one Adelaide business, the latest in a spate of thefts of the valuable collectibles.around the country.",
+        "link": "https://www.abc.net.au/news/2026-10-10/sa-traders-increase-security-fear-of-pokemon-card-thefts/107247058",
         "source": "ABC News AU"
       }
     },
@@ -500,54 +548,6 @@
         "title": "UAE: Omani Flydubai co-pilot planned suicide attack",
         "description": "A Flydubai co-pilot planned to crash a Dubai-Tel Aviv flight into the terminal at Israel's Ben Gurion Airport, according to a UAE official.",
         "link": "https://www.dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
-      "count": 1,
-      "story": {
-        "title": "UAE: Omani Flydubai co-pilot planned suicide attack",
-        "description": "A Flydubai co-pilot planned to crash a Dubai-Tel Aviv flight into the terminal at Israel's Ben Gurion Airport, according to a UAE official.",
-        "link": "https://www.dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 1,
-      "story": {
-        "title": "Is China seeking to restrict Taiwan's cultural presence?",
-        "description": "From coffee competitions to literature awards, Beijing appears to be working to limit Taiwan's international cultural and political impact.",
-        "link": "https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
-      "count": 1,
-      "story": {
-        "title": "Is China seeking to restrict Taiwan's cultural presence?",
-        "description": "From coffee competitions to literature awards, Beijing appears to be working to limit Taiwan's international cultural and political impact.",
-        "link": "https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 1,
-      "story": {
-        "title": "Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows",
-        "description": "A Ukrainian woman who fled the war in her country built a lifeline for refugees in Poland. Now her organization faces donor fatigue, funding cuts and rising hostility as support for Ukrainians in Poland wanes.",
-        "link": "https://www.dw.com/en/poland-lifeline-for-ukrainian-refugees-confronts-donor-fatigue-and-online-abuse-as-anti-ukrainian-sentiment-grows/a-79613292?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
