@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T15:47:41+00:00",
+  "generated_at": "2026-10-10T19:55:43+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
       "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
@@ -22,21 +28,9 @@
       "description": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
       "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "'Come all the way' back to EU, French finance minister tells UK",
-      "description": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "australia": [
-    {
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
     {
       "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
       "description": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
@@ -47,6 +41,12 @@
       "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
       "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
       "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+      "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -62,12 +62,6 @@
       "description": "The decision comes after nearly half a million people voted on a shortlist of 18 creatures.",
       "link": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
-      "description": "Donald Trump’s diesel deal with Putin gives Russia more money to continue attacking Ukraine, Zelenskyy says.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "places": [
@@ -75,7 +69,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 22,
+      "count": 18,
       "story": {
         "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
         "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
@@ -87,11 +81,11 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 10,
+      "count": 12,
       "story": {
-        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-        "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -99,48 +93,84 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 8,
+      "count": 12,
       "story": {
-        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-        "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 8,
-      "story": {
-        "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-        "description": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-        "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 6,
-      "story": {
-        "title": "Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes",
-        "description": "Max Verstappen&#039;s sprint race win was ​Dutchman&#039;s first of any kind in Singapore as he finished ahead of Lewis Hamilton.",
-        "link": "https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
+      "count": 6,
+      "story": {
+        "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
+        "description": "One year to the day after the US-brokered ceasefire was agreed, more Israeli attacks killed Palestinians in Gaza.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 5,
       "story": {
-        "title": "With or without Hamas",
-        "description": "Hamas’s fate will not profoundly shape Gaza’s future.",
-        "link": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
+        "title": "Video shows rare albino Asian black bear",
+        "description": "A rare albino Asian black bear was captured on camera in China’s Shennongjia National Park",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 5,
+      "story": {
+        "title": "Piastri caught up in last-lap crash with teammate in Singapore GP sprint",
+        "description": "Oscar Piastri shrugs off a last-lap collision with McLaren teammate Lando Norris that knocks him out of the Singapore F1 Grand Prix sprint race.",
+        "link": "https://www.abc.net.au/news/2026-10-11/oscar-piastri-lando-norris-singapore-sprint-crash/107252330",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 4,
+      "story": {
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
+      "count": 4,
+      "story": {
+        "title": "Several injured in attack on airport in Saudi capital Riyadh",
+        "description": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+        "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 4,
+      "story": {
+        "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+        "description": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -156,39 +186,15 @@
       }
     },
     {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 4,
       "story": {
-        "title": "New Delhi police crack down on protesters ahead of anti-gov’t march",
-        "description": "India’s police have detained dozens of protesters, including ‘Cockroach’ party leaders ahead of an anti-gov&#039;t march.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss",
+        "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
+        "description": "One year to the day after the US-brokered ceasefire was agreed, more Israeli attacks killed Palestinians in Gaza.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 4,
-      "story": {
-        "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
-        "description": "Rubio says threats to Western civilisation today &#039;every bit as real as they were on the dramatic stage of antiquity&#039;.",
-        "link": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 4,
-      "story": {
-        "title": "Taiwan to boost military spending to 'deter war' with China",
-        "description": "President Lai Ching-te ⁠said in a National Day speech that his country is boosting defense spending to 'deter war' with China. It comes after US President Donald Trump asked Taiwan to pay for US protection.",
-        "link": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -204,14 +210,14 @@
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 3,
       "story": {
-        "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-        "description": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
-        "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+        "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+        "description": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
+        "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -228,14 +234,14 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 3,
       "story": {
-        "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
-        "description": "Israeli settlers steal olives and attack Palestinian farmers during this year’s harvest.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
+        "title": "Trump says Ukraine needs a new president who will agree to end the war",
+        "description": "US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.",
+        "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -245,46 +251,22 @@
       "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
-        "description": "Israeli settlers steal olives and attack Palestinian farmers during this year’s harvest.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
+        "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
+        "description": "One year to the day after the US-brokered ceasefire was agreed, more Israeli attacks killed Palestinians in Gaza.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
       "count": 3,
       "story": {
-        "title": "Two 'very lucky' men survive light aircraft crash in field",
-        "description": "The single-engine plane crashes into a field while trying to land at an airstrip in Muchea, north-east of Perth.",
-        "link": "https://www.abc.net.au/news/2026-10-10/light-aircraft-crash-muchea/107251682",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
-      "count": 2,
-      "story": {
-        "title": "Saudi capital airport hit again, sparking evacuations, reports say",
-        "description": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
-        "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
-      "count": 2,
-      "story": {
-        "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-        "description": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-        "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Trump names new press secretary to succeed Karoline Leavitt",
+        "description": "Trump has appointed Katie Zacharia to take over the White House press secretary role vacated by Karoline Leavitt. She assumes the role with Trump struggling with low approval ratings driven by the US war with Iran.",
+        "link": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -312,6 +294,18 @@
       }
     },
     {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 2,
+      "story": {
+        "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+        "description": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
+        "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "White House",
       "lat": 38.9,
       "lon": -77.03,
@@ -324,15 +318,15 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
       "count": 2,
       "story": {
-        "title": "Russian attacks kill at least 12 in Ukraine after Trump-Putin diesel deal",
-        "description": "The strikes came a day after US President Donald Trump announced a deal to buy Russian diesel that Kyiv warned would help fund Moscow's war in Ukraine.",
-        "link": "https://www.abc.net.au/news/2026-10-10/russian-air-strike-ukraine-after-trump-putin-diesel-deal/107251886",
-        "source": "ABC News AU"
+        "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+        "description": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
+        "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -341,9 +335,9 @@
       "lon": 45.1,
       "count": 2,
       "story": {
-        "title": "Blast reported at Saudi Arabia's Riyadh airport",
+        "title": "Saudi Arabia suspends operations at Riyadh airport after an attack causes multiple injuries",
         "description": "Riyadh's King Khalid International Airport has already been targeted multiple times this week amid intensified fighting between Yemen-based Houthi rebels and a Saudi-backed coalition.",
-        "link": "https://www.dw.com/en/blast-reported-at-saudi-arabia-s-riyadh-airport/a-79628862?maca=en-rss-en-all-1573-rdf",
+        "link": "https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -408,15 +402,39 @@
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
       "count": 1,
       "story": {
-        "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-        "description": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
-        "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Ronaldo suspended by Portugal FA after leaving camp and criticising coach",
+        "description": "Portugal star Cristiano Ronaldo suspended by his country&#039;s football association for walkout during Nations League games.",
+        "link": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 1,
+      "story": {
+        "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
+        "description": "Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza &#039;ceasefire&#039; anniversary.",
+        "link": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Rome",
+      "lat": 41.9,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
+        "description": "Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza &#039;ceasefire&#039; anniversary.",
+        "link": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -432,26 +450,14 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Graffiti artist honours Spain’s housing rights figure ‘Maricarmen’",
-        "description": "Graffiti artist honours Spain’s housing rights figure ‘Maricarmen’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/graffiti-artist-honours-spains-housing-rights-figure?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 1,
-      "story": {
-        "title": "Russian attacks kill at least 12 in Ukraine after Trump-Putin diesel deal",
-        "description": "The strikes came a day after US President Donald Trump announced a deal to buy Russian diesel that Kyiv warned would help fund Moscow's war in Ukraine.",
-        "link": "https://www.abc.net.au/news/2026-10-10/russian-air-strike-ukraine-after-trump-putin-diesel-deal/107251886",
+        "title": "South Melbourne stuns Melbourne Victory to claim Australia Cup",
+        "description": "NPL side South Melbourne stuns A-League's Melbourne Victory at a packed AAMI Park, winning an historic Australia Cup title on penalties.",
+        "link": "https://www.abc.net.au/news/2026-10-11/south-melbourne-stun-victory-to-claim-australia-cup/107251996",
         "source": "ABC News AU"
       }
     },
@@ -480,14 +486,14 @@
       }
     },
     {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Teen suffers serious injuries after Canberra man allegedly shoots at car",
-        "description": "The 29-year-old was denied bail after being accused of shooting at a car and seriously injuring one of the teenage passengers.",
-        "link": "https://www.abc.net.au/news/2026-10-10/man-charged-after-allegedly-shooting-at-car-injuring-teenager/107251086",
+        "title": "Two 'very lucky' men survive light aircraft crash in field",
+        "description": "The single-engine plane crashes into a field while trying to land at an airstrip in Muchea, north-east of Perth.",
+        "link": "https://www.abc.net.au/news/2026-10-10/light-aircraft-crash-muchea/107251682",
         "source": "ABC News AU"
       }
     },
@@ -516,27 +522,15 @@
       }
     },
     {
-      "name": "Brussels",
-      "lat": 50.85,
-      "lon": 4.35,
+      "name": "New Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
       "count": 1,
       "story": {
-        "title": "Brussels: Rioters clash with police at anti-austerity rally",
-        "description": "Violent rioters, many of whom were masked, confronted police at the edge of an anti-austerity march in Brussels. Police responded with water cannons and tear gas.",
-        "link": "https://www.dw.com/en/brussels-rioters-clash-with-police-at-anti-austerity-rally/a-79620594?maca=en-rss-en-all-1573-rdf",
+        "title": "Indian authorities crack down on 'Cockroach' protest in central Delhi. Follow live.",
+        "description": "Indian authorities have imposed extraordinary security measures to block protesters from joining a demonstration called by the Cockroach Janta Party in New Delhi. The main leaders of the party have been detained too.",
+        "link": "https://www.dw.com/en/indian-authorities-crack-down-on-cockroach-protest-in-central-delhi-follow-live/live-79624339?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "Supermarket ceiling collapse injures at least 38 in South Korea's Daegu city",
-        "description": "Nine people were treated in hospital, but serious injuries were unlikely, fire department official Yoon Jong-mi said.",
-        "link": "https://www.channelnewsasia.com/east-asia/supermarket-ceiling-collapse-injures-least-38-in-south-koreas-daegu-city-6448621",
-        "source": "CNA"
       }
     },
     {
