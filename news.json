@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T09:12:40+00:00",
+  "generated_at": "2026-10-11T15:54:01+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
       "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
@@ -28,25 +22,31 @@
       "description": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
       "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "'Come all the way' back to EU, French finance minister tells UK",
+      "description": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
     {
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "description": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "US justice department investigates TV networks over Trump pool coverage",
       "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
       "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -62,6 +62,12 @@
       "description": "The decision comes after nearly half a million people voted on a shortlist of 18 creatures.",
       "link": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "Power bank fire forces plane to emergency land in India",
+      "description": "A plane flying from Delhi to Chennai made an emergency landing after a power bank reportedly caught fire on board.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
+      "source": "Al Jazeera"
     }
   ],
   "places": [
@@ -69,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 16,
+      "count": 17,
       "story": {
         "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
         "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
@@ -81,11 +87,11 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 14,
+      "count": 16,
       "story": {
-        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-        "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-        "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+        "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+        "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -93,35 +99,23 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 9,
+      "count": 12,
       "story": {
-        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-        "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-        "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+        "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+        "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 8,
-      "story": {
-        "title": "What the Iran war has done to the world’s energy supply, in charts",
-        "description": "Fossil fuels produce 81 percent of global energy. We look at Middle East’s role and what happens when supplies are cut.",
-        "link": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
-      "count": 6,
+      "count": 9,
       "story": {
-        "title": "Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani",
-        "description": "Pledge comes days before Mukesh Ambani&#039;s low-cost Reliance Jio&#039;s parent launches India&#039;s largest-ever IPO.",
-        "link": "https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss",
+        "title": "Power bank fire forces plane to emergency land in India",
+        "description": "A plane flying from Delhi to Chennai made an emergency landing after a power bank reportedly caught fire on board.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -129,35 +123,23 @@
       "name": "Riyadh",
       "lat": 24.71,
       "lon": 46.68,
-      "count": 6,
+      "count": 7,
       "story": {
-        "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-        "description": "Trump denounces &#039;terrible&#039; attack and says the US is evaluating whether to join Saudi Arabia&#039;s offensive on the Houthis.",
-        "link": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+        "description": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+        "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 6,
       "story": {
-        "title": "Roos get past Dockers as Blues and Hawks taste victory",
-        "description": "North Melbourne recovers from an early scare to beat Fremantle, while Carlton and Hawthorn triumph over Sydney and Brisbane respectively.",
-        "link": "https://www.abc.net.au/news/2026-10-11/aflw-kangaroos-dockers-blues-swans-hawks-lions/107253652",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 5,
-      "story": {
-        "title": "US justice department investigates TV networks over Trump pool coverage",
-        "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-        "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+        "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+        "description": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+        "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -174,38 +156,62 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
       "count": 5,
       "story": {
-        "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-        "description": "Trump denounces &#039;terrible&#039; attack and says the US is evaluating whether to join Saudi Arabia&#039;s offensive on the Houthis.",
-        "link": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+        "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+        "description": "IRGC warns against ignoring waterway&#039;s &#039;security and rules&#039; as CENTCOM says US disabled vessel trying to run blockade.",
+        "link": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
       "count": 4,
       "story": {
-        "title": "How genocidal war on Gaza is shaping Israel’s election",
-        "description": "Israel’s election signals not a demand for change, but deeper entrenchment of the jingoism unleashed after October 7.",
-        "link": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
+        "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+        "description": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 4,
+      "story": {
+        "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
+        "description": "Kipchoge is attempting ⁠⁠to run a marathon on all seven ​continents over two years as part of his &#039;World Tour&#039; campaign.",
+        "link": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 3,
       "story": {
-        "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-        "description": "Students taking to the streets have become a focal point in the country's increasingly polarised politics.",
-        "link": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
+        "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+        "description": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+        "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 3,
+      "story": {
+        "title": "US justice department investigates TV networks over Trump pool coverage",
+        "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+        "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -215,9 +221,21 @@
       "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
-        "description": "Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire&#039;.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+        "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
+        "description": "Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal.",
+        "link": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 3,
+      "story": {
+        "title": "The scramble to rewrite Biden’s record on Gaza",
+        "description": "Former Biden officials are offering their accounts of the Gaza war. Is this a coming clean or revisionism?",
+        "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -227,21 +245,9 @@
       "lon": 10.4,
       "count": 3,
       "story": {
-        "title": "Demographic change: Germany's population is declining, but not everywhere",
-        "description": "By 2045, Germany will have more older people, fewer workers, and a smaller population overall. Yet some regions will defy this trend. Their success depends on how much they have to offer.",
-        "link": "https://www.dw.com/en/demographic-change-germany-s-population-is-declining-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 3,
-      "story": {
-        "title": "Taiwan to boost military spending to 'deter war' with China",
-        "description": "President Lai Ching-te ⁠said in a National Day speech that his country is boosting defense spending to 'deter war' with China. It comes after US President Donald Trump asked Taiwan to pay for US protection.",
-        "link": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf",
+        "title": "Germany rejects Trump demand, 'fully supports' Zelenskyy",
+        "description": "Germany's foreign minister has said Berlin is behind Ukraine's president and will keep pressuring Russia to end its war. Meanwhile, Deutsche Bank's CEO warned that political extremism is spooking investors. More on DW.",
+        "link": "https://www.dw.com/en/germany-rejects-trump-demand-fully-supports-zelenskyy/live-79627811?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -251,46 +257,10 @@
       "lon": 103.82,
       "count": 3,
       "story": {
-        "title": "Malaysian low-cost carrier Firefly cancels all flights between Subang, Seletar airports due to haze",
-        "description": "All flights between Sultan Abdul Aziz Shah Airport in Subang and Singapore’s Seletar Airport have been cancelled through Monday (Oct 12).",
-        "link": "https://www.channelnewsasia.com/asia/malaysia-firefly-flights-cancelled-seletar-airport-subang-6449996",
+        "title": "In pictures: Full throttle at the F1 Singapore Grand Prix 2026",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/singapore/f1-singapore-grand-prix-2026-photos-6450296",
         "source": "CNA"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 2,
-      "story": {
-        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-        "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-        "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 2,
-      "story": {
-        "title": "Woman injures three people in third Poland school knife attack in a week",
-        "description": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
-        "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
-      "count": 2,
-      "story": {
-        "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-        "description": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-        "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -306,39 +276,27 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 2,
-      "story": {
-        "title": "Vinicius apologises for hair-pull red card but could miss El Clasico",
-        "description": "Real Madrid forward has a goal disallowed, is sent off for the hair-pull offence and could miss the next three games.",
-        "link": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
       "count": 2,
       "story": {
-        "title": "How genocidal war on Gaza is shaping Israel’s election",
-        "description": "Israel’s election signals not a demand for change, but deeper entrenchment of the jingoism unleashed after October 7.",
-        "link": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
+        "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
+        "description": "Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal.",
+        "link": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond",
-        "description": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "US, China and Japan cut foreign aid to South-East Asia",
+        "description": "Development finance in South-East Asia has also dropped to a 10-year low, as the region's historically significant donors retreat.",
+        "link": "https://www.abc.net.au/news/2026-10-11/china-us-japan-cut-aid-to-south-east-asia-lowy-report/107249020",
+        "source": "ABC News AU"
       }
     },
     {
@@ -354,51 +312,27 @@
       }
     },
     {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 2,
       "story": {
-        "title": "Taiwan to boost military spending to 'deter war' with China",
-        "description": "President Lai Ching-te ⁠said in a National Day speech that his country is boosting defense spending to 'deter war' with China. It comes after US President Donald Trump asked Taiwan to pay for US protection.",
-        "link": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf",
+        "title": "Pakistan: President puts Khan stronghold province under emergency rule",
+        "description": "President Asif Ali Zardari has effectively suspended the provincial government in Khyber Pakhtunkhwa. The northwestern state is an epicenter of support for former PM Imran Khan and run by his PTI party.",
+        "link": "https://www.dw.com/en/pakistan-president-puts-khan-stronghold-province-under-emergency-rule/a-79632530?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 2,
       "story": {
-        "title": "Indian authorities crack down on 'Cockroach' protest in central Delhi",
-        "description": "Indian authorities have imposed extraordinary security measures to block protesters from joining a demonstration called by the \"Cockroach\" movement in New Delhi. The main leaders of the party were also detained.",
-        "link": "https://www.dw.com/en/indian-authorities-crack-down-on-cockroach-protest-in-central-delhi/live-79624339?maca=en-rss-en-all-1573-rdf",
+        "title": "Schools crisis in France: Investment fails to inspire confidence",
+        "description": "For weeks, schoolchildren in France have been protesting the failing education system. Compared to many other countries, France invests heavily in education but critics say that the funds are not distributed fairly.",
+        "link": "https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 2,
-      "story": {
-        "title": "Malaysian low-cost carrier Firefly cancels all flights between Subang, Seletar airports due to haze",
-        "description": "All flights between Sultan Abdul Aziz Shah Airport in Subang and Singapore’s Seletar Airport have been cancelled through Monday (Oct 12).",
-        "link": "https://www.channelnewsasia.com/asia/malaysia-firefly-flights-cancelled-seletar-airport-subang-6449996",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 1,
-      "story": {
-        "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-        "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
-        "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -462,6 +396,18 @@
       }
     },
     {
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
+      "count": 1,
+      "story": {
+        "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+        "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+        "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "London",
       "lat": 51.5,
       "lon": -0.12,
@@ -474,27 +420,39 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
-        "description": "PM office says cabinet move follows &#039;provincial government’s deliberate disengagement from the fight against terrorism&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Kenya",
       "lat": -0.02,
       "lon": 37.9,
       "count": 1,
       "story": {
-        "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
-        "description": "New cases in eastern DRC and a fatal imported infection in Kenya highlight the challenges of containing Ebola.",
-        "link": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+        "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
+        "description": "Kipchoge is attempting ⁠⁠to run a marathon on all seven ​continents over two years as part of his &#039;World Tour&#039; campaign.",
+        "link": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 1,
+      "story": {
+        "title": "US, China and Japan cut foreign aid to South-East Asia",
+        "description": "Development finance in South-East Asia has also dropped to a 10-year low, as the region's historically significant donors retreat.",
+        "link": "https://www.abc.net.au/news/2026-10-11/china-us-japan-cut-aid-to-south-east-asia-lowy-report/107249020",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 1,
+      "story": {
+        "title": "Georgia Voll smashes quickfire ton as Aussies wrap up Bangladesh series",
+        "description": "Opening batter Georgia Voll blasts Australia to a dominant nine-wicket win over Bangladesh at Allan Border Field.",
+        "link": "https://www.abc.net.au/news/2026-10-11/voll-smashes-quickfire-ton-australia-vs-bangladesh/107253844",
+        "source": "ABC News AU"
       }
     },
     {
@@ -515,8 +473,8 @@
       "lon": 22.9,
       "count": 1,
       "story": {
-        "title": "Live: Steve Smith takes a blinder to get rid of South Africa captain",
-        "description": "A glorious piece of anticipation in the field by Steve Smith undoes Temba Bavuma with South Africa looking to run down Australia's first-innings 390 at Kingsmead. Follow live.",
+        "title": "Bad light stops play again after Nic Maddinson's statement shot",
+        "description": "Nic Maddinson and Travis Head have made a fast start to Australia's second innings in Durban to leave South Africa trailing by 139 runs after being bowled out for 284 on day three.",
         "link": "https://www.abc.net.au/news/2026-10-11/south-africa-australia-kingsmead-test-day-three-live-blog/107252970",
         "source": "ABC News AU"
       }
@@ -543,6 +501,54 @@
         "description": "Australian man Jordan Yap has been found dead, weeks after he failed to return home from a solo hike in a remote region of Peru.",
         "link": "https://www.abc.net.au/news/2026-10-11/jordan-yap-found-dead-melbourne-missing-hiker/107252872",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
+      "count": 1,
+      "story": {
+        "title": "'The empty places that remain' since Australia joined Afghanistan conflict",
+        "description": "The 25th anniversary of the start of Australian service in Afghanistan is commemorated at the Australian War Memorial in Canberra.",
+        "link": "https://www.abc.net.au/news/2026-10-11/australians-served-afghanistan-25th-anniversary-service/107252770",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 1,
+      "story": {
+        "title": "Germany rejects Trump demand, 'fully supports' Zelenskyy",
+        "description": "Germany's foreign minister has said Berlin is behind Ukraine's president and will keep pressuring Russia to end its war. Meanwhile, Deutsche Bank's CEO warned that political extremism is spooking investors. More on DW.",
+        "link": "https://www.dw.com/en/germany-rejects-trump-demand-fully-supports-zelenskyy/live-79627811?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 1,
+      "story": {
+        "title": "Trump slams Zelenskyy, says Ukraine should elect new president",
+        "description": "President Trump has criticized Volodymyr Zelenskyy for not making a deal with Russia to end the Ukraine war. Trump also warned Kyiv against targeting Russian oil refineries that will supply the US with diesel fuel.",
+        "link": "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Shanghai",
+      "lat": 31.23,
+      "lon": 121.47,
+      "count": 1,
+      "story": {
+        "title": "Gea sends Shelton crashing out of Shanghai",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/gea-sends-shelton-crashing-out-shanghai-6450146",
+        "source": "CNA"
       }
     }
   ]
