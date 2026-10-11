@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T15:54:01+00:00",
+  "generated_at": "2026-10-11T20:06:25+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "description": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
       "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
@@ -21,12 +27,6 @@
       "title": "Burnham promises to curb non-compete rules in job contracts",
       "description": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
       "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
-    },
-    {
-      "title": "'Come all the way' back to EU, French finance minister tells UK",
-      "description": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -64,9 +64,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "Power bank fire forces plane to emergency land in India",
-      "description": "A plane flying from Delhi to Chennai made an emergency landing after a power bank reportedly caught fire on board.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
+      "title": "At least five people missing as flash floods in Nepal sweep away houses",
+      "description": "Authorities urge villagers to move to safer places after a river in the central part of the country bursts its banks.",
+      "link": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
       "source": "Al Jazeera"
     }
   ],
@@ -75,11 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 17,
+      "count": 15,
       "story": {
-        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-        "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-        "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+        "title": "How the trial of murdered Australian brothers and US friend unfolded",
+        "description": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
+        "link": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -87,7 +87,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 16,
+      "count": 13,
       "story": {
         "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
         "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
@@ -99,7 +99,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 12,
+      "count": 13,
       "story": {
         "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
         "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
@@ -108,51 +108,27 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 9,
-      "story": {
-        "title": "Power bank fire forces plane to emergency land in India",
-        "description": "A plane flying from Delhi to Chennai made an emergency landing after a power bank reportedly caught fire on board.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Riyadh",
       "lat": 24.71,
       "lon": 46.68,
-      "count": 7,
-      "story": {
-        "title": "Riyadh airport attack another dangerous moment in already tense conflict",
-        "description": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
-        "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 6,
-      "story": {
-        "title": "Riyadh airport attack another dangerous moment in already tense conflict",
-        "description": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
-        "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
       "count": 5,
       "story": {
-        "title": "Adidas sues Australian label White Fox over four stripes design",
-        "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
-        "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Saudi capital airport hit by second Houthi strike in two days",
+        "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+        "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+        "description": "The US-Israel war on Iran and its inflationary impact will dominate the agenda.",
+        "link": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -161,33 +137,21 @@
       "lon": 53.0,
       "count": 5,
       "story": {
-        "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-        "description": "IRGC warns against ignoring waterway&#039;s &#039;security and rules&#039; as CENTCOM says US disabled vessel trying to run blockade.",
-        "link": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
+        "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+        "description": "The US-Israel war on Iran and its inflationary impact will dominate the agenda.",
+        "link": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
-      "count": 4,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 5,
       "story": {
-        "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-        "description": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-        "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 4,
-      "story": {
-        "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
-        "description": "Kipchoge is attempting ⁠⁠to run a marathon on all seven ​continents over two years as part of his &#039;World Tour&#039; campaign.",
-        "link": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss",
+        "title": "Is the Yemen war entering a new phase?",
+        "description": "Saudi Arabia has accused Yemen’s Houthis of killing 12 people and injuring 300 in Saturday&#039;s attack on King Khalid Inter",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -195,35 +159,35 @@
       "name": "Poland",
       "lat": 51.9,
       "lon": 19.1,
-      "count": 3,
+      "count": 4,
       "story": {
-        "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-        "description": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
-        "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+        "title": "Poland detains man suspected of planning assassination of PM Tusk",
+        "description": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 3,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
       "story": {
-        "title": "US justice department investigates TV networks over Trump pool coverage",
-        "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-        "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Adidas sues Australian label White Fox over four stripes design",
+        "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+        "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
-      "count": 3,
+      "count": 4,
       "story": {
-        "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
-        "description": "Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal.",
-        "link": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
+        "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+        "description": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -233,10 +197,46 @@
       "lon": 34.47,
       "count": 3,
       "story": {
-        "title": "The scramble to rewrite Biden’s record on Gaza",
-        "description": "Former Biden officials are offering their accounts of the Gaza war. Is this a coming clean or revisionism?",
-        "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
+        "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+        "description": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "Power bank fire forces plane to emergency land in India",
+        "description": "A plane flying from Delhi to Chennai made an emergency landing after a power bank reportedly caught fire on board.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 3,
+      "story": {
+        "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+        "description": "Allegations of Eritrean troop incursions into Tigray deepen the rift with Ethiopia, threatening fragile peace in the region.",
+        "link": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Piastri suffers tyre puncture, Verstappen roars to Singapore F1 win",
+        "description": "Oscar Piastri battles to a hard-fought fifth place at the Singapore Grand Prix, helping his McLaren team salvage some pride and useful championship points from an otherwise frustrating weekend at the Marina Bay Street Ci",
+        "link": "https://www.abc.net.au/news/2026-10-12/f1-singapore-grand-prix-max-verstappen-wins/106998694",
+        "source": "ABC News AU"
       }
     },
     {
@@ -252,39 +252,27 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
-      "story": {
-        "title": "In pictures: Full throttle at the F1 Singapore Grand Prix 2026",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/singapore/f1-singapore-grand-prix-2026-photos-6450296",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Peru",
-      "lat": -9.19,
-      "lon": -75.02,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Man named Hitler Mussolini elected mayor in Peru",
-        "description": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
-        "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+        "title": "US justice department investigates TV networks over Trump pool coverage",
+        "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+        "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
-        "description": "Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal.",
-        "link": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Teenager charged over alleged Melbourne CBD hit-and-run",
+        "description": "A 16-year-old is facing a slew of charges after allegedly hitting a woman with a stolen car in Melbourne's CBD on Sunday.",
+        "link": "https://www.abc.net.au/news/2026-10-12/teenager-charged-melbourne-hit-run/107254454",
+        "source": "ABC News AU"
       }
     },
     {
@@ -296,18 +284,6 @@
         "title": "US, China and Japan cut foreign aid to South-East Asia",
         "description": "Development finance in South-East Asia has also dropped to a 10-year low, as the region's historically significant donors retreat.",
         "link": "https://www.abc.net.au/news/2026-10-11/china-us-japan-cut-aid-to-south-east-asia-lowy-report/107249020",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 2,
-      "story": {
-        "title": "'Incredibly difficult': Business reports robbery after crash injures five",
-        "description": "ACT Policing is investigating after a Canberra massage parlour was allegedly robbed following a car crash into the premises that injured five people.",
-        "link": "https://www.abc.net.au/news/2026-10-11/massage-parlour-burgled-hours-after-crash-injured-three-workers/107253420",
         "source": "ABC News AU"
       }
     },
@@ -336,50 +312,14 @@
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
       "count": 1,
       "story": {
-        "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-        "description": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-        "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Tel Aviv",
-      "lat": 32.08,
-      "lon": 34.78,
-      "count": 1,
-      "story": {
-        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-        "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-        "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
-      "count": 1,
-      "story": {
-        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-        "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-        "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "United Arab Emirates",
-      "lat": 23.42,
-      "lon": 53.85,
-      "count": 1,
-      "story": {
-        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-        "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-        "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+        "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+        "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+        "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -389,21 +329,9 @@
       "lon": -102.5,
       "count": 1,
       "story": {
-        "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-        "description": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
-        "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 1,
-      "story": {
-        "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-        "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
-        "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+        "title": "How the trial of murdered Australian brothers and US friend unfolded",
+        "description": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
+        "link": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -420,15 +348,51 @@
       }
     },
     {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
+      "name": "Bangkok",
+      "lat": 13.75,
+      "lon": 100.5,
       "count": 1,
       "story": {
-        "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
-        "description": "Kipchoge is attempting ⁠⁠to run a marathon on all seven ​continents over two years as part of his &#039;World Tour&#039; campaign.",
-        "link": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss",
+        "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+        "description": "The US-Israel war on Iran and its inflationary impact will dominate the agenda.",
+        "link": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
+      "count": 1,
+      "story": {
+        "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+        "description": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 1,
+      "story": {
+        "title": "Lebanon’s first electric train hopes to revive railway system",
+        "description": "A new solar-powered model train has returned to a section of Lebanon’s historic railway.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 1,
+      "story": {
+        "title": "Beijing residents dispose of drones ahead of ban on ownership",
+        "description": "Drone owners in Beijing are selling or sending away their aircraft as a ban on possession and storage is set to take effect.",
+        "link": "https://www.abc.net.au/news/2026-10-12/beijing-residents-dispose-drones-ahead-of-ban-on-ownership/107229144",
+        "source": "ABC News AU"
       }
     },
     {
@@ -444,75 +408,27 @@
       }
     },
     {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
       "count": 1,
       "story": {
-        "title": "Georgia Voll smashes quickfire ton as Aussies wrap up Bangladesh series",
-        "description": "Opening batter Georgia Voll blasts Australia to a dominant nine-wicket win over Bangladesh at Allan Border Field.",
-        "link": "https://www.abc.net.au/news/2026-10-11/voll-smashes-quickfire-ton-australia-vs-bangladesh/107253844",
-        "source": "ABC News AU"
+        "title": "Air strikes kill dozens of gold miners on Sudan-Egypt border",
+        "description": "A Sudan-based rights group said 72 people were killed in a remote, disputed area known for illegal gold mining.",
+        "link": "https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 1,
       "story": {
-        "title": "Roos get past Dockers as Blues and Hawks taste victory",
-        "description": "North Melbourne recovers from an early scare to beat Fremantle, while Carlton and Hawthorn triumph over Sydney and Brisbane respectively.",
-        "link": "https://www.abc.net.au/news/2026-10-11/aflw-kangaroos-dockers-blues-swans-hawks-lions/107253652",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "Bad light stops play again after Nic Maddinson's statement shot",
-        "description": "Nic Maddinson and Travis Head have made a fast start to Australia's second innings in Durban to leave South Africa trailing by 139 runs after being bowled out for 284 on day three.",
-        "link": "https://www.abc.net.au/news/2026-10-11/south-africa-australia-kingsmead-test-day-three-live-blog/107252970",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "Owners fear rare lamb worth up to $25K stolen",
-        "description": "A rare lamb worth up to $25,000 has gone missing from an Adelaide Hills property, with its heartbroken owners urging the community to keep an eye out for the distinctive breed.",
-        "link": "https://www.abc.net.au/news/2026-10-11/lost-lamb-worth-25k-in-adelaide-hills/107253530",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Jordan",
-      "lat": 30.59,
-      "lon": 36.24,
-      "count": 1,
-      "story": {
-        "title": "Missing Melbourne hiker Jordan Yap has died in Peru, authorities confirm",
-        "description": "Australian man Jordan Yap has been found dead, weeks after he failed to return home from a solo hike in a remote region of Peru.",
-        "link": "https://www.abc.net.au/news/2026-10-11/jordan-yap-found-dead-melbourne-missing-hiker/107252872",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
-      "count": 1,
-      "story": {
-        "title": "'The empty places that remain' since Australia joined Afghanistan conflict",
-        "description": "The 25th anniversary of the start of Australian service in Afghanistan is commemorated at the Australian War Memorial in Canberra.",
-        "link": "https://www.abc.net.au/news/2026-10-11/australians-served-afghanistan-25th-anniversary-service/107252770",
-        "source": "ABC News AU"
+        "title": "Air strikes kill dozens of gold miners on Sudan-Egypt border",
+        "description": "A Sudan-based rights group said 72 people were killed in a remote, disputed area known for illegal gold mining.",
+        "link": "https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -528,27 +444,51 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Brussels",
+      "lat": 50.85,
+      "lon": 4.35,
       "count": 1,
       "story": {
-        "title": "Trump slams Zelenskyy, says Ukraine should elect new president",
-        "description": "President Trump has criticized Volodymyr Zelenskyy for not making a deal with Russia to end the Ukraine war. Trump also warned Kyiv against targeting Russian oil refineries that will supply the US with diesel fuel.",
-        "link": "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Tens of thousands urge climate action at Brussels demo",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/world/tens-thousands-urge-climate-action-brussels-demo-6451371",
+        "source": "CNA"
       }
     },
     {
-      "name": "Shanghai",
-      "lat": 31.23,
-      "lon": 121.47,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 1,
       "story": {
-        "title": "Gea sends Shelton crashing out of Shanghai",
+        "title": "Tens of thousands urge climate action at Brussels demo",
         "description": "",
-        "link": "https://www.channelnewsasia.com/sport/gea-sends-shelton-crashing-out-shanghai-6450146",
+        "link": "https://www.channelnewsasia.com/world/tens-thousands-urge-climate-action-brussels-demo-6451371",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 1,
+      "story": {
+        "title": "Trump threatens to rename Lake Ontario as Canada hits back at US tariffs",
+        "description": "Prime Minister Mark Carney says Canada won't be subordinated as 50 per cent US tariffs trigger a CAD$5.4 billion ($5.4 billion) aid package.",
+        "link": "https://www.sbs.com.au/news/article/trump-lake-america-ontario-canada-trade-war-tariffs/o7udweihr",
+        "source": "SBS News"
+      }
+    },
+    {
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
+      "count": 1,
+      "story": {
+        "title": "Eurovision faces fresh scrutiny as the Netherlands withdraws over Gaza tensions",
+        "description": "Earlier this month, Eurovision announced that countries involved in armed conflict would not be considered for hosting the competition.",
+        "link": "https://www.sbs.com.au/news/article/eurovision-faces-fresh-scrutiny-netherlands-withdraws/b3mc38t5t",
+        "source": "SBS News"
       }
     }
   ]
