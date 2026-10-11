@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T02:05:37+00:00",
+  "generated_at": "2026-10-11T09:12:40+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,23 +18,23 @@
       "source": "BBC News"
     },
     {
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "description": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
       "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "Burnham promises to curb non-compete rules in job contracts",
+      "description": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
+      "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
     {
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "description": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -69,7 +69,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 16,
       "story": {
         "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
         "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
@@ -81,7 +81,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 12,
+      "count": 14,
       "story": {
         "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
         "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
@@ -93,7 +93,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
         "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
@@ -102,26 +102,38 @@
       }
     },
     {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
-      "count": 5,
-      "story": {
-        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-        "description": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
-        "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 5,
+      "count": 8,
       "story": {
-        "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
-        "description": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+        "title": "What the Iran war has done to the world’s energy supply, in charts",
+        "description": "Fossil fuels produce 81 percent of global energy. We look at Middle East’s role and what happens when supplies are cut.",
+        "link": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 6,
+      "story": {
+        "title": "Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani",
+        "description": "Pledge comes days before Mukesh Ambani&#039;s low-cost Reliance Jio&#039;s parent launches India&#039;s largest-ever IPO.",
+        "link": "https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
+      "count": 6,
+      "story": {
+        "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+        "description": "Trump denounces &#039;terrible&#039; attack and says the US is evaluating whether to join Saudi Arabia&#039;s offensive on the Houthis.",
+        "link": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -129,23 +141,23 @@
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
-      "count": 5,
+      "count": 6,
       "story": {
-        "title": "Running legend Kipchoge sets race record at Melbourne Marathon",
-        "description": "Marathon legend Eliud Kipchoge has time to slow down and wave at the crowds at the MCG and still break the race record at the Melbourne Marathon.",
-        "link": "https://www.abc.net.au/news/2026-10-11/running-legend-kipchoge-sets-race-record-at-melbourne-marathon/107252768",
+        "title": "Roos get past Dockers as Blues and Hawks taste victory",
+        "description": "North Melbourne recovers from an early scare to beat Fremantle, while Carlton and Hawthorn triumph over Sydney and Brisbane respectively.",
+        "link": "https://www.abc.net.au/news/2026-10-11/aflw-kangaroos-dockers-blues-swans-hawks-lions/107253652",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 5,
       "story": {
-        "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-        "description": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-        "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+        "title": "US justice department investigates TV networks over Trump pool coverage",
+        "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+        "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -153,7 +165,7 @@
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Adidas sues Australian label White Fox over four stripes design",
         "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
@@ -162,39 +174,27 @@
       }
     },
     {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 5,
+      "story": {
+        "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+        "description": "Trump denounces &#039;terrible&#039; attack and says the US is evaluating whether to join Saudi Arabia&#039;s offensive on the Houthis.",
+        "link": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
       "count": 4,
       "story": {
-        "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
-        "description": "Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire&#039;.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+        "title": "How genocidal war on Gaza is shaping Israel’s election",
+        "description": "Israel’s election signals not a demand for change, but deeper entrenchment of the jingoism unleashed after October 7.",
+        "link": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 4,
-      "story": {
-        "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
-        "description": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
-      "count": 3,
-      "story": {
-        "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-        "description": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
-        "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -222,15 +222,15 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
       "count": 3,
       "story": {
-        "title": "Hundreds of doctors demand World Medical Association suspend Israel",
-        "description": "Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.",
-        "link": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Demographic change: Germany's population is declining, but not everywhere",
+        "description": "By 2045, Germany will have more older people, fewer workers, and a smaller population overall. Yet some regions will defy this trend. Their success depends on how much they have to offer.",
+        "link": "https://www.dw.com/en/demographic-change-germany-s-population-is-declining-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -243,6 +243,18 @@
         "description": "President Lai Ching-te ⁠said in a National Day speech that his country is boosting defense spending to 'deter war' with China. It comes after US President Donald Trump asked Taiwan to pay for US protection.",
         "link": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Malaysian low-cost carrier Firefly cancels all flights between Subang, Seletar airports due to haze",
+        "description": "All flights between Sultan Abdul Aziz Shah Airport in Subang and Singapore’s Seletar Airport have been cancelled through Monday (Oct 12).",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-firefly-flights-cancelled-seletar-airport-subang-6449996",
+        "source": "CNA"
       }
     },
     {
@@ -282,27 +294,15 @@
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Peru",
+      "lat": -9.19,
+      "lon": -75.02,
       "count": 2,
       "story": {
-        "title": "White House blocks Microsoft from foreign worker hiring programme",
-        "description": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
-        "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
-        "description": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Man named Hitler Mussolini elected mayor in Peru",
+        "description": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
+        "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -311,46 +311,46 @@
       "lon": -3.7,
       "count": 2,
       "story": {
-        "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
-        "description": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player&#039;s hair in 1-0 La Liga victory.",
-        "link": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
+        "title": "Vinicius apologises for hair-pull red card but could miss El Clasico",
+        "description": "Real Madrid forward has a goal disallowed, is sent off for the hair-pull offence and could miss the next three games.",
+        "link": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 2,
       "story": {
-        "title": "Trump says Ukraine needs a new president who will agree to end the war",
-        "description": "US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.",
-        "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
+        "title": "How genocidal war on Gaza is shaping Israel’s election",
+        "description": "Israel’s election signals not a demand for change, but deeper entrenchment of the jingoism unleashed after October 7.",
+        "link": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "'Cockroach Party' protesters vow to return after hundreds detained in Delhi",
-        "description": "Chaos erupts in India's capital New Delhi as police detained hundreds of protesters during demonstrations over the Election Commission's move to drop some 130 million names from the voter list.",
-        "link": "https://www.abc.net.au/news/2026-10-11/cockroach-party-india-protesters-against-modi-vow-to-return/107252114",
+        "title": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond",
+        "description": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
+      "count": 2,
+      "story": {
+        "title": "'Incredibly difficult': Business reports robbery after crash injures five",
+        "description": "ACT Policing is investigating after a Canberra massage parlour was allegedly robbed following a car crash into the premises that injured five people.",
+        "link": "https://www.abc.net.au/news/2026-10-11/massage-parlour-burgled-hours-after-crash-injured-three-workers/107253420",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 2,
-      "story": {
-        "title": "Germany sticks to Russia sanctions after Trump diesel deal",
-        "description": "After Washington announced a sanctions pause on Russian diesel, Germany has said it remains committed to pressuring Moscow and supporting Ukraine. More on DW.",
-        "link": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -363,6 +363,30 @@
         "description": "President Lai Ching-te ⁠said in a National Day speech that his country is boosting defense spending to 'deter war' with China. It comes after US President Donald Trump asked Taiwan to pay for US protection.",
         "link": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "New Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
+      "count": 2,
+      "story": {
+        "title": "Indian authorities crack down on 'Cockroach' protest in central Delhi",
+        "description": "Indian authorities have imposed extraordinary security measures to block protesters from joining a demonstration called by the \"Cockroach\" movement in New Delhi. The main leaders of the party were also detained.",
+        "link": "https://www.dw.com/en/indian-authorities-crack-down-on-cockroach-protest-in-central-delhi/live-79624339?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
+      "count": 2,
+      "story": {
+        "title": "Malaysian low-cost carrier Firefly cancels all flights between Subang, Seletar airports due to haze",
+        "description": "All flights between Sultan Abdul Aziz Shah Airport in Subang and Singapore’s Seletar Airport have been cancelled through Monday (Oct 12).",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-firefly-flights-cancelled-seletar-airport-subang-6449996",
+        "source": "CNA"
       }
     },
     {
@@ -426,14 +450,14 @@
       }
     },
     {
-      "name": "Peru",
-      "lat": -9.19,
-      "lon": -75.02,
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
       "count": 1,
       "story": {
-        "title": "Man named Hitler Mussolini elected mayor in Peru",
-        "description": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
-        "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+        "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+        "description": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
+        "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -450,6 +474,18 @@
       }
     },
     {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
+        "description": "PM office says cabinet move follows &#039;provincial government’s deliberate disengagement from the fight against terrorism&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Kenya",
       "lat": -0.02,
       "lon": 37.9,
@@ -462,87 +498,51 @@
       }
     },
     {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "Philippines volcano erupts, creating 6km-high ash cloud",
-        "description": "Mount Kanlaon volcano in central Philippines erupted on Saturday sending thick plumes of smoke and ash.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Roos get past Dockers as Blues and Hawks taste victory",
+        "description": "North Melbourne recovers from an early scare to beat Fremantle, while Carlton and Hawthorn triumph over Sydney and Brisbane respectively.",
+        "link": "https://www.abc.net.au/news/2026-10-11/aflw-kangaroos-dockers-blues-swans-hawks-lions/107253652",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 1,
       "story": {
-        "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
-        "description": "Fresh off final game with Argentina, Messi leads Miami against DC United in Major League Soccer in the United States.",
-        "link": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Live: Steve Smith takes a blinder to get rid of South Africa captain",
+        "description": "A glorious piece of anticipation in the field by Steve Smith undoes Temba Bavuma with South Africa looking to run down Australia's first-innings 390 at Kingsmead. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-10-11/south-africa-australia-kingsmead-test-day-three-live-blog/107252970",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
-        "description": "Fresh off final game with Argentina, Messi leads Miami against DC United in Major League Soccer in the United States.",
-        "link": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Owners fear rare lamb worth up to $25K stolen",
+        "description": "A rare lamb worth up to $25,000 has gone missing from an Adelaide Hills property, with its heartbroken owners urging the community to keep an eye out for the distinctive breed.",
+        "link": "https://www.abc.net.au/news/2026-10-11/lost-lamb-worth-25k-in-adelaide-hills/107253530",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
+      "name": "Jordan",
+      "lat": 30.59,
+      "lon": 36.24,
       "count": 1,
       "story": {
-        "title": "Ronaldo suspended by Portugal FA after leaving camp and criticising coach",
-        "description": "Portugal star Cristiano Ronaldo suspended by his country&#039;s football association for walkout during Nations League games.",
-        "link": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 1,
-      "story": {
-        "title": "Is China seeking to restrict Taiwan's cultural presence?",
-        "description": "From coffee competitions to literature awards, Beijing appears to be working to limit Taiwan's international cultural and political impact.",
-        "link": "https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 1,
-      "story": {
-        "title": "Johor extends school closures to Oct 16 as haze worsens",
-        "description": "The southern Malaysian state of Johor first began closing its schools on Oct 8.",
-        "link": "https://www.channelnewsasia.com/asia/malaysia-johor-school-closure-extended-oct-16-6449831",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 1,
-      "story": {
-        "title": "Air quality remains unhealthy across Singapore amid haze",
-        "description": "The 24-hour PSI is expected to be in the \"unhealthy\" to \"high unhealthy\" range on Sunday, NEA said on Saturday evening.",
-        "link": "https://www.channelnewsasia.com/singapore/haze-persists-singapore-air-quality-6449771",
-        "source": "CNA"
+        "title": "Missing Melbourne hiker Jordan Yap has died in Peru, authorities confirm",
+        "description": "Australian man Jordan Yap has been found dead, weeks after he failed to return home from a solo hike in a remote region of Peru.",
+        "link": "https://www.abc.net.au/news/2026-10-11/jordan-yap-found-dead-melbourne-missing-hiker/107252872",
+        "source": "ABC News AU"
       }
     }
   ]
