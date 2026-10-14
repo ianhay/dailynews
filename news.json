@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:29:25+00:00",
+  "generated_at": "2026-10-14T01:21:25+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,13 +24,19 @@
       "source": "BBC News"
     },
     {
-      "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
-      "description": "Orla Guerin travelled through Yemen, with forces loyal to its internationally recognised government, to a remote desert battlefield where Houthi rebels were dislodged just days ago.",
-      "link": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "Heating oil customers face tough winter despite shake-up promise",
+      "description": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
+    {
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "description": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
       "description": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
@@ -41,12 +47,6 @@
       "title": "Argentina targets UK in legal claim over Falklands oil exploration",
       "description": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
       "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "description": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,11 +75,11 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 13,
+      "count": 10,
       "story": {
-        "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-        "description": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-        "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+        "description": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+        "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -87,35 +87,47 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 11,
+      "count": 10,
       "story": {
-        "title": "'Sluggish' Australia joins criticism of Trump administration's ICC attack",
-        "description": "Australia has joined a statement condemning Donald Trump's criticism of the International Criminal Court days after several other nations issued it.",
-        "link": "https://www.abc.net.au/news/2026-10-14/australia-joins-criticism-of-trump-administration-assault-on-icc/107262112",
+        "title": "Storms 'swirling like a tornado' leave trail of destruction in parts of NT",
+        "description": "Central Australian businesses and residents are assessing damage from severe storms that have swept through parts of the Northern Territory.",
+        "link": "https://www.abc.net.au/news/2026-10-14/huge-storms-in-alice-springs-and-central-australia/107260090",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 9,
-      "story": {
-        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-        "description": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-        "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 7,
+      "count": 8,
       "story": {
         "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
         "description": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
         "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 6,
+      "story": {
+        "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+        "description": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
+        "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 5,
+      "story": {
+        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+        "description": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+        "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,74 +144,74 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
-      "story": {
-        "title": "Australia is on the verge of its first Michelin star, and it won't be in Sydney or Melbourne",
-        "description": "A covert operation has been unfolding under the noses of diners and staff in restaurants across South Australia.",
-        "link": "https://www.abc.net.au/news/2026-10-14/michelin-star-arrives-in-south-australia-in-australian-first/107259646",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 5,
-      "story": {
-        "title": "Germany news: Left-leaning Berlin coalition talks break down",
-        "description": "The SPD and Greens in Berlin have halted exploratory coalition talks with the Left Party amid a dispute over Israel policy and antisemitism. DW has more.",
-        "link": "https://www.dw.com/en/germany-news-left-leaning-berlin-coalition-talks-break-down/live-79647092?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
-      "count": 3,
-      "story": {
-        "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-        "description": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-        "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 3,
-      "story": {
-        "title": "Inside Katie Zacharia's very brief White House briefing",
-        "description": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
-        "link": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Saudi Arabia",
       "lat": 23.9,
       "lon": 45.1,
-      "count": 3,
+      "count": 4,
       "story": {
-        "title": "Blasts rock Yemen's capital as Houthis vow to retaliate",
-        "description": "The strikes mark a fresh escalation in the widening Middle East crisis, with Yemen's Houthis vowing to retaliate with attacks on Saudi Arabia's airports and oil refineries.",
-        "link": "https://www.abc.net.au/news/2026-10-14/blasts-heard-in-yemen-s-capital/107262860",
+        "title": "OpenAI employee busted collecting 'superintelligence' technology",
+        "description": "An OpenAI employee with Saudi Arabian links has been busted collecting sensitive conversations from inside a conference room.",
+        "link": "https://www.abc.net.au/news/2026-10-14/open-ai-employee-charged-after-alleged-covert-recording/107263252",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 4,
+      "story": {
+        "title": "MAS keeps monetary policy on hold after tightening twice this year",
+        "description": "The Monetary Authority of Singapore also narrowed the core inflation forecast to 1.5 to 2 per cent, from a previous prediction of 1.5 to 2.5 per cent.",
+        "link": "https://www.channelnewsasia.com/singapore/mas-monetary-policy-inflation-economy-6454831",
+        "source": "CNA"
       }
     },
     {
       "name": "Riyadh",
       "lat": 24.71,
       "lon": 46.68,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
         "description": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
         "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 3,
+      "story": {
+        "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+        "description": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
+        "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
+        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
+        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
+        "source": "SBS News"
+      }
+    },
+    {
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
+      "count": 2,
+      "story": {
+        "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+        "description": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
+        "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -209,33 +221,9 @@
       "lon": 30.52,
       "count": 2,
       "story": {
-        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-        "description": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-        "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Bulgaria",
-      "lat": 42.73,
-      "lon": 25.49,
-      "count": 2,
-      "story": {
-        "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-        "description": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
-        "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 2,
-      "story": {
-        "title": "Who's to blame for the toxic smog choking South East Asia?",
-        "description": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
-        "link": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
+        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+        "description": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+        "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -252,18 +240,6 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 2,
-      "story": {
-        "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-        "description": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
-        "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "London",
       "lat": 51.5,
       "lon": -0.12,
@@ -276,15 +252,39 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
-        "description": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
-        "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+        "description": "A year into the ceasefire, nearly two-thirds of Gaza is in Israeli hands and Netanyahu vows control of the West Bank.",
+        "link": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 2,
+      "story": {
+        "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+        "description": "A year into the ceasefire, nearly two-thirds of Gaza is in Israeli hands and Netanyahu vows control of the West Bank.",
+        "link": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Manchester United’s Martinez blasts board’s lack of investment",
+        "description": "Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club&#039;s failure to invest in team.",
+        "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -300,50 +300,14 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
-        "description": "As Israel moves Gaza’s Yellow Line westward, displaced families in Shujayea face renewed danger.",
-        "link": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 2,
-      "story": {
-        "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
-        "description": "As Israel moves Gaza’s Yellow Line westward, displaced families in Shujayea face renewed danger.",
-        "link": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 2,
-      "story": {
-        "title": "Police say group was throwing rocks at cars before stabbing in Canberra's north",
-        "description": "The ACT chief police officer says a 23-year-old man has been stabbed in what he called a \"concerning\" roadside incident in Belconnen early this morning.",
-        "link": "https://www.abc.net.au/news/2026-10-14/police-say-person-stabbed-during-incident-in-belconnen/107263192",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Melbourne",
       "lat": -37.81,
       "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Police investigate arson attacks in neighbouring Melbourne suburbs",
-        "description": "A house in Essendon was targeted in a suspected arson attack overnight before offenders struck at a business just a few kilometres away.",
-        "link": "https://www.abc.net.au/news/2026-10-14/essendon-and-moonee-ponds-suspicious-fires/107263002",
+        "title": "Finance presenter Alan Kohler to sign off from ABC for final time",
+        "description": "Alan Kohler will walk out the door of the ABC's Melbourne studios tonight after presenting his final finance report, ending a 31-year career at the public broadcaster.",
+        "link": "https://www.abc.net.au/news/2026-10-14/end-of-era-alan-kohler-final-abc-finance-sign-off/107260824",
         "source": "ABC News AU"
       }
     },
@@ -360,30 +324,6 @@
       }
     },
     {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 2,
-      "story": {
-        "title": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
-        "description": "Germany's Johann Wadephul said hybrid plots like the Starlink fire showed Europe was \"in Russia's crosshairs.\" The UK's Ed Miliband said Trump's Russian diesel deal led to a \"very difficult few days\" diplomatically.",
-        "link": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "‘Modest take-up’: More than 90 families await childminders as pilot faces matching challenge",
-        "description": "Having the service more evenly spread across Singapore would give parents options closer to home and reduce travel time, one parent said.",
-        "link": "https://www.channelnewsasia.com/singapore/childminding-nanny-baby-parents-caregiving-challenge-6456531",
-        "source": "CNA"
-      }
-    },
-    {
       "name": "Argentina",
       "lat": -38.4,
       "lon": -63.6,
@@ -396,14 +336,26 @@
       }
     },
     {
-      "name": "Afghanistan",
-      "lat": 33.9,
-      "lon": 67.7,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 1,
       "story": {
-        "title": "BBC FM radio transmissions suspended in Afghanistan",
-        "description": "BBC programming is still reaching audiences on shortwave, medium wave, via satellite and online.",
-        "link": "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po?at_medium=RSS&at_campaign=rss",
+        "title": "Who's to blame for the toxic smog choking South East Asia?",
+        "description": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
+        "link": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "Inside Katie Zacharia's very brief White House briefing",
+        "description": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
+        "link": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -411,6 +363,18 @@
       "name": "Paris",
       "lat": 48.85,
       "lon": 2.35,
+      "count": 1,
+      "story": {
+        "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
+        "description": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
+        "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 1,
       "story": {
         "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
@@ -432,18 +396,6 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Atletico Madrid beat Manchester United 2-0 as winless run continues",
-        "description": "Michael Carrick&#039;s Man Utd continue to search for a win as Atletico win 2-0 in UEFA Champions League.",
-        "link": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Egypt",
       "lat": 26.8,
       "lon": 30.8,
@@ -456,27 +408,15 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "Russia arrests Japanese reporter for alleged espionage",
-        "description": "Suspect was arrested on Russia&#039;s far-eastern Sakhalin Island before being transferred to Moscow, says Russia&#039;s FSB.",
-        "link": "https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 1,
-      "story": {
-        "title": "Russia arrests Japanese reporter for alleged espionage",
-        "description": "Suspect was arrested on Russia&#039;s far-eastern Sakhalin Island before being transferred to Moscow, says Russia&#039;s FSB.",
-        "link": "https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Forget My Happiness, these are Powderfinger's essential songs",
+        "description": "Powderfinger are back! What better time for fans old and new to revisit the legacy of the Brisbane rock icons?",
+        "link": "https://www.abc.net.au/news/2026-10-14/powderfinger-reunion-2027-tour-tickets-best-songs-guide/107259308",
+        "source": "ABC News AU"
       }
     },
     {
@@ -492,39 +432,27 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
       "count": 1,
       "story": {
-        "title": "Selection critics silenced as Australia's old guard wins first Test",
-        "description": "Australia started the first Test against South Africa on the back foot, but its 214-run victory has silenced any critics of the selection strategy.",
-        "link": "https://www.abc.net.au/news/2026-10-14/australia-has-silenced-critics-of-its-test-selection-strategy/107259814",
+        "title": "Police say group was throwing rocks at cars before stabbing in Canberra's north",
+        "description": "The ACT chief police officer says a 23-year-old man has been stabbed in what he called a \"concerning\" roadside incident in Belconnen early this morning.",
+        "link": "https://www.abc.net.au/news/2026-10-14/police-say-person-stabbed-during-incident-in-belconnen/107263192",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 1,
       "story": {
-        "title": "More homes amid rising seas is the Gold Coast's dilemma",
-        "description": "The Gold Coast's push for more housing faces growing climate risks, with urban planners warning rising seas and worsening flooding will force up premiums and push people out of some suburbs.",
-        "link": "https://www.abc.net.au/news/2026-10-14/climate-risks-pose-new-gold-coast-housing-pains/107243574",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Athens",
-      "lat": 37.98,
-      "lon": 23.73,
-      "count": 1,
-      "story": {
-        "title": "White House asks US envoy in Athens to resign",
-        "description": "In her first briefing since becoming White House press secretary, Katie Zacharia says the Trump-appointed US ambassador to Greece, Kimberly Guilfoyle, has been asked to resign.",
-        "link": "https://www.abc.net.au/news/2026-10-14/white-house-first-press-briefing-zacharia-guilfoyle/107262814",
-        "source": "ABC News AU"
+        "title": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
+        "description": "Germany's Johann Wadephul said hybrid plots like the Starlink fire showed Europe was \"in Russia's crosshairs.\" The UK's Ed Miliband said Trump's Russian diesel deal led to a \"very difficult few days\" diplomatically.",
+        "link": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -549,6 +477,78 @@
         "description": "Pakistan's decision to suspend Khyber Pakhtunkhwa's provincial government could further strain already tense relations between Islamabad and Kabul.",
         "link": "https://www.dw.com/en/how-will-emergency-rule-in-pakistan-s-northwest-affect-afghan-ties/a-79654262?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Kabul",
+      "lat": 34.53,
+      "lon": 69.17,
+      "count": 1,
+      "story": {
+        "title": "How will emergency rule in Pakistan's northwest affect Afghan ties?",
+        "description": "Pakistan's decision to suspend Khyber Pakhtunkhwa's provincial government could further strain already tense relations between Islamabad and Kabul.",
+        "link": "https://www.dw.com/en/how-will-emergency-rule-in-pakistan-s-northwest-affect-afghan-ties/a-79654262?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Hungary",
+      "lat": 47.16,
+      "lon": 19.5,
+      "count": 1,
+      "story": {
+        "title": "Hungary's parliament votes to reverse anti-LGBTQ legislation from Orban era",
+        "description": "Hungary's parliament passed a bill amending the 2021 \"child protection law.\" The move is considered the first significant reversal of Orban's curbs targeting the LGBTQ+ community.",
+        "link": "https://www.dw.com/en/hungary-s-parliament-votes-to-reverse-anti-lgbtq-legislation-from-orban-era/a-79647826?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 1,
+      "story": {
+        "title": "India: Can 'cockroaches' threaten Modi's political grip?",
+        "description": "Thousands detained, leaders arrested on arrival, and a capital under lockdown: The youth-led protests against the election chief have the attention of the Indian government. But experts say toppling it is another matter.",
+        "link": "https://www.dw.com/en/india-can-cockroaches-threaten-modi-s-political-grip/a-79649732?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Spain's King Felipe and Queen Letizia visit Ceuta",
+        "description": "The royal couple have arrived for their first-ever visit to the exclave to show solidarity with residents.",
+        "link": "https://www.dw.com/en/spain-s-king-felipe-and-queen-letizia-visit-ceuta/a-79649468?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
+      "count": 1,
+      "story": {
+        "title": "Malaysia’s haze-related school closures leave parents scrambling to keep children on track for exams",
+        "description": "Uncertainty over when schools in Malaysia would reopen has caused inconvenience, parents tell CNA. The authorities can help by prioritising device loans for low-income families and having flexible work arrangements for p",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-haze-school-closures-parents-exams-6455371",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Bangkok",
+      "lat": 13.75,
+      "lon": 100.5,
+      "count": 1,
+      "story": {
+        "title": "Extreme rain, overwhelmed drains: Why Bangkok flooded and what could have been avoided",
+        "description": "Thailand has strengthened its flood defences since the catastrophic 2011 disaster, but recent extreme rainfall has exposed persistent weaknesses in drainage, urban planning and water management, say experts.",
+        "link": "https://www.channelnewsasia.com/asia/bangkok-floods-why-climate-future-risks-6455041",
+        "source": "CNA"
       }
     }
   ]
