@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:21:25+00:00",
+  "generated_at": "2026-10-14T06:36:11+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,9 +24,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Heating oil customers face tough winter despite shake-up promise",
-      "description": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+      "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
+      "description": "Thomas Woldbye tells the Today progamme it would be \"good to know\" the government's position on the project, after comments made by the prime minister.",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -44,13 +44,19 @@
       "source": "BBC News"
     },
     {
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "description": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "description": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+      "description": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Why the lonely in China are hiring 'temporary children'",
       "description": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
@@ -62,12 +68,6 @@
       "description": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.",
       "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Fridges in French supermarkets hit by cyber attack",
-      "description": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
-      "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 10,
+      "count": 15,
       "story": {
         "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
         "description": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
@@ -87,55 +87,19 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 10,
+      "count": 15,
       "story": {
-        "title": "Storms 'swirling like a tornado' leave trail of destruction in parts of NT",
-        "description": "Central Australian businesses and residents are assessing damage from severe storms that have swept through parts of the Northern Territory.",
-        "link": "https://www.abc.net.au/news/2026-10-14/huge-storms-in-alice-springs-and-central-australia/107260090",
+        "title": "Hospitality bosses warn of empty cafes and kitchens under migration cuts",
+        "description": "The latest pushback on sweeping migration cuts has come from the hospitality industry in a social media campaign focused on the consequences for everyday Australians if crucial jobs are left vacant.",
+        "link": "https://www.abc.net.au/news/2026-10-14/hospitality-industry-warns-shortages-migrant-workers/107266454",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 8,
-      "story": {
-        "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-        "description": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-        "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 6,
-      "story": {
-        "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-        "description": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
-        "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 5,
-      "story": {
-        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-        "description": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 5,
+      "count": 8,
       "story": {
         "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
         "description": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
@@ -144,27 +108,75 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 4,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 8,
       "story": {
-        "title": "OpenAI employee busted collecting 'superintelligence' technology",
-        "description": "An OpenAI employee with Saudi Arabian links has been busted collecting sensitive conversations from inside a conference room.",
-        "link": "https://www.abc.net.au/news/2026-10-14/open-ai-employee-charged-after-alleged-covert-recording/107263252",
+        "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+        "description": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
+        "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 7,
+      "story": {
+        "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+        "description": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+        "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 6,
+      "story": {
+        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+        "description": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+        "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 5,
+      "story": {
+        "title": "Powderfinger adds new shows for 2027 tour after pre-sale madness",
+        "description": "Powderfinger is heading back out on the road in 2027, playing 24 shows across Brisbane, Melbourne, Adelaide, Perth, Sydney and Cairns.",
+        "link": "https://www.abc.net.au/news/2026-10-14/powderfinger-adds-new-shows-reunion-tour-2027/107266510",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 4,
       "story": {
-        "title": "MAS keeps monetary policy on hold after tightening twice this year",
-        "description": "The Monetary Authority of Singapore also narrowed the core inflation forecast to 1.5 to 2 per cent, from a previous prediction of 1.5 to 2.5 per cent.",
-        "link": "https://www.channelnewsasia.com/singapore/mas-monetary-policy-inflation-economy-6454831",
-        "source": "CNA"
+        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+        "description": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+        "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 4,
+      "story": {
+        "title": "Inside Katie Zacharia's very brief White House briefing",
+        "description": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
+        "link": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -180,34 +192,10 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 3,
-      "story": {
-        "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
-        "description": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
-        "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
-      "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
-      }
-    },
-    {
       "name": "Greece",
       "lat": 39.07,
       "lon": 21.82,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
         "description": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
@@ -216,22 +204,10 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 2,
-      "story": {
-        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-        "description": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-        "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
         "description": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
@@ -243,12 +219,96 @@
       "name": "London",
       "lat": 51.5,
       "lon": -0.12,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
         "description": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
         "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Singapore’s economy grows more than 5 percent amid AI boom",
+        "description": "City-state&#039;s GDP expands 5.4 percent in July-September quarter, according to advance government estimates.",
+        "link": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 3,
+      "story": {
+        "title": "Israel returns 22 stolen ancient artefacts to Greece",
+        "description": "The cultural exchange comes amid strengthening ties between the two countries.",
+        "link": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 3,
+      "story": {
+        "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+        "description": "Saudi Arabia says it intercepted missiles targeting Riyadh and Dhahran, with falling debris injuring people.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "India news: 'Cockroach' leaders sent to judicial custody amid protest crackdown",
+        "description": "Three of India's Cockroach movement leaders will spend five days in jail over charges of trespassing into what was until recently a designated protest site. In other news, Marco Rubio is set to visit India. DW has more.",
+        "link": "https://www.dw.com/en/india-news-cockroach-leaders-sent-to-judicial-custody-amid-protest-crackdown/live-79656344?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Tokyo",
+      "lat": 35.68,
+      "lon": 139.77,
+      "count": 2,
+      "story": {
+        "title": "Russia arrests Japanese journalist on alleged espionage",
+        "description": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+        "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 2,
+      "story": {
+        "title": "China and North Korea to open New Yalu River Bridge, state media reports",
+        "description": "The long-delayed bridge will formally open on Thursday, according to China&#039;s state-run Xinhua news agency.",
+        "link": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 2,
+      "story": {
+        "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
+        "description": "The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation.",
+        "link": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -264,39 +324,27 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 2,
       "story": {
-        "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
-        "description": "A year into the ceasefire, nearly two-thirds of Gaza is in Israeli hands and Netanyahu vows control of the West Bank.",
-        "link": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "WOMADelaide reveals 2027 line-up marking 35 years of The World's Festival",
+        "description": "Adelaide's revered event has celebrated global music since 1992. This year's diverse line-up is no exception.",
+        "link": "https://www.abc.net.au/news/2026-10-14/womadelaide-lineup-2027-adelaide-35th-anniversary-festival-dates/107259704",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 2,
       "story": {
-        "title": "Manchester United’s Martinez blasts board’s lack of investment",
-        "description": "Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club&#039;s failure to invest in team.",
-        "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 2,
-      "story": {
-        "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
-        "description": "The Bundibugyo strain fuels deadliest Ebola outbreak in DRC’s history as health workers face mistrust from communities.",
-        "link": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Rare earths company could be nationalised as China-linked investors fail to divest",
+        "description": "Resources Minister Madeleine King has left open the door to nationalising a Perth-based critical minerals company as several China-linked investors are defying federal government orders to divest from it.",
+        "link": "https://www.abc.net.au/news/2026-10-14/federal-politics-resources-minister-open-nationalising-company/107266624",
+        "source": "ABC News AU"
       }
     },
     {
@@ -305,9 +353,33 @@
       "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Finance presenter Alan Kohler to sign off from ABC for final time",
-        "description": "Alan Kohler will walk out the door of the ABC's Melbourne studios tonight after presenting his final finance report, ending a 31-year career at the public broadcaster.",
-        "link": "https://www.abc.net.au/news/2026-10-14/end-of-era-alan-kohler-final-abc-finance-sign-off/107260824",
+        "title": "Powderfinger adds new shows for 2027 tour after pre-sale madness",
+        "description": "Powderfinger is heading back out on the road in 2027, playing 24 shows across Brisbane, Melbourne, Adelaide, Perth, Sydney and Cairns.",
+        "link": "https://www.abc.net.au/news/2026-10-14/powderfinger-adds-new-shows-reunion-tour-2027/107266510",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 2,
+      "story": {
+        "title": "Powderfinger adds new shows for 2027 tour after pre-sale madness",
+        "description": "Powderfinger is heading back out on the road in 2027, playing 24 shows across Brisbane, Melbourne, Adelaide, Perth, Sydney and Cairns.",
+        "link": "https://www.abc.net.au/news/2026-10-14/powderfinger-adds-new-shows-reunion-tour-2027/107266510",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
+      "count": 2,
+      "story": {
+        "title": "Calls for judge to be stood down after teen rapist avoids jail",
+        "description": "The teenager's 18-month suspended sentence has sparked outrage in the Canberra community.",
+        "link": "https://www.abc.net.au/news/2026-10-14/act-prosecutors-considering-appeal-after-teen-rapist-avoids-jail/107264168",
         "source": "ABC News AU"
       }
     },
@@ -324,14 +396,38 @@
       }
     },
     {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 2,
+      "story": {
+        "title": "Kim Soo-hyun's agency to take legal action against those spreading 'false information' about actor",
+        "description": "On Wednesday (Oct 14), South Korean actor Kim Soo-hyun's agency, Gold Medalist, announced that it is taking legal action against those who spread false information about him. The move comes after Kim was cleared of the a",
+        "link": "https://www.channelnewsasia.com/entertainment/kim-soo-hyun-agency-legal-action-gold-medalist-6457831",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 1,
       "story": {
-        "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-        "description": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-        "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+        "title": "Russia arrests Japanese journalist on alleged espionage",
+        "description": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+        "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 1,
+      "story": {
+        "title": "Russia arrests Japanese journalist on alleged espionage",
+        "description": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+        "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -344,18 +440,6 @@
         "title": "Who's to blame for the toxic smog choking South East Asia?",
         "description": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
         "link": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Inside Katie Zacharia's very brief White House briefing",
-        "description": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
-        "link": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -384,63 +468,51 @@
       }
     },
     {
-      "name": "Rome",
-      "lat": 41.9,
-      "lon": 12.5,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 1,
       "story": {
-        "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
-        "description": "The 71-year-old is recovering in Rome&#039;s Gemelli hospital after surgery to remove a cancerous growth on his lung.",
-        "link": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss",
+        "title": "Sudan cannot afford to dismiss a chance for dialogue",
+        "description": "A new initiative faces serious questions about military influence, but its critics should not write it off prematurely.",
+        "link": "https://www.aljazeera.com/opinions/2026/10/14/sudan-cannot-afford-to-dismiss-a-chance-for-dialogue?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
+      "name": "Cairo",
+      "lat": 30.04,
+      "lon": 31.24,
       "count": 1,
       "story": {
-        "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-        "description": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
+        "title": "From Cairo to Tokyo: Can you guess these twin cities?",
+        "description": "As a London borough moves to cut ties with Haifa, test your knowledge of the world&#039;s twin cities.",
+        "link": "https://www.aljazeera.com/news/2026/10/14/from-cairo-to-tokyo-can-you-guess-these-twin-cities?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
       "count": 1,
       "story": {
-        "title": "Forget My Happiness, these are Powderfinger's essential songs",
-        "description": "Powderfinger are back! What better time for fans old and new to revisit the legacy of the Brisbane rock icons?",
-        "link": "https://www.abc.net.au/news/2026-10-14/powderfinger-reunion-2027-tour-tickets-best-songs-guide/107259308",
-        "source": "ABC News AU"
+        "title": "Colombia peace tribunal charges ex-FARC members with anti-Indigenous crimes",
+        "description": "The former rebels are accused of abuses such as torture, murder and the displacement of Indigenous communities.",
+        "link": "https://www.aljazeera.com/news/2026/10/14/colombia-peace-tribunal-charges-ex-farc-members-with-anti-indigenous-crimes?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Shanghai",
-      "lat": 31.23,
-      "lon": 121.47,
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "De Minaur sets up Shanghai quarterfinal with Zverev",
-        "description": "Alex de Minaur has taken a giant stride towards clinching another ATP Finals berth after roaring into the last eight of the Shanghai Masters.",
-        "link": "https://www.abc.net.au/news/2026-10-14/alex-de-minaur-advances-to-quarterfinals-of-shanghai-masters/107263278",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "Police say group was throwing rocks at cars before stabbing in Canberra's north",
-        "description": "The ACT chief police officer says a 23-year-old man has been stabbed in what he called a \"concerning\" roadside incident in Belconnen early this morning.",
-        "link": "https://www.abc.net.au/news/2026-10-14/police-say-person-stabbed-during-incident-in-belconnen/107263192",
-        "source": "ABC News AU"
+        "title": "Manchester United’s Martinez blasts board’s lack of investment",
+        "description": "Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club&#039;s failure to invest in team.",
+        "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -477,78 +549,6 @@
         "description": "Pakistan's decision to suspend Khyber Pakhtunkhwa's provincial government could further strain already tense relations between Islamabad and Kabul.",
         "link": "https://www.dw.com/en/how-will-emergency-rule-in-pakistan-s-northwest-affect-afghan-ties/a-79654262?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Kabul",
-      "lat": 34.53,
-      "lon": 69.17,
-      "count": 1,
-      "story": {
-        "title": "How will emergency rule in Pakistan's northwest affect Afghan ties?",
-        "description": "Pakistan's decision to suspend Khyber Pakhtunkhwa's provincial government could further strain already tense relations between Islamabad and Kabul.",
-        "link": "https://www.dw.com/en/how-will-emergency-rule-in-pakistan-s-northwest-affect-afghan-ties/a-79654262?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Hungary",
-      "lat": 47.16,
-      "lon": 19.5,
-      "count": 1,
-      "story": {
-        "title": "Hungary's parliament votes to reverse anti-LGBTQ legislation from Orban era",
-        "description": "Hungary's parliament passed a bill amending the 2021 \"child protection law.\" The move is considered the first significant reversal of Orban's curbs targeting the LGBTQ+ community.",
-        "link": "https://www.dw.com/en/hungary-s-parliament-votes-to-reverse-anti-lgbtq-legislation-from-orban-era/a-79647826?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 1,
-      "story": {
-        "title": "India: Can 'cockroaches' threaten Modi's political grip?",
-        "description": "Thousands detained, leaders arrested on arrival, and a capital under lockdown: The youth-led protests against the election chief have the attention of the Indian government. But experts say toppling it is another matter.",
-        "link": "https://www.dw.com/en/india-can-cockroaches-threaten-modi-s-political-grip/a-79649732?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Spain's King Felipe and Queen Letizia visit Ceuta",
-        "description": "The royal couple have arrived for their first-ever visit to the exclave to show solidarity with residents.",
-        "link": "https://www.dw.com/en/spain-s-king-felipe-and-queen-letizia-visit-ceuta/a-79649468?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 1,
-      "story": {
-        "title": "Malaysia’s haze-related school closures leave parents scrambling to keep children on track for exams",
-        "description": "Uncertainty over when schools in Malaysia would reopen has caused inconvenience, parents tell CNA. The authorities can help by prioritising device loans for low-income families and having flexible work arrangements for p",
-        "link": "https://www.channelnewsasia.com/asia/malaysia-haze-school-closures-parents-exams-6455371",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Bangkok",
-      "lat": 13.75,
-      "lon": 100.5,
-      "count": 1,
-      "story": {
-        "title": "Extreme rain, overwhelmed drains: Why Bangkok flooded and what could have been avoided",
-        "description": "Thailand has strengthened its flood defences since the catastrophic 2011 disaster, but recent extreme rainfall has exposed persistent weaknesses in drainage, urban planning and water management, say experts.",
-        "link": "https://www.channelnewsasia.com/asia/bangkok-floods-why-climate-future-risks-6455041",
-        "source": "CNA"
       }
     }
   ]
