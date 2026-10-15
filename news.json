@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T15:16:32+00:00",
+  "generated_at": "2026-10-15T19:19:50+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+      "description": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Obama says drift towards extremism 'not inevitable'",
       "description": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
       "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
@@ -21,12 +27,6 @@
       "title": "Brazil's Congress approves shorter working week in win for Lula",
       "description": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
       "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "North Korea and China open new bridge after 12-year delay",
-      "description": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -38,24 +38,24 @@
       "source": "BBC News"
     },
     {
-      "title": "Australian woman charged with lacing colleague's curry with snail poison",
-      "description": "The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss",
+      "title": "Maduro pleads not guilty to new torture-related charges in New York",
+      "description": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Student protesters attack government buildings in Albania",
-      "description": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
-      "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+      "title": "Letters with 'suspicious substances' sent to US election offices",
+      "description": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
     {
-      "title": "Why the lonely in China are hiring 'temporary children'",
-      "description": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
-      "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "title": "Banks say Healey is planning Budget tax raid on their profits",
+      "description": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     },
     {
       "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 16,
+      "count": 13,
       "story": {
         "title": "Australian woman charged with lacing colleague's curry with snail poison",
         "description": "The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.",
@@ -87,7 +87,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 14,
+      "count": 10,
       "story": {
         "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
         "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
@@ -99,7 +99,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 12,
+      "count": 10,
       "story": {
         "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
         "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
@@ -108,22 +108,22 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 11,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 8,
       "story": {
-        "title": "North Korea and China open new bridge after 12-year delay",
-        "description": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
-        "link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Hamburg court jails 2 men over plot to attack Jewish leaders on behalf of Iran",
+        "description": "The men were found guilty of espionage and attempted murder. According to the court, they planned to attack the president of the Central Council of Jews in Germany and president of the German-Israeli society.",
+        "link": "https://www.dw.com/en/hamburg-court-jails-2-men-over-plot-to-attack-jewish-leaders-on-behalf-of-iran/a-79667895?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
-      "count": 8,
+      "count": 6,
       "story": {
         "title": "Actor Imran Khan ordered to leave India after participating in protest",
         "description": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
@@ -132,26 +132,26 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 5,
-      "story": {
-        "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-        "description": "Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.",
-        "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 5,
       "story": {
         "title": "North Korea and China open new bridge after 12-year delay",
         "description": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
         "link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
+        "description": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
+        "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -161,58 +161,10 @@
       "lon": 53.0,
       "count": 5,
       "story": {
-        "title": "US-Iran stalemate: What are Trump’s next military options?",
-        "description": "Trump has ruled out attacks before the midterms. Analysts weigh what he could do next, and at what cost.",
-        "link": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss",
+        "title": "What is the ‘Mother of All Bombs’ US could use in Iran?",
+        "description": "US media reports military considering plans to use GBU-43/B Massive Ordnance Air Blast Bomb (MOAB)",
+        "link": "https://www.aljazeera.com/news/2026/10/15/what-is-the-mother-of-all-bombs-us-could-use-in-iran?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 5,
-      "story": {
-        "title": "Hamburg court jails 2 men over plot to attack Jewish leaders on behalf of Iran",
-        "description": "The pair was found guilty of espionage and attempted murder. The court says they planned to attack the president of the Central Council of Jews in Germany and president of the German-Israeli society.",
-        "link": "https://www.dw.com/en/hamburg-court-jails-2-men-over-plot-to-attack-jewish-leaders-on-behalf-of-iran/a-79667895?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 4,
-      "story": {
-        "title": "Brazil's Congress approves shorter working week in win for Lula",
-        "description": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
-        "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-        "description": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
-        "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 4,
-      "story": {
-        "title": "Zelenskyy 'done' with US-made energy ceasefire that Moscow ignored",
-        "description": "Ukraine has struck a Russian oil refinery after President Zelenskyy said he was \"done\" supporting a US-orchestrated ceasefire on energy targets which Moscow did not obey.",
-        "link": "https://www.abc.net.au/news/2026-10-16/zelenskyy-done-with-energy-ceasefire/107272922",
-        "source": "ABC News AU"
       }
     },
     {
@@ -228,15 +180,27 @@
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
       "count": 3,
       "story": {
-        "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
-        "description": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
-        "link": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
+        "title": "Brazil's Congress approves shorter working week in win for Lula",
+        "description": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
+        "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 3,
+      "story": {
+        "title": "Zelenskyy 'done' with US-made energy ceasefire that Moscow ignored",
+        "description": "Ukraine has struck a Russian oil refinery after President Zelenskyy said he was \"done\" supporting a US-orchestrated ceasefire on energy targets which Moscow did not obey.",
+        "link": "https://www.abc.net.au/news/2026-10-16/zelenskyy-done-with-energy-ceasefire/107272922",
+        "source": "ABC News AU"
       }
     },
     {
@@ -252,6 +216,54 @@
       }
     },
     {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 2,
+      "story": {
+        "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+        "description": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+        "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Istanbul",
+      "lat": 41.0,
+      "lon": 28.98,
+      "count": 2,
+      "story": {
+        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "description": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
+        "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
+      "count": 2,
+      "story": {
+        "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+        "description": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
+        "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 2,
+      "story": {
+        "title": "North Korea and China open new bridge after 12-year delay",
+        "description": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
+        "link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
@@ -264,87 +276,27 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
-        "description": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
-        "link": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
+        "title": "A mother’s touch helps premature babies grow strong in Gaza",
+        "description": "At Nasser Hospital, a kangaroo mother care pilot programme helps vulnerable newborns.",
+        "link": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
       "count": 2,
       "story": {
-        "title": "Russia says Ukraine resumes attacks on oil refineries",
-        "description": "Ukraine&#039;s president earlier said Kyiv was &#039;done&#039; with energy ceasefire and that strikes on Russian oil refineries would resume.",
-        "link": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
+        "title": "Venezuela’s Maduro pleads not guilty to US conspiracy to torture charges",
+        "description": "Maduro and wife appear in New York City court after new &#039;conspiracy to commit torture&#039; charges.",
+        "link": "https://www.aljazeera.com/news/2026/10/15/venezuelas-maduro-pleads-not-guilty-to-us-conspiracy-to-torture-charges?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 2,
-      "story": {
-        "title": "Could France trigger another Eurozone debt crisis?",
-        "description": "France&#039;s soaring borrowing costs and political divisions raise fears of a wider Eurozone debt crisis.",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/10/15/could-france-trigger-another-eurozone-debt-crisis?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
-      "count": 2,
-      "story": {
-        "title": "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
-        "description": "The government hopes a weaker dinar will help pay salaries, but traders face rising import costs and uncertainty.",
-        "link": "https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
-      "count": 2,
-      "story": {
-        "title": "Quick hits: Walsh vomits after try, Ponga shines then suffers in epic duel",
-        "description": "Australia and New Zealand have set a high standard for the 17th edition of the Rugby League World Cup, opening the 2026 tournament with an all-time classic. Here are the quick hits from the opening match.",
-        "link": "https://www.abc.net.au/news/2026-10-15/kangaroos-vs-kiwis-quick-hits-rugby-league-world-cup/107272576",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Indonesia to deploy dry ice to reduce thick haze from fires",
-        "description": "The haze caused by intense fires has drifted into neighbouring Singapore, Malaysia and East Timor.",
-        "link": "https://www.abc.net.au/news/2026-10-15/indonesian-fires-smoke-haze-dry-ice-deployment/107271748",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Istanbul",
-      "lat": 41.0,
-      "lon": 28.98,
-      "count": 1,
-      "story": {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "description": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
-        "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -396,6 +348,66 @@
       }
     },
     {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 1,
+      "story": {
+        "title": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
+        "description": "Eritrea denies troop movement inside northern Ethiopia as US calls for de-escalation.",
+        "link": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 1,
+      "story": {
+        "title": "DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda",
+        "description": "Formula One returns to Africa for the first time since 1993, but DRC slams decision to stage race in Rwanda.",
+        "link": "https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 1,
+      "story": {
+        "title": "UK Green member behind anti-Zionism motion ‘receives death threats’",
+        "description": "Lubna Speitan, who has Palestinian roots, believes messages and emails are part of an effort to intimidate her.",
+        "link": "https://www.aljazeera.com/news/2026/10/15/uk-green-member-behind-anti-zionism-motion-receives-death-threats?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
+      "count": 1,
+      "story": {
+        "title": "Jerusalem Daily: Ultra-Orthodox Jews storm Israeli army base",
+        "description": "Jerusalem Daily: Ultra-Orthodox Jews storm Israeli army base",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/jerusalem-daily-ultra-orthodox-jews-storm-israeli-army-base?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 1,
+      "story": {
+        "title": "Syrian court sentences two to death over 2025 coastal violence",
+        "description": "Court rulings concern violence and killings during March 2025 uprising by pro-Assad forces and retaliatory attacks.",
+        "link": "https://www.aljazeera.com/news/2026/10/15/syrian-court-sentences-two-to-death-over-2025-coastal-violence?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "South Africa",
       "lat": -30.6,
       "lon": 22.9,
@@ -408,27 +420,51 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Shanghai",
+      "lat": 31.23,
+      "lon": 121.47,
       "count": 1,
       "story": {
-        "title": "Real Madrid’s Vinicius says he’s being targeted by referees",
-        "description": "Vinicius wants protection for players like him, Yamal and Alvarez &#039;who bring something different to the game.&#039;",
-        "link": "https://www.aljazeera.com/sports/2026/10/15/real-madrids-vinicius-says-hes-being-targeted-by-referees?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "De Minaur falls to world number one Zverev in Shanghai",
+        "description": "Top-ranked Alexander Zverev said he felt good on court after beating Alex de Minaur 6-4, 6-4 at the Shanghai Masters.",
+        "link": "https://www.abc.net.au/news/2026-10-16/alexander-zverev-defeats-alex-de-minaur-shanghai-masters/107272886",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Syrian authorities arrest main suspect in 2013 Baniyas mass killings",
-        "description": "Ali Kayali, also known as Mihrac Ural, was apprehended as he tried to cross the border, state media reported.",
-        "link": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Dead man found north of Melbourne may have been targeted",
+        "description": "The man was found at a property in Wollert and his death is being investigated by Homicide detectives.",
+        "link": "https://www.abc.net.au/news/2026-10-16/vic-suspicious-death-wollert/107273436",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 1,
+      "story": {
+        "title": "Court shown photos of Russell Brand shirtless in hotel before alleged rape",
+        "description": "English entertainer Russell Brand asked a woman to take photos of him \"prancing\" in \"horrible budgie smugglers\", shortly before he raped her, a London court has heard.",
+        "link": "https://www.abc.net.au/news/2026-10-16/russell-brand-rape-trial-continues-court-shown-photos-from-1999/107272908",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
+      "count": 1,
+      "story": {
+        "title": "Quick hits: Walsh vomits after try, Ponga shines then suffers in epic duel",
+        "description": "Australia and New Zealand have set a high standard for the 17th edition of the Rugby League World Cup, opening the 2026 tournament with an all-time classic. Here are the quick hits from the opening match.",
+        "link": "https://www.abc.net.au/news/2026-10-15/kangaroos-vs-kiwis-quick-hits-rugby-league-world-cup/107272576",
+        "source": "ABC News AU"
       }
     },
     {
@@ -444,38 +480,14 @@
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 1,
-      "story": {
-        "title": "Indonesia to deploy dry ice to reduce thick haze from fires",
-        "description": "The haze caused by intense fires has drifted into neighbouring Singapore, Malaysia and East Timor.",
-        "link": "https://www.abc.net.au/news/2026-10-15/indonesian-fires-smoke-haze-dry-ice-deployment/107271748",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Once Melbourne's 'laughing stock', Star ferris wheel turns again",
-        "description": "Often the butt of Melburnian jokes, the observation wheel reopened to locals and tourists alike this week.",
-        "link": "https://www.abc.net.au/news/2026-10-15/melbourne-star-ferris-wheel-reopens-after-covid-closure/107269632",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Kenya",
       "lat": -0.02,
       "lon": 37.9,
       "count": 1,
       "story": {
-        "title": "Raila Odinga's legacy: Can Kenya preserve the democratic space he helped create?",
-        "description": "One year after Raila Odinga's death, Kenyans are reflecting on his contribution to democratic reforms and national reconciliation. However, the so-called 'handshakes', with his political rivals remain debatable.",
-        "link": "https://www.dw.com/en/raila-odinga-s-legacy-can-kenya-preserve-the-democratic-space-he-helped-create/a-79668443?maca=en-rss-en-all-1573-rdf",
+        "title": "Can Kenya preserve the democratic space Raila Odinga fought for?",
+        "description": "One year after the former prime minister's death, Kenyans are reflecting on his contribution to democracy and national reconciliation. Odinga's \"handshakes\" with his political rivals remain the subject of much debate.",
+        "link": "https://www.dw.com/en/can-kenya-preserve-the-democratic-space-raila-odinga-fought-for/a-79668443?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -516,38 +528,26 @@
       }
     },
     {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 1,
       "story": {
-        "title": "India urges Russia, Ukraine to protect Black Sea shipping",
-        "description": "New Delhi wants Moscow and Kyiv to ensure safe commercial shipping in the Black Sea amid attacks that put Indian seafarers at risk.",
-        "link": "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-rdf",
+        "title": "Albania: Fire at Education Ministry as students protest",
+        "description": "Riot police deployed in the Albanian capital Tirana on the second day of student protests. The sudden outbreak seemed at least somewhat reminiscent of the widespread demos in France courting international attention.",
+        "link": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Bangkok",
+      "lat": 13.75,
+      "lon": 100.5,
       "count": 1,
       "story": {
-        "title": "Spain includes Bernabeu, Camp Nou among venues in 2035 World Cup bid",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/spain-includes-bernabeu-camp-nou-among-venues-in-2035-world-cup-bid-6462931",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 1,
-      "story": {
-        "title": "Japan tells G20 must watch FX moves with high sense of urgency",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/business/japan-tells-g20-must-watch-fx-moves-high-sense-urgency-6462726",
+        "title": "Germany warns against bringing Russia back into G20 fold",
+        "description": "At a G20 finance ministers’ meeting in Bangkok, German Finance Minister Lars Klingbeil said, “There will be no pretending that Russia is now returning as a normal member of the G20 and simply taking its seat at the table",
+        "link": "https://www.channelnewsasia.com/world/germany-russia-g20-us-bangkok-meeting-6463326",
         "source": "CNA"
       }
     }
