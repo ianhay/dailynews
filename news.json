@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:28:55+00:00",
+  "generated_at": "2026-10-15T00:03:05+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,16 +24,22 @@
       "source": "BBC News"
     },
     {
-      "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
-      "description": "Thomas Woldbye tells the Today progamme it would be \"good to know\" the government's position on the project, after comments made by the prime minister.",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "description": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
   "australia": [
     {
-      "title": "Student protesters attack government buildings in Tirana",
-      "description": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+      "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Student protesters attack government buildings in Albania",
+      "description": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
       "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -41,12 +47,6 @@
       "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
       "description": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
       "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Turkish police raid opposition TV station, halting live broadcasts",
-      "description": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
-      "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 17,
+      "count": 19,
       "story": {
         "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
         "description": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
@@ -84,26 +84,26 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 15,
       "story": {
-        "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-        "description": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
-        "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+        "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+        "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
       "count": 12,
       "story": {
-        "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-        "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-        "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+        "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+        "description": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+        "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,46 +132,34 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 4,
-      "story": {
-        "title": "Student protesters attack government buildings in Tirana",
-        "description": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
-        "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "Israeli quadcopter drone drops bomb in Lebanon",
-        "description": "An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
-      "count": 4,
+      "count": 6,
       "story": {
-        "title": "Overhaul means more South Coast rail services but longer trips",
-        "description": "South Coast passengers will get more than 200 extra weekly services from November 15, but they come with longer Sydney journeys and changes to airport connections.",
-        "link": "https://www.abc.net.au/news/2026-10-15/south-coast-train-timetable-services-airport-changes/107266632",
+        "title": "19yo charged over Sydney school pick-up attempted shooting",
+        "description": "A 44-year-old man and his 15-year-old daughter managed to get out of their car and runaway from the gunman, who was dressed in black and wearing a balaclava.",
+        "link": "https://www.abc.net.au/news/2026-10-15/nsw-charges-over-school-pick-up-attempted-shooting-fairfield/107268832",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 5,
+      "story": {
+        "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+        "description": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
         "description": "US President Trump's diesel deal with Russia has alarmed Ukraine and its allies. What is he hoping to achieve at home, and what does the deal mean for Kyiv and Moscow?",
@@ -180,27 +168,15 @@
       }
     },
     {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 3,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 4,
       "story": {
-        "title": "Kenya confirms second Ebola case - a relative of the first victim",
-        "description": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
-        "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 3,
-      "story": {
-        "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
-        "description": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
-        "link": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Albania: Fire at Education Ministry as students protest",
+        "description": "Riot police deployed in the Albanian capital Tirana on the second day of student protests. The sudden outbreak seemed at least somewhat reminiscent of the widespread demos in France courting international attention.",
+        "link": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -216,15 +192,63 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 3,
       "story": {
-        "title": "Houthi attacks disrupt travel plans for Mecca pilgrims",
-        "description": "Muslim pilgrims headed to Mecca for Umrah are facing travel disruptions as Houthi attacks hit Saudi Arabia.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-attacks-disrupt-travel-plans-for-mecca-pilgrims?traffic_source=rss",
+        "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
+        "description": "Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties.",
+        "link": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "West Indies beat India to level T20 series as Hope continues record run",
+        "description": "Shai Hope’s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls.",
+        "link": "https://www.aljazeera.com/sports/2026/10/14/west-indies-beat-india-to-level-series-as-hope-continues-record-run?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow",
+        "description": "A journalist for a Japanese newspaper was arrested on suspicion of spying in Russia's Far East. A geopolitical rivalry over disputed islands in the region has recently caused tension.",
+        "link": "https://www.dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 2,
+      "story": {
+        "title": "Kenya confirms second Ebola case - a relative of the first victim",
+        "description": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+        "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+        "description": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
+        "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -240,14 +264,14 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
       "count": 2,
       "story": {
-        "title": "West Indies beat India to level T20 series as Hope continues record run",
-        "description": "Shai Hope’s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls.",
-        "link": "https://www.aljazeera.com/sports/2026/10/14/west-indies-beat-india-to-level-series-as-hope-continues-record-run?traffic_source=rss",
+        "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
+        "description": "Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.",
+        "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -276,6 +300,18 @@
       }
     },
     {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 2,
+      "story": {
+        "title": "Houthi attacks disrupt travel plans for Mecca pilgrims",
+        "description": "Muslim pilgrims headed to Mecca for Umrah are facing travel disruptions as Houthi attacks hit Saudi Arabia.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-attacks-disrupt-travel-plans-for-mecca-pilgrims?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Bangladesh",
       "lat": 23.68,
       "lon": 90.36,
@@ -288,39 +324,15 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
       "count": 2,
       "story": {
-        "title": "Real Madrid’s Vinicius banned for Clasico after hair-pull red card",
-        "description": "Vinicius will miss El Clasico on October 25 in his four-match ban for pulling Saliba&#039;s hair in La Liga.",
-        "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "Palestinian collective uses art to connect Gaza and the West Bank",
-        "description": "A Palestinian exhibition opening simultaneously in Bethlehem and Gaza is challenging Israeli restrictions.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Palestinian collective uses art to connect Gaza and the West Bank",
-        "description": "A Palestinian exhibition opening simultaneously in Bethlehem and Gaza is challenging Israeli restrictions.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Qld tourism businesses say fuel prices behind drop in visitor numbers",
+        "description": "Carly Clark is passionate about hosting tourists on her animal rescue property but despite being less than a 5-hour drive from Brisbane, visitors to her farm have declined.",
+        "link": "https://www.abc.net.au/news/2026-10-15/tourist-numbers-down-in-regional-qld-amid-high-fuel-prices/107263850",
+        "source": "ABC News AU"
       }
     },
     {
@@ -344,18 +356,6 @@
         "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
         "description": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
         "link": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 1,
-      "story": {
-        "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-        "description": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
-        "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -393,6 +393,42 @@
         "description": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
         "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
+      "count": 1,
+      "story": {
+        "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
+        "description": "Recent US-Greenland-Denmark agreement excludes mining or drilling rights while reinforcing Greenland&#039;s sovereignty.",
+        "link": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Bogota",
+      "lat": 4.71,
+      "lon": -74.07,
+      "count": 1,
+      "story": {
+        "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
+        "description": "Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties.",
+        "link": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 1,
+      "story": {
+        "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
+        "description": "Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties.",
+        "link": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -437,7 +473,7 @@
       "lon": 2.35,
       "count": 1,
       "story": {
-        "title": "Barcola scores hat-trick as Liverpool hit LASK for six",
+        "title": "Barcola scores hat-trick as Liverpool hit LASK for six, Feyenoord beat Como",
         "description": "Following a move from Paris Saint-Germain, Bradley Barcola gets first Liverpool goals with Champions League hat-trick.",
         "link": "https://www.aljazeera.com/sports/2026/10/14/barcola-scores-hat-trick-as-liverpool-hit-lask-for-six?traffic_source=rss",
         "source": "Al Jazeera"
@@ -456,51 +492,27 @@
       }
     },
     {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
+      "name": "Pyongyang",
+      "lat": 39.03,
+      "lon": 125.75,
       "count": 1,
       "story": {
-        "title": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-        "description": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "North Korea says it tested cruise missiles to be launched from sub",
+        "description": "North Korean state media said the military test-fired cruise missiles designed to be launched from submarines. Pyongyang has ramped up weapons launches in recent weeks.",
+        "link": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
       "count": 1,
       "story": {
-        "title": "Top gymnastics coach fined after assaulting two female teen athletes",
-        "description": "Former top gymnastics coach Jamie Glen Cannon, who once coached at a prestigious Brisbane private school, has pleaded guilty to assaulting two teenage girls.",
-        "link": "https://www.abc.net.au/news/2026-10-15/gymnastics-coach-jamie-glen-cannon-fined-assaulting-teen-girls/107263964",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Zelenskyy says Trump's decision to take Russia's side is 'painful'",
-        "description": "Ukrainian president Volodymyr Zelenskyy warns people will die as restrictions on SpaceX's Starlink deepen fears Kyiv’s relationship with Washington is unravelling.",
-        "link": "https://www.abc.net.au/news/2026-10-15/zelenskyy-trump-podcast-painful-take-russias-side/107268134",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
-      "count": 1,
-      "story": {
-        "title": "Builder chosen for Hobart's Macquarie Point stadium",
-        "description": "The company that built a 30,000-seat arena in Christchurch, New Zealand, is understood to have won the tender to construct Hobart's new roofed stadium.",
-        "link": "https://www.abc.net.au/news/2026-10-15/builder-chosen-for-hobart-macquarie-point-afl-stadium/107264166",
-        "source": "ABC News AU"
+        "title": "North Korea says it tested cruise missiles to be launched from sub",
+        "description": "North Korean state media said the military test-fired cruise missiles designed to be launched from submarines. Pyongyang has ramped up weapons launches in recent weeks.",
+        "link": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -519,18 +531,6 @@
       "name": "Tokyo",
       "lat": 35.68,
       "lon": 139.77,
-      "count": 1,
-      "story": {
-        "title": "Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow",
-        "description": "A journalist for a Japanese newspaper was arrested on suspicion of spying in Russia's Far East. A geopolitical rivalry over disputed islands in the region has recently caused tension.",
-        "link": "https://www.dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
       "count": 1,
       "story": {
         "title": "Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow",
