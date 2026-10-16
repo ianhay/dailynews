@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:47:55+00:00",
+  "generated_at": "2026-10-16T16:25:24+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,25 +32,31 @@
   ],
   "australia": [
     {
-      "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-      "description": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
+      "title": "Ukraine pushes Russia back on front line where Starlink has played key role",
+      "description": "Ukraine's Operation Vivaldi has regained crucial territory in the Donbas but optimism has been dampened by souring relations with President Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "description": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
       "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "description": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "title": "India's 'cockroach' party founder detained ahead of protest",
+      "description": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
       "description": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
@@ -62,12 +68,6 @@
       "description": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
       "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-      "description": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,11 +75,47 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 12,
       "story": {
-        "title": "Australian woman charged with lacing colleague's curry with snail poison",
-        "description": "The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.",
-        "link": "https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss",
+        "title": "Carnival Cruises axes half of Australian fleet",
+        "description": "Only two cruise ships will operate full-time in Australia for the country's 1.4 million cruise passengers.",
+        "link": "https://www.abc.net.au/news/2026-10-16/carnival-cruises-axes-half-of-australian-fleet/107276582",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 11,
+      "story": {
+        "title": "Ukraine pushes Russia back on front line where Starlink has played key role",
+        "description": "Ukraine's Operation Vivaldi has regained crucial territory in the Donbas but optimism has been dampened by souring relations with President Trump.",
+        "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 10,
+      "story": {
+        "title": "Ukraine pushes Russia back on front line where Starlink has played key role",
+        "description": "Ukraine's Operation Vivaldi has regained crucial territory in the Donbas but optimism has been dampened by souring relations with President Trump.",
+        "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 10,
+      "story": {
+        "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+        "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+        "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -87,7 +123,7 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
         "description": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
@@ -99,47 +135,11 @@
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
-      "count": 9,
-      "story": {
-        "title": "Actor Imran Khan ordered to leave India after participating in protest",
-        "description": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
-        "link": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
       "count": 7,
       "story": {
-        "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-        "description": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
-        "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 5,
-      "story": {
-        "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-        "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
-        "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
-      "story": {
-        "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-        "description": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
-        "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+        "title": "India's 'cockroach' party founder detained ahead of protest",
+        "description": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
+        "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -147,71 +147,59 @@
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
-      "count": 4,
+      "count": 5,
       "story": {
-        "title": "Palestinian olive trees torched as settler pogroms escalate during harvest",
-        "description": "It is Palestine’s olive harvest, but settlers have set their trees and vehicles on fire.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+        "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+        "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 4,
+      "count": 5,
       "story": {
-        "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
-        "description": "It is the first time the president has addressed nuclear weapons, but he didn&#039;t deny US could use &#039;mother of all bombs&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Albanian protests turn violent: What we know",
+        "description": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
+        "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 4,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 3,
       "story": {
-        "title": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
-        "description": "The UN is warning that nearly one million displaced Palestinians face flooding risks as winter approaches.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+        "description": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+        "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Indonesia",
       "lat": -2.5,
       "lon": 118.0,
-      "count": 4,
+      "count": 3,
       "story": {
-        "title": "Four killed as Indonesia battles worst forest fires in more than a decade",
-        "description": "The deaths come as Jakarta says it will accept foreign help to tackle its worst forest fires in more than a decade.",
-        "link": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Four dead and two others badly burnt in Indonesia wildfire",
+        "description": "A crew battling the blaze was caught when conditions changes, triggering an emergency call for help.",
+        "link": "https://www.abc.net.au/news/2026-10-16/four-people-killed-two-others-burnt-in-indonesian-wildfire-java/107277352",
+        "source": "ABC News AU"
       }
     },
     {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
-      "count": 4,
-      "story": {
-        "title": "German lawmakers back monthly state pension contributions for children, with families able to add more",
-        "description": "Germany's parliament has backed a plan to help children save for retirement from the age of six. Meanwhile, Jewish students report death threats after they confronted a far-right lawmaker. DW has the latest.",
-        "link": "https://www.dw.com/en/german-lawmakers-back-monthly-state-pension-contributions-for-children-with-families-able-to-add-more/live-79678671?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
       "count": 3,
       "story": {
-        "title": "Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum",
-        "description": "The oil-rich province of Alberta will vote to decide if it wants to remain a Canadian province or start the legal process toward separation.",
-        "link": "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf",
+        "title": "Germany, France agree on deal to support Europe's struggling car industry",
+        "description": "The two countries said the agreement aimed to safeguard Europe's automotive industry, encouraging development and research. Automakers in Europe have so far struggled to compete with Chinese electric car companies.",
+        "link": "https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -228,14 +216,26 @@
       }
     },
     {
-      "name": "Brussels",
-      "lat": 50.85,
-      "lon": 4.35,
+      "name": "Rome",
+      "lat": 41.9,
+      "lon": 12.5,
       "count": 2,
       "story": {
-        "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-        "description": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
-        "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+        "title": "Pope pictured for first time since surgery and cancer diagnosis",
+        "description": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+        "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 2,
+      "story": {
+        "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+        "description": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
+        "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,26 +276,62 @@
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "North Korea and China open new bridge after 12-year delay",
-        "description": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
-        "link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
+        "description": "About 67 percent of Gaza&#039;s population projected to face crisis-level food insecurity or worse through the end of 2026.",
+        "link": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
       "count": 2,
       "story": {
-        "title": "Indian police launch New Delhi clampdown for Cockroach Party rally",
-        "description": "Cockroach Janta Party standoff with government extended as youth-led movement calls protest over jailing of activists.",
-        "link": "https://www.aljazeera.com/news/2026/10/16/indian-police-launch-new-delhi-clampdown-for-cockroach-party-rally?traffic_source=rss",
+        "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
+        "description": "Sheikh Mohammed also discussed Israeli &#039;violations&#039; in Lebanese territory with Prime Minister Nawaf Salam.",
+        "link": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
+      "count": 2,
+      "story": {
+        "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
+        "description": "Sheikh Mohammed also discussed Israeli &#039;violations&#039; in Lebanese territory with Prime Minister Nawaf Salam.",
+        "link": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 2,
+      "story": {
+        "title": "Ethiopia announces instalment of interim government in Tigray",
+        "description": "After military pushed back TPLF uprising, PM Abiy Ahmed promises free elections within six months.",
+        "link": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
+        "description": "Israeli settlers attacked Palestinians harvesting olives and severely beat Washington Post photojournalist Heidi Levine.",
+        "link": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -318,8 +354,20 @@
       "count": 2,
       "story": {
         "title": "Germany, France agree on deal to support Europe's struggling car industry",
-        "description": "The two countries said the agreement aimed to safeguard Europe's automotive industry, encouraging development and research. Car makers in Europe have so far struggled to compete with Chinese electric car companies.",
+        "description": "The two countries said the agreement aimed to safeguard Europe's automotive industry, encouraging development and research. Automakers in Europe have so far struggled to compete with Chinese electric car companies.",
         "link": "https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 2,
+      "story": {
+        "title": "The EU wants an AI revolution. But on whose terms?",
+        "description": "As the US and China race ahead, the European Union seeks to boost its economy with AI. Can it compete while protecting workers, safety and the climate?",
+        "link": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -329,22 +377,10 @@
       "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "President Tharman to make state visit to Sweden from Oct 17 to 21",
-        "description": "This will be the first state visit to Sweden by a Singapore president.",
-        "link": "https://www.channelnewsasia.com/singapore/president-tharman-state-visit-sweden-mfa-6465466",
+        "title": "Singapore-listed firm Kencana Agri facing inquiry by Indonesian authorities over suspected land clearing by burning",
+        "description": "Several firms listed on the Singapore Exchange (SGX) on Friday (Oct 16) distanced themselves from the fires and haze.",
+        "link": "https://www.channelnewsasia.com/singapore/forest-fire-haze-sgx-listed-kencana-inquiry-indonesia-6466396",
         "source": "CNA"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-        "description": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
-        "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -372,27 +408,111 @@
       }
     },
     {
-      "name": "Mumbai",
-      "lat": 19.08,
-      "lon": 72.88,
+      "name": "Islamabad",
+      "lat": 33.7,
+      "lon": 73.06,
       "count": 1,
       "story": {
-        "title": "Actor Imran Khan ordered to leave India after participating in protest",
-        "description": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
-        "link": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Can Russia help ease tensions between Pakistan and Afghanistan?",
+        "description": "Russia has close ties with the Taliban and is courting Islamabad, but analysts say its leverage remains uncertain.",
+        "link": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Pyongyang",
-      "lat": 39.03,
-      "lon": 125.75,
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
       "count": 1,
       "story": {
-        "title": "North Korea and China open new bridge after 12-year delay",
-        "description": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
-        "link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Can Russia help ease tensions between Pakistan and Afghanistan?",
+        "description": "Russia has close ties with the Taliban and is courting Islamabad, but analysts say its leverage remains uncertain.",
+        "link": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
+      "count": 1,
+      "story": {
+        "title": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
+        "description": "Israeli settlers carry out violent pogroms on Palestinian olive groves in the towns of Abu Falah and Turmus Ayya.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 1,
+      "story": {
+        "title": "Spain punished by FIFA for Islamophobic chants during Egypt friendly",
+        "description": "Spain sanctioned by FIFA after incidents at Espanyol&#039;s stadium in Barcelona, which staged the friendly with Egypt.",
+        "link": "https://www.aljazeera.com/sports/2026/10/16/spain-punished-by-fifa-for-islamophobic-chants-in-egypt-friendly?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Spain punished by FIFA for Islamophobic chants during Egypt friendly",
+        "description": "Spain sanctioned by FIFA after incidents at Espanyol&#039;s stadium in Barcelona, which staged the friendly with Egypt.",
+        "link": "https://www.aljazeera.com/sports/2026/10/16/spain-punished-by-fifa-for-islamophobic-chants-in-egypt-friendly?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
+      "count": 1,
+      "story": {
+        "title": "How UN chief Antonio Guterres tests the limits of quiet diplomacy",
+        "description": "Portugal&#039;s ex-PM seeks to resolve crises via patient negotiation, but success relies on leaders&#039; willingness to act.",
+        "link": "https://www.aljazeera.com/features/longform/2026/10/16/how-un-chief-antonio-guterres-tests-the-limits-of-quiet-diplomacy?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Croatia",
+      "lat": 45.1,
+      "lon": 15.2,
+      "count": 1,
+      "story": {
+        "title": "Pro-Nazi chants before Hajduk Split-Ajax UEFA Europa League match slammed",
+        "description": "Croatia&#039;s Hajduk Split hosted Ajax on Thursday, but chants for pre-World War II regime precede UEFA Europa League game.",
+        "link": "https://www.aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 1,
+      "story": {
+        "title": "Fuel tanker fire engulfs market in southern Nigeria",
+        "description": "A fire tore through Oluku market in Benin City after a tanker overturned and exploded.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 1,
+      "story": {
+        "title": "Why is China buying up gold?",
+        "description": "Beijing’s gold purchases reflect a shift away from reliance on US dollar assets, experts say.",
+        "link": "https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -429,126 +549,6 @@
         "description": "Countries along NATO’s eastern flank growing increasingly concerned about the risk of escalation of the war in Ukraine.",
         "link": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "Asian Cup in Saudi Arabia still on, organisers say, but golf tour postponed",
-        "description": "Asian Cup preparations continue for January, but Asian Tour delays golf&#039;s Saudi Invitational after Houthi attacks.",
-        "link": "https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Norway",
-      "lat": 60.47,
-      "lon": 8.47,
-      "count": 1,
-      "story": {
-        "title": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
-        "description": "The review called for Norway&#039;s sovereign wealth fund to lift ethical risk limitations on its investments.",
-        "link": "https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 1,
-      "story": {
-        "title": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
-        "description": "Lebanon&#039;s president reaffirms the commitment to bring all arms under state control.",
-        "link": "https://www.aljazeera.com/news/2026/10/16/rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Jakarta",
-      "lat": -6.2,
-      "lon": 106.85,
-      "count": 1,
-      "story": {
-        "title": "Four killed as Indonesia battles worst forest fires in more than a decade",
-        "description": "The deaths come as Jakarta says it will accept foreign help to tackle its worst forest fires in more than a decade.",
-        "link": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "Teen reported for assault after Glenelg beach fight, police say",
-        "description": "Police say they have reported a 14-year-old boy for alleged aggravated assault after an incident at Glenelg Beach in Adelaide.",
-        "link": "https://www.abc.net.au/news/2026-10-16/teen-reported-for-assault-after-glenelg-beach-fight/107277376",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "Canberra man with 17yo 'girlfriend' charged over alleged child abuse material",
-        "description": "A 42-year-old Canberra man is denied bail after Australian Border Force officers allegedly found child exploitation images on his electronic devices when he returned to the country from Europe.",
-        "link": "https://www.abc.net.au/news/2026-10-16/act-man-return-country-child-abuse-material-denied-bail/107276254",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 1,
-      "story": {
-        "title": "Awlad Hossain denied bail in foreign bribery case surrounding wife's death",
-        "description": "Awlad Hossain is accused of transferring $97k to Bangladeshi associates in a bid to have his name removed from a police investigation into the suspected murder of Rehana Parvin.",
-        "link": "https://www.abc.net.au/news/2026-10-16/qld-awlad-hossain-denied-bail/107276182",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 1,
-      "story": {
-        "title": "How prepared is Kenya for an Ebola outbreak?",
-        "description": "The first two confirmed Ebola cases in Kenya have raised urgent questions about the country's public health preparedness and border controls. But the health ministry says there is no need for panic.",
-        "link": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Italy cuts air traffic in half amid data transmission issue",
-        "description": "Citing problems with the data transmission network, Italian authorities have drastically reduced the volume of flights in their airspace. The ENAV authority ruled out malicious activity and said flights remained safe.",
-        "link": "https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 1,
-      "story": {
-        "title": "Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter",
-        "description": "She started taking action against Hitler as a teenager and never stopped until her death in a concentration camp. Berlin's Blücherplatz is now being renamed after her.",
-        "link": "https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     }
   ]
