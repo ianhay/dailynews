@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T01:11:30+00:00",
+  "generated_at": "2026-10-17T05:59:55+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "description": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
       "description": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
       "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
@@ -22,31 +28,25 @@
       "description": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
       "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "What we learned from heated US midterm Senate debates",
-      "description": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
-      "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "australia": [
     {
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
       "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
       "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "India's 'cockroach' party founder detained ahead of protest",
-      "description": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Albanian protests turn violent: What we know",
-      "description": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,11 +75,23 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
+      "count": 15,
+      "story": {
+        "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+        "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+        "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
       "count": 12,
       "story": {
-        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-        "description": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
-        "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump waives several Russia sanctions as new US law takes effect",
+        "description": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -89,21 +101,21 @@
       "lon": 31.0,
       "count": 11,
       "story": {
-        "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-        "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-        "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+        "title": "Trump waives several Russia sanctions as new US law takes effect",
+        "description": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 9,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 7,
       "story": {
-        "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-        "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-        "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+        "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+        "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+        "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,7 +123,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 8,
+      "count": 6,
       "story": {
         "title": "Albanian protests turn violent: What we know",
         "description": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
@@ -123,7 +135,7 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
         "description": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
@@ -132,26 +144,26 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 6,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 5,
       "story": {
-        "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-        "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-        "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Singapore FA Cup final postponed due to haze as more outdoor events called off",
+        "description": "Several other outdoor events have already been called off or rescheduled because of the haze, including the Great Eastern Women's Run and the Purple Parade.",
+        "link": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-fa-cup-final-postponed-events-6467816",
+        "source": "CNA"
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 6,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 4,
       "story": {
-        "title": "Katie Zacharia leaving her White House role less than five days on the job",
-        "description": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
-        "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+        "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+        "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -159,36 +171,48 @@
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
-      "count": 5,
+      "count": 4,
       "story": {
-        "title": "Gunman who sparked lockdown in Sydney's inner west remains on the run",
-        "description": "Residents say they saw a man in a van, which had been stolen from the nearby area a couple of days earlier, who threatened them with a shotgun and set the vehicle alight before fleeing on foot.",
-        "link": "https://www.abc.net.au/news/2026-10-17/nsw-dulwich-hill-armed-man-lockdown-search-shotgun/107278846",
+        "title": "Live: All Blacks running riot as yellow card compounds Aussie misery",
+        "description": "The Wallabies are being overwhelmed in the final Bledisloe Cup Test, with the All Blacks scoring six first-half tries and Jeremy Williams shown a yellow card in Sydney. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-10-17/rugby-bledisloe-cup-wallabies-all-blacks-wallaroos-scotland/107279014",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 4,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 3,
       "story": {
-        "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
-        "description": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany&#039;s Minister of Propaganda.",
-        "link": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+        "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 4,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 3,
       "story": {
-        "title": "Singapore haze eases overnight, but air quality remains unhealthy",
-        "description": "NEA says the transport of smoke haze from Kalimantan to Singapore could ease on Saturday, with shifting winds and showers expected over Singapore and the surrounding region.",
-        "link": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-pm25-oct-17-6466816",
-        "source": "CNA"
+        "title": "Trump waives several Russia sanctions as new US law takes effect",
+        "description": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 3,
+      "story": {
+        "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+        "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+        "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -216,6 +240,42 @@
       }
     },
     {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 3,
+      "story": {
+        "title": "The Israeli politicians seeking to replace Netanyahu",
+        "description": "A look at Israel&#039;s main opposition leaders, their parties and their largely shared positions on Gaza and other wars.",
+        "link": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 3,
+      "story": {
+        "title": "Germany, France agree on deal to support Europe's struggling car industry",
+        "description": "The two countries said the agreement aimed to safeguard Europe's automotive industry, encouraging development and research. Automakers in Europe have so far struggled to compete with Chinese electric car companies.",
+        "link": "https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "Katie Zacharia leaving White House role less than five days into job",
+        "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
+        "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Pakistan",
       "lat": 30.4,
       "lon": 69.3,
@@ -228,38 +288,14 @@
       }
     },
     {
-      "name": "Romania",
-      "lat": 45.94,
-      "lon": 24.97,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 2,
       "story": {
-        "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-        "description": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
-        "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Turkey",
-      "lat": 38.96,
-      "lon": 35.24,
-      "count": 2,
-      "story": {
-        "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
-        "description": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
-        "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Istanbul",
-      "lat": 41.0,
-      "lon": 28.98,
-      "count": 2,
-      "story": {
-        "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-        "description": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
-        "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+        "title": "The uncertain future of Canada's 30 rescued belugas",
+        "description": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
+        "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -272,54 +308,6 @@
         "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
         "description": "Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists.",
         "link": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 2,
-      "story": {
-        "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-        "description": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro&#039;s profile and his WhatsApp channel.",
-        "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
-        "description": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
-      "count": 2,
-      "story": {
-        "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
-        "description": "The United States calls for dialogue as regional East Africa tension escalates.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 2,
-      "story": {
-        "title": "Kenya records third Ebola case, linked to first patient who died",
-        "description": "Nairobi says 65-year-old female patient in quarantine with Bundibugyo strain; no signs of community transmission.",
-        "link": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -344,18 +332,6 @@
         "title": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
         "description": "As Yemen's Iran-backed Houthis continue to target Saudi Arabia, Riyadh's vulnerability threatens its claim on regional and religious leadership — as well as its standing as an economic powerhouse.",
         "link": "https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 2,
-      "story": {
-        "title": "The EU wants an AI revolution. But on whose terms?",
-        "description": "As the US and China race ahead, the European Union seeks to boost its economy with AI. Can it compete while protecting workers, safety and the climate?",
-        "link": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -396,62 +372,14 @@
       }
     },
     {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
-        "description": "The United States calls for dialogue as regional East Africa tension escalates.",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Nairobi",
-      "lat": -1.29,
-      "lon": 36.82,
-      "count": 1,
-      "story": {
-        "title": "Kenya records third Ebola case, linked to first patient who died",
-        "description": "Nairobi says 65-year-old female patient in quarantine with Bundibugyo strain; no signs of community transmission.",
-        "link": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 1,
-      "story": {
-        "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
-        "description": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany&#039;s Minister of Propaganda.",
-        "link": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
-        "description": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany&#039;s Minister of Propaganda.",
-        "link": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "Canberra businesses battling 'multi-agency maze' to stay open, report finds",
-        "description": "A review of Canberra's night life has found the ACT government should consider stronger relief for businesses affected by construction work in the city and establish a dedicated Night-Time Economy Commissioner.",
-        "link": "https://www.abc.net.au/news/2026-10-17/act-insufficient-relief-businesses-affected-civic-construction/107277900",
+        "title": "Crows snap Suns' winning run to climb into AFLW finals spots",
+        "description": "The Crows are back in the AFLW finals frame after ending the Gold Coast's six-game winning streak in Adelaide.",
+        "link": "https://www.abc.net.au/news/2026-10-17/aflw-crows-suns-bulldogs-carlton-lions-port-eagles-cats/107279312",
         "source": "ABC News AU"
       }
     },
@@ -461,9 +389,21 @@
       "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Dees dismantle Tigers to seal AFLW finals series berth",
-        "description": "Melbourne has secured a spot in the AFLW finals series after dismantling Richmond with ease in Pride Round.",
-        "link": "https://www.abc.net.au/news/2026-10-17/melbourne-defeats-richmond-in-aflw-pride-round/107278264",
+        "title": "Magnitude-3.0 aftershock strikes near Leongatha, south-east of Melbourne",
+        "description": "South-eastern Victoria has been slightly shaken by an earthquake aftershock, three weeks after an overnight tremor woke thousands.",
+        "link": "https://www.abc.net.au/news/2026-10-17/gippsland-earthquake-mid-october-aftershock/107279324",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 1,
+      "story": {
+        "title": "Dogs captured after attack on Brisbane man",
+        "description": "Emergency services were called to Kittyhawk Drive in Chermside just after 6pm on Friday following reports a man had been attacked by dogs.",
+        "link": "https://www.abc.net.au/news/2026-10-17/dogs-captured-after-attacking-man-chermside/107279188",
         "source": "ABC News AU"
       }
     },
@@ -473,9 +413,9 @@
       "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Copper thefts leave Perth roads in darkness and cost taxpayers millions",
-        "description": "More than 100 kilometres of major roads and paths across Perth remain dark without street lighting because organised crime groups are selling lucrative stolen copper on the black market.",
-        "link": "https://www.abc.net.au/news/2026-10-17/copper-thefts-perth-roads-cost-taxpayers-millions/107276214",
+        "title": "Killers of Perth brothers Jake and Callum Robinson sentenced in Mexican court",
+        "description": "Three men have each been sentenced to 158 years and nine months in prison for the murders of the Australian brothers and their American friend Carter Rhoad while they were camping in Mexico in 2024.",
+        "link": "https://www.abc.net.au/news/2026-10-17/jake-callum-robinson-mexico-murder-trial-sentence/107271152",
         "source": "ABC News AU"
       }
     },
@@ -488,6 +428,18 @@
         "title": "West Bank: US journalist injured by Israeli settlers",
         "description": "Washington Post journalist Heidi Levine said she was beaten by Israeli settlers in the occupied West Bank. Reporters Without Borders slammed the attack as \"brazen violence.\"",
         "link": "https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 1,
+      "story": {
+        "title": "Ethiopia's Abiy Ahmed appoints interim Tigray government",
+        "description": "Abiy Ahmed's office said there would be elections held in Tigray within 6 months. The move comes after an escalation in fighting between federal forces and a rebel alliance.",
+        "link": "https://www.dw.com/en/ethiopia-s-abiy-ahmed-appoints-interim-tigray-government/a-79683519?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -528,6 +480,18 @@
       }
     },
     {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 1,
+      "story": {
+        "title": "How prepared is Kenya for an Ebola outbreak?",
+        "description": "The first two confirmed Ebola cases in Kenya have raised urgent questions about the country's public health preparedness and border controls. But the Health Ministry says there is no need for panic.",
+        "link": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
@@ -549,6 +513,42 @@
         "description": "At an international AI summit in Dublin, EU leaders promoted trusted and independent artificial intelligence. Critics question whether the bloc can close the gap with the US and China while maintaining strict regulation.",
         "link": "https://www.dw.com/en/eu-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
+      "count": 1,
+      "story": {
+        "title": "Police raid the major pro-opposition Halk TV channel in Turkey",
+        "description": "Turkish police raided the Istanbul headquarters of an important pro-opposition television station on Wednesdazy, the day that jailed Istanbul Mayor Ekrem Imamoglu was set to start his defense against corruption charges.",
+        "link": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Istanbul",
+      "lat": 41.0,
+      "lon": 28.98,
+      "count": 1,
+      "story": {
+        "title": "Police raid the major pro-opposition Halk TV channel in Turkey",
+        "description": "Turkish police raided the Istanbul headquarters of an important pro-opposition television station on Wednesdazy, the day that jailed Istanbul Mayor Ekrem Imamoglu was set to start his defense against corruption charges.",
+        "link": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Hong Kong",
+      "lat": 22.32,
+      "lon": 114.17,
+      "count": 1,
+      "story": {
+        "title": "Former Dior Men artistic director Kim Jones is reviving his own label with a Hong Kong flagship",
+        "description": "The British designer is returning to the brand he first launched in 2003, with a new collection due in 2027 and more stores across Asia planned.",
+        "link": "https://www.channelnewsasia.com/obsessions/kim-jones-dior-namesake-label-hong-kong-6467906",
+        "source": "CNA"
       }
     }
   ]
