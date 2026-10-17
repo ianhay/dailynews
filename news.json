@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T19:40:11+00:00",
+  "generated_at": "2026-10-17T22:05:58+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
       "description": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
       "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
@@ -22,15 +28,15 @@
       "description": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
       "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "How backlash against data centres could shape the US midterm elections",
-      "description": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "australia": [
+    {
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
@@ -38,29 +44,23 @@
       "source": "BBC News"
     },
     {
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
-      "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "title": "Anti-government protesters battle with police in Albania",
+      "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
     {
-      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-      "description": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
-      "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -87,7 +87,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 13,
+      "count": 11,
       "story": {
         "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
@@ -96,10 +96,22 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 10,
+      "story": {
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+        "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 12,
+      "count": 10,
       "story": {
         "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
         "description": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
@@ -108,26 +120,38 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 9,
       "story": {
-        "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-        "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-        "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+        "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+        "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+        "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 6,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 5,
       "story": {
-        "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
-        "description": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
-        "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+        "title": "Anti-government protesters battle with police in Albania",
+        "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+        "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 5,
+      "story": {
+        "title": "At least 17 dead in crush at Hindu festival event in India",
+        "description": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+        "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -147,7 +171,7 @@
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
         "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
@@ -156,39 +180,15 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
-      "story": {
-        "title": "13-year-old arrested in Narrabeen Lagoon 'sexual touching' probe",
-        "description": "NSW Police are investigating multiple incidents of alleged sexual offences against women while walking along Narrabeen Lagoon in Sydney's northern beaches.",
-        "link": "https://www.abc.net.au/news/2026-10-17/women-report-sexual-offences-narrabeen-lagoon-walking-trails/107279134",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
       "count": 3,
       "story": {
-        "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-        "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
-        "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 3,
-      "story": {
-        "title": "Katie Zacharia leaving White House role less than five days into job",
-        "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-        "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Is the US Embassy in Jerusalem for Israel or America?",
+        "description": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -204,66 +204,6 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "India and West Indies denied a thrilling finale as rain hits final T20",
-        "description": "India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game.",
-        "link": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 3,
-      "story": {
-        "title": "Al Jazeera reports from Paris as protests turn violent",
-        "description": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 3,
-      "story": {
-        "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
-        "description": "Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 3,
-      "story": {
-        "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
-        "description": "Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 3,
-      "story": {
-        "title": "Yagera woman Jayda Allen Bonner remembered at Melbourne vigil",
-        "description": "Hundreds have gathered in Melbourne to pay tribute to a young Indigenous woman killed at an inner-suburban apartment complex last weekend.",
-        "link": "https://www.abc.net.au/news/2026-10-17/jayda-allen-bonner-remembered-with-melbourne-vigil/107279066",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
@@ -276,15 +216,15 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 3,
       "story": {
-        "title": "Few use Singapore haze shelters, but visitors welcome respite from heat",
-        "description": "&nbsp;CNA visited eight shelters across the island, finding most empty or locked, though the few who turned up welcomed the free air-conditioned refuge.\n\n&nbsp;",
-        "link": "https://www.channelnewsasia.com/singapore/singapore-haze-shelters-heat-visitors-community-centres-6468211",
-        "source": "CNA"
+        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
+        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
+        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
+        "source": "SBS News"
       }
     },
     {
@@ -296,6 +236,18 @@
         "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
         "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 2,
+      "story": {
+        "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+        "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+        "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -324,6 +276,18 @@
       }
     },
     {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "Katie Zacharia leaving White House role less than five days into job",
+        "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
+        "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
@@ -348,14 +312,62 @@
       }
     },
     {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 2,
       "story": {
-        "title": "Is the US Embassy in Jerusalem for Israel or America?",
-        "description": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
+        "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
+        "description": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.",
+        "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 2,
+      "story": {
+        "title": "Al Jazeera reports from Paris as protests turn violent",
+        "description": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 2,
+      "story": {
+        "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+        "description": "Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 2,
+      "story": {
+        "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+        "description": "Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 2,
+      "story": {
+        "title": "Kenya confirms four more Ebola cases, bringing total to seven",
+        "description": "⁠Three health workers who ⁠treated the country&#039;s first Ebola patient are among the latest confirmed cases.",
+        "link": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -372,27 +384,51 @@
       }
     },
     {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
       "count": 2,
       "story": {
-        "title": "Is New Zealand holding back women's Test cricket?",
-        "description": "New Zealand regularly faces Australia in white-ball formats but refuses to play women's Test cricket, despite being one of the first three nations to do it back in the 1930s. Here's why.",
-        "link": "https://www.abc.net.au/news/2026-10-18/is-new-zealand-holding-back-womens-test-cricket/107273022",
-        "source": "ABC News AU"
+        "title": "Germany news: Berlin's leftist parties move step closer to forming government",
+        "description": "Berlin's left-leaning parties have successfully concluded exploratory talks, and formal coalition negotiations could begin next month if party members approve. Follow DW for more.",
+        "link": "https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "'Economic asphyxiation': US unveils sweeping new sanctions campaign in attempt to isolate Iran",
-        "description": "The US' latest move comes six months into a war with Iran that has left peace talks stalled and the Strait of Hormuz blocked.",
-        "link": "https://www.sbs.com.au/news/article/economic-asphyxiation-us-sanctions-campaign-isolate-iran/zaeknjsvf",
-        "source": "SBS News"
+        "title": "These marathon runners will give up their personal best to save a life",
+        "description": "In a first for the Singapore International Marathon, 238 specially trained runners will be on standby this year to treat fellow participants in medical distress.",
+        "link": "https://www.channelnewsasia.com/singapore/medic-runner-singapore-international-marathon-6388846",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
+      "count": 1,
+      "story": {
+        "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
+        "description": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.",
+        "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 1,
+      "story": {
+        "title": "Ten killed in fire at beach resort in Bangladesh",
+        "description": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -404,18 +440,6 @@
         "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
         "description": "Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 1,
-      "story": {
-        "title": "Kenya confirms four more Ebola cases, bringing total to seven",
-        "description": "⁠Three health workers who ⁠treated the country&#039;s first Ebola patient are among the latest confirmed cases.",
-        "link": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -444,26 +468,38 @@
       }
     },
     {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "Family says Las Vegas police search for missing Australian 'lacklustre'",
+        "description": "The family of a young Australian woman missing in the US have criticised efforts by local police to find the 26-year-old, who missed her return flight to Melbourne in June and has not been heard from since.",
+        "link": "https://www.abc.net.au/news/2026-10-18/sally-contarino-missing-las-vegas-family-appeal-police/107271150",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
+      "count": 1,
+      "story": {
+        "title": "Is New Zealand holding back women's Test cricket?",
+        "description": "New Zealand regularly faces Australia in white-ball formats but refuses to play women's Test cricket, despite being one of the first three nations to do it back in the 1930s. Here's why.",
+        "link": "https://www.abc.net.au/news/2026-10-18/is-new-zealand-holding-back-womens-test-cricket/107273022",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Denmark",
       "lat": 56.26,
       "lon": 9.5,
       "count": 1,
       "story": {
-        "title": "Can Denmark teach Britain how to raise royals?",
+        "title": "Denmark's royals party, make mistakes and still prepare to reign",
         "description": "They party, make mistakes and forge their own paths. But behind Denmark's seemingly relaxed monarchy lies a careful balance of freedom, duty and public trust.",
         "link": "https://www.abc.net.au/news/2026-10-18/royalty-denmark-britain-christian-harry-william-crown-prince/107268784",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Vietnam",
-      "lat": 14.06,
-      "lon": 108.28,
-      "count": 1,
-      "story": {
-        "title": "Australia's first Vietnamese heritage museum opens in Melbourne",
-        "description": "Five decades on from the end of the Vietnam War, generations of Vietnamese-Australians have welcomed a new museum dedicated to the migrant experience.",
-        "link": "https://www.abc.net.au/news/2026-10-17/australia-first-vietnamese-museum-opens-in-melbourne/107274166",
         "source": "ABC News AU"
       }
     },
@@ -504,50 +540,14 @@
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
       "count": 1,
       "story": {
-        "title": "Italy cuts air traffic in half amid data transmission issue",
-        "description": "Citing problems with the data transmission network, Italian authorities have drastically reduced the volume of flights in their airspace. The ENAV authority ruled out malicious activity and said flights remained safe.",
-        "link": "https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 1,
-      "story": {
-        "title": "Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter",
-        "description": "She started taking action against Hitler as a teenager and never stopped until her death in a concentration camp. Berlin's Blücherplatz is now being renamed after her.",
-        "link": "https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "South Africa still mulling over permutations for second test against Australia",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/south-africa-still-mulling-over-permutations-second-test-against-australia-6468271",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
-      "count": 1,
-      "story": {
-        "title": "PM Wong to visit Qatar, UAE in first trip to Middle East since taking office",
-        "description": "The visits will provide an opportunity for Singapore to exchange views on recent developments in the region and strengthen cooperation with both countries in areas of mutual interest, such as in&nbsp;energy security and ",
-        "link": "https://www.channelnewsasia.com/singapore/lawrence-wong-qatar-uae-middle-east-visit-6468046",
+        "title": "Kenya confirms four new Ebola cases, bringing total number to seven",
+        "description": "The cases are the first known infections passed on inside Kenya, where the first patient arrived from Congo on Oct 3.",
+        "link": "https://www.channelnewsasia.com/world/kenya-confirms-four-new-ebola-cases-bringing-total-number-seven-6468456",
         "source": "CNA"
       }
     }
