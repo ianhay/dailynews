@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:32:58+00:00",
+  "generated_at": "2026-10-17T14:07:20+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
-      "description": "Archbishop Paul Gallagher tells the BBC there was no sign of the Pope's ill health prior to his operation this week.",
-      "link": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
       "description": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
       "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
@@ -28,6 +22,12 @@
       "description": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
       "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "description": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
@@ -44,9 +44,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -58,9 +58,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-      "description": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+      "description": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
+      "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -87,7 +87,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 15,
+      "count": 14,
       "story": {
         "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
@@ -99,23 +99,35 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 11,
+      "count": 12,
       "story": {
-        "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-        "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-        "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+        "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+        "description": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+        "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 6,
       "story": {
-        "title": "Albanian protests turn violent: What we know",
-        "description": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
-        "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+        "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+        "description": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+        "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 5,
+      "story": {
+        "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+        "description": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,15 +144,51 @@
       }
     },
     {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 5,
+      "story": {
+        "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+        "description": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
+        "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
       "count": 5,
       "story": {
-        "title": "Police release e-bike rider image in 'sexual touching' case, increase patrols",
+        "title": "13-year-old arrested in Narrabeen Lagoon 'sexual touching' probe",
         "description": "NSW Police are investigating multiple incidents of alleged sexual offences against women while walking along Narrabeen Lagoon in Sydney's northern beaches.",
         "link": "https://www.abc.net.au/news/2026-10-17/women-report-sexual-offences-narrabeen-lagoon-walking-trails/107279134",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 4,
+      "story": {
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 4,
+      "story": {
+        "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+        "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+        "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -149,22 +197,10 @@
       "lon": 78.0,
       "count": 4,
       "story": {
-        "title": "India's 'cockroach' party founder detained ahead of protest",
-        "description": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
-        "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 4,
-      "story": {
-        "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
-        "description": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
-        "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "LIVE: India vs West Indies – fifth T20 International",
+        "description": "Follow updates, including toss and team news, from our live text commentary stream of the cricket series decider.",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -177,18 +213,6 @@
         "description": "Hundreds have gathered in Melbourne to pay tribute to a young Indigenous woman killed at an inner-suburban apartment complex last weekend.",
         "link": "https://www.abc.net.au/news/2026-10-17/jayda-allen-bonner-remembered-with-melbourne-vigil/107279066",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 3,
-      "story": {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -216,15 +240,27 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 3,
       "story": {
-        "title": "Are student protests being manipulated ahead of France's presidential election?",
-        "description": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
-        "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+        "title": "Katie Zacharia leaving White House role less than five days into job",
+        "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
+        "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 3,
+      "story": {
+        "title": "Germany news: Merz faces conservative youth wing in Bonn",
+        "description": "Friedrich Merz, who has struggled for support within his party, on Saturday meets with the CDU/CSU's 90,000-strong Young Union. In Schleswig-Holstein, 3,000 people are expected at an AfD youth rally. DW has more.",
+        "link": "https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -233,9 +269,9 @@
       "lon": 103.82,
       "count": 3,
       "story": {
-        "title": "PM Wong to visit Qatar, UAE in first trip to Middle East since taking office",
-        "description": "The visits will provide an opportunity for Singapore to exchange views on recent developments in the region and strengthen cooperation with both countries in areas of mutual interest, such as in&nbsp;energy security and ",
-        "link": "https://www.channelnewsasia.com/singapore/lawrence-wong-qatar-uae-middle-east-visit-6468046",
+        "title": "Few use Singapore haze shelters, but visitors welcome respite from heat",
+        "description": "&nbsp;CNA visited eight shelters across the island, finding most empty or locked, though the few who turned up welcomed the free air-conditioned refuge.\n\n&nbsp;",
+        "link": "https://www.channelnewsasia.com/singapore/singapore-haze-shelters-heat-visitors-community-centres-6468211",
         "source": "CNA"
       }
     },
@@ -248,18 +284,6 @@
         "title": "Brazil sees record fall in Amazon deforestation as key election looms",
         "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
         "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "Katie Zacharia leaving White House role less than five days into job",
-        "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-        "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -288,51 +312,51 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Rome",
+      "lat": 41.9,
+      "lon": 12.5,
       "count": 2,
       "story": {
-        "title": "The Israeli politicians seeking to replace Netanyahu",
-        "description": "A look at Israel&#039;s main opposition leaders, their parties and their largely shared positions on Gaza and other wars.",
-        "link": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 2,
-      "story": {
-        "title": "Crows snap Suns' AFLW winning run as Bulldogs and Lions notch victories",
-        "description": "The Crows are back in the AFLW finals frame after ending the Gold Coast's six-game winning streak, while Brisbane and the Western Bulldogs also picked up wins.",
-        "link": "https://www.abc.net.au/news/2026-10-17/aflw-crows-suns-bulldogs-carlton-lions-port-eagles-cats/107279312",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 2,
-      "story": {
-        "title": "Germany, France agree on deal to support Europe's struggling car industry",
-        "description": "The two countries said the agreement aimed to safeguard Europe's automotive industry, encouraging development and research. Automakers in Europe have so far struggled to compete with Chinese electric car companies.",
-        "link": "https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-all-1573-rdf",
+        "title": "Pope Leo discharged from hospital four days after lung surgery",
+        "description": "Four days after undergoing surgery for lung cancer, Pope Leo left hospital in Rome. His doctors said he was well enough to return home.",
+        "link": "https://www.dw.com/en/pope-leo-discharged-from-hospital-four-days-after-lung-surgery/a-79688162?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
       "count": 1,
       "story": {
-        "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-        "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-        "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Protesters clash with police during nationwide demonstrations in France",
+        "description": "Thousands protest in Paris and other cities against rising cost of living.",
+        "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Shanghai",
+      "lat": 31.23,
+      "lon": 121.47,
+      "count": 1,
+      "story": {
+        "title": "Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final",
+        "description": "The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final.",
+        "link": "https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "New Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
+      "count": 1,
+      "story": {
+        "title": "Women protest in New Delhi against police brutality",
+        "description": "Women protest in New Delhi against police brutality",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -354,7 +378,7 @@
       "count": 1,
       "story": {
         "title": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
-        "description": "Rapid Support Forces accuses army of killing 30 civilians in attack on Nyala&#039;s busy livestock market.",
+        "description": "Rapid Support Forces accuse army of killing 30 civilians in attack on Nyala&#039;s busy livestock market.",
         "link": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
         "source": "Al Jazeera"
       }
@@ -396,30 +420,6 @@
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 1,
-      "story": {
-        "title": "Israeli raids and arrests in southern Syria push population to the brink",
-        "description": "Survivors recount brutal prison conditions, enduring beatings, restraints and psychological abuse by Israeli soldiers.",
-        "link": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 1,
-      "story": {
-        "title": "Ukraine and Europe have little choice but to work with Trump",
-        "description": "Despite growing tensions over Russia, Kyiv and European leaders remain dependent on US support.",
-        "link": "https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Vietnam",
       "lat": 14.06,
       "lon": 108.28,
@@ -444,6 +444,18 @@
       }
     },
     {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 1,
+      "story": {
+        "title": "Dogs captured after attack on Brisbane man",
+        "description": "Emergency services were called to Kittyhawk Drive in Chermside just after 6pm on Friday following reports a man had been attacked by dogs.",
+        "link": "https://www.abc.net.au/news/2026-10-17/dogs-captured-after-attacking-man-chermside/107279188",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Perth",
       "lat": -31.95,
       "lon": 115.86,
@@ -453,18 +465,6 @@
         "description": "Three men have each been sentenced to 158 years and nine months in prison for the murders of the Australian brothers and their American friend Carter Rhoad while they were camping in Mexico in 2024.",
         "link": "https://www.abc.net.au/news/2026-10-17/jake-callum-robinson-mexico-murder-trial-sentence/107271152",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
-      "count": 1,
-      "story": {
-        "title": "India news: 'Cockroach' party founder Abhijeet Dipke under preventive arrest",
-        "description": "CJP's Abhijeet Dipke is due to appear before a Special Executive Magistrate later in the day. Dipke was detained ahead of a demonstration in New Delhi on Friday. DW has more.",
-        "link": "https://www.dw.com/en/india-news-cockroach-party-founder-abhijeet-dipke-under-preventive-arrest/live-79685143?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -492,42 +492,6 @@
       }
     },
     {
-      "name": "Rome",
-      "lat": 41.9,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Pope Leo recovering from surgery, will deliver Sunday prayer",
-        "description": "The Vatican has said that Pope Leo XIV is recovering from lung surgery. Photos released on Friday showed the pontiff celebrating Mass at Rome's Gemelli Hospital unaided.",
-        "link": "https://www.dw.com/en/pope-leo-recovering-from-surgery-will-deliver-sunday-prayer/a-79682540?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
-      "count": 1,
-      "story": {
-        "title": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
-        "description": "As Yemen's Iran-backed Houthis continue to target Saudi Arabia, Riyadh's vulnerability threatens its claim on regional and religious leadership — as well as its standing as an economic powerhouse.",
-        "link": "https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
-        "description": "As Yemen's Iran-backed Houthis continue to target Saudi Arabia, Riyadh's vulnerability threatens its claim on regional and religious leadership — as well as its standing as an economic powerhouse.",
-        "link": "https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "European Union",
       "lat": 50.85,
       "lon": 4.35,
@@ -549,6 +513,42 @@
         "description": "Citing problems with the data transmission network, Italian authorities have drastically reduced the volume of flights in their airspace. The ENAV authority ruled out malicious activity and said flights remained safe.",
         "link": "https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 1,
+      "story": {
+        "title": "Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter",
+        "description": "She started taking action against Hitler as a teenager and never stopped until her death in a concentration camp. Berlin's Blücherplatz is now being renamed after her.",
+        "link": "https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Dublin",
+      "lat": 53.35,
+      "lon": -6.26,
+      "count": 1,
+      "story": {
+        "title": "EU promotes sovereign, trusted AI as it struggles to catch US and China",
+        "description": "At an international AI summit in Dublin, EU leaders promoted trusted and independent artificial intelligence. Critics question whether the bloc can close the gap with the US and China while maintaining strict regulation.",
+        "link": "https://www.dw.com/en/eu-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 1,
+      "story": {
+        "title": "South Africa still mulling over permutations for second test against Australia",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/south-africa-still-mulling-over-permutations-second-test-against-australia-6468271",
+        "source": "CNA"
       }
     }
   ]
