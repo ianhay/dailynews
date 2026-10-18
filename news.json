@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T19:33:17+00:00",
+  "generated_at": "2026-10-18T22:19:15+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,9 +32,9 @@
   ],
   "australia": [
     {
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -75,23 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 15,
       "story": {
         "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
         "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
         "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 10,
-      "story": {
-        "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
-        "description": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
-        "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -132,14 +120,38 @@
       }
     },
     {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 7,
+      "story": {
+        "title": "Macron calls for 'calm and order' after riots across France",
+        "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+        "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 5,
+      "count": 7,
       "story": {
         "title": "Anti-government protesters battle with police in Albania",
         "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
         "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 6,
+      "story": {
+        "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+        "description": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,18 +168,6 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 5,
-      "story": {
-        "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-        "description": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
-        "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
@@ -180,39 +180,27 @@
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 4,
-      "story": {
-        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-        "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-        "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 4,
-      "story": {
-        "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-        "description": "Gulf ministers urge action against Houthis as fighting displaces more than 233,000 people across Yemen.",
-        "link": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
+      "count": 5,
+      "story": {
+        "title": "Hearings NSW Police wanted secret begin today. This is what to expect",
+        "description": "The Town Hall protest against Israel President Isaac Herzog's visit to Sydney generated hundreds of complaints about police misconduct. Now the watchdog will examine the actions of officers.",
+        "link": "https://www.abc.net.au/news/2026-10-19/lecc-town-hall-protest-public-examinations-nsw-police/107261744",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 4,
       "story": {
-        "title": "Aussies survives dramatic collapse to beat New Zealand in first women's T20",
-        "description": "Australia survives a scare to down New Zealand by two wickets in the first T20 at North Sydney Oval.",
-        "link": "https://www.abc.net.au/news/2026-10-18/australia-beats-new-zealand-in-first-womens-t20/107281026",
-        "source": "ABC News AU"
+        "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+        "description": "Ukraine&#039;s president says communication between Washington and Kyiv &#039;virtually nonstop&#039;, despite a spat with Trump.",
+        "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -225,30 +213,6 @@
         "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
         "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 3,
-      "story": {
-        "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
-        "description": "Ukraine&#039;s president says communication between Washington and Kyiv &#039;virtually nonstop&#039;, despite a spat with Trump.",
-        "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "Gaza bodybuilders find solace in strongman competition among the ruins",
-        "description": "Bodybuilders in Gaza are finding solace in testing their strength during a competition surrounded by rubble.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -276,15 +240,87 @@
       }
     },
     {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 2,
       "story": {
-        "title": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
-        "description": "The Egyptian president said his country was ready to defend Saudi Arabia \"if requested.\" The comments come amid escalating Houthi attacks.",
-        "link": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+        "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 2,
+      "story": {
+        "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
+        "description": "Gulf ministers urge action against Houthis as fighting displaces more than 233,000 people across Yemen.",
+        "link": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "Gaza bodybuilders find solace in strongman competition among the ruins",
+        "description": "Bodybuilders in Gaza are finding solace in testing their strength during a competition surrounded by rubble.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 2,
+      "story": {
+        "title": "'Anxious' Smith's concussion admission after latest head knock",
+        "description": "Steve Smith explains how he felt in the immediate aftermath of a brutal blow to his helmet during the first Test against South Africa.",
+        "link": "https://www.abc.net.au/news/2026-10-19/cricket-smith-concussion-admission-anxiety-after-head-knock/107281648",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 2,
+      "story": {
+        "title": "Australia's Challenger gets takeover bid from unit of Japan's Daiichi Life",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/business/australias-challenger-gets-takeover-bid-unit-japans-daiichi-life-6470476",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 1,
+      "story": {
+        "title": "Macron calls for 'calm and order' after riots across France",
+        "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+        "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 1,
+      "story": {
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "description": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battlin",
+        "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -303,18 +339,6 @@
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
-      "count": 1,
-      "story": {
-        "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-        "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-        "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
       "count": 1,
       "story": {
         "title": "Brazil sees record fall in Amazon deforestation as key election looms",
@@ -444,15 +468,27 @@
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Jakarta",
+      "lat": -6.2,
+      "lon": 106.85,
       "count": 1,
       "story": {
-        "title": "Sudan army accused of drone strike on livestock market",
-        "description": "Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "'Shared language of horror' uniting Aussie and Indonesian filmmakers",
+        "description": "While Jakarta and regional Queensland may not have much in common at first glance, their filmmakers have found that \"fear is universal\".",
+        "link": "https://www.abc.net.au/news/2026-10-19/horror-movies-indonesia-regional-australia-toowoomba/107271162",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 1,
+      "story": {
+        "title": "'Shared language of horror' uniting Aussie and Indonesian filmmakers",
+        "description": "While Jakarta and regional Queensland may not have much in common at first glance, their filmmakers have found that \"fear is universal\".",
+        "link": "https://www.abc.net.au/news/2026-10-19/horror-movies-indonesia-regional-australia-toowoomba/107271162",
+        "source": "ABC News AU"
       }
     },
     {
@@ -468,51 +504,27 @@
       }
     },
     {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
       "count": 1,
       "story": {
-        "title": "Aussies survives dramatic collapse to beat New Zealand in first women's T20",
-        "description": "Australia survives a scare to down New Zealand by two wickets in the first T20 at North Sydney Oval.",
-        "link": "https://www.abc.net.au/news/2026-10-18/australia-beats-new-zealand-in-first-womens-t20/107281026",
-        "source": "ABC News AU"
+        "title": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
+        "description": "A senior health official in Kenya said there have now been 8 Ebola infections in the country, while in DR Congo the disease has spread to an eighth province.",
+        "link": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
       "count": 1,
       "story": {
-        "title": "Kangaroos flick switch to kill off Bombers' resistance",
-        "description": "North Melbourne is in the box seat to win the AFLW minor premiership after kicking the last seven goals to see off Essendon's challenge.",
-        "link": "https://www.abc.net.au/news/2026-10-18/aflw-kangaroos-bombers-giants-hawks-swans-magpies-dockers-saints/107280882",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "Boland's double-strike the highlight as rain ruins day one in Gqeberha",
-        "description": "Scott Boland strikes twice in two balls during a brief period of play as rain almost entirely washes out the first day of the second Test between Australia and South Africa Gqeberha.",
-        "link": "https://www.abc.net.au/news/2026-10-18/live-updates-south-africa-vs-australia-second-test-day-one/107277420",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "Teenage boy rescued from Brisbane stormwater drain",
-        "description": "Firefighting crews deployed an inflatable boat in a tunnel under Brisbane's Kangaroo Point to rescue the boy.",
-        "link": "https://www.abc.net.au/news/2026-10-18/teenager-rescued-from-brisbane-stormwater-drain/107280766",
-        "source": "ABC News AU"
+        "title": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
+        "description": "A senior health official in Kenya said there have now been 8 Ebola infections in the country, while in DR Congo the disease has spread to an eighth province.",
+        "link": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -536,18 +548,6 @@
         "title": "Vietnam signs free trade deal with four European countries",
         "description": "Vietnam has signed a deal with four non-EU members that covers trade in goods and services, intellectual property rights, and sustainable development, among other areas.",
         "link": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Romania",
-      "lat": 45.94,
-      "lon": 24.97,
-      "count": 1,
-      "story": {
-        "title": "Romanian fighter jets shoot down 2 drones over Black Sea",
-        "description": "Romanian Air Force F-16s shot down drones over Romanian territorial waters. Earlier this week, two chemical tankers were hit by drones near Romania's Black Sea coast.",
-        "link": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
