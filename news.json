@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T22:05:58+00:00",
+  "generated_at": "2026-10-18T00:11:48+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -58,15 +58,15 @@
       "source": "BBC News"
     },
     {
-      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Banks expect to be hit with higher taxes in Budget",
       "description": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
       "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "description": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+      "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 18,
+      "count": 20,
       "story": {
         "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
         "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
@@ -132,6 +132,18 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 6,
+      "story": {
+        "title": "At least 17 dead in crush at Hindu festival event in India",
+        "description": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+        "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
@@ -140,18 +152,6 @@
         "title": "Anti-government protesters battle with police in Albania",
         "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
         "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 5,
-      "story": {
-        "title": "At least 17 dead in crush at Hindu festival event in India",
-        "description": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
-        "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -168,15 +168,51 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-        "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-        "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Surgery referrals missed in Sydney hospital email blunder",
+        "description": "A review is underway after more than 3,000 emails, including 16 urgent referrals for elective surgery, were found in an unmonitored email inbox months after they were sent.",
+        "link": "https://www.abc.net.au/news/2026-10-18/nsw-sydney-hospital-canterbury-apology-surgery-referrals/107280434",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 4,
+      "story": {
+        "title": "Singapore haze: Air quality remains very unhealthy in west, unhealthy in other regions",
+        "description": "At 8am, the 24-hour PSI in the west stood at 228, with readings in the other regions ranging from 129 to 186.",
+        "link": "https://www.channelnewsasia.com/singapore/haze-oct-18-psi-west-remains-very-unhealthy-6468376",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 3,
+      "story": {
+        "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+        "description": "Forces intercepted and destroyed four drones over Saudi Arabia&#039;s Riyadh, Eastern Province and southern region.",
+        "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 3,
+      "story": {
+        "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+        "description": "Forces intercepted and destroyed four drones over Saudi Arabia&#039;s Riyadh, Eastern Province and southern region.",
+        "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -204,6 +240,18 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 3,
+      "story": {
+        "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+        "description": "Attacks hit several areas as UNICEF reports more than 340 children killed since &#039;ceasefire&#039; began a year ago.",
+        "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
@@ -213,18 +261,6 @@
         "description": "Experts believe that, so far, Germany has been ill-prepared — both militarily and mentally — for Russian provocations. They also warn against the idea that ending support for Ukraine would make Germany safer.",
         "link": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
-      "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
       }
     },
     {
@@ -318,7 +354,7 @@
       "count": 2,
       "story": {
         "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-        "description": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.",
+        "description": "Hundreds of thousands took to the streets for separate demonstrations, putting pressure on governments across the EU.",
         "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
         "source": "Al Jazeera"
       }
@@ -332,30 +368,6 @@
         "title": "Al Jazeera reports from Paris as protests turn violent",
         "description": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 2,
-      "story": {
-        "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
-        "description": "Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 2,
-      "story": {
-        "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
-        "description": "Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -384,6 +396,18 @@
       }
     },
     {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 2,
+      "story": {
+        "title": "Police investigate alleged stabbing death in Melbourne's west",
+        "description": "Emergency services were called to an address in Melbourne's west just after midnight, with reports that a man was seriously injured.",
+        "link": "https://www.abc.net.au/news/2026-10-18/police-investigate-alleged-fatal-stabbing-st-albans/107280418",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
@@ -396,15 +420,27 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 1,
       "story": {
-        "title": "These marathon runners will give up their personal best to save a life",
-        "description": "In a first for the Singapore International Marathon, 238 specially trained runners will be on standby this year to treat fellow participants in medical distress.",
-        "link": "https://www.channelnewsasia.com/singapore/medic-runner-singapore-international-marathon-6388846",
-        "source": "CNA"
+        "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+        "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+        "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
+      "count": 1,
+      "story": {
+        "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+        "description": "Forces intercepted and destroyed four drones over Saudi Arabia&#039;s Riyadh, Eastern Province and southern region.",
+        "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -414,7 +450,7 @@
       "count": 1,
       "story": {
         "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-        "description": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.",
+        "description": "Hundreds of thousands took to the streets for separate demonstrations, putting pressure on governments across the EU.",
         "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
         "source": "Al Jazeera"
       }
@@ -444,42 +480,6 @@
       }
     },
     {
-      "name": "Tunis",
-      "lat": 36.81,
-      "lon": 10.18,
-      "count": 1,
-      "story": {
-        "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
-        "description": "Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms.",
-        "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tunisia",
-      "lat": 33.89,
-      "lon": 9.54,
-      "count": 1,
-      "story": {
-        "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
-        "description": "Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms.",
-        "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Family says Las Vegas police search for missing Australian 'lacklustre'",
-        "description": "The family of a young Australian woman missing in the US have criticised efforts by local police to find the 26-year-old, who missed her return flight to Melbourne in June and has not been heard from since.",
-        "link": "https://www.abc.net.au/news/2026-10-18/sally-contarino-missing-las-vegas-family-appeal-police/107271150",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "New Zealand",
       "lat": -41.0,
       "lon": 174.0,
@@ -488,18 +488,6 @@
         "title": "Is New Zealand holding back women's Test cricket?",
         "description": "New Zealand regularly faces Australia in white-ball formats but refuses to play women's Test cricket, despite being one of the first three nations to do it back in the 1930s. Here's why.",
         "link": "https://www.abc.net.au/news/2026-10-18/is-new-zealand-holding-back-womens-test-cricket/107273022",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
-      "count": 1,
-      "story": {
-        "title": "Denmark's royals party, make mistakes and still prepare to reign",
-        "description": "They party, make mistakes and forge their own paths. But behind Denmark's seemingly relaxed monarchy lies a careful balance of freedom, duty and public trust.",
-        "link": "https://www.abc.net.au/news/2026-10-18/royalty-denmark-britain-christian-harry-william-crown-prince/107268784",
         "source": "ABC News AU"
       }
     },
@@ -549,6 +537,18 @@
         "description": "The cases are the first known infections passed on inside Kenya, where the first patient arrived from Congo on Oct 3.",
         "link": "https://www.channelnewsasia.com/world/kenya-confirms-four-new-ebola-cases-bringing-total-number-seven-6468456",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
+      "count": 1,
+      "story": {
+        "title": "Eurovision faces fresh scrutiny as the Netherlands withdraws over Gaza tensions",
+        "description": "Earlier this month, Eurovision announced that countries involved in armed conflict would not be considered for hosting the competition.",
+        "link": "https://www.sbs.com.au/news/article/eurovision-faces-fresh-scrutiny-netherlands-withdraws/b3mc38t5t",
+        "source": "SBS News"
       }
     }
   ]
