@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T09:29:26+00:00",
+  "generated_at": "2026-10-18T13:30:32+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,21 +32,21 @@
   ],
   "australia": [
     {
-      "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
-      "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Anti-government protesters battle with police in Albania",
-      "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 18,
+      "count": 21,
       "story": {
         "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
         "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
@@ -84,10 +84,22 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 10,
+      "story": {
+        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+        "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+        "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 8,
+      "count": 10,
       "story": {
         "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
         "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
@@ -96,38 +108,26 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 7,
-      "story": {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 7,
-      "story": {
-        "title": "At least 17 dead in crush at Hindu festival event in India",
-        "description": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
-        "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
+      "count": 9,
+      "story": {
+        "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+        "description": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+        "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
       "count": 6,
       "story": {
-        "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
-        "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-        "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+        "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+        "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,26 +144,14 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 5,
       "story": {
-        "title": "Several dead or injured in major fire at Canada military base",
-        "description": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-        "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 5,
-      "story": {
-        "title": "Anti-government protesters battle with police in Albania",
-        "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-        "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+        "title": "At least 17 dead in crush at Hindu festival event in India",
+        "description": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+        "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,26 +168,74 @@
       }
     },
     {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 4,
+      "story": {
+        "title": "Several dead or injured in major fire at Canada military base",
+        "description": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
+        "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 4,
+      "story": {
+        "title": "Anti-government protesters battle with police in Albania",
+        "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+        "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 4,
+      "story": {
+        "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
+        "description": "Analysts say that any move from Egypt will remain &#039;strictly defensive&#039;, as the conflict in Yemen intensifies.",
+        "link": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Surgery referrals missed in Sydney hospital email blunder",
-        "description": "A review is underway after more than 3,000 emails, including 16 urgent referrals for elective surgery, were found in an unmonitored email inbox months after they were sent.",
-        "link": "https://www.abc.net.au/news/2026-10-18/nsw-sydney-hospital-canterbury-apology-surgery-referrals/107280434",
+        "title": "Aussies survives dramatic collapse to beat New Zealand in first women's T20",
+        "description": "Australia survives a scare to down New Zealand by two wickets in the first T20 at North Sydney Oval.",
+        "link": "https://www.abc.net.au/news/2026-10-18/australia-beats-new-zealand-in-first-womens-t20/107281026",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 4,
+      "story": {
+        "title": "Is Germany's eight-hour workday under threat?",
+        "description": "Would you work 12 hours straight? The CDU/CSU and SPD are locked in a dispute over reforms to the Working Hours Act. Workplace flexibility, collective bargaining agreements and worker protection rules are at stake.",
+        "link": "https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 3,
       "story": {
-        "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-        "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
-        "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,27 +252,39 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 3,
       "story": {
-        "title": "How big is Russia's threat against Germany?",
-        "description": "Experts believe that, so far, Germany has been ill-prepared — both militarily and mentally — for Russian provocations. They also warn against the idea that ending support for Ukraine would make Germany safer.",
-        "link": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
+        "description": "Most of the victims were from the Daraj neighbourhood in Gaza City, the Health Ministry says.",
+        "link": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
       "count": 3,
       "story": {
-        "title": "Haze disrupts daily routines, hits businesses in Singapore's west as PSI reaches very unhealthy level",
-        "description": "Singapore's west has seen some of the highest haze readings in recent days, but experts say this may not continue as the situation remains dynamic.",
-        "link": "https://www.channelnewsasia.com/singapore/haze-western-region-daily-routines-psi-businesses-6469406",
-        "source": "CNA"
+        "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
+        "description": "Analysts say that any move from Egypt will remain &#039;strictly defensive&#039;, as the conflict in Yemen intensifies.",
+        "link": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 2,
+      "story": {
+        "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+        "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+        "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -252,39 +300,51 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 2,
-      "story": {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Brussels",
-      "lat": 50.85,
-      "lon": 4.35,
-      "count": 2,
-      "story": {
-        "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
-        "description": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
-        "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
       "count": 2,
       "story": {
-        "title": "Israel’s ties with Europe are fraying. Can its election change that?",
-        "description": "European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians.",
-        "link": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
+        "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
+        "description": "Most of the victims were from the Daraj neighbourhood in Gaza City, the Health Ministry says.",
+        "link": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
+      "count": 2,
+      "story": {
+        "title": "Palestinian karate champion Maryam Bsharat wins second world title",
+        "description": "Palestinian athlete Maryam Bsharat won gold at the World Karate Championships in Poland.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/palestinian-karate-champion-maryam-bsharat-wins-second-world-title?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 2,
+      "story": {
+        "title": "South African rugby player Hyron Andrews paid emotional tribute in France",
+        "description": "Andrews died in France on Friday while on tour with the Johannesburg Lions during the Champions Cup rugby tournament.",
+        "link": "https://www.aljazeera.com/sports/2026/10/18/south-african-rugby-player-hyron-andrews-paid-emotional-tribute-in-france?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
+      "count": 2,
+      "story": {
+        "title": "Aussies survives dramatic collapse to beat New Zealand in first women's T20",
+        "description": "Australia survives a scare to down New Zealand by two wickets in the first T20 at North Sydney Oval.",
+        "link": "https://www.abc.net.au/news/2026-10-18/australia-beats-new-zealand-in-first-womens-t20/107281026",
+        "source": "ABC News AU"
       }
     },
     {
@@ -294,9 +354,21 @@
       "count": 2,
       "story": {
         "title": "Vietnam signs free trade deal with four European countries",
-        "description": "Vietnam has signed a deal with non-EU members that covers trade in goods and services, intellectual property rights, and sustainable development, among other areas.",
+        "description": "Vietnam has signed a deal with four non-EU members that covers trade in goods and services, intellectual property rights, and sustainable development, among other areas.",
         "link": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Shanghai",
+      "lat": 31.23,
+      "lon": 121.47,
+      "count": 2,
+      "story": {
+        "title": "Davidovich Fokina overcomes Jodar to claim Shanghai crown",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/davidovich-fokina-overcomes-jodar-claim-shanghai-crown-6469551",
+        "source": "CNA"
       }
     },
     {
@@ -360,74 +432,38 @@
       }
     },
     {
+      "name": "Jordan",
+      "lat": 30.59,
+      "lon": 36.24,
+      "count": 1,
+      "story": {
+        "title": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
+        "description": "A surge in drug smuggling from Israel to Jordan using drones and balloons prompts accusations of border guard collusion.",
+        "link": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "London",
       "lat": 51.5,
       "lon": -0.12,
       "count": 1,
       "story": {
-        "title": "Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title",
-        "description": "Champion dominates fellow British boxer in London before facing a challenge from IBO champion Hrgovic.",
-        "link": "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss",
+        "title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
+        "description": "Dhruv Rathee led a ‘Stop vote theft’ protest in London, accusing Modi&#039;s government of electoral manipulation.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 1,
       "story": {
-        "title": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
-        "description": "US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.",
-        "link": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Mumbai",
-      "lat": 19.08,
-      "lon": 72.88,
-      "count": 1,
-      "story": {
-        "title": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
-        "description": "US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.",
-        "link": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tunis",
-      "lat": 36.81,
-      "lon": 10.18,
-      "count": 1,
-      "story": {
-        "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
-        "description": "Joblessness, failing services and rising costs deepen hardship across the country.",
-        "link": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tunisia",
-      "lat": 33.89,
-      "lon": 9.54,
-      "count": 1,
-      "story": {
-        "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
-        "description": "Joblessness, failing services and rising costs deepen hardship across the country.",
-        "link": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 1,
-      "story": {
-        "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
-        "description": "Kabila’s move raises new questions about the war in eastern Congo and prospects for peace.",
-        "link": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
+        "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
+        "description": "Sudanese are facing growing costs of medicine caused by the country&#039;s civil war.",
+        "link": "https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -440,18 +476,6 @@
         "title": "Kangaroos flick switch to kill off Bombers' resistance",
         "description": "North Melbourne is in the box seat to win the AFLW minor premiership after kicking the last seven goals to see off Essendon's challenge.",
         "link": "https://www.abc.net.au/news/2026-10-18/aflw-kangaroos-bombers-giants-hawks-swans-magpies-dockers-saints/107280882",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "Live: Australia to unleash all-out pace attack against RSA after rain delay",
-        "description": "Australia looks to build on its spectacular first Test victory over South Africa when the series moves to Gqeberha in the Eastern Cape. Follow all the day one action live.",
-        "link": "https://www.abc.net.au/news/2026-10-18/live-updates-south-africa-vs-australia-second-test-day-one/107277420",
         "source": "ABC News AU"
       }
     },
@@ -512,30 +536,6 @@
         "title": "Romanian fighter jets shoot down 2 drones over Black Sea",
         "description": "Romanian Air Force F-16s shot down drones over Romanian territorial waters. Earlier this week, two chemical tankers were hit by drones near Romania's Black Sea coast.",
         "link": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 1,
-      "story": {
-        "title": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
-        "description": "The Egyptian president said his country was ready to defend Saudi Arabia \"if requested.\" The comments come amid escalating Houthi attacks.",
-        "link": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
-        "description": "The Egyptian president said his country was ready to defend Saudi Arabia \"if requested.\" The comments come amid escalating Houthi attacks.",
-        "link": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
