@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T05:08:37+00:00",
+  "generated_at": "2026-10-19T11:07:23+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,15 +12,9 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Major fire at Canada military base leaves four dead, dozens injured",
-      "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
-      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+      "description": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
+      "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -28,25 +22,31 @@
       "description": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.\nA national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
       "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+      "description": "It comes after the prime minister refused to say whether he backed expansion.",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
     {
-      "title": "Macron calls for 'calm and order' after riots across France",
-      "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "France's government under pressure after weekend of widespread violence",
-      "description": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
-      "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
       "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
       "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+      "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
+      "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Musk and Anthropic pledge public share giveaways",
+      "description": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -58,24 +58,60 @@
       "source": "BBC News"
     },
     {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+      "title": "China's growth accelerates as AI boom helps boost exports",
       "description": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
       "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "title": "What is the Budget and what could be in it?",
+      "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 19,
+      "story": {
+        "title": "Australian Greens senator denies claims of misconduct towards women",
+        "description": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
+        "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 9,
+      "story": {
+        "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+        "description": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+        "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 9,
+      "story": {
+        "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
+        "description": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+        "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 15,
+      "count": 8,
       "story": {
         "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
         "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
@@ -87,7 +123,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 13,
+      "count": 7,
       "story": {
         "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
         "description": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
@@ -96,26 +132,14 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 13,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 6,
       "story": {
-        "title": "Australian Greens senator denies claims of misconduct towards women",
-        "description": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
-        "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 7,
-      "story": {
-        "title": "Macron calls for 'calm and order' after riots across France",
-        "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-        "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+        "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+        "description": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
+        "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -123,7 +147,7 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
         "description": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
@@ -135,81 +159,117 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 7,
-      "story": {
-        "title": "Anti-government protesters battle with police in Albania",
-        "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-        "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 6,
-      "story": {
-        "title": "Major fire at Canada military base leaves four dead, dozens injured",
-        "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
-        "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 6,
-      "story": {
-        "title": "Threat forces Israel to Austria flight into emergency landing",
-        "description": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
-        "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
       "count": 5,
       "story": {
-        "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-        "description": "The air strike, one of Ukraine&#039;s largest in the war, comes amid rising tensions between Kyiv and Washington.",
-        "link": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+        "title": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
+        "description": "There have been new reports of Iranian support for the Houthis in Yemen amid a wave of attacks on Saudi cities.",
+        "link": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 5,
+      "story": {
+        "title": "Sydney councillor resigns from Hunter's Hill Council over 'toxic chamber'",
+        "description": "Marc Lane said he could not continue serving the rest of his term on the Liberal-dominated council, citing a lack of debate over key council decisions.",
+        "link": "https://www.abc.net.au/news/2026-10-19/sydney-councillor-resigns-hunters-hill-council/107282630",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 4,
+      "story": {
+        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+        "description": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
+        "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 4,
+      "story": {
+        "title": "Elderly man forcibly detained at Elbit Systems protest in Germany",
+        "description": "An elderly man was forcibly restrained by police during a protest against Elbit Systems in Ulm, Germany.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/elderly-man-forcibly-detained-at-elbit-systems-protest-in-germany?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 3,
+      "story": {
+        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+        "description": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
+        "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Singapore Environment Council restricts Indonesian firm APP's green certification over haze-linked suppliers",
+        "description": "In 2015, major retailers removed Asia Pulp &amp; Paper's products from shelves because of alleged links to fires that caused severe haze.",
+        "link": "https://www.channelnewsasia.com/singapore/haze-asia-pulp-paper-environment-council-6471366",
+        "source": "CNA"
       }
     },
     {
       "name": "Kenya",
       "lat": -0.02,
       "lon": 37.9,
-      "count": 4,
+      "count": 2,
       "story": {
         "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-        "description": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell.",
+        "description": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
         "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 4,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 2,
       "story": {
-        "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
-        "description": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
-        "link": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+        "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
+        "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Mumbai",
+      "lat": 19.08,
+      "lon": 72.88,
+      "count": 2,
+      "story": {
+        "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
+        "description": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd.",
+        "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Austria",
       "lat": 47.52,
       "lon": 14.55,
-      "count": 3,
+      "count": 2,
       "story": {
-        "title": "Threat forces Israel to Austria flight into emergency landing",
+        "title": "Bomb threat forces Israel to Austria flight into emergency landing",
         "description": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
         "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
@@ -219,60 +279,12 @@
       "name": "Bulgaria",
       "lat": 42.73,
       "lon": 25.49,
-      "count": 3,
+      "count": 2,
       "story": {
-        "title": "Threat forces Israel to Austria flight into emergency landing",
+        "title": "Bomb threat forces Israel to Austria flight into emergency landing",
         "description": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
         "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "India’s crackdown on cockroaches, critics and cameras",
-        "description": "A government at war with its critics - from young protesters to the media.",
-        "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 3,
-      "story": {
-        "title": "Is Germany's eight-hour workday under threat?",
-        "description": "Would you work 12 hours straight? The CDU/CSU and SPD are locked in a dispute over reforms to the Working Hours Act. Workplace flexibility, collective bargaining agreements and worker protection rules are at stake.",
-        "link": "https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
-      "story": {
-        "title": "YouTrip faces ‘major outage’ across most services in Singapore and Thailand",
-        "description": "Services affected in Singapore include wallet top-ups, currency exchange and payment authentication.",
-        "link": "https://www.channelnewsasia.com/singapore/youtrip-major-outage-wallet-exchange-services-6470841",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
-      "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
       }
     },
     {
@@ -288,74 +300,26 @@
       }
     },
     {
-      "name": "Tel Aviv",
-      "lat": 32.08,
-      "lon": 34.78,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 2,
       "story": {
-        "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
-        "description": "Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Ukraine got 'no warning' of Russian ballistic strikes, Zelenskyy says",
+        "description": "Massive strikes overnight hit the capital Kyiv, and damaged power stations, killing at least one person and cutting power to hundreds of thousands.",
+        "link": "https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 2,
       "story": {
-        "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-        "description": "Gulf ministers urge action against Houthis as fighting displaces more than 233,000 people across Yemen.",
-        "link": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "Gaza bodybuilders find solace in strongman competition among the ruins",
-        "description": "Bodybuilders in Gaza are finding solace in testing their strength during a competition surrounded by rubble.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 2,
-      "story": {
-        "title": "Councils unite to make Yarra River swimmable by 2050",
-        "description": "Melbourne councils are looking to Europe for inspiration to clean up the Yarra River, in the hope of bringing swimmers back to the city's main fresh waterway.",
-        "link": "https://www.abc.net.au/news/2026-10-19/melbourne-city-yarra-river-swim-water-access-2050/107282890",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Vietnam",
-      "lat": 14.06,
-      "lon": 108.28,
-      "count": 2,
-      "story": {
-        "title": "Australian activist imprisoned in Vietnam tells family he is 'terrified'",
-        "description": "Australian officials have been able to meet Hiep Tran at a detention centre in Ho Chi Minh City, where he is being held after disappearing in Cambodia last month.",
-        "link": "https://www.abc.net.au/news/2026-10-19/hiep-tran-tells-family-he-never-crossed-border-into-vietnam/107282602",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 2,
-      "story": {
-        "title": "Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war'",
-        "description": "US President Donald Trump again accused Ukrainian President Volodymyr Zelenskyy of not wanting to end the war. The remarks come amid renewed tensions over US policy toward Moscow including waiving some sanctions.",
-        "link": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf",
+        "title": "India news: CJP alleges 'deliberate' delay in leaders' release",
+        "description": "CJP leaders Saurav Das and Ashutosh Ranka were due to be released on Sunday. The judge in the case has recused himself after claiming that he was threatened. DW has more.",
+        "link": "https://www.dw.com/en/india-news-cjp-alleges-deliberate-delay-in-leaders-release/live-79695410?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -365,33 +329,21 @@
       "lon": 118.0,
       "count": 2,
       "story": {
-        "title": "Indonesia considers expanding dry ice trials to tackle haze after 'fairly effective' South Sumatra test",
-        "description": "\"If this technology is considered effective, does not cost too much and can be applied across Indonesia, then why not?\" new Indonesia disaster agency head Kristomei Sianturi said.",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-haze-dry-ice-forest-fires-sumatra-palembang-6470801",
+        "title": "Singapore Environment Council restricts Indonesian firm APP's green certification over haze-linked suppliers",
+        "description": "In 2015, major retailers removed Asia Pulp &amp; Paper's products from shelves because of alleged links to fires that caused severe haze.",
+        "link": "https://www.channelnewsasia.com/singapore/haze-asia-pulp-paper-environment-council-6471366",
         "source": "CNA"
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
       "count": 1,
       "story": {
-        "title": "Macron calls for 'calm and order' after riots across France",
-        "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-        "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Mumbai",
-      "lat": 19.08,
-      "lon": 72.88,
-      "count": 1,
-      "story": {
-        "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
-        "description": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
-        "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+        "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+        "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
+        "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -404,6 +356,18 @@
         "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
         "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
         "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 1,
+      "story": {
+        "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+        "description": "Violence broke out across France, with more than half a million people taking to the streets over the weekend.",
+        "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -425,82 +389,58 @@
       "lon": 51.4,
       "count": 1,
       "story": {
-        "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
-        "description": "Iran&#039;s Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+        "title": "Qatar warns global energy shockwaves from Iran war have yet to peak",
+        "description": "Deputy PM calls for dialogue with Tehran, highlights US defence ties and rejects Strait of Hormuz transit fees.",
+        "link": "https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Sofia",
-      "lat": 42.7,
-      "lon": 23.32,
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
       "count": 1,
       "story": {
-        "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
-        "description": "Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.",
-        "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
+        "title": "Qatar warns global energy shockwaves from Iran war have yet to peak",
+        "description": "Deputy PM calls for dialogue with Tehran, highlights US defence ties and rejects Strait of Hormuz transit fees.",
+        "link": "https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
       "count": 1,
       "story": {
-        "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
-        "description": "The exiled Nobel laureate has petitioned for new elections in Venezuela and for the country to allow her return.",
-        "link": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
+        "title": "Hezbollah funding plan indicates a new challenge to Lebanon’s government",
+        "description": "The reported $200m in aid from Iran to Hezbollah has put the Lebanese government under increased pressure from the US.",
+        "link": "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
       "count": 1,
       "story": {
-        "title": "Why the US is holding secret talks with Myanmar’s military ruler",
-        "description": "Why is the Trump administration holding secret talks with Myanmar&#039;s military ruler, accused of genocide?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
+        "title": "Losing Cuba, the global trickster",
+        "description": "The Cuban Revolution, with all its contradictions, has given plenty to the world. Its fall will be a major loss.",
+        "link": "https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
+      "name": "Athens",
+      "lat": 37.98,
+      "lon": 23.73,
       "count": 1,
       "story": {
-        "title": "Breaking: Boy, 13, charged over drive-by shooting at Perth home",
-        "description": "A 13-year-old boy has been charged after a drive-by shooting at a home in Perth's east.",
-        "link": "https://www.abc.net.au/news/2026-10-19/gosnells-house-shooting-boy-charged-/107283624",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "Man faces court after allegedly strangling 15-year-old girl",
-        "description": "A 41-year-old man has faced court after he allegedly kicked and strangled a 15-year-old girl during an incident in a north Canberra home.",
-        "link": "https://www.abc.net.au/news/2026-10-19/canberra-man-charged-allegedly-kicking-strangling-teenage-girl/107282686",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Dubai",
-      "lat": 25.2,
-      "lon": 55.27,
-      "count": 1,
-      "story": {
-        "title": "Flydubai captain describes co-pilot's axe attack and saving 170 passengers",
-        "description": "During the attack in the cockpit, Smit Machchhar says he calmed himself and said: \"You can't die like this.\"",
-        "link": "https://www.abc.net.au/news/2026-10-19/inside-flydubai-cockpit-copilot-alleged-terror-plot/107281782",
-        "source": "ABC News AU"
+        "title": "In pro-Palestine hub of Athens, Israeli buyers increase local resentment",
+        "description": "In Exarchia, residents say short-term rentals are driving up rents and eroding its character.",
+        "link": "https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -509,45 +449,105 @@
       "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "As Russia-Ukraine war changes, Zelenskyy could be 'losing a strong partner'",
-        "description": "Russia's full-scale invasion of Ukraine has taken on a different complexion lately, and it has shone a light on Kyiv's strained relations with the White House.",
-        "link": "https://www.abc.net.au/news/2026-10-19/ukraine-relationship-with-us-and-trump-strained-amid-war/107273416",
+        "title": "No ‘turmoil’ at the White House",
+        "description": "The media had a field day with Zacharia’s short tenure, but claims of chaos in Trump administration are exaggerated.",
+        "link": "https://www.aljazeera.com/opinions/2026/10/19/no-turmoil-at-the-white-house?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Mbappe scores two, Guler one, as Real Madrid find form before El Clasico",
+        "description": "Real Madrid beat Sevilla 4-1 a day after Barcelona thrashed Real Betis 5-2 as the Spanish giants prepare for El Clasico.",
+        "link": "https://www.aljazeera.com/sports/2026/10/19/mbappe-scores-two-guler-one-as-real-madrid-find-form-before-el-clasico?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 1,
+      "story": {
+        "title": "Israel police arrest suspects over settler attacks",
+        "description": "The arrests were made after the United States, France, Belgium and Poland called on Israel to take action after diplomats and a photojournalist were attacked.",
+        "link": "https://www.abc.net.au/news/2026-10-19/israel-police-arrest-suspects-over-settler-attacks-west-bank/107284922",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 1,
       "story": {
-        "title": "Climate activists charged after Woodside offshore rig stunt",
-        "description": "Two Greenpeace activists are due to face court after sailing out to open waters and occupying an offshore gas platform to protest Woodside's planned gas developments.",
-        "link": "https://www.abc.net.au/news/2026-10-19/greenpeace-woodside-protestors-charged-scarborough-stunt/107282650",
+        "title": "Israel police arrest suspects over settler attacks",
+        "description": "The arrests were made after the United States, France, Belgium and Poland called on Israel to take action after diplomats and a photojournalist were attacked.",
+        "link": "https://www.abc.net.au/news/2026-10-19/israel-police-arrest-suspects-over-settler-attacks-west-bank/107284922",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Vienna",
-      "lat": 48.21,
-      "lon": 16.37,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Austrian Airlines flight from Tel Aviv makes emergency landing after bomb threat",
-        "description": "An Austrian Airlines flight from Tel Aviv to Vienna made an emergency landing in Bulgaria after a bomb threat was reported near the Bulgarian-Romanian border. A MiG-29 fighter jet escorted the plane.",
-        "link": "https://www.dw.com/en/austrian-airlines-flight-from-tel-aviv-makes-emergency-landing-after-bomb-threat/a-79695070?maca=en-rss-en-all-1573-rdf",
+        "title": "Massive whale carcass leaves council with $180k bill, budget headache",
+        "description": "The cost of removing a massive humpback whale that washed up on a popular Perth beach last month cost almost $180,000, with the local council fretting about how to pay for it.",
+        "link": "https://www.abc.net.au/news/2026-10-19/city-beach-whale-removal-costs-180k/107284720",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 1,
+      "story": {
+        "title": "Live: Australia battles the weather on day two of second Test",
+        "description": "After a false start on day one, Australia and South Africa hope for far more action on day two of the second Test at St George's Park in Gqeberha. Follow live.",
+        "link": "https://www.abc.net.au/news/2026-10-19/test-cricket-live-updates-south-africa-vs-australia/107282378",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 1,
+      "story": {
+        "title": "How a homeless man lives in front of a London mega-mansion",
+        "description": "Anders Fernstedt lives in London without ever using any money. The Swedish native has built a most unusual home under the porch of a house worth over €200 million. How did that happen?",
+        "link": "https://www.dw.com/en/how-a-homeless-man-lives-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Romania",
-      "lat": 45.94,
-      "lon": 24.97,
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
       "count": 1,
       "story": {
-        "title": "Austrian Airlines flight from Tel Aviv makes emergency landing after bomb threat",
-        "description": "An Austrian Airlines flight from Tel Aviv to Vienna made an emergency landing in Bulgaria after a bomb threat was reported near the Bulgarian-Romanian border. A MiG-29 fighter jet escorted the plane.",
-        "link": "https://www.dw.com/en/austrian-airlines-flight-from-tel-aviv-makes-emergency-landing-after-bomb-threat/a-79695070?maca=en-rss-en-all-1573-rdf",
+        "title": "Greece: At least 12 die in migrant drownings overnight",
+        "description": "Authorities say 12 people, including an infant, have drowned in Greek waters in two separate incidents overnight. Another 22 people were rescued. A search-and-rescue operation is ongoing.",
+        "link": "https://www.dw.com/en/greece-at-least-12-die-in-migrant-drownings-overnight/a-79697504?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 1,
+      "story": {
+        "title": "Germany news: Berlin conference seeks to drum up investment",
+        "description": "The \"Invest in Germany Summit\" is set to kick off in Berlin as the government looks to fill gaps in public funding. DW has more.",
+        "link": "https://www.dw.com/en/germany-news-berlin-conference-seeks-to-drum-up-investment/live-79695354?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
