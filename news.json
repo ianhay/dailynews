@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:40:41+00:00",
+  "generated_at": "2026-10-19T22:12:19+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,13 +32,7 @@
   ],
   "australia": [
     {
-      "title": "Australian MP critically injured after being hit by car in apparent attack",
-      "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
       "description": "The Saudi government did not immediately respond to BBC requests for comment.",
       "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -47,6 +41,12 @@
       "title": "Exiled critic of Rwandan president found beheaded",
       "description": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
       "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "description": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+      "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,11 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 19,
+      "count": 18,
       "story": {
-        "title": "Australian MP critically injured after being hit by car in apparent attack",
-        "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
-        "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+        "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+        "description": "In the apparent attack on MP Helen Haines, the worst fears of politicians and public figures appear to have been realised.",
+        "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -96,27 +96,15 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 8,
       "story": {
-        "title": "Iran War backlash threatens Republican control of Congress",
-        "description": "Public opposition to the Iran War could threaten Republican control of Congress, as economic fallout fuels voter anger.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 8,
-      "story": {
-        "title": "Trump endorses Netanyhu ahead of elections",
-        "description": "Trump endorses Netanyahu ahead of Israel’s election, Ben-Gvir faces student protesters.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+        "description": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+        "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -132,10 +120,22 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 7,
+      "story": {
+        "title": "Could your halal pension be funding Israel’s military?",
+        "description": "HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 7,
+      "count": 6,
       "story": {
         "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
         "description": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
@@ -144,22 +144,10 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 6,
-      "story": {
-        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-        "description": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
-        "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
         "description": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
@@ -168,46 +156,10 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 5,
-      "story": {
-        "title": "China's growth accelerates as AI boom helps boost exports",
-        "description": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
-        "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 4,
-      "story": {
-        "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-        "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-        "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
-      "story": {
-        "title": "Sydney councillor resigns from Hunter's Hill Council over 'toxic chamber'",
-        "description": "Marc Lane said he could not continue serving the rest of his term on the Liberal-dominated council, citing a lack of debate over key council decisions.",
-        "link": "https://www.abc.net.au/news/2026-10-19/sydney-councillor-resigns-hunters-hill-council/107282630",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
       "story": {
         "title": "Funding shortages force World Food Programme to cut aid to Gaza",
         "description": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
@@ -216,26 +168,38 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 3,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
       "story": {
-        "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
-        "description": "Russia’s FM Sergey Lavrov is in Tehran for his first visit since the outbreak of the US-Israeli war on Iran.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/russias-lavrov-discusses-us-war-and-regional-security-in-tehran-visit?traffic_source=rss",
+        "title": "Indian court extends detention of ‘Cockroach’ leaders",
+        "description": "The extension of the custody of the CJP activists comes amid a crackdown on near daily protests against the government.",
+        "link": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 3,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 4,
       "story": {
-        "title": "Ukraine receives 'no early warning' as missile barrage pounds Kyiv",
-        "description": "US Secretary of State Marco Rubio denies intelligence-sharing with Ukraine is suspended as Vladimir Putin proposes a summit with Xi Jinping and Donald Trump to discuss the war.",
-        "link": "https://www.abc.net.au/news/2026-10-20/ukraine-russia-early-warning-us-intelligence/107285706",
+        "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
+        "description": "Trump’s endorsement comes after he previously shied away from fully backing Netanyahu’s election campaign.",
+        "link": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "New video of Sydney Town Hall protest shows excessive force, court told",
+        "description": "In the video clips, police can be seen grabbing protesters by the head or neck at a rally against the Israeli president in Sydney.",
+        "link": "https://www.abc.net.au/news/2026-10-20/nsw-new-cctv-of-police-town-hall-sydney-protest/107285036",
         "source": "ABC News AU"
       }
     },
@@ -243,23 +207,71 @@
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
+      "count": 4,
+      "story": {
+        "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
+        "description": "A Bulgarian court has issued arrest warrants for two young German nationals suspected of setting fire to Starlink antennas. The case is reminiscent of another in Poland, which Warsaw says was orchestrated by Russia.",
+        "link": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
       "count": 3,
       "story": {
-        "title": "Germany news: Emergency at Leipzig airport sparked by novice driver",
-        "description": "Two men breached a fence at the Leipzig/Halle airport while practicing for a driving test. Meanwhile, the \"Invest in Germany Summit\" is set to kick off as the government looks to fill gaps in public funding. DW has more.",
-        "link": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+        "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+        "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "Personal attacks fire up debate before Brazil's run-off vote",
         "description": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
         "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 3,
+      "story": {
+        "title": "Bikes 'not for jousting,' says Lime after duel video",
+        "description": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
+        "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "Japan launches first mission to collect samples from Martian moon",
+        "description": "An international space mission aiming to collect sand and rock from one of Mars's moons is expected to land in Australia once the sample is retrieved.",
+        "link": "https://www.abc.net.au/news/2026-10-20/japan-launches-mission-to-collect-mars-moon-samples/107283312",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+        "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+        "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,6 +288,30 @@
       }
     },
     {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 2,
+      "story": {
+        "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+        "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
+        "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+        "description": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
+        "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Paris",
       "lat": 48.85,
       "lon": 2.35,
@@ -288,57 +324,21 @@
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
       "count": 2,
       "story": {
-        "title": "Bikes 'not for jousting,' says Lime after duel video",
-        "description": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
-        "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
-      "count": 2,
-      "story": {
-        "title": "‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war",
-        "description": "Al Jazeera correspondent shares his experience of covering the fighting between government forces and Tigray rebels.",
-        "link": "https://www.aljazeera.com/news/2026/10/19/weight-of-responsibility-promise-and-perils-of-covering-ethiopias-war?traffic_source=rss",
+        "title": "12 migrants, including an infant, drown in two incidents off Greece",
+        "description": "Two separate boat incidents off the Greek islands of Lesbos and Samos left 12 migrants dead.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/12-migrants-including-an-infant-drown-in-two-incidents-off-greece?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
-      "count": 2,
-      "story": {
-        "title": "Qatar to unveil regional defence partnership",
-        "description": "Qatar to unveil regional defence partnership",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 2,
-      "story": {
-        "title": "Boland puts Australia in the box seat against South Africa after rain-shortened day",
-        "description": "Scott Boland continues to deliver for Australia as the tourists make the most of a rain-shortened day two of the second Test against South Africa in Gqeberha.",
-        "link": "https://www.abc.net.au/news/2026-10-19/test-cricket-live-updates-south-africa-vs-australia/107282378",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
         "title": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
@@ -348,14 +348,26 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
+      "story": {
+        "title": "Ukraine got 'no warning' of Russian ballistic strikes, Zelenskyy says",
+        "description": "Massive strikes overnight hit the capital Kyiv, and damaged power stations, killing at least one person and cutting power to hundreds of thousands.",
+        "link": "https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-        "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
-        "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+        "title": "Italy plans tougher security measures after violent protests",
+        "description": "The government crackdown comes after protests over rising costs broke out into violent clashes.",
+        "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -396,14 +408,62 @@
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
       "count": 1,
       "story": {
-        "title": "How has the cost of living changed in France, Italy, Spain and Portugal?",
-        "description": "Protesters across Europe have hit the streets amid anger over the cost of living.",
-        "link": "https://www.aljazeera.com/news/2026/10/19/how-has-the-cost-of-living-changed-in-france-italy-spain-and-portugal?traffic_source=rss",
+        "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+        "description": "Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.",
+        "link": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 1,
+      "story": {
+        "title": "160 people reported killed in escalating drone attacks across Sudan",
+        "description": "Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.",
+        "link": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Helsinki",
+      "lat": 60.17,
+      "lon": 24.94,
+      "count": 1,
+      "story": {
+        "title": "Finland seeking one million land mines as it eyes Russian threat",
+        "description": "Helsinki recently joined regional peers in withdrawing from UN Charter banning munitions as it eyes its eastern border.",
+        "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Finland",
+      "lat": 61.92,
+      "lon": 25.75,
+      "count": 1,
+      "story": {
+        "title": "Finland seeking one million land mines as it eyes Russian threat",
+        "description": "Helsinki recently joined regional peers in withdrawing from UN Charter banning munitions as it eyes its eastern border.",
+        "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
+      "count": 1,
+      "story": {
+        "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
+        "description": "The announcement mirrors a federal indictment from May as the US steps up pressure on the Cuban government.",
+        "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -413,141 +473,81 @@
       "lon": -8.22,
       "count": 1,
       "story": {
-        "title": "How has the cost of living changed in France, Italy, Spain and Portugal?",
-        "description": "Protesters across Europe have hit the streets amid anger over the cost of living.",
-        "link": "https://www.aljazeera.com/news/2026/10/19/how-has-the-cost-of-living-changed-in-france-italy-spain-and-portugal?traffic_source=rss",
+        "title": "Ronaldo banned for 30 days, fined $285 by Portugal over spat with Jesus",
+        "description": "Cristiano Ronaldo handed month-long ban by the disciplinary council of Portugal&#039;s Football Association.",
+        "link": "https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
       "count": 1,
       "story": {
-        "title": "Decision on Senegal’s AFCON final appeal to be made by end of November",
-        "description": "The Court of Arbitration for Sport will announce its verdict on the title, which was awarded to Morocco by CAF.",
-        "link": "https://www.aljazeera.com/sports/2026/10/19/decision-on-senegals-afcon-final-appeal-to-be-made-by-end-of-november?traffic_source=rss",
+        "title": "Qatar to announce a new regional defence partnership",
+        "description": "Qatar is set to announce a new regional defence partnership to strengthen its military infrastructure.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-announce-a-new-regional-defence-partnership?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Islamabad",
-      "lat": 33.7,
-      "lon": 73.06,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 1,
       "story": {
-        "title": "Pakistan suspends Iran border trade, amid violence on both sides",
-        "description": "Islamabad cites security concerns, while Tehran points to technical issues as Pakistan mediates between Iran and the US.",
-        "link": "https://www.aljazeera.com/news/2026/10/19/pakistan-suspends-iran-border-trade-amid-violence-on-both-sides?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "Pakistan suspends Iran border trade, amid violence on both sides",
-        "description": "Islamabad cites security concerns, while Tehran points to technical issues as Pakistan mediates between Iran and the US.",
-        "link": "https://www.aljazeera.com/news/2026/10/19/pakistan-suspends-iran-border-trade-amid-violence-on-both-sides?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 1,
-      "story": {
-        "title": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
-        "description": "GCC states have pressed Moscow to help halt Iranian attacks and reopen the Strait of Hormuz.",
-        "link": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 1,
-      "story": {
-        "title": "Israel police arrest suspects over settler attacks",
-        "description": "The arrests were made after the United States, France, Belgium and Poland called on Israel to take action after diplomats and a photojournalist were attacked.",
-        "link": "https://www.abc.net.au/news/2026-10-19/israel-police-arrest-suspects-over-settler-attacks-west-bank/107284922",
+        "title": "One man down and on a flattening pitch, Boland and Starc continue to shine",
+        "description": "There were some moments of joy for South Africa as they tried to rescue the first innings. But Scott Boland and Mitchell Starc made sure Australia remained on top in the second Test.",
+        "link": "https://www.abc.net.au/news/2026-10-20/scott-boland-and-mitchell-starc-keep-australia-on-top-day-two/107285958",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Israel police arrest suspects over settler attacks",
-        "description": "The arrests were made after the United States, France, Belgium and Poland called on Israel to take action after diplomats and a photojournalist were attacked.",
-        "link": "https://www.abc.net.au/news/2026-10-19/israel-police-arrest-suspects-over-settler-attacks-west-bank/107284922",
+        "title": "Athletes out for gold at 'really important' Special Olympics Australia",
+        "description": "Competitor Charlotte Bailey says the Games, which are underway in Melbourne, offer an important opportunity for people to see what the disabled community can do.",
+        "link": "https://www.abc.net.au/news/2026-10-20/special-olympics-australia-national-games-melbourne/107282812",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Massive whale carcass leaves council with $180k bill, budget headache",
-        "description": "The cost of removing a massive humpback whale that washed up on a popular Perth beach last month cost almost $180,000, with the local council fretting about how to pay for it.",
-        "link": "https://www.abc.net.au/news/2026-10-19/city-beach-whale-removal-costs-180k/107284720",
+        "title": "'Extremely fortunate' conditions bring caper white butterflies to Adelaide",
+        "description": "Thousands of tiny white and black-tipped butterflies have swarmed south to Adelaide to avoid searing temperatures in Central Australia.",
+        "link": "https://www.abc.net.au/news/2026-10-20/adelaide-caper-white-butterfly-migration/107282818",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Thailand",
-      "lat": 15.87,
-      "lon": 100.99,
+      "name": "Wellington",
+      "lat": -41.29,
+      "lon": 174.78,
       "count": 1,
       "story": {
-        "title": "Myanmar refugees find hope in Thailand's work program",
-        "description": "A year ago, Thailand granted long-staying refugees from Myanmar the right to work legally. Refugees and rights groups welcome the move but say the program's first year has exposed significant shortcomings.",
-        "link": "https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Ranger faces harassment after illegal mountain bike tracks shut down",
+        "description": "Half a dozen unauthorised mountain bike tracks have been closed across Kunanyi/Mount Wellington this year. It has led a small group of riders to use popular walking tracks as an alternative.",
+        "link": "https://www.abc.net.au/news/2026-10-20/tas-kunanyi-mountain-bike-harassment/107260762",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
+      "name": "Warsaw",
+      "lat": 52.23,
+      "lon": 21.0,
       "count": 1,
       "story": {
-        "title": "Myanmar refugees find hope in Thailand's work program",
-        "description": "A year ago, Thailand granted long-staying refugees from Myanmar the right to work legally. Refugees and rights groups welcome the move but say the program's first year has exposed significant shortcomings.",
-        "link": "https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
-        "description": "A visit to India this week by Washington's top diplomat will skip New Delhi and instead include the world's largest oil refinery, which processes massive amounts of Russian crude. Is Trump looking for a new deal?",
-        "link": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
-      "count": 1,
-      "story": {
-        "title": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
-        "description": "A visit to India this week by Washington's top diplomat will skip New Delhi and instead include the world's largest oil refinery, which processes massive amounts of Russian crude. Is Trump looking for a new deal?",
-        "link": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-all-1573-rdf",
+        "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
+        "description": "A Bulgarian court has issued arrest warrants for two young German nationals suspected of setting fire to Starlink antennas. The case is reminiscent of another in Poland, which Warsaw says was orchestrated by Russia.",
+        "link": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
