@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T22:19:15+00:00",
+  "generated_at": "2026-10-19T00:23:28+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
       "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
@@ -22,12 +28,6 @@
       "description": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
       "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-      "description": "It comes after the prime minister refused to say whether he backed expansion.",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "australia": [
@@ -38,19 +38,25 @@
       "source": "BBC News"
     },
     {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "description": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+      "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "description": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
@@ -62,12 +68,6 @@
       "description": "It comes after the prime minister refused to say whether he backed expansion.",
       "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
-      "description": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,11 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 15,
+      "count": 12,
       "story": {
-        "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-        "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
-        "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+        "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
+        "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -87,23 +87,11 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 10,
+      "count": 11,
       "story": {
-        "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-        "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-        "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 9,
-      "story": {
-        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-        "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-        "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+        "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+        "description": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+        "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,7 +99,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 9,
+      "count": 11,
       "story": {
         "title": "European diplomats attacked by Israeli settlers in West Bank",
         "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
@@ -120,14 +108,26 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 7,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 10,
       "story": {
-        "title": "Macron calls for 'calm and order' after riots across France",
-        "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-        "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+        "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+        "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 8,
+      "story": {
+        "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+        "description": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+        "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,14 +144,26 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 6,
       "story": {
-        "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-        "description": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
-        "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+        "title": "Macron calls for 'calm and order' after riots across France",
+        "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+        "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 6,
+      "story": {
+        "title": "Major fire at Canada military base leaves four dead, dozens injured",
+        "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+        "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -168,24 +180,12 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 5,
-      "story": {
-        "title": "The uncertain future of Canada's 30 rescued belugas",
-        "description": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
-        "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
       "count": 5,
       "story": {
-        "title": "Hearings NSW Police wanted secret begin today. This is what to expect",
+        "title": "Police watchdog reveals register of 400 complaints from Sydney protest",
         "description": "The Town Hall protest against Israel President Isaac Herzog's visit to Sydney generated hundreds of complaints about police misconduct. Now the watchdog will examine the actions of officers.",
         "link": "https://www.abc.net.au/news/2026-10-19/lecc-town-hall-protest-public-examinations-nsw-police/107261744",
         "source": "ABC News AU"
@@ -204,27 +204,15 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 3,
       "story": {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+        "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
-        "description": "EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.",
-        "link": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -240,15 +228,27 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Time To Fly 2026 has round-trip flights to Bangkok, Taipei, London, Madrid and Los Angeles from S$258",
+        "description": "The fares are all-in return fares for Singapore Airlines economy class flights.",
+        "link": "https://www.channelnewsasia.com/travel/time-fly-2026-sia-return-flights-258-6464746",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Bangkok",
+      "lat": 13.75,
+      "lon": 100.5,
       "count": 2,
       "story": {
-        "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-        "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-        "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
+        "description": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
+        "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -276,6 +276,30 @@
       }
     },
     {
+      "name": "Taipei",
+      "lat": 25.03,
+      "lon": 121.56,
+      "count": 2,
+      "story": {
+        "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
+        "description": "China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to &#039;alter the status quo&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 2,
+      "story": {
+        "title": "Inside the 'ghost city' designed to become Indonesia's new capital",
+        "description": "Indonesia has spent billions on constructing a new capital city, but few residents have moved in.",
+        "link": "https://www.abc.net.au/news/2026-10-19/indonesias-new-capital-nusantara-not-living-up-to-promise/107255734",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "South Africa",
       "lat": -30.6,
       "lon": 22.9,
@@ -288,14 +312,38 @@
       }
     },
     {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 2,
+      "story": {
+        "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+        "description": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin.",
+        "link": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Time To Fly 2026 has round-trip flights to Bangkok, Taipei, London, Madrid and Los Angeles from S$258",
+        "description": "The fares are all-in return fares for Singapore Airlines economy class flights.",
+        "link": "https://www.channelnewsasia.com/travel/time-fly-2026-sia-return-flights-258-6464746",
+        "source": "CNA"
+      }
+    },
+    {
       "name": "Japan",
       "lat": 36.2,
       "lon": 138.25,
       "count": 2,
       "story": {
-        "title": "Australia's Challenger gets takeover bid from unit of Japan's Daiichi Life",
+        "title": "Japan's Daiichi Life unit tables offer to take over Australia's Challenger",
         "description": "",
-        "link": "https://www.channelnewsasia.com/business/australias-challenger-gets-takeover-bid-unit-japans-daiichi-life-6470476",
+        "link": "https://www.channelnewsasia.com/business/japans-daiichi-life-unit-tables-offer-take-over-australias-challenger-6470476",
         "source": "CNA"
       }
     },
@@ -312,30 +360,6 @@
       }
     },
     {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 1,
-      "story": {
-        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-        "description": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battlin",
-        "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
-      "count": 1,
-      "story": {
-        "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-        "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
-        "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
@@ -344,18 +368,6 @@
         "title": "Brazil sees record fall in Amazon deforestation as key election looms",
         "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
         "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "Katie Zacharia leaving White House role less than five days into job",
-        "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-        "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -372,15 +384,87 @@
       }
     },
     {
-      "name": "Bangkok",
-      "lat": 13.75,
-      "lon": 100.5,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
-        "description": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
-        "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
+        "title": "Spain battles climate change on several fronts",
+        "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+        "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+        "description": "Iran&#039;s Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Austria",
+      "lat": 47.52,
+      "lon": 14.55,
+      "count": 1,
+      "story": {
+        "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+        "description": "Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.",
+        "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sofia",
+      "lat": 42.7,
+      "lon": 23.32,
+      "count": 1,
+      "story": {
+        "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+        "description": "Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.",
+        "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Bulgaria",
+      "lat": 42.73,
+      "lon": 25.49,
+      "count": 1,
+      "story": {
+        "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+        "description": "Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.",
+        "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tel Aviv",
+      "lat": 32.08,
+      "lon": 34.78,
+      "count": 1,
+      "story": {
+        "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
+        "description": "Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 1,
+      "story": {
+        "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
+        "description": "The exiled Nobel laureate has petitioned for new elections in Venezuela and for the country to allow her return.",
+        "link": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -444,18 +528,6 @@
       }
     },
     {
-      "name": "Taipei",
-      "lat": 25.03,
-      "lon": 121.56,
-      "count": 1,
-      "story": {
-        "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
-        "description": "China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to &#039;alter the status quo&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Taiwan",
       "lat": 23.7,
       "lon": 121.0,
@@ -477,78 +549,6 @@
         "description": "While Jakarta and regional Queensland may not have much in common at first glance, their filmmakers have found that \"fear is universal\".",
         "link": "https://www.abc.net.au/news/2026-10-19/horror-movies-indonesia-regional-australia-toowoomba/107271162",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 1,
-      "story": {
-        "title": "'Shared language of horror' uniting Aussie and Indonesian filmmakers",
-        "description": "While Jakarta and regional Queensland may not have much in common at first glance, their filmmakers have found that \"fear is universal\".",
-        "link": "https://www.abc.net.au/news/2026-10-19/horror-movies-indonesia-regional-australia-toowoomba/107271162",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "In outer Adelaide, what do residents think of the MotoGP parklands redevelopment?",
-        "description": "The suburbs of Salisbury and Hallett Cove are a fair way from the city of Adelaide, the ABC has spoken to outer suburban residents to hear what they really think of the parklands redevelopment.",
-        "link": "https://www.abc.net.au/news/2026-10-19/outer-suburbs-reflect-on-tree-removal-in-parklands/107280620",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 1,
-      "story": {
-        "title": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
-        "description": "A senior health official in Kenya said there have now been 8 Ebola infections in the country, while in DR Congo the disease has spread to an eighth province.",
-        "link": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 1,
-      "story": {
-        "title": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
-        "description": "A senior health official in Kenya said there have now been 8 Ebola infections in the country, while in DR Congo the disease has spread to an eighth province.",
-        "link": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
-      "count": 1,
-      "story": {
-        "title": "Saudi Arabia sends skyscraper employees home amid Houthi threats",
-        "description": "Riyadh's Kingdom Center tower's management told the people employed there to work from home \"until further notice,\" without giving a reason. This comes as Houthi attacks escalate.",
-        "link": "https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Vietnam",
-      "lat": 14.06,
-      "lon": 108.28,
-      "count": 1,
-      "story": {
-        "title": "Vietnam signs free trade deal with four European countries",
-        "description": "Vietnam has signed a deal with four non-EU members that covers trade in goods and services, intellectual property rights, and sustainable development, among other areas.",
-        "link": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     }
   ]
