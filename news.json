@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T01:10:32+00:00",
+  "generated_at": "2026-10-20T06:26:37+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -13,14 +13,8 @@
   "political": [
     {
       "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "description": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
       "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
-      "description": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
-      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -28,9 +22,21 @@
       "description": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
       "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+      "description": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
+    {
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "description": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
       "description": "The Saudi government did not immediately respond to BBC requests for comment.",
@@ -42,15 +48,15 @@
       "description": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
       "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-      "description": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
-      "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
+      "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
     {
       "title": "China's growth accelerates as AI boom helps boost exports",
       "description": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
@@ -62,12 +68,6 @@
       "description": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
       "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "What is the Budget and what could be in it?",
-      "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,10 +75,10 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 16,
       "story": {
-        "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-        "description": "In the apparent attack on MP Helen Haines, the worst fears of politicians and public figures appear to have been realised.",
+        "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
+        "description": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
         "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -87,7 +87,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 12,
+      "count": 8,
       "story": {
         "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
         "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
@@ -99,7 +99,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 9,
+      "count": 7,
       "story": {
         "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
         "description": "The two top tennis pros married in 2021 and have one child together.",
@@ -111,7 +111,7 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 7,
+      "count": 5,
       "story": {
         "title": "US bans DeepSeek AI from government use as tech tension with China continues",
         "description": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
@@ -120,27 +120,15 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 7,
-      "story": {
-        "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
-        "description": "US lawmaker says that government must arrest Israeli commander allegedly responsible for attack while he is in the US.",
-        "link": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
       "count": 5,
       "story": {
-        "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-        "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
-        "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+        "description": "Trump says US continues to hit Iran &#039;economically and militarily&#039; while praising Russia for doing &#039;nothing&#039; to aid Iran.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -150,44 +138,56 @@
       "count": 4,
       "story": {
         "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-        "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+        "description": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
         "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 4,
       "story": {
-        "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
-        "description": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
-        "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
+        "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+        "description": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
+        "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Gaza",
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 4,
+      "story": {
+        "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+        "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+        "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
       "lat": 31.5,
-      "lon": 34.47,
+      "lon": 34.75,
       "count": 4,
       "story": {
-        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-        "description": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
-        "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Israel’s elections 2026 explained in maps and charts",
+        "description": "Israelis vote on October 27 in the sixth election since 2019. Here’s how the system works and who gets left out.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
       "count": 4,
       "story": {
-        "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
-        "description": "Trump says US continues to hit Iran &#039;economically and militarily&#039; while praising Russia for doing &#039;nothing&#039; to aid Iran.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+        "title": "Japan launches historic mission to bring back Mars moon samples",
+        "description": "Japan has launched a five-year uncrewed mission to collect samples from Phobos, one of Mars’ two moons.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -197,34 +197,10 @@
       "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Lawyer says video from Town Hall protest shows 'degrading' police treatment",
-        "description": "In the video clips, police can be seen grabbing protesters by the head or neck at a rally against the Israeli president in Sydney.",
-        "link": "https://www.abc.net.au/news/2026-10-20/nsw-new-cctv-of-police-town-hall-sydney-protest/107285036",
+        "title": "Inquiry urges halt to plan to burn Sydney's waste in regional towns",
+        "description": "A NSW inquiry into energy-from-waste facilities has recommended a moratorium on the technology and called for the state government to reject two proposals before the planning department.",
+        "link": "https://www.abc.net.au/news/2026-10-20/inquiry-recommends-moratorium-on-proposed-incinerators/107287646",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 3,
-      "story": {
-        "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-        "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-        "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 3,
-      "story": {
-        "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-        "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-        "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -240,15 +216,39 @@
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 3,
       "story": {
-        "title": "Bikes 'not for jousting,' says Lime after duel video",
-        "description": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
-        "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+        "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
+        "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+        "description": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
+        "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 3,
+      "story": {
+        "title": "Zelenskyy accuses US of delaying Patriot missile shipment",
+        "description": "Ukrainian President Volodymyr Zelenskyy has accused the United States of delaying deliveries of air defense missiles already paid for by European allies, as relations between Washington and Kyiv deteriorate.",
+        "link": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -264,10 +264,70 @@
       }
     },
     {
-      "name": "White House",
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 2,
+      "story": {
+        "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+        "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+        "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 2,
+      "story": {
+        "title": "Bikes 'not for jousting,' says Lime after duel video",
+        "description": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
+        "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 2,
+      "story": {
+        "title": "Fourteen dead in illegal Colombian gold mine collapse",
+        "description": "Fourteen dead in illegal Colombian gold mine collapse",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Washington",
       "lat": 38.9,
       "lon": -77.03,
       "count": 2,
+      "story": {
+        "title": "Zelenskyy accuses US of delaying Patriot missile shipment",
+        "description": "Ukrainian President Volodymyr Zelenskyy has accused the United States of delaying deliveries of air defense missiles already paid for by European allies, as relations between Washington and Kyiv deteriorate.",
+        "link": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "UN food program cuts aid to 500,000 Palestinians in Gaza",
+        "description": "Amid funding shortages, the World Food Program has said it is being forced to reduce necessary aid. Over two-thirds of Palestinians in Gaza are facing acute hunger, according to the agency.",
+        "link": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
       "story": {
         "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
         "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
@@ -279,84 +339,12 @@
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
-      "count": 2,
+      "count": 1,
       "story": {
         "title": "Personal attacks fire up debate before Brazil's run-off vote",
         "description": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
         "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 2,
-      "story": {
-        "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-        "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
-        "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-        "description": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
-        "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 2,
-      "story": {
-        "title": "Japan launches first mission to collect samples from Martian moon",
-        "description": "An international space mission aiming to collect sand and rock from one of Mars's moons is expected to land in Australia once the sample is retrieved.",
-        "link": "https://www.abc.net.au/news/2026-10-20/japan-launches-mission-to-collect-mars-moon-samples/107283312",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
-        "description": "A visit to India this week by Washington's top diplomat will skip New Delhi and instead include the world's largest oil refinery, which processes massive amounts of Russian crude. Is Trump looking for a new deal?",
-        "link": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 2,
-      "story": {
-        "title": "Ukraine got 'no warning' of Russian ballistic strikes, Zelenskyy says",
-        "description": "Massive strikes overnight hit the capital Kyiv, and damaged power stations, killing at least one person and cutting power to hundreds of thousands.",
-        "link": "https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "PM2.5 elevated in four regions across Singapore; PSI unhealthy in two",
-        "description": "The National Environment Agency said that the haze in Singapore might be reduced on Tuesday since showers are forecast for the country and the surrounding region.",
-        "link": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-20-6473696",
-        "source": "CNA"
       }
     },
     {
@@ -420,14 +408,38 @@
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
+      "name": "Tunis",
+      "lat": 36.81,
+      "lon": 10.18,
       "count": 1,
       "story": {
-        "title": "Colombia illegal gold mine collapse kills 14 people",
-        "description": "Illegal gold mine collapse in southwestern Colombia leaves 14 people dead, 7 injured.",
-        "link": "https://www.aljazeera.com/news/2026/10/19/colombia-illegal-gold-mine-collapse-kills-14-people?traffic_source=rss",
+        "title": "Beyond money: Why young Tunisians are considering emigration",
+        "description": "For many young Tunisians, the question is no longer simply how to make a living, but where they can build a future.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/beyond-money-why-young-tunisians-are-considering-emigration?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tunisia",
+      "lat": 33.89,
+      "lon": 9.54,
+      "count": 1,
+      "story": {
+        "title": "Beyond money: Why young Tunisians are considering emigration",
+        "description": "For many young Tunisians, the question is no longer simply how to make a living, but where they can build a future.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/beyond-money-why-young-tunisians-are-considering-emigration?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
+      "count": 1,
+      "story": {
+        "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
+        "description": "Riyadh postpones flagship investment conference until 2027, orders government staff to work from home.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -468,39 +480,27 @@
       }
     },
     {
-      "name": "Helsinki",
-      "lat": 60.17,
-      "lon": 24.94,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "Finland seeking one million land mines as it eyes Russian threat",
-        "description": "Helsinki recently joined regional peers in withdrawing from UN Charter banning munitions as it eyes its eastern border.",
-        "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Tree protestors asked to pay $150k in government legal fees",
+        "description": "The two protesters who lost a bid to stop the felling of almost 600 trees, as part of the North Adelaide golf course redevelopment, have been asked to pay $150,000 of the state government's legal fees.",
+        "link": "https://www.abc.net.au/news/2026-10-20/sa-golf-course-redevelopment-legal-fees/107288118",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Finland",
-      "lat": 61.92,
-      "lon": 25.75,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Finland seeking one million land mines as it eyes Russian threat",
-        "description": "Helsinki recently joined regional peers in withdrawing from UN Charter banning munitions as it eyes its eastern border.",
-        "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Cuba",
-      "lat": 21.52,
-      "lon": -77.78,
-      "count": 1,
-      "story": {
-        "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
-        "description": "The announcement mirrors a federal indictment from May as the US steps up pressure on the Cuban government.",
-        "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Teaching watchdog raids two Fitzroy Community School campuses in Melbourne",
+        "description": "Victoria's teaching watchdog has raided an alternative primary school at the centre of child sexual and physical abuse allegations.",
+        "link": "https://www.abc.net.au/news/2026-10-20/teaching-watchdog-raids-fitzroy-community-school-campuses/107270290",
+        "source": "ABC News AU"
       }
     },
     {
@@ -509,40 +509,40 @@
       "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "Man denied bail after alleged sexual assault of 13yo west of Brisbane",
-        "description": "Prosecutors allege the man assaulted the girl, who was not known to him, in bushland last week and then drove off before police arrived.",
-        "link": "https://www.abc.net.au/news/2026-10-20/ipswich-sexual-assault-ethan-bell-bail-denied/107287220",
+        "title": "Brisbane council to embrace early morning culture with new dawn plan",
+        "description": "The council is encouraging residents to fill out a survey on their morning habits to help improve facilities and public transport options for early risers.",
+        "link": "https://www.abc.net.au/news/2026-10-20/brisbane-council-dawn-economy-plan-for-early-risers/107287300",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
       "count": 1,
       "story": {
-        "title": "Driver pleads not guilty over crash that killed two Canberra cyclists",
-        "description": "The 40-year-old woman is facing charges over the deaths of cyclists Bridie Lee and Ryan Riethmuller, who were struck by a car on Canberra's Gunghalin Drive in August.",
-        "link": "https://www.abc.net.au/news/2026-10-20/driver-pleads-not-guilty-to-crash-that-killed-canberra-cyclists/107286104",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "One man down and on a flattening pitch, Boland and Starc continue to shine",
-        "description": "There were some moments of joy for South Africa as they tried to rescue the first innings. But Scott Boland and Mitchell Starc made sure Australia remained on top in the second Test.",
-        "link": "https://www.abc.net.au/news/2026-10-20/scott-boland-and-mitchell-starc-keep-australia-on-top-day-two/107285958",
-        "source": "ABC News AU"
+        "title": "Zelenskyy accuses US of delaying Patriot missile shipment",
+        "description": "Ukrainian President Volodymyr Zelenskyy has accused the United States of delaying deliveries of air defense missiles already paid for by European allies, as relations between Washington and Kyiv deteriorate.",
+        "link": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
       "name": "Warsaw",
       "lat": 52.23,
       "lon": 21.0,
+      "count": 1,
+      "story": {
+        "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
+        "description": "A Bulgarian court has issued arrest warrants for two young German nationals suspected of setting fire to Starlink antennas. The case is reminiscent of another in Poland, which Warsaw says was orchestrated by Russia.",
+        "link": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 1,
       "story": {
         "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
