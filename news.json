@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:59:36+00:00",
+  "generated_at": "2026-10-20T16:51:43+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Alberta votes overwhelmingly to remain part of Canada",
+      "description": "The vote has been hailed by Prime Minister Mark Carney as \"a clear choice\" in favour of national unity.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Why Israeli Gen Z voters are drawn to the far right",
       "description": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
       "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
@@ -21,12 +27,6 @@
       "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
       "description": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
       "link": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
-    },
-    {
-      "title": "People playing loud music on buses could face £100 fine",
-      "description": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.\nA national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
-      "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -52,21 +52,21 @@
   ],
   "economy": [
     {
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Union attacks NatWest plans to get workers back to the office",
+      "description": "The bank says workers will be required to attend the office at least two days a week from February.",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
       "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
       "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
       "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
-    },
-    {
-      "title": "What is the Budget and what could be in it?",
-      "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
-    },
-    {
-      "title": "China's growth accelerates as AI boom helps boost exports",
-      "description": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 18,
+      "count": 14,
       "story": {
         "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
         "description": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
@@ -87,7 +87,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 8,
+      "count": 7,
       "story": {
         "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
         "description": "The two top tennis pros married in 2021 and have one child together.",
@@ -96,39 +96,27 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 8,
-      "story": {
-        "title": "Germany: Google must have consent to publish property images",
-        "description": "A court in the western German state of Hesse has said Google is \"spying\" on people and has no right to publish information about their property on its Maps and Earth sites. The case stems from images taken from the air.",
-        "link": "https://www.dw.com/en/germany-google-must-have-consent-to-publish-property-images/a-79712552?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 7,
-      "story": {
-        "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-        "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-        "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 6,
+      "count": 7,
       "story": {
-        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-        "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-        "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+        "description": "Moscow pledges support to its sanctioned ally, but analysts say the war Iran wants to end has filled Russia’s coffers.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 7,
+      "story": {
+        "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+        "description": "Moscow pledges support to its sanctioned ally, but analysts say the war Iran wants to end has filled Russia’s coffers.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -144,10 +132,34 @@
       }
     },
     {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 6,
+      "story": {
+        "title": "Germany news: Hackers release AfD party emails",
+        "description": "Germany's far-right AfD has launched an inquiry after the release of thousands of emails following a cyberattack. Also, investors pledged billions for Germany at a major summit in Berlin. DW has more news from Germany.",
+        "link": "https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 5,
+      "story": {
+        "title": "Alberta votes overwhelmingly to remain part of Canada",
+        "description": "The vote has been hailed by Prime Minister Mark Carney as \"a clear choice\" in favour of national unity.",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 4,
+      "count": 5,
       "story": {
         "title": "Why Israeli Gen Z voters are drawn to the far right",
         "description": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
@@ -156,15 +168,27 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 4,
       "story": {
-        "title": "Masoud Pezeshkian: Peace, Not Surrender",
-        "description": "Iranian President Masoud Pezeshkian on sanctions, regional conflict, US-Israel tensions and his call for Muslim unity.",
-        "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+        "description": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 4,
+      "story": {
+        "title": "Bikes 'not for jousting,' says Lime after duel video",
+        "description": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
+        "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -180,38 +204,50 @@
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 3,
       "story": {
-        "title": "Bikes 'not for jousting,' says Lime after duel video",
-        "description": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
-        "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 3,
-      "story": {
-        "title": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
-        "description": "France&#039;s rising debt is unnerving investors, but countries such as the US and Japan owe even greater sums.",
-        "link": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss",
+        "title": "Ferry catches fire near Indonesian port, all passengers rescued",
+        "description": "A fire broke out aboard the KMP Batumandi as the ferry approached Merak Port in western Indonesia on Tuesday",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ferry-catches-fire-near-indonesian-port-all-passengers-rescued?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 3,
       "story": {
-        "title": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
-        "description": "France&#039;s rising debt is unnerving investors, but countries such as the US and Japan owe even greater sums.",
-        "link": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss",
+        "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+        "description": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 3,
+      "story": {
+        "title": "Israeli attacks kill at least four Palestinians in Gaza",
+        "description": "A couple and a 17-year-old are among those killed by Israeli air attacks and gunfire in the Gaza Strip.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
+        "description": "Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -221,45 +257,45 @@
       "lon": 30.52,
       "count": 3,
       "story": {
-        "title": "South Korea to pull more embassy staff from Ukraine after POW row",
-        "description": "Earlier this month, South Korea recalled its ambassador from Kyiv after Zelenskyy disclosed the prisoner transfer.",
-        "link": "https://www.aljazeera.com/news/2026/10/20/south-korea-to-pull-more-embassy-staff-from-ukraine-after-pow-row?traffic_source=rss",
+        "title": "Is Russia stalking satellites which help Ukraine from space?",
+        "description": "Analysts say a Russian craft’s close pass by a commercial radar satellite is a first and a warning to Kyiv’s backers.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/is-russia-stalking-satellites-which-help-ukraine-from-space?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Oslo",
-      "lat": 59.91,
-      "lon": 10.75,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Indonesian firm APP says green label restrictions are not a suspension, no timeline for them to be lifted",
+        "description": "The Singapore Environment Council issued the restriction on Sunday after three of APP's wood-fibre suppliers were linked to fires in Indonesia that caused haze in Singapore.&nbsp;",
+        "link": "https://www.channelnewsasia.com/singapore/asia-pulp-paper-green-label-environment-council-6475346",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
       "count": 2,
       "story": {
-        "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-        "description": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.",
-        "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+        "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+        "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+        "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
       "count": 2,
       "story": {
-        "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
-        "description": "More than 400 people, mostly children, become ill after drinking contaminated water, east of Pretoria.",
-        "link": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 2,
-      "story": {
-        "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-        "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-        "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+        "title": "Personal attacks fire up debate before Brazil's run-off vote",
+        "description": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
+        "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,26 +312,38 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 2,
       "story": {
-        "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-        "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
-        "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+        "description": "Moscow pledges support to its sanctioned ally, but analysts say the war Iran wants to end has filled Russia’s coffers.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 2,
       "story": {
-        "title": "Palestine weekly: Israeli settlers attack journalist and diplomats",
-        "description": "Settler olive harvest attacks top 2025 total, journalist and diplomats attacked as Israel halts Gaza commercial imports.",
-        "link": "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss",
+        "title": "Celebrating Fela Kuti’s legacy and the global rise of Afrobeats",
+        "description": "Fela Kuti was a Nigerian musician known as the King of Afrobeat. His legacy is celebrated every October at Felabration.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/celebrating-fela-kutis-legacy-and-the-global-rise-of-afrobeats?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Israeli attacks kill at least four Palestinians in Gaza",
+        "description": "A couple and a 17-year-old are among those killed by Israeli air attacks and gunfire in the Gaza Strip.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -305,81 +353,57 @@
       "lon": 13.4,
       "count": 2,
       "story": {
-        "title": "Brutal, revolutionary empire builder: Genghis Khan's legacy",
-        "description": "Berlin is host to a major exhibition on the founder of the Mongol Empire and his successors. Here's how Genghis Khan disrupted the course of history.",
-        "link": "https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khan-s-legacy/a-79697112?maca=en-rss-en-all-1573-rdf",
+        "title": "Germany news: Hackers release AfD party emails",
+        "description": "Germany's far-right AfD has launched an inquiry after the release of thousands of emails following a cyberattack. Also, investors pledged billions for Germany at a major summit in Berlin. DW has more news from Germany.",
+        "link": "https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 2,
-      "story": {
-        "title": "India news: Rubio set to hold talks with S Jaishankar",
-        "description": "Marco Rubio's talks with Indian FM S Jaishankar come as the two countries struggle to finalise a trade deal. Follow DW for more.",
-        "link": "https://www.dw.com/en/india-news-rubio-set-to-hold-talks-with-s-jaishankar/live-79708492?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "Zelenskyy accuses US of delaying Patriot missile shipment",
-        "description": "Ukrainian President Volodymyr Zelenskyy has accused the United States of delaying deliveries of air defense missiles already paid for by European allies, as relations between Washington and Kyiv deteriorate.",
-        "link": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Singapore-listed First Resources welcomes authorities' probe over haze links, including on-ground checks",
-        "description": "The palm oil producer said it is confident that an objective review of the available evidence will prove that it does not engage in any land clearing by fire, whether directly or indirectly.&nbsp;",
-        "link": "https://www.channelnewsasia.com/singapore/haze-indonesia-palm-oil-first-resources-6475121",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 2,
-      "story": {
-        "title": "Indonesian President Prabowo marks 2 years in office with economic gains, but challenges loom",
-        "description": "As Indonesian President Prabowo Subianto&nbsp;enters his third year in office, observers say the challenge will be to translate his ambitious promises into tangible results while balancing public expectations with econom",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-president-prabowo-subianto-2-years-in-office-economic-gains-challenges-6474906",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Pretoria",
-      "lat": -25.75,
-      "lon": 28.19,
+      "name": "Oslo",
+      "lat": 59.91,
+      "lon": 10.75,
       "count": 1,
       "story": {
-        "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
-        "description": "More than 400 people, mostly children, become ill after drinking contaminated water, east of Pretoria.",
-        "link": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+        "description": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
+        "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 1,
       "story": {
-        "title": "Personal attacks fire up debate before Brazil's run-off vote",
-        "description": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
-        "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
+        "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+        "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+        "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 1,
+      "story": {
+        "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+        "description": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
+        "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 1,
+      "story": {
+        "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+        "description": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
+        "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -396,30 +420,6 @@
       }
     },
     {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 1,
-      "story": {
-        "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-        "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
-        "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Mumbai",
-      "lat": 19.08,
-      "lon": 72.88,
-      "count": 1,
-      "story": {
-        "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
-        "description": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd.",
-        "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Bangkok",
       "lat": 13.75,
       "lon": 100.5,
@@ -432,110 +432,110 @@
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
       "count": 1,
       "story": {
-        "title": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
-        "description": "Military-backed government says it delivered two books and diplomatic correspondence to Aung San Suu Kyi.",
-        "link": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss",
+        "title": "Qatar says only negotiations can resolve regional tensions",
+        "description": "Qatar says diplomatic efforts are ongoing to de-escalate regional tensions and reopen the Strait of Hormuz.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Norway",
-      "lat": 60.47,
-      "lon": 8.47,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 1,
       "story": {
-        "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
-        "description": "The prime ministers of Norway and Finland will also attend the discussions in Oslo.",
-        "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
+        "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+        "description": "Moscow pledges support to its sanctioned ally, but analysts say the war Iran wants to end has filled Russia’s coffers.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Finland",
-      "lat": 61.92,
-      "lon": 25.75,
+      "name": "Ankara",
+      "lat": 39.93,
+      "lon": 32.86,
       "count": 1,
       "story": {
-        "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
-        "description": "The prime ministers of Norway and Finland will also attend the discussions in Oslo.",
-        "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
+        "title": "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
+        "description": "The vote recognises Ankara&#039;s maritime deal with Tripoli, ending Haftar&#039;s 2020 boycott.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Tripoli",
+      "lat": 32.89,
+      "lon": 13.19,
       "count": 1,
       "story": {
-        "title": "South Korea to pull more embassy staff from Ukraine after POW row",
-        "description": "Earlier this month, South Korea recalled its ambassador from Kyiv after Zelenskyy disclosed the prisoner transfer.",
-        "link": "https://www.aljazeera.com/news/2026/10/20/south-korea-to-pull-more-embassy-staff-from-ukraine-after-pow-row?traffic_source=rss",
+        "title": "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
+        "description": "The vote recognises Ankara&#039;s maritime deal with Tripoli, ending Haftar&#039;s 2020 boycott.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Libya",
+      "lat": 26.34,
+      "lon": 17.23,
       "count": 1,
       "story": {
-        "title": "Canadian opera singer replaced after he raised Palestinian flag",
-        "description": "Calgary’s opera house has removed a singer from future performances after he raised a Palestinian flag on stage.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-calgary-opera-palestine-clip?traffic_source=rss",
+        "title": "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
+        "description": "The vote recognises Ankara&#039;s maritime deal with Tripoli, ending Haftar&#039;s 2020 boycott.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
+      "name": "Islamabad",
+      "lat": 33.7,
+      "lon": 73.06,
       "count": 1,
       "story": {
-        "title": "Morocco’s not-so-new government faces new challenges",
-        "description": "The new cabinet has doubled down on continuity at a time of regional turmoil and domestic anxiety.",
-        "link": "https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss",
+        "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+        "description": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 1,
       "story": {
-        "title": "Egypt’s Hassan and Zico suspended over FIFA World Cup refereeing criticism",
-        "description": "FIFA punishes Egypt&#039;s head coach, forward and team manager for their comments after their World Cup loss to Argentina.",
-        "link": "https://www.aljazeera.com/sports/2026/10/20/egypts-hassan-and-zico-suspended-over-fifa-world-cup-refereeing-criticism?traffic_source=rss",
+        "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+        "description": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
       "count": 1,
       "story": {
-        "title": "Egypt’s Hassan and Zico suspended over FIFA World Cup refereeing criticism",
-        "description": "FIFA punishes Egypt&#039;s head coach, forward and team manager for their comments after their World Cup loss to Argentina.",
-        "link": "https://www.aljazeera.com/sports/2026/10/20/egypts-hassan-and-zico-suspended-over-fifa-world-cup-refereeing-criticism?traffic_source=rss",
+        "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+        "description": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
+        "link": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
       "count": 1,
       "story": {
-        "title": "Fourteen dead in illegal Colombian gold mine collapse",
-        "description": "Fourteen dead in illegal Colombian gold mine collapse",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
+        "title": "Satirical AI video of Paris protests mirrors real-life tourist experiences",
+        "description": "An AI-generated video by Dutch filmmaker Wytse Koetse portrays tourists sightseeing amid protests in Paris.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
