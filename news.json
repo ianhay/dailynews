@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:32:38+00:00",
+  "generated_at": "2026-10-22T05:54:31+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,21 +12,21 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-      "description": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi.",
-      "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "description": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Trump and Zelensky at loggerheads despite new optimism",
-      "description": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
-      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+      "title": "Governments working to identify exposure after global cyber-security warning",
+      "description": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-      "description": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
-      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+      "description": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -52,6 +52,12 @@
   ],
   "economy": [
     {
+      "title": "US embassy accuses Canada of election meddling ahead of midterms",
+      "description": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
       "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
       "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
@@ -62,12 +68,6 @@
       "description": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
       "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 15,
+      "count": 17,
       "story": {
         "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
         "description": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
@@ -87,7 +87,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 10,
+      "count": 11,
       "story": {
         "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
         "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
@@ -99,7 +99,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
         "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
@@ -113,33 +113,57 @@
       "lon": 53.0,
       "count": 7,
       "story": {
-        "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
-        "description": "Iran&#039;s IRGC threatens to invade any country that attacks it under a new &#039;offensive and asymmetrical&#039; doctrine.",
+        "title": "Iran war live: Trump denies Iran talks, says situation will resolve soon",
+        "description": "US President Donald Trump denies Iran negotiations, says situation will resolve ‘fairly soon’.",
         "link": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 6,
+      "story": {
+        "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+        "description": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 6,
+      "story": {
+        "title": "No order, no seat: Starbucks China rolls out new store policy",
+        "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 4,
+      "story": {
+        "title": "US embassy accuses Canada of election meddling ahead of midterms",
+        "description": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada.",
+        "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Mexico",
       "lat": 23.6,
       "lon": -102.5,
-      "count": 5,
-      "story": {
-        "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
-        "description": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
-        "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
       "count": 4,
       "story": {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
+        "description": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\".",
+        "link": "https://www.bbc.co.uk/news/articles/cqx287g8714lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -161,34 +185,10 @@
       "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Eastern Sydney beaches close after whale carcass washes up",
-        "description": "A dead whale washes up on rocky shoreline in Sydney's east, prompting Randwick Council to close two popular beaches.",
-        "link": "https://www.abc.net.au/news/2026-10-22/sydney-beaches-close-after-whale-carcass-found/107295288",
+        "title": "Man shot by police in Sydney allegedly pointed gun at officers",
+        "description": "A 21-year-old man allegedly made threats before a confrontation with police in Sydney's south-west, NSW Police said.",
+        "link": "https://www.abc.net.au/news/2026-10-22/nsw-glen-alpine-police-shooting-domestic-violence/107297024",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 4,
-      "story": {
-        "title": "German youth plan France-style mass protests",
-        "description": "A youth-led movement in Germany has called for demonstrations in major cities of the country on October 31.",
-        "link": "https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 4,
-      "story": {
-        "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
-        "description": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
-        "link": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -204,15 +204,27 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 3,
       "story": {
-        "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-        "description": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
-        "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+        "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
+        "description": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
+        "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 3,
+      "story": {
+        "title": "North Korea to resume propaganda broadcasts, South Korea urges dialogue",
+        "description": "Pyongyang plans to resume broadcasting anti-South Korea propaganda along the armed border.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -221,33 +233,45 @@
       "lon": 2.2,
       "count": 3,
       "story": {
+        "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+        "description": "Qatari and French leaders stress need to restore freedom of navigation in Strait of Hormuz.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 3,
+      "story": {
         "title": "German youth plan France-style mass protests",
-        "description": "A youth-led movement in Germany has called for demonstrations in major cities of the country on October 31.",
+        "description": "A youth-led movement in Germany has called for demonstrations in major cities of the country on October 31. The group has categorically distanced itself from the violence that took hold in France.",
         "link": "https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 2,
       "story": {
-        "title": "Air quality in Singapore improves; hourly PM2.5 readings normal islandwide",
-        "description": "The west was the only region as of 8am to record unhealthy air quality on the 24-hour PSI.",
-        "link": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-22-6480596",
-        "source": "CNA"
+        "title": "How Arab parties could hold critical balance of power in Israeli election",
+        "description": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
+        "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 2,
       "story": {
-        "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
-        "description": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
-        "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -264,50 +288,50 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
       "count": 2,
       "story": {
-        "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-        "description": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
-        "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "US accuses Canada of election interference ahead of midterms",
-        "description": "Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference.",
-        "link": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
+        "title": "North Korea to resume propaganda broadcasts, South Korea urges dialogue",
+        "description": "Pyongyang plans to resume broadcasting anti-South Korea propaganda along the armed border.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
-        "description": "US State Department says Iran-aligned Houthis have &#039;increasingly ⁠⁠engaged in hostilities&#039; against Saudi Arabia.",
-        "link": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
+        "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+        "description": "Qatari and French leaders stress need to restore freedom of navigation in Strait of Hormuz.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
       "count": 2,
       "story": {
-        "title": "Video shows Israeli settler assaulting Palestinian child",
-        "description": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
+        "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+        "description": "Qatari and French leaders stress need to restore freedom of navigation in Strait of Hormuz.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 2,
+      "story": {
+        "title": "Colombian president purges National Museum of works promoting ‘communism’",
+        "description": "Far-right President Abelardo de la Espriella says he will wage a &#039;counterrevolution&#039; against cultural institutions.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -324,30 +348,6 @@
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 2,
-      "story": {
-        "title": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
-        "description": "The NFL’s Steelers and Saints will play in Paris on Sunday despite the riots.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 2,
-      "story": {
-        "title": "Breaking: Alleged driver charged over hit-and-run that killed cyclist in Perth's south",
-        "description": "Police charge a 40-year-old man over a hit-and-run crash that left cyclist Joseph Paratore dead in Bibra Lake on Tuesday.",
-        "link": "https://www.abc.net.au/news/2026-10-22/alleged-driver-charged-over-bibra-lake-fatal-hit-and-run-crash/107295464",
-        "source": "ABC News AU"
-      }
-    },
-    {
       "name": "Berlin",
       "lat": 52.52,
       "lon": 13.4,
@@ -360,14 +360,14 @@
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "Commentary: Troubled AirAsia needs some government indulgence, not a blank cheque",
-        "description": "Malaysia has repeatedly used public funds and government-backed financing to support troubled corporations. AirAsia's financial woes offer an opportunity for a fresh template, writes CNA’s Leslie Lopez.",
-        "link": "https://www.channelnewsasia.com/commentary/malaysia-airasia-trouble-help-tony-fernandes-6474336",
+        "title": "Singapore to streamline community mental health services under new HealthierMind SG network",
+        "description": "The Ministry of Health is also drawing up guidelines to clarify parental consent requirements for young people seeking mental health support.",
+        "link": "https://www.channelnewsasia.com/singapore/mental-health-services-healthiermind-sg-youth-6481011",
         "source": "CNA"
       }
     },
@@ -404,31 +404,43 @@
         "title": "Trump sued over Canadian tariffs in latest legal challenge",
         "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
         "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "source": "BBC Business"
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "Pyongyang",
+      "lat": 39.03,
+      "lon": 125.75,
       "count": 1,
       "story": {
-        "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-        "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-        "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "North Korea to resume propaganda broadcasts, South Korea urges dialogue",
+        "description": "Pyongyang plans to resume broadcasting anti-South Korea propaganda along the armed border.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
       "count": 1,
       "story": {
-        "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-        "description": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
-        "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Brazil’s Bolsonaro challenges Lula to expand release of personal records",
+        "description": "Right-wing presidential candidate says he will release personal records if his opponent Lula meets his conditions.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "US accuses Canada of election interference ahead of midterms",
+        "description": "Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference.",
+        "link": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -444,9 +456,9 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 1,
       "story": {
         "title": "Video shows Israeli settler assaulting Palestinian child",
@@ -456,86 +468,26 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
       "count": 1,
       "story": {
-        "title": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
-        "description": "Kylian Mbappe and Yan Diomande score stunners as Real beat Leipzig to make it three from three in the Champions League.",
-        "link": "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Exhibition foraged from dumps around Canberra opens at NGA",
+        "description": "Despite her reputation today as one of Australia's most influential artists, Rosalie Gascoigne did not start exhibiting any of her work until she was aged 57.",
+        "link": "https://www.abc.net.au/news/2026-10-22/rosalie-gascoigne-exhibition-national-gallery-australia/107297104",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Colombia seizes 7.6 tonnes of cocaine in biggest haul in a decade",
-        "description": "Colombian authorities have seized 7.6 tonnes of cocaine at the Caribbean port of Cartagena",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/colombia-seizes-7-6-tonnes-of-cocaine-in-biggest-haul-in-a-decade?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Havana",
-      "lat": 23.13,
-      "lon": -82.38,
-      "count": 1,
-      "story": {
-        "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
-        "description": "Havana says Washington is threatening countries with retaliation if they refuse to vote against condemning its embargo.",
-        "link": "https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Cuba",
-      "lat": 21.52,
-      "lon": -77.78,
-      "count": 1,
-      "story": {
-        "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
-        "description": "Havana says Washington is threatening countries with retaliation if they refuse to vote against condemning its embargo.",
-        "link": "https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tunis",
-      "lat": 36.81,
-      "lon": 10.18,
-      "count": 1,
-      "story": {
-        "title": "Tunisia jails opposition politician for four years over social media posts",
-        "description": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of &#039;plotting&#039; and &#039;inciting&#039; military to disobey orders.",
-        "link": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tunisia",
-      "lat": 33.89,
-      "lon": 9.54,
-      "count": 1,
-      "story": {
-        "title": "Tunisia jails opposition politician for four years over social media posts",
-        "description": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of &#039;plotting&#039; and &#039;inciting&#039; military to disobey orders.",
-        "link": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Melbourne man arrested by passers-by after attempted carjacking with axe",
-        "description": "Police say they were called to an eight-vehicle collision in Melbourne's north this morning and were told a 29-year-old male driver had tried to steal a car while armed with an axe.",
-        "link": "https://www.abc.net.au/news/2026-10-22/man-arrested-axe-sydney-road-campbellfield/107295390",
+        "title": "Cottesloe beaches shut as second dead whale washes ashore",
+        "description": "A second dead whale has washed up on a Perth beach, again prompting beach closures amid fears of increased shark activity in the area.",
+        "link": "https://www.abc.net.au/news/2026-10-22/south-cottesloe-beaches-shut-dead-whale-washed-up/107296454",
         "source": "ABC News AU"
       }
     },
@@ -545,10 +497,58 @@
       "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "Hospital halts heart surgeries for 10 days after nurse complaints",
-        "description": "Staff shortages paused heart surgeries for 10 days at a north Queensland hospital, with some patients urgently flown to Brisbane.",
-        "link": "https://www.abc.net.au/news/2026-10-22/queensland-nurse-complaints-cardiac-shortage-halts-surgeries/107293018",
+        "title": "ABC reporter saves man from sinking car in floodwater north of Brisbane",
+        "description": "ABC reporter Will Murray and another man swam out to the car and pulled the driver out of the vehicle.",
+        "link": "https://www.abc.net.au/news/2026-10-22/qld-abc-reporter-will-murray-rescues-man-from-floodwater/107296246",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Austria",
+      "lat": 47.52,
+      "lon": 14.55,
+      "count": 1,
+      "story": {
+        "title": "Austrian, Swiss women kidnapped in Niger are freed — report",
+        "description": "An Austrian woman and a Swiss woman kidnapped in Niger have been freed after 18 months in captivity, local reports say.",
+        "link": "https://www.dw.com/en/austrian-swiss-women-kidnapped-in-niger-are-freed-report/a-79727419?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 1,
+      "story": {
+        "title": "France bans protests in parts of Paris as Macron slams Trump",
+        "description": "French President Emmanuel Macron railed against \"stupid\" comments made by foreign leaders for their political purposes. Plus, Paris police are set to extend restrictions on gatherings in parts of the city on Thursday.",
+        "link": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 1,
+      "story": {
+        "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+        "description": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
+        "link": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Kremlin",
+      "lat": 55.75,
+      "lon": 37.62,
+      "count": 1,
+      "story": {
+        "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+        "description": "During talks between Vladimir Putin and Steve Witkoff, Putin announced that jailed American Stephen Hubbard had been released. The Kremlin also said Russia was \"in principle\" ready to resume trilateral talks next month.",
+        "link": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
