@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:31:46+00:00",
+  "generated_at": "2026-10-22T16:57:53+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
+      "description": "The congresswoman said federal agents seized over a dozen items, including cell phones and notebooks, as part of a federal investigation.",
+      "link": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "How do Israel's elections work and who are the main contenders?",
       "description": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
       "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
@@ -22,31 +28,25 @@
       "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
       "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-      "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "australia": [
     {
-      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
-      "description": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
-      "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "El Salvador's president threatens Haitian gangs over military hostages",
-      "description": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Two European women held captive for more than a year in Niger freed in Libya",
-      "description": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
-      "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "description": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+      "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 18,
+      "count": 17,
       "story": {
         "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
         "description": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
@@ -84,10 +84,22 @@
       }
     },
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 10,
+      "story": {
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
         "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
@@ -99,23 +111,11 @@
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
-      "count": 9,
+      "count": 7,
       "story": {
         "title": "At least four dead after storm brings flooding to southern France",
         "description": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
         "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 9,
-      "story": {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -125,57 +125,33 @@
       "lon": 53.0,
       "count": 6,
       "story": {
-        "title": "Can Russia broker a new US-Iran deal?",
-        "description": "Russia’s nuclear expertise, close ties with Tehran and negotiation experience could give Moscow an edge as a mediator.",
-        "link": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss",
+        "title": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
+        "description": "Israel can inflict devastating damage on Iran, but analysts question its ability to overthrow Tehran’s government.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
       "count": 5,
       "story": {
-        "title": "No order, no seat: Starbucks China rolls out new store policy",
-        "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
-        "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Germany arrests Ukrainian man accused of spying for Russia",
+        "description": "Military has raised the threat level of ​Russian sabotage against German troops and facilities.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
-      "count": 5,
-      "story": {
-        "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
-        "description": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\".",
-        "link": "https://www.bbc.co.uk/news/articles/cqx287g8714lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 4,
       "story": {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 4,
-      "story": {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+        "description": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
+        "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -192,27 +168,15 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 3,
       "story": {
-        "title": "Man shot by police in Sydney allegedly pointed gun at officers",
-        "description": "A 21-year-old man allegedly made threats before a confrontation with police in Sydney's south-west, NSW Police said.",
-        "link": "https://www.abc.net.au/news/2026-10-22/nsw-glen-alpine-police-shooting-domestic-violence/107297024",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 4,
-      "story": {
-        "title": "Can Germany overhaul its economy before AfD grows stronger?",
-        "description": "Conflicts, rising costs and Chinese competition are testing Germany's economic model like never before. Which new sectors could revive growth and contain the far-right AfD, whose support has grown larger than ever?",
-        "link": "https://www.dw.com/en/can-germany-overhaul-its-economy-before-afd-grows-stronger/a-79696102?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Crowd of 50 beats foreigner to death in South Africa",
+        "description": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
+        "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -221,21 +185,57 @@
       "lon": 45.1,
       "count": 3,
       "story": {
-        "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
-        "description": "It is the latest in a series of attacks by the Houthi movement which have targeted airports and other sites in the kingdom.",
+        "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+        "description": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
         "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 3,
       "story": {
-        "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-        "description": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi.",
-        "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+        "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+        "description": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+        "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 3,
+      "story": {
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 3,
+      "story": {
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 3,
+      "story": {
+        "title": "No order, no seat: Starbucks China rolls out new store policy",
+        "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -243,7 +243,7 @@
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 2,
+      "count": 3,
       "story": {
         "title": "US embassy accuses Canada of election meddling ahead of midterms",
         "description": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
@@ -252,51 +252,87 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
+        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
+        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
+        "source": "SBS News"
+      }
+    },
+    {
+      "name": "Libya",
+      "lat": 26.34,
+      "lon": 17.23,
       "count": 2,
       "story": {
-        "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
-        "description": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
-        "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+        "title": "Two European women held captive for more than a year in Niger freed in Libya",
+        "description": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
+        "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "Can Russia broker a new US-Iran deal?",
-        "description": "Russia’s nuclear expertise, close ties with Tehran and negotiation experience could give Moscow an edge as a mediator.",
-        "link": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss",
+        "title": "Israeli attacks in Gaza kill four, including a young girl",
+        "description": "Four Palestinians killed as Israeli military expands control across Gaza, displacing millions and destroying homes.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 2,
       "story": {
-        "title": "Live: Head departs after fighting ton as Aussies bat to save second Test",
-        "description": "Centurion Travis Head falls midway through a rain-delayed first session on day five, with Australia in need of a monumental batting effort to salvage a draw against South Africa in Gqeberha. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-10-22/test-cricket-live-updates-south-africa-vs-australia/107298268",
-        "source": "ABC News AU"
+        "title": "Israeli attacks in Gaza kill four, including a young girl",
+        "description": "Four Palestinians killed as Israeli military expands control across Gaza, displacing millions and destroying homes.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 2,
       "story": {
-        "title": "Miss Universe Singapore Vion Erico Tan will not compete in global beauty pageant in Puerto Rico",
-        "description": "The 22-year-old, crowned Miss Universe Singapore on Oct 13, is among six national representatives who will not attend the competition in Puerto Rico in November following a dispute between Miss Grand International and th",
-        "link": "https://www.channelnewsasia.com/entertainment/vion-erico-tan-miss-universe-singapore-not-competing-6481866",
-        "source": "CNA"
+        "title": "Italy and Spain lift border controls after months of tension over Ceuta",
+        "description": "More than 70,000 people entered Ceuta irregularly from Morocco, triggering border security concerns in the EU bloc.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Real Madrid’s complaint over La Liga chief’s Nazi slant sent to tribunal",
+        "description": "La Liga ⁠chief ⁠Javier Tebas compared Real Madrid&#039;s communication to Nazi propaganda and now faces a tribunal in Spain.",
+        "link": "https://www.aljazeera.com/sports/2026/10/22/real-madrids-complaint-over-la-liga-chiefs-nazi-slant-sent-to-tribunal?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Kremlin",
+      "lat": 55.75,
+      "lon": 37.62,
+      "count": 2,
+      "story": {
+        "title": "Zelenskyy says fresh Russian strikes show 'no change' in Kremlin position",
+        "description": "Russia pounded Kyiv with ballistic missiles and Ukraine sent hundreds of drones towards Moscow overnight despite the latest US push to end the conflict.",
+        "link": "https://www.abc.net.au/news/2026-10-23/zelensky-says-fresh-russian-strikes-show-no-change-in-kremlin-po/107299146",
+        "source": "ABC News AU"
       }
     },
     {
@@ -312,50 +348,14 @@
       }
     },
     {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
       "count": 1,
       "story": {
-        "title": "Two European women held captive for more than a year in Niger freed in Libya",
-        "description": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
-        "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
-        "description": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
-        "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Dublin",
-      "lat": 53.35,
-      "lon": -6.26,
-      "count": 1,
-      "story": {
-        "title": "Family of prison officer killed by IRA receives state apology",
-        "description": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
-        "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 1,
-      "story": {
-        "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-        "description": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
-        "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+        "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
+        "description": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\".",
+        "link": "https://www.bbc.co.uk/news/articles/cqx287g8714lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -372,74 +372,14 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
       "count": 1,
       "story": {
-        "title": "US ambassador to Turkiye: Rethinking US role in the Middle East",
-        "description": "Tom Barrack says Washington&#039;s relationship with the Middle East needs to change from one of control to one of support.",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 1,
-      "story": {
-        "title": "Israeli forces kill disabled man in southern Syria raid, state media says",
-        "description": "Civilian with a disability shot dead during raid in Jamla, in western Deraa countryside, SANA reports.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 1,
-      "story": {
-        "title": "Brazil’s president appeals to undecided voters ahead of run-off",
-        "description": "Brazil’s two presidential candidates Lula and Bolsonaro are trying to win over the 30 million voters.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 1,
-      "story": {
-        "title": "Wrong national anthems played three times at Asian Para Games in Japan",
-        "description": "The Iranian national anthem was played for athletes from Taiwan and Mongolia, prompting Nagoya&#039;s mayor to apologise.",
-        "link": "https://www.aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
-      "count": 1,
-      "story": {
-        "title": "Wrong national anthems played three times at Asian Para Games in Japan",
-        "description": "The Iranian national anthem was played for athletes from Taiwan and Mongolia, prompting Nagoya&#039;s mayor to apologise.",
-        "link": "https://www.aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
-        "description": "With vote at knife’s edge, Palestinian citizens weigh principle against strategic voting in system stacked against them.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss",
+        "title": "FIFA announces USA to host first Women’s Club World Cup in 2028",
+        "description": "FIFA to stage inaugural Women&#039;s Club World Cup, with 16 of football&#039;s top teams, in United States in 2028.",
+        "link": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -449,21 +389,117 @@
       "lon": 12.5,
       "count": 1,
       "story": {
-        "title": "The world is $365 trillion in debt, and the interest bill is climbing",
-        "description": "Protests in Europe have highlighted debt squeeze, with France now paying more to borrow than Italy and Greece.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss",
+        "title": "Italy and Spain lift border controls after months of tension over Ceuta",
+        "description": "More than 70,000 people entered Ceuta irregularly from Morocco, triggering border security concerns in the EU bloc.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
       "count": 1,
       "story": {
-        "title": "The world is $365 trillion in debt, and the interest bill is climbing",
-        "description": "Protests in Europe have highlighted debt squeeze, with France now paying more to borrow than Italy and Greece.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss",
+        "title": "Italy and Spain lift border controls after months of tension over Ceuta",
+        "description": "More than 70,000 people entered Ceuta irregularly from Morocco, triggering border security concerns in the EU bloc.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
+      "count": 1,
+      "story": {
+        "title": "16-year-old Malaysian student attacks his teacher with axe",
+        "description": "A 16-year-old Malaysian student attacked his teacher and fellow school pupils with an axe.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/16-year-old-malaysian-student-attacks-his-teacher-with-axe?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Serbia",
+      "lat": 44.02,
+      "lon": 21.01,
+      "count": 1,
+      "story": {
+        "title": "From the streets to the ballot box: Serbia’s students hope for election win",
+        "description": "Young Serbians have built a system that poses a threat to President Aleksandar Vucic’s grip on power.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
+        "description": "Israel can inflict devastating damage on Iran, but analysts question its ability to overthrow Tehran’s government.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
+      "count": 1,
+      "story": {
+        "title": "India resist New Zealand fightback to win record-setting T20 cricket opener",
+        "description": "New Zealand reach their highest home total against India, 225-4, but Sanju Samson hits fifty to top the record in chase.",
+        "link": "https://www.aljazeera.com/sports/2026/10/22/india-resist-new-zealand-fightback-to-win-record-setting-t20-cricket-opener?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 1,
+      "story": {
+        "title": "How Sudan’s shift to drone warfare is fuelling a civilian crisis",
+        "description": "Drone attacks on supply lines and safe cities are taking a devastating toll on civilians.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 1,
+      "story": {
+        "title": "Macron blames ‘seditious’ far left for unrest as France bans some protests",
+        "description": "Thursday&#039;s planned demonstrations are outlawed in parts of Paris, Lyon, Lille and Grenoble.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/macron-blames-seditious-ultra-left-for-unrest-as-france-bans-protests?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 1,
+      "story": {
+        "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
+        "description": "Eastern Libya’s parliament backs a sea border pact with Ankara, a shift that analysts say redraws Libya’s alliances.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ankara",
+      "lat": 39.93,
+      "lon": 32.86,
+      "count": 1,
+      "story": {
+        "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
+        "description": "Eastern Libya’s parliament backs a sea border pact with Ankara, a shift that analysts say redraws Libya’s alliances.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -513,42 +549,6 @@
         "description": "Two Colombian National Police departments say they have no evidence of an agreement with the Australian Federal Police for its newly-announced international anti-drugs taskforce.",
         "link": "https://www.abc.net.au/news/2026-10-22/colombia-anti-drug-police-unaware-of-afp-taskforce/107283494",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Bulgaria",
-      "lat": 42.73,
-      "lon": 25.49,
-      "count": 1,
-      "story": {
-        "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
-        "description": "Bulgaria's presidential election campaign has been shaped by recent drone attacks on ships in the Black Sea and the government's reduced support for Ukraine, making foreign policy a key factor in the first round.",
-        "link": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 1,
-      "story": {
-        "title": "Africa CDC calls crisis meeting as Ebola spreads",
-        "description": "African health officials will hold a crisis meeting as the Ebola outbreak spreads from Congo to neighboring countries and beyond. The \"extraordinary virtual meeting\" will convene on October 28.",
-        "link": "https://www.dw.com/en/africa-cdc-calls-crisis-meeting-as-ebola-spreads/a-79728604?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "European Union",
-      "lat": 50.85,
-      "lon": 4.35,
-      "count": 1,
-      "story": {
-        "title": "EU moves to loosen rules on pesticide use as experts sound the alarm",
-        "description": "The European Union wants to relax rules for pesticides, saying it will be easier for farmers to adopt more environmentally friendly options. But health and environmental experts say the risks are far too great.",
-        "link": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     }
   ]
