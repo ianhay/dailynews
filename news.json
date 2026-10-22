@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:29:16+00:00",
+  "generated_at": "2026-10-22T23:32:28+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -27,10 +27,16 @@
       "title": "No order, no seat: Starbucks China rolls out new store policy",
       "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
       "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
+      "source": "BBC Business"
     }
   ],
   "australia": [
+    {
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
       "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
@@ -41,12 +47,6 @@
       "title": "Trump ordered to answer questions under oath in BBC lawsuit",
       "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
       "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-      "description": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -87,7 +87,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
         "description": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
@@ -99,11 +99,11 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 9,
+      "count": 8,
       "story": {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+        "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+        "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,12 +111,24 @@
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
-      "count": 6,
+      "count": 8,
       "story": {
         "title": "At least four dead after storm brings flooding to southern France",
         "description": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
         "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 6,
+      "story": {
+        "title": "No order, no seat: Starbucks China rolls out new store policy",
+        "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -144,18 +156,6 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 5,
-      "story": {
-        "title": "How do Israel's elections work and who are the main contenders?",
-        "description": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
-        "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "South Africa",
       "lat": -30.6,
       "lon": 22.9,
@@ -164,30 +164,6 @@
         "title": "Crowd of 50 beats foreigner to death in South Africa",
         "description": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
         "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 4,
-      "story": {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 4,
-      "story": {
-        "title": "No order, no seat: Starbucks China rolls out new store policy",
-        "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
-        "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -204,33 +180,21 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
       "count": 3,
       "story": {
-        "title": "YouTuber arrested after popular Indian finance influencer's suicide",
-        "description": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
-        "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+        "description": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+        "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 3,
-      "story": {
-        "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
-        "description": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
-        "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 3,
       "story": {
         "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
@@ -240,27 +204,75 @@
       }
     },
     {
-      "name": "Gaza",
+      "name": "Israel",
       "lat": 31.5,
-      "lon": 34.47,
+      "lon": 34.75,
       "count": 3,
       "story": {
-        "title": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
-        "description": "Breast cancer patients in Gaza face delayed diagnoses, medicine shortages and limited access to scans and treatment.",
-        "link": "https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss",
+        "title": "How do Israel's elections work and who are the main contenders?",
+        "description": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
+        "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Meet Yang Yan: The rising Singaporean star putting his best foot forward",
+        "description": "From a Star Awards nomination to competing on an international idol survival show, singer-actor Yang Yan is steadily making a name for himself. Now, he's stepping into the fashion spotlight with Onitsuka Tiger's new Tai-",
+        "link": "https://www.channelnewsasia.com/style-beauty/yang-yan-onitsuka-tiger-6465331",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 2,
+      "story": {
+        "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+        "description": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
+        "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 2,
+      "story": {
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 2,
+      "story": {
+        "title": "Can Pakistan save the last two of its four captive African elephants?",
+        "description": "Of four elephants brought to Pakistan in 2009, two have died. Now, two others are ill, raising welfare concerns.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/10-22-karachi-captive-elephants-sv?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
       "count": 2,
       "story": {
-        "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-        "description": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
-        "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Why measles outbreak in Pennsylvania poses risks beyond US borders",
+        "description": "The United States is facing its largest outbreak of measles since the virus was declared eliminated in 2000.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/why-measles-outbreak-in-pennsylvania-poses-risks-beyond-us-borders?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -276,27 +288,27 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "Italy and Spain lift border controls after months of tension over Ceuta",
-        "description": "More than 70,000 people entered Ceuta irregularly from Morocco, triggering border security concerns in the EU bloc.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss",
+        "title": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
+        "description": "Breast cancer patients in Gaza face delayed diagnoses, medicine shortages and limited access to scans and treatment.",
+        "link": "https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Kremlin",
-      "lat": 55.75,
-      "lon": 37.62,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 2,
       "story": {
-        "title": "Zelenskyy says fresh Russian strikes show 'no change' in Kremlin position",
-        "description": "Russia pounded Kyiv with ballistic missiles and Ukraine sent hundreds of drones towards Moscow overnight despite the latest US push to end the conflict.",
-        "link": "https://www.abc.net.au/news/2026-10-23/zelensky-says-fresh-russian-strikes-show-no-change-in-kremlin-po/107299146",
-        "source": "ABC News AU"
+        "title": "96% of world's coral reefs face critical risk of collapse, IUCN warns",
+        "description": "Almost all of the world’s shallow-water coral reefs are at risk of collapse by 2075, with climate change the biggest threat. A new study found that 96% of reef systems are critically endangered.",
+        "link": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -309,6 +321,30 @@
         "description": "It's the first bilateral visit by a Canadian prime minister to Turkey. Canada and Turkey upgraded their relations to a \"strategic partnership\" as Canada seeks to diversify trade beyond the US.",
         "link": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
+      }
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
+      "count": 2,
+      "story": {
+        "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+        "description": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
+        "link": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 1,
+      "story": {
+        "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+        "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+        "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -336,6 +372,18 @@
       }
     },
     {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 1,
+      "story": {
+        "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+        "description": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+        "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "White House",
       "lat": 38.9,
       "lon": -77.03,
@@ -345,6 +393,54 @@
         "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
         "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 1,
+      "story": {
+        "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
+        "description": "Dispute over raising flag of Somali Regional State devolves into fighting between regional forces.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 1,
+      "story": {
+        "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
+        "description": "Dispute over raising flag of Somali Regional State devolves into fighting between regional forces.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ecuador",
+      "lat": -1.83,
+      "lon": -78.18,
+      "count": 1,
+      "story": {
+        "title": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
+        "description": "Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Serbia",
+      "lat": 44.02,
+      "lon": 21.01,
+      "count": 1,
+      "story": {
+        "title": "Thousands gather at final student-led rally ahead of Serbia election",
+        "description": "The student movement aims to end Vucic&#039;s 14 years of rule at Sunday&#039;s vote, as he holds a rival rally across town.",
+        "link": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -360,171 +456,15 @@
       }
     },
     {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 1,
       "story": {
-        "title": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
-        "description": "A video of an Israeli soldier throwing a cat over a fence has gone viral online.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 1,
-      "story": {
-        "title": "FIFA announces USA to host first Women’s Club World Cup in 2028",
-        "description": "FIFA to stage inaugural Women&#039;s Club World Cup, with 16 of football&#039;s top teams, in United States in 2028.",
-        "link": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Damascus",
-      "lat": 33.5,
-      "lon": 36.3,
-      "count": 1,
-      "story": {
-        "title": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
-        "description": "The Syrian Interior Ministry says five suspected fighters killed and six arrested outside of Damascus.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 1,
-      "story": {
-        "title": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
-        "description": "The Syrian Interior Ministry says five suspected fighters killed and six arrested outside of Damascus.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Israeli attacks kill four as famine risk looms in Gaza",
-        "description": "Four Palestinians killed as Israeli military expands control across Gaza, displacing millions and destroying homes.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Italy and Spain lift border controls after months of tension over Ceuta",
-        "description": "More than 70,000 people entered Ceuta irregularly from Morocco, triggering border security concerns in the EU bloc.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 1,
-      "story": {
-        "title": "Italy and Spain lift border controls after months of tension over Ceuta",
-        "description": "More than 70,000 people entered Ceuta irregularly from Morocco, triggering border security concerns in the EU bloc.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Real Madrid’s complaint over La Liga chief’s Nazi slant sent to tribunal",
-        "description": "La Liga ⁠chief ⁠Javier Tebas compared Real Madrid&#039;s communication to Nazi propaganda and now faces a tribunal in Spain.",
-        "link": "https://www.aljazeera.com/sports/2026/10/22/real-madrids-complaint-over-la-liga-chiefs-nazi-slant-sent-to-tribunal?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 1,
-      "story": {
-        "title": "16-year-old Malaysian student attacks his teacher with axe",
-        "description": "A 16-year-old Malaysian student attacked his teacher and fellow school pupils with an axe.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/16-year-old-malaysian-student-attacks-his-teacher-with-axe?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
-      "count": 1,
-      "story": {
-        "title": "From the streets to the ballot box: Serbia’s students hope for election win",
-        "description": "Young Serbians have built a system that poses a threat to President Aleksandar Vucic’s grip on power.",
-        "link": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
-      "count": 1,
-      "story": {
-        "title": "Promised a better life, New Zealand voters are asking what went wrong",
-        "description": "Families living in campervans, workers losing their house deposits and communities watching loved ones leave in the thousands for Australia. These are the everyday stakes of New Zealand’s election.",
-        "link": "https://www.abc.net.au/news/2026-10-23/new-zealand-election-communities-november/107232890",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "Painted for the Archibald, collected by the Tate: Meet Justene Williams",
-        "description": "Artist Justene Williams didn't want her new exhibition in Brisbane, Once We Were Mudskippers, to be a survey or retrospective. Instead, it's brimming with new work in conversation with old.",
-        "link": "https://www.abc.net.au/news/2026-10-23/justene-williams-once-we-were-mudskippers-a-magical-hotstart/107235678",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Pyongyang",
-      "lat": 39.03,
-      "lon": 125.75,
-      "count": 1,
-      "story": {
-        "title": "North and South Korea tensions rise as Pyongyang fortifies border",
-        "description": "North Korea has been adding mines, barbed wire fences, anti-tank barriers and other fortifications along its heavily militarised border with the south.",
-        "link": "https://www.abc.net.au/news/2026-10-23/tensions-rise-on-korea-border/107299192",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 1,
-      "story": {
-        "title": "North and South Korea tensions rise as Pyongyang fortifies border",
-        "description": "North Korea has been adding mines, barbed wire fences, anti-tank barriers and other fortifications along its heavily militarised border with the south.",
-        "link": "https://www.abc.net.au/news/2026-10-23/tensions-rise-on-korea-border/107299192",
-        "source": "ABC News AU"
+        "title": "Poland: Thousands protest for more abortion rights",
+        "description": "Thousands rallied across Poland to demand abortion rights six years after a landmark court ruling tightened restrictions. The country has one of the strictest abortion rules in all of Europe.",
+        "link": "https://www.dw.com/en/poland-thousands-protest-for-more-abortion-rights/a-79737572?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -540,14 +480,74 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
       "count": 1,
       "story": {
-        "title": "96% of world's coral reefs face critical risk of collapse, IUCN warns",
-        "description": "Almost all of the world’s shallow-water coral reefs are at risk of collapse by 2075, with climate change the biggest threat. A new study found that 96% of reef systems are critically endangered.",
-        "link": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-all-1573-rdf",
+        "title": "Canada's Mark Carney visits Turkey to boost trade ties",
+        "description": "It's the first bilateral visit by a Canadian prime minister to Turkey. Canada and Turkey upgraded their relations to a \"strategic partnership\" as Canada seeks to diversify trade beyond the US.",
+        "link": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Brussels",
+      "lat": 50.85,
+      "lon": 4.35,
+      "count": 1,
+      "story": {
+        "title": "Is EU putting profits over human rights in Vietnam?",
+        "description": "The EU and Vietnam are deepening economic and diplomatic ties, but closer cooperation raises concerns about whether Brussels is doing enough to address Hanoi's human rights record, labor standards and trade imbalances.",
+        "link": "https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Hanoi",
+      "lat": 21.03,
+      "lon": 105.85,
+      "count": 1,
+      "story": {
+        "title": "Is EU putting profits over human rights in Vietnam?",
+        "description": "The EU and Vietnam are deepening economic and diplomatic ties, but closer cooperation raises concerns about whether Brussels is doing enough to address Hanoi's human rights record, labor standards and trade imbalances.",
+        "link": "https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Vietnam",
+      "lat": 14.06,
+      "lon": 108.28,
+      "count": 1,
+      "story": {
+        "title": "Is EU putting profits over human rights in Vietnam?",
+        "description": "The EU and Vietnam are deepening economic and diplomatic ties, but closer cooperation raises concerns about whether Brussels is doing enough to address Hanoi's human rights record, labor standards and trade imbalances.",
+        "link": "https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
+      "count": 1,
+      "story": {
+        "title": "Iran's Balochistan border region sees growing unrest",
+        "description": "Violence is on the rise in Iran's border region with Afghanistan and Pakistan. The Iran war could shift the strategic balance for militant groups operating in the area.",
+        "link": "https://www.dw.com/en/iran-s-balochistan-border-region-sees-growing-unrest/a-79716399?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Bulgaria",
+      "lat": 42.73,
+      "lon": 25.49,
+      "count": 1,
+      "story": {
+        "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
+        "description": "Bulgaria's presidential election campaign has been shaped by recent drone attacks on ships in the Black Sea and the government's reduced support for Ukraine, making foreign policy a key factor in the first round.",
+        "link": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
