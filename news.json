@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T09:25:07+00:00",
+  "generated_at": "2026-10-24T13:31:31+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,12 +32,6 @@
   ],
   "australia": [
     {
-      "title": "Trump administration sues to block certification of upcoming Alaska election",
-      "description": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
-      "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
       "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
@@ -47,6 +41,12 @@
       "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
       "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
       "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Australian MP's condition improves after alleged car attack",
+      "description": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,23 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 16,
+      "count": 14,
       "story": {
         "title": "Australian MP's condition improves after alleged car attack",
         "description": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
         "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 10,
-      "story": {
-        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-        "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-        "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -101,6 +89,18 @@
       "lon": 31.0,
       "count": 9,
       "story": {
+        "title": "Ukraine says Starlink connection 'now stable' after network limits",
+        "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+        "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 9,
+      "story": {
         "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
         "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
         "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
@@ -108,22 +108,34 @@
       }
     },
     {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 6,
+      "story": {
+        "title": "No order, no seat: Starbucks China rolls out new store policy",
+        "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
-      "count": 7,
+      "count": 6,
       "story": {
-        "title": "France prepares for day of protest a week after nationwide riots",
-        "description": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
-        "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "France protests live: 135 arrested as marches held under tight security",
+        "description": "Authorities say they are determined to prevent another weekend of looting, burned cars and attacks on public buildings.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 7,
+      "count": 5,
       "story": {
         "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
         "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
@@ -132,15 +144,27 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 7,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 5,
       "story": {
-        "title": "No order, no seat: Starbucks China rolls out new store policy",
-        "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
-        "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Reduction in Indonesia gas supply amounts to less than 2% of Singapore’s total daily demand: EMA",
+        "description": "Singapore's Energy Market Authority also said that it had contingency plans in place to deal with such reductions.",
+        "link": "https://www.channelnewsasia.com/singapore/indonesia-gas-exports-ema-6488841",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 4,
+      "story": {
+        "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+        "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -156,74 +180,50 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 4,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 3,
       "story": {
-        "title": "NSW rail timetable changes axed after backlash from commuters",
-        "description": "Major changes to train timetables in Sydney and the Illawarra have been scrapped less than a month before they were due to begin after backlash from commuters.",
-        "link": "https://www.abc.net.au/news/2026-10-24/nsw-government-backflip-t4-t8-south-coast-rail-timetable-changes/107304442",
-        "source": "ABC News AU"
+        "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+        "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+        "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Serbia",
+      "lat": 44.02,
+      "lon": 21.01,
+      "count": 3,
+      "story": {
+        "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+        "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Jordan",
+      "lat": 30.59,
+      "lon": 36.24,
+      "count": 3,
+      "story": {
+        "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+        "description": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+        "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 4,
-      "story": {
-        "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-        "description": "Their comments followed warnings by Iranian officials that undersea cables in the region could become targets in any renewed conflict if diplomacy with Washington collapses.",
-        "link": "https://www.channelnewsasia.com/world/iran-war-gulf-undersea-cables-6487421",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
       "count": 3,
       "story": {
-        "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-        "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-        "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-        "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 3,
-      "story": {
-        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-        "description": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
-        "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 3,
-      "story": {
-        "title": "North Korea’s Kim Jong Un arrives in China, South Korean media say",
-        "description": "The visit comes about a week after a major new bridge linking the two countries was officially opened.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss",
+        "title": "Is Iran planning attacks on Americans; why is the US on alert?",
+        "description": "US intelligence memo warns that Iranian plots against US citizens in the Middle East &#039;have reached advanced stages&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -240,27 +240,15 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 2,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
       "story": {
-        "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-        "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
-      "count": 2,
-      "story": {
-        "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-        "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-        "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
+        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
+        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
+        "source": "SBS News"
       }
     },
     {
@@ -276,26 +264,14 @@
       }
     },
     {
-      "name": "Jordan",
-      "lat": 30.59,
-      "lon": 36.24,
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
       "count": 2,
       "story": {
-        "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-        "description": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
-        "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 2,
-      "story": {
-        "title": "Argentina drops investigation into President Milei over crypto fraud",
-        "description": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
-        "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+        "description": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
+        "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -312,38 +288,14 @@
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
       "count": 2,
       "story": {
-        "title": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
-        "description": "Washington has raised pressure on Havana after the capture of former Venezuelan President Nicolas Maduro.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Cuba",
-      "lat": 21.52,
-      "lon": -77.78,
-      "count": 2,
-      "story": {
-        "title": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
-        "description": "Washington has raised pressure on Havana after the capture of former Venezuelan President Nicolas Maduro.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 2,
-      "story": {
-        "title": "North Korea’s Kim Jong Un arrives in China, South Korean media say",
-        "description": "The visit comes about a week after a major new bridge linking the two countries was officially opened.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss",
+        "title": "Malaysia considers complete ban on Israel-based navigation app Waze",
+        "description": "Malaysia has barred civil servants from using Waze for official duties over its links to Israel.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -369,6 +321,18 @@
         "description": "Port Adelaide AFL club will pay tribute to former Power forward Daniel Stewart at the first home game of 2027 after his sudden death at the age of 37.",
         "link": "https://www.abc.net.au/news/2026-10-24/former-port-adelaide-afl-player-daniel-stewart-dies-at-37/107304782",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 2,
+      "story": {
+        "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
+        "description": "North Korean leader Kim Jong Un travelled to China’s border city of Dandong via a newly opened bridge linking the two countries, where he met a senior Chinese official.",
+        "link": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -420,6 +384,18 @@
       }
     },
     {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 2,
+      "story": {
+        "title": "Reduction in Indonesia gas supply amounts to less than 2% of Singapore’s total daily demand: EMA",
+        "description": "Singapore's Energy Market Authority also said that it had contingency plans in place to deal with such reductions.",
+        "link": "https://www.channelnewsasia.com/singapore/indonesia-gas-exports-ema-6488841",
+        "source": "CNA"
+      }
+    },
+    {
       "name": "Congo",
       "lat": -4.04,
       "lon": 21.76,
@@ -444,6 +420,30 @@
       }
     },
     {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 1,
+      "story": {
+        "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+        "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+        "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 1,
+      "story": {
+        "title": "Argentina drops investigation into President Milei over crypto fraud",
+        "description": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
+        "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Sudan",
       "lat": 12.86,
       "lon": 30.22,
@@ -456,6 +456,30 @@
       }
     },
     {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
+        "description": "Matches between Barca and Real are among the biggest in world football, with their rivalry spanning more than a century.",
+        "link": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 1,
+      "story": {
+        "title": "Ethiopian PM’s advisor: Tigrayan forces and others hinder stability",
+        "description": "Advisor to Ethiopia’s Prime Minister stated that Tigrayan forces and regional actors are hindering regional stability.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
@@ -464,6 +488,18 @@
         "title": "The Muslims finding belonging in southern Spain",
         "description": "Centuries after the end of Islamic rule, some Muslims are choosing Andalusia, drawn by traces of its past.",
         "link": "https://www.aljazeera.com/features/longform/2026/10/24/the-muslims-finding-belonging-in-southern-spain?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
+        "description": "Washington has raised pressure on Havana after the capture of former Venezuelan President Nicolas Maduro.",
+        "link": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -492,6 +528,18 @@
       }
     },
     {
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
+      "count": 1,
+      "story": {
+        "title": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
+        "description": "Washington has raised pressure on Havana after the capture of former Venezuelan President Nicolas Maduro.",
+        "link": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Mexico",
       "lat": 23.6,
       "lon": -102.5,
@@ -501,54 +549,6 @@
         "description": "An explosive fire erupted on Friday at a chemical plant in Leon, Mexico.",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-chemical-plant-fire-triggers-mass-evacuations-in-mexico?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 1,
-      "story": {
-        "title": "Dog owner to face harsher penalties after man attacked in Brisbane park",
-        "description": "A 37-year-old man was left with serious injuries after he was attacked by two dogs in Chermside in Brisbane's north.",
-        "link": "https://www.abc.net.au/news/2026-10-24/chermside-dog-attack-owner-elevated-fine-pitbull/107304420",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
-      "count": 1,
-      "story": {
-        "title": "Aussie Picklum aglow on top of WSL standings after Portugal win",
-        "description": "Australian Molly Picklum is in pole position for a second straight world surfing title after her victory in Portugal put her on top of the live WSL standings.",
-        "link": "https://www.abc.net.au/news/2026-10-24/aussie-picklum-back-on-top-wsl-standings-portugal-win/107304474",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 1,
-      "story": {
-        "title": "Man extradited from Poland to face murder charge in Australia",
-        "description": "Police allege the man, 26, was involved in the murder of a 22-year-old man, whose body was found in a metal cabinet in a creek on the NSW Mid-North Coast more than three years ago.",
-        "link": "https://www.abc.net.au/news/2026-10-24/man-extradited-from-poland-to-face-murder-charge-in-australia/107304342",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Austria",
-      "lat": 47.52,
-      "lon": 14.55,
-      "count": 1,
-      "story": {
-        "title": "Hitler's Eagle's Nest retreat catches fire, police say",
-        "description": "Authorities have arrested a suspect as firemen try to put out the fire in Bavaria, near the Austrian border.",
-        "link": "https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     }
   ]
