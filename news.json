@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T13:31:31+00:00",
+  "generated_at": "2026-10-24T17:17:41+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,25 +18,19 @@
       "source": "BBC News"
     },
     {
-      "title": "The rise of AI election ads in US midterms campaign",
-      "description": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
-      "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
       "description": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
       "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
+      "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
-    {
-      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
     {
       "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
       "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
@@ -48,9 +42,21 @@
       "description": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
       "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
       "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
@@ -62,12 +68,6 @@
       "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
       "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-      "description": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 14,
+      "count": 13,
       "story": {
         "title": "Australian MP's condition improves after alleged car attack",
         "description": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
@@ -87,7 +87,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 9,
+      "count": 10,
       "story": {
         "title": "Ukraine says Starlink connection 'now stable' after network limits",
         "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
@@ -99,7 +99,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 10,
       "story": {
         "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
         "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
@@ -108,10 +108,22 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 7,
+      "story": {
+        "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+        "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+        "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "No order, no seat: Starbucks China rolls out new store policy",
         "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
@@ -123,24 +135,12 @@
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
-      "count": 6,
-      "story": {
-        "title": "France protests live: 135 arrested as marches held under tight security",
-        "description": "Authorities say they are determined to prevent another weekend of looting, burned cars and attacks on public buildings.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
       "count": 5,
       "story": {
-        "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-        "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-        "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+        "description": "Despite not winning silverware last season, Mbappe has been clear his goal to clinch the Ballon d&#039;Or.",
+        "link": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -149,53 +149,17 @@
       "lon": 103.82,
       "count": 5,
       "story": {
-        "title": "Reduction in Indonesia gas supply amounts to less than 2% of Singapore’s total daily demand: EMA",
-        "description": "Singapore's Energy Market Authority also said that it had contingency plans in place to deal with such reductions.",
-        "link": "https://www.channelnewsasia.com/singapore/indonesia-gas-exports-ema-6488841",
+        "title": "Singapore's tap water safe to drink despite haze, says Grace Fu",
+        "description": "Minister for Sustainability and the Environment Grace Fu's comments came after&nbsp;videos of blackish rainwater were circulated on social media.",
+        "link": "https://www.channelnewsasia.com/singapore/tap-water-safe-drink-haze-6488996",
         "source": "CNA"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 4,
-      "story": {
-        "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-        "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
-      "story": {
-        "title": "The Indian workers filming their work to train AI",
-        "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-        "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 3,
-      "story": {
-        "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-        "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
       "name": "Serbia",
       "lat": 44.02,
       "lon": 21.01,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
         "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
@@ -207,7 +171,7 @@
       "name": "Jordan",
       "lat": 30.59,
       "lon": 36.24,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
         "description": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
@@ -219,11 +183,83 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
+      "count": 4,
+      "story": {
+        "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+        "description": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+        "link": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
       "count": 3,
       "story": {
-        "title": "Is Iran planning attacks on Americans; why is the US on alert?",
-        "description": "US intelligence memo warns that Iranian plots against US citizens in the Middle East &#039;have reached advanced stages&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
+        "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+        "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+        "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 3,
+      "story": {
+        "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+        "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 3,
+      "story": {
+        "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+        "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+        "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 3,
+      "story": {
+        "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+        "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+        "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "The Indian workers filming their work to train AI",
+        "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+        "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 3,
+      "story": {
+        "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+        "description": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
+        "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -252,18 +288,6 @@
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-        "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-        "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Paris",
       "lat": 48.85,
       "lon": 2.35,
@@ -276,15 +300,27 @@
       }
     },
     {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 2,
+      "story": {
+        "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+        "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
+        "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
       "count": 2,
       "story": {
-        "title": "How Brazil's changing working class is reshaping the presidential race",
-        "description": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
-        "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
+        "description": "The race between Brazil&#039;s president and the right-wing senator has tightened in recent days.",
+        "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -324,38 +360,14 @@
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "European Union",
+      "lat": 50.85,
+      "lon": 4.35,
       "count": 2,
       "story": {
-        "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
-        "description": "North Korean leader Kim Jong Un travelled to China’s border city of Dandong via a newly opened bridge linking the two countries, where he met a senior Chinese official.",
-        "link": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
-      "count": 2,
-      "story": {
-        "title": "Taiwan: Typhoon Champi leaves 1 dead, over 500 injured",
-        "description": "After killing one person and causing major disruptions in Taiwan, Typhoon Champi is now headed towards China.",
-        "link": "https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Nairobi",
-      "lat": -1.29,
-      "lon": 36.82,
-      "count": 2,
-      "story": {
-        "title": "Ebola: Kenya announces second death",
-        "description": "Kenyan health officials said the 65-year-old ​woman was a close ‌relative of a ‌​man who died of Ebola last month. The woman developed symptoms ‌while under quarantine in Nairobi.",
-        "link": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-rdf",
+        "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+        "description": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
+        "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -396,6 +408,18 @@
       }
     },
     {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 1,
+      "story": {
+        "title": "Three released without charge after fatal arson attack in Ireland",
+        "description": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+        "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Congo",
       "lat": -4.04,
       "lon": 21.76,
@@ -420,18 +444,6 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-        "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-        "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Argentina",
       "lat": -38.4,
       "lon": -63.6,
@@ -444,111 +456,99 @@
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-        "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
-        "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
-        "description": "Matches between Barca and Real are among the biggest in world football, with their rivalry spanning more than a century.",
-        "link": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
-      "count": 1,
-      "story": {
-        "title": "Ethiopian PM’s advisor: Tigrayan forces and others hinder stability",
-        "description": "Advisor to Ethiopia’s Prime Minister stated that Tigrayan forces and regional actors are hindering regional stability.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "The Muslims finding belonging in southern Spain",
-        "description": "Centuries after the end of Islamic rule, some Muslims are choosing Andalusia, drawn by traces of its past.",
-        "link": "https://www.aljazeera.com/features/longform/2026/10/24/the-muslims-finding-belonging-in-southern-spain?traffic_source=rss",
+        "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+        "description": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
+        "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Abu Dhabi",
+      "lat": 24.47,
+      "lon": 54.37,
       "count": 1,
       "story": {
-        "title": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
-        "description": "Washington has raised pressure on Havana after the capture of former Venezuelan President Nicolas Maduro.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
+        "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+        "description": "Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi next month.",
+        "link": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
-        "description": "Washington has raised pressure on Havana after the capture of former Venezuelan President Nicolas Maduro.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Dog owner to face harsher penalties after man attacked in Brisbane park",
+        "description": "A 37-year-old man was left with serious injuries after he was attacked by two dogs in Chermside in Brisbane's north.",
+        "link": "https://www.abc.net.au/news/2026-10-24/chermside-dog-attack-owner-elevated-fine-pitbull/107304420",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Havana",
-      "lat": 23.13,
-      "lon": -82.38,
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
       "count": 1,
       "story": {
-        "title": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
-        "description": "Washington has raised pressure on Havana after the capture of former Venezuelan President Nicolas Maduro.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Aussie Picklum aglow on top of WSL standings after Portugal win",
+        "description": "Australian Molly Picklum is in pole position for a second straight world surfing title after her victory in Portugal put her on top of the live WSL standings.",
+        "link": "https://www.abc.net.au/news/2026-10-24/aussie-picklum-back-on-top-wsl-standings-portugal-win/107304474",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Cuba",
-      "lat": 21.52,
-      "lon": -77.78,
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
       "count": 1,
       "story": {
-        "title": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
-        "description": "Washington has raised pressure on Havana after the capture of former Venezuelan President Nicolas Maduro.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+        "description": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
+        "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
       "count": 1,
       "story": {
-        "title": "Massive chemical plant fire triggers mass evacuations in Mexico",
-        "description": "An explosive fire erupted on Friday at a chemical plant in Leon, Mexico.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-chemical-plant-fire-triggers-mass-evacuations-in-mexico?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+        "description": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
+        "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Libya",
+      "lat": 26.34,
+      "lon": 17.23,
+      "count": 1,
+      "story": {
+        "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+        "description": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
+        "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 1,
+      "story": {
+        "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
+        "description": "North Korean leader Kim Jong Un travelled to China’s border city of Dandong via a newly opened bridge linking the two countries, where he met a senior Chinese official.",
+        "link": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
