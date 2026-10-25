@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T22:20:52+00:00",
+  "generated_at": "2026-10-25T00:28:30+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -64,13 +64,25 @@
       "source": "BBC News"
     },
     {
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
   "places": [
+    {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 16,
+      "story": {
+        "title": "Australian MP's condition improves after alleged car attack",
+        "description": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+        "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
     {
       "name": "Ukraine",
       "lat": 49.0,
@@ -84,22 +96,10 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 12,
-      "story": {
-        "title": "Australian MP's condition improves after alleged car attack",
-        "description": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
-        "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 11,
+      "count": 10,
       "story": {
         "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
         "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
@@ -132,18 +132,6 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 5,
-      "story": {
-        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-        "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
-        "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Paris",
       "lat": 48.85,
       "lon": 2.35,
@@ -162,7 +150,7 @@
       "count": 5,
       "story": {
         "title": "Who are the candidates in Brazil's presidential election?",
-        "description": "Voters are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+        "description": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
         "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
@@ -173,22 +161,22 @@
       "lon": 53.0,
       "count": 5,
       "story": {
-        "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-        "description": "Tehran warns that even limited strikes would trigger a response &#039;several times greater&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+        "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+        "description": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 4,
       "story": {
-        "title": "Western Sydney International Airport opens to passengers today",
-        "description": "\"Eyes are moving west\" when it comes to forward-planning for the future growth of Western Sydney and its new airport, which opens to passengers today.",
-        "link": "https://www.abc.net.au/news/2026-10-25/western-sydney-international-airport-open-day-sunday-october-25/107293784",
-        "source": "ABC News AU"
+        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+        "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+        "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -201,6 +189,18 @@
         "description": "Kim Jong Un crosses new bridge linking North Korea and China",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Western Sydney International Airport opens to passengers today",
+        "description": "\"Eyes are moving west\" when it comes to forward-planning for the future growth of Western Sydney and its new airport, which opens to passengers today.",
+        "link": "https://www.abc.net.au/news/2026-10-25/western-sydney-international-airport-open-day-sunday-october-25/107293784",
+        "source": "ABC News AU"
       }
     },
     {
@@ -240,14 +240,14 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 3,
       "story": {
-        "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
-        "description": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
+        "title": "How have Democrats’ policies shifted since the last major US election?",
+        "description": "From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.",
+        "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -312,26 +312,26 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 2,
       "story": {
-        "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-        "description": "Houthi missiles reportedly struck a number of targets in Yemen, including Aden&#039;s airport and a coastguard base.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+        "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+        "description": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 2,
       "story": {
-        "title": "Severe hunger stalks people in Gaza as bakeries close down",
-        "description": "Bakeries across Gaza are struggling to find flour to make bread for people desperate for food.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
+        "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+        "description": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
+        "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -344,6 +344,18 @@
         "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
         "description": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.",
         "link": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+        "description": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
+        "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -408,6 +420,18 @@
       }
     },
     {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 2,
+      "story": {
+        "title": "Singapore haze: Air quality remains unhealthy across country; PM2.5 readings normal in all regions",
+        "description": "At 8am, the 24-hour PSI readings ranged from 103 to 138, while the hourly PM2.5 readings ranged from 43 to 55.",
+        "link": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-remains-unhealthy-across-country-pm25-readings-normal-in-all-regions-6489876",
+        "source": "CNA"
+      }
+    },
+    {
       "name": "Ireland",
       "lat": 53.14,
       "lon": -7.69,
@@ -456,14 +480,14 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 1,
       "story": {
-        "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-        "description": "Tehran warns that even limited strikes would trigger a response &#039;several times greater&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+        "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+        "description": "Houthi missiles reportedly struck a number of targets in Yemen, including Aden&#039;s airport and a coastguard base.",
+        "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -476,18 +500,6 @@
         "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
         "description": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
         "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Abu Dhabi",
-      "lat": 24.47,
-      "lon": 54.37,
-      "count": 1,
-      "story": {
-        "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-        "description": "Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi next month.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -509,7 +521,7 @@
       "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "Four injured in drive-by shooting south of Brisbane",
+        "title": "Drive-by pub shooting leaves woman critical, three injured south of Brisbane",
         "description": "A shooting in the Logan suburb of Loganholme on Saturday night has left four people injured, police say.",
         "link": "https://www.abc.net.au/news/2026-10-25/four-injured-in-logan-drive-by-shooting/107305464",
         "source": "ABC News AU"
@@ -531,18 +543,6 @@
       "name": "Greece",
       "lat": 39.07,
       "lon": 21.82,
-      "count": 1,
-      "story": {
-        "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
-        "description": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
-        "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
       "count": 1,
       "story": {
         "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
