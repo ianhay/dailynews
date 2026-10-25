@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T05:11:38+00:00",
+  "generated_at": "2026-10-25T10:03:39+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,9 +12,15 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+      "description": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
+      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "description": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -22,15 +28,15 @@
       "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
       "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-      "description": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "australia": [
+    {
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+      "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
       "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
@@ -41,12 +47,6 @@
       "title": "Australian MP's condition improves after alleged car attack",
       "description": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
       "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -64,9 +64,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Budget to include £1bn for social and affordable housing",
-      "description": "The move will take funding for the 10-year programme to more than £40bn.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+      "description": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
@@ -84,14 +84,26 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 14,
+      "story": {
+        "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+        "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+        "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 12,
+      "count": 10,
       "story": {
-        "title": "Ukraine says Starlink connection 'now stable' after network limits",
-        "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-        "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+        "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+        "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -99,47 +111,35 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 9,
+      "count": 7,
       "story": {
-        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-        "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-        "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+        "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+        "description": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
+        "link": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 8,
-      "story": {
-        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-        "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-        "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 6,
-      "story": {
-        "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
-        "description": "Former US president says Trump &#039;chose to make a series of bad decisions&#039;, highlighting the US-Israel war on Iran.",
-        "link": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
-      "count": 5,
+      "count": 6,
       "story": {
-        "title": "Who are the candidates in Brazil's presidential election?",
-        "description": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
-        "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+        "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+        "description": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
+        "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Serbia",
+      "lat": 44.02,
+      "lon": 21.01,
+      "count": 4,
+      "story": {
+        "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+        "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -147,7 +147,7 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 5,
+      "count": 4,
       "story": {
         "title": "No order, no seat: Starbucks China rolls out new store policy",
         "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
@@ -156,27 +156,15 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
       "count": 4,
       "story": {
-        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-        "description": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-        "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 4,
-      "story": {
-        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-        "description": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
-        "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+        "description": "The former US president warns of rising costs, corruption and threats to democratic values ahead of the November 3 vote.",
+        "link": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -185,8 +173,8 @@
       "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Live: Diamonds play Constellation Cup on home soil",
-        "description": "Australia is trailing New Zealand in the Constellation Cup 2-0 and fighting to keep hold of the coveted trophy in game three in Sydney. Follow for live updates.",
+        "title": "Diamonds great says coach 'safe for now' after Constellation Cup loss",
+        "description": "Australia loses game three of the Constellation Cup series against New Zealand to hand the trophy back to the Silver Ferns in Sydney, with Diamonds coach Stacey Marinkovich under pressure ahead of next year's Netball Wor",
         "link": "https://www.abc.net.au/news/2026-10-25/constellation-cup-netball-diamonds-silver-ferns-game-three/107306516",
         "source": "ABC News AU"
       }
@@ -197,10 +185,34 @@
       "lon": 103.82,
       "count": 4,
       "story": {
-        "title": "Indonesia gas supply cut unlikely to have much impact on Singapore electricity prices in short term: Tan See Leng",
+        "title": "‘Keep calm and carry on’: Indonesia gas cut unlikely to hit Singapore electricity prices, says Tan See Leng",
         "description": "Global gas prices are a bigger factor in costs, says Minister for Energy, Trade and Industry (Energy and Industry) Tan See Leng.",
         "link": "https://www.channelnewsasia.com/singapore/electricity-prices-indonesia-gas-supply-cut-tan-see-leng-6490121",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 3,
+      "story": {
+        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+        "description": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+        "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 3,
+      "story": {
+        "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+        "description": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
+        "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -216,38 +228,26 @@
       }
     },
     {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 3,
       "story": {
-        "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-        "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-        "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "The Indian workers filming their work to train AI",
+        "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+        "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "How have Democrats’ policies shifted since the last major US election?",
-        "description": "From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.",
-        "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
       "count": 2,
       "story": {
-        "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-        "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+        "title": "Three released without charge after fatal arson attack in Ireland",
+        "description": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+        "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -264,87 +264,51 @@
       }
     },
     {
-      "name": "Nairobi",
-      "lat": -1.29,
-      "lon": 36.82,
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
       "count": 2,
       "story": {
-        "title": "Two rescued after Nairobi building collapse with five still missing",
-        "description": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
-        "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+        "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+        "description": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+        "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Jordan",
-      "lat": 30.59,
-      "lon": 36.24,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 2,
       "story": {
-        "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-        "description": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
-        "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 2,
-      "story": {
-        "title": "The Indian workers filming their work to train AI",
-        "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-        "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 2,
-      "story": {
-        "title": "Violence breaks out across Europe after another day of protests",
-        "description": "Police clashed with demonstrators in France, Italy and Spain over rising living costs and cuts to public services.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
+        "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
+        "description": "As Egypt considers defending Saudi Arabia against Houthi attacks, memories of its war in Yemen in the 1960s loom large.",
+        "link": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Bulgaria",
+      "lat": 42.73,
+      "lon": 25.49,
       "count": 2,
       "story": {
-        "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
-        "description": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+        "title": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
+        "description": "The two leading candidates condemn recent deadly Black Sea drone strikes but differ on the war more broadly.",
+        "link": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 2,
       "story": {
-        "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
-        "description": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tel Aviv",
-      "lat": 32.08,
-      "lon": 34.78,
-      "count": 2,
-      "story": {
-        "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-        "description": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Another Perth beach closed as more whale remains found",
+        "description": "All beaches in Sorrento, where a man was attacked and killed by a great white shark last month, have been closed after a whale's tail was found offshore.",
+        "link": "https://www.abc.net.au/news/2026-10-25/sorrento-beach-closed-whale-carcass/107306512",
+        "source": "ABC News AU"
       }
     },
     {
@@ -360,36 +324,12 @@
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 2,
-      "story": {
-        "title": "Trump eases Canada tariffs ahead of US midterms",
-        "description": "The move comes as Trump's Republican Party scrambles to maintain control of the US Congress, with a Republican candidate in a key Senate race saying she had lobbied to lift the tariffs on Canadian products.",
-        "link": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 2,
-      "story": {
-        "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
-        "description": "Russia's attacks on the Ukrainian capital are hitting harder and more frequently, making 2026 one of the long war's bloodiest years for Kyiv. DW asked people on the ground what life is like.",
-        "link": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Indonesia",
       "lat": -2.5,
       "lon": 118.0,
       "count": 2,
       "story": {
-        "title": "Indonesia gas supply cut unlikely to have much impact on Singapore electricity prices in short term: Tan See Leng",
+        "title": "‘Keep calm and carry on’: Indonesia gas cut unlikely to hit Singapore electricity prices, says Tan See Leng",
         "description": "Global gas prices are a bigger factor in costs, says Minister for Energy, Trade and Industry (Energy and Industry) Tan See Leng.",
         "link": "https://www.channelnewsasia.com/singapore/electricity-prices-indonesia-gas-supply-cut-tan-see-leng-6490121",
         "source": "CNA"
@@ -401,21 +341,21 @@
       "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-        "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-        "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+        "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+        "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
       "count": 1,
       "story": {
-        "title": "Three released without charge after fatal arson attack in Ireland",
-        "description": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
-        "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+        "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+        "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -444,15 +384,51 @@
       }
     },
     {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
+      "name": "Nairobi",
+      "lat": -1.29,
+      "lon": 36.82,
       "count": 1,
       "story": {
-        "title": "Argentina drops investigation into President Milei over crypto fraud",
-        "description": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
-        "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+        "title": "Two rescued after Nairobi building collapse with five still missing",
+        "description": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
+        "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 1,
+      "story": {
+        "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+        "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
+        "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Abu Dhabi",
+      "lat": 24.47,
+      "lon": 54.37,
+      "count": 1,
+      "story": {
+        "title": "UFC 333: Volkanovski knocks out Evloev to retain featherweight title",
+        "description": "Alexander Volkanovski secures a technical knockout in the closing seconds of round two at UFC 333 in Abu Dhabi, UAE.",
+        "link": "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 1,
+      "story": {
+        "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
+        "description": "As Egypt considers defending Saudi Arabia against Houthi attacks, memories of its war in Yemen in the 1960s loom large.",
+        "link": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -468,49 +444,13 @@
       }
     },
     {
-      "name": "Bulgaria",
-      "lat": 42.73,
-      "lon": 25.49,
-      "count": 1,
-      "story": {
-        "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
-        "description": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.",
-        "link": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Violence breaks out across Europe after another day of protests",
-        "description": "Police clashed with demonstrators in France, Italy and Spain over rising living costs and cuts to public services.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-        "description": "Houthi missiles reportedly struck a number of targets in Yemen, including Aden&#039;s airport and a coastguard base.",
-        "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "New Zealand",
       "lat": -41.0,
       "lon": 174.0,
       "count": 1,
       "story": {
-        "title": "Live: Diamonds play Constellation Cup on home soil",
-        "description": "Australia is trailing New Zealand in the Constellation Cup 2-0 and fighting to keep hold of the coveted trophy in game three in Sydney. Follow for live updates.",
+        "title": "Diamonds great says coach 'safe for now' after Constellation Cup loss",
+        "description": "Australia loses game three of the Constellation Cup series against New Zealand to hand the trophy back to the Silver Ferns in Sydney, with Diamonds coach Stacey Marinkovich under pressure ahead of next year's Netball Wor",
         "link": "https://www.abc.net.au/news/2026-10-25/constellation-cup-netball-diamonds-silver-ferns-game-three/107306516",
         "source": "ABC News AU"
       }
@@ -528,15 +468,27 @@
       }
     },
     {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
+      "name": "Tel Aviv",
+      "lat": 32.08,
+      "lon": 34.78,
       "count": 1,
       "story": {
-        "title": "WA government to consider return of Perth to Albany passenger rail service",
-        "description": "There have been several attempts to bring back the passenger line since it was scrapped in 1978. None has been successful, but with the proposed WA government buyback of the state's freight rail network, a new opportunit",
-        "link": "https://www.abc.net.au/news/2026-10-25/return-of-passenger-rail-perth-to-albany-to-be-considered/107296124",
+        "title": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
+        "description": "Tens of thousands of people have gathered in a final pre-election protest against Israel's prime minister and his government.",
+        "link": "https://www.abc.net.au/news/2026-10-25/thousands-rally-in-tel-aviv-days-ahead-of-israel-election/107306000",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Oslo",
+      "lat": 59.91,
+      "lon": 10.75,
+      "count": 1,
+      "story": {
+        "title": "Prague honours Roma resistance fighters against Hitler",
+        "description": "More than 1,400 Roma fought against the German Nazi occupation in Czechoslovakia. A new exhibition in Prague showcases the stories of partisans and soldiers whose fates barely received any attention for decades.",
+        "link": "https://www.dw.com/en/prague-honours-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -548,6 +500,54 @@
         "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
         "description": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
         "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
+      "count": 1,
+      "story": {
+        "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+        "description": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
+        "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Libya",
+      "lat": 26.34,
+      "lon": 17.23,
+      "count": 1,
+      "story": {
+        "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+        "description": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
+        "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 1,
+      "story": {
+        "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
+        "description": "North Korean leader Kim Jong Un travelled to China’s border city of Dandong via a newly opened bridge linking the two countries, where he met a senior Chinese official.",
+        "link": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Kremlin",
+      "lat": 55.75,
+      "lon": 37.62,
+      "count": 1,
+      "story": {
+        "title": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
+        "description": "Japan is demanding access to a journalist who was arrested by Russian security services. The Kremlin claims that Japan is using journalists as spies.",
+        "link": "https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
