@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:03:39+00:00",
+  "generated_at": "2026-10-25T14:31:33+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,8 +12,8 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-      "description": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
+      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+      "description": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
       "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -38,15 +38,15 @@
       "source": "BBC News"
     },
     {
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "description": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Australian MP's condition improves after alleged car attack",
-      "description": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
-      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -84,10 +84,22 @@
       }
     },
     {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 8,
+      "story": {
+        "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+        "description": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
+        "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 14,
+      "count": 8,
       "story": {
         "title": "Israel to close West Bank crossings on election day as crackdown escalates",
         "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
@@ -99,7 +111,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 10,
+      "count": 8,
       "story": {
         "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
         "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
@@ -108,10 +120,22 @@
       }
     },
     {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 8,
+      "story": {
+        "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
+        "description": "Reports say Pentagon has drawn up plans for strikes after midterm polls, but analysts question what it could achieve.",
+        "link": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 7,
+      "count": 5,
       "story": {
         "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
         "description": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
@@ -120,15 +144,15 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 6,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 5,
       "story": {
-        "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-        "description": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
-        "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "The Indian workers filming their work to train AI",
+        "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+        "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -144,26 +168,14 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 4,
       "story": {
-        "title": "No order, no seat: Starbucks China rolls out new store policy",
-        "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
-        "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 4,
-      "story": {
-        "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
-        "description": "The former US president warns of rising costs, corruption and threats to democratic values ahead of the November 3 vote.",
-        "link": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss",
+        "title": "Saudi air defences intercept Houthi barrage near Mecca",
+        "description": "Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen&#039;s Taiz.",
+        "link": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -180,30 +192,6 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 4,
-      "story": {
-        "title": "‘Keep calm and carry on’: Indonesia gas cut unlikely to hit Singapore electricity prices, says Tan See Leng",
-        "description": "Global gas prices are a bigger factor in costs, says Minister for Energy, Trade and Industry (Energy and Industry) Tan See Leng.",
-        "link": "https://www.channelnewsasia.com/singapore/electricity-prices-indonesia-gas-supply-cut-tan-see-leng-6490121",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 3,
-      "story": {
-        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-        "description": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-        "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Nigeria",
       "lat": 9.1,
       "lon": 8.7,
@@ -212,6 +200,18 @@
         "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
         "description": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
         "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 3,
+      "story": {
+        "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+        "description": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+        "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -228,15 +228,15 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 2,
       "story": {
-        "title": "The Indian workers filming their work to train AI",
-        "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-        "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+        "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -264,38 +264,38 @@
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 2,
       "story": {
-        "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-        "description": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
-        "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+        "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+        "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
+        "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
-        "description": "As Egypt considers defending Saudi Arabia against Houthi attacks, memories of its war in Yemen in the 1960s loom large.",
-        "link": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "No order, no seat: Starbucks China rolls out new store policy",
+        "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
-      "name": "Bulgaria",
-      "lat": 42.73,
-      "lon": 25.49,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
-        "description": "The two leading candidates condemn recent deadly Black Sea drone strikes but differ on the war more broadly.",
-        "link": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+        "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
+        "description": "Children in Gaza with auditory and visual challenges often have no access to specialist education.",
+        "link": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -324,14 +324,14 @@
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "‘Keep calm and carry on’: Indonesia gas cut unlikely to hit Singapore electricity prices, says Tan See Leng",
-        "description": "Global gas prices are a bigger factor in costs, says Minister for Energy, Trade and Industry (Energy and Industry) Tan See Leng.",
-        "link": "https://www.channelnewsasia.com/singapore/electricity-prices-indonesia-gas-supply-cut-tan-see-leng-6490121",
+        "title": "Singapore’s Shannon Tan finishes third at Hero Women’s Indian Open",
+        "description": "Tan was the defending champion in the event.",
+        "link": "https://www.channelnewsasia.com/sport/singapores-shannon-tan-finishes-third-hero-womens-indian-open-6490431",
         "source": "CNA"
       }
     },
@@ -344,18 +344,6 @@
         "title": "Israel to close West Bank crossings on election day as crackdown escalates",
         "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
         "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
-      "count": 1,
-      "story": {
-        "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-        "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -396,50 +384,86 @@
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
       "count": 1,
       "story": {
-        "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-        "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
-        "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+        "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+        "description": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+        "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Abu Dhabi",
-      "lat": 24.47,
-      "lon": 54.37,
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
       "count": 1,
       "story": {
-        "title": "UFC 333: Volkanovski knocks out Evloev to retain featherweight title",
-        "description": "Alexander Volkanovski secures a technical knockout in the closing seconds of round two at UFC 333 in Abu Dhabi, UAE.",
-        "link": "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss",
+        "title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
+        "description": "Bangladesh expected to surpass India&#039;s per capita GDP this year, but that&#039;s not the complete economic picture.",
+        "link": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
+      "name": "Lisbon",
+      "lat": 38.72,
+      "lon": -9.14,
       "count": 1,
       "story": {
-        "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
-        "description": "As Egypt considers defending Saudi Arabia against Houthi attacks, memories of its war in Yemen in the 1960s loom large.",
-        "link": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
+        "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
+        "description": "Officers baton-charge demonstrators in overnight operation as activists demand government action on housing crisis.",
+        "link": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Algeria",
+      "lat": 28.03,
+      "lon": 1.66,
       "count": 1,
       "story": {
-        "title": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
-        "description": "Barcelona vs Real Madrid will mark the return of Spanish football&#039;s fiercest rivalry between two star-studded teams.",
-        "link": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss",
+        "title": "Algerian parliament’s upper house approves troop deployment to Niger",
+        "description": "Vote to send forces comes after a recent defence pact between the two neighbouring countries.",
+        "link": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 1,
+      "story": {
+        "title": "Pakistan drops Shan Masood from Sri Lanka Test squad as Agha, Rizwan return",
+        "description": "Ali Usman has also been recalled to the Test team after being sent home from the England tour.",
+        "link": "https://www.aljazeera.com/sports/2026/10/25/pakistan-axe-shan-masood-from-sri-lanka-test-squad-as-agha-rizwan-return?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+        "description": "US President Donald Trump sarcastically responded to a reporter asking about possible renewed attacks on Iran.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
+      "count": 1,
+      "story": {
+        "title": "Qatar official calls for peace and security to boost trade, investment",
+        "description": "The Qatari minister of state for trade says peace and security are essential for prosperity in trade and investment.",
+        "link": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -492,6 +516,18 @@
       }
     },
     {
+      "name": "Bulgaria",
+      "lat": 42.73,
+      "lon": 25.49,
+      "count": 1,
+      "story": {
+        "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
+        "description": "Bulgarians are voting in presidential elections amid security concerns over attacks on ships in the Black Sea. The vote for the largely ceremonial post is seen as a test of the popularity of Prime Minister Rumen Radev.",
+        "link": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Turkey",
       "lat": 38.96,
       "lon": 35.24,
@@ -512,42 +548,6 @@
         "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
         "description": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
         "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
-      "count": 1,
-      "story": {
-        "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
-        "description": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
-        "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 1,
-      "story": {
-        "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
-        "description": "North Korean leader Kim Jong Un travelled to China’s border city of Dandong via a newly opened bridge linking the two countries, where he met a senior Chinese official.",
-        "link": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Kremlin",
-      "lat": 55.75,
-      "lon": 37.62,
-      "count": 1,
-      "story": {
-        "title": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
-        "description": "Japan is demanding access to a journalist who was arrested by Russian security services. The Kremlin claims that Japan is using journalists as spies.",
-        "link": "https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
