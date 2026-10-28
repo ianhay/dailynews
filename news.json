@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T00:21:52+00:00",
+  "generated_at": "2026-10-28T06:08:23+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -87,31 +87,19 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 11,
+      "count": 10,
       "story": {
-        "title": "Breaking: Star Casino fined $260m for money laundering violations",
-        "description": "Australia's financial intelligence agency, AUSTRAC, had sought a much steeper fine that could have forced the casino company into financial collapse.",
-        "link": "https://www.abc.net.au/news/2026-10-28/star-entertainment-fined-over-casino-money-laundering-austrac/107317384",
+        "title": "SA MP recounts 'non-stop' messages and being followed to her car",
+        "description": "Two female South Australian politicians have revealed their separate experiences with a man who has been cautioned by police for stalking — including an incident where one of them was followed back to her car.",
+        "link": "https://www.abc.net.au/news/2026-10-28/sa-mps-lucy-hood-and-ella-shaw-stalking-experiences/107318454",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 9,
-      "story": {
-        "title": "Norway and Finland leaders hold rare call with Putin",
-        "description": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-        "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
         "description": "Iranian president&#039;s words came at summit for gas exporting countries in Russia.",
@@ -120,14 +108,26 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 8,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 7,
       "story": {
-        "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-        "description": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-        "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+        "title": "Norway and Finland leaders hold rare call with Putin",
+        "description": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+        "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 6,
+      "story": {
+        "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+        "description": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+        "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -144,14 +144,50 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 6,
+      "story": {
+        "title": "The Indian workers filming their work to train AI",
+        "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+        "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
       "count": 5,
       "story": {
-        "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-        "description": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-        "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+        "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+        "description": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+        "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 4,
+      "story": {
+        "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+        "description": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+        "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Jordan",
+      "lat": 30.59,
+      "lon": 36.24,
+      "count": 4,
+      "story": {
+        "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+        "description": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+        "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -161,9 +197,9 @@
       "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Teen charged over Sydney house fire with 88yo woman inside",
-        "description": "The blaze in Abbotsford left four people in hospital and a home completely destroyed.",
-        "link": "https://www.abc.net.au/news/2026-10-28/nsw-person-arrest-over-abbotsford-arson-attack/107317066",
+        "title": "Former teacher Tayla Lee Brailey jailed for sex acts with students",
+        "description": "A woman who taught at a Sydney high school is given a 15-month prison sentence for sexual offences involving two male students.",
+        "link": "https://www.abc.net.au/news/2026-10-28/tayla-lee-brailey-sentencing/107318292",
         "source": "ABC News AU"
       }
     },
@@ -180,50 +216,14 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 4,
-      "story": {
-        "title": "Germany's Merz says erosion of global order means middle powers in Europe and Asia must be more assertive",
-        "description": "During a visit to Singapore, German Chancellor Friedrich Merz said Europe and Germany want to increase free trade with open competition, reliability and a rules-based order.",
-        "link": "https://www.dw.com/en/germany-s-merz-says-erosion-of-global-order-means-middle-powers-in-europe-and-asia-must-be-more-assertive/live-79772992?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 3,
       "story": {
-        "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-        "description": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-        "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
-      "count": 3,
-      "story": {
-        "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-        "description": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
-        "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Netherlands",
-      "lat": 52.13,
-      "lon": 5.29,
-      "count": 3,
-      "story": {
-        "title": "Netherlands pulls out of Eurovision again over Israel participation",
-        "description": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
-        "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+        "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+        "description": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+        "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -240,26 +240,14 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "The Indian workers filming their work to train AI",
-        "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-        "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 3,
-      "story": {
-        "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
-        "description": "Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
+        "title": "Mahmoud Khalil credits Palestinian activism for reshaping US politics",
+        "description": "Khalil returned to Columbia University to discuss his memoir detailing his arrest and detention by US immigration agents",
+        "link": "https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -288,14 +276,14 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
       "count": 2,
       "story": {
-        "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-        "description": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-        "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+        "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+        "description": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+        "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -312,14 +300,14 @@
       }
     },
     {
-      "name": "Jordan",
-      "lat": 30.59,
-      "lon": 36.24,
+      "name": "Netherlands",
+      "lat": 52.13,
+      "lon": 5.29,
       "count": 2,
       "story": {
-        "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-        "description": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
-        "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+        "title": "Netherlands pulls out of Eurovision again over Israel participation",
+        "description": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
+        "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -336,6 +324,18 @@
       }
     },
     {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 2,
+      "story": {
+        "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+        "description": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
+        "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
       "name": "Tehran",
       "lat": 35.7,
       "lon": 51.4,
@@ -345,6 +345,30 @@
         "description": "Officials from Riyadh, Islamabad, Ankara and Tehran met in Iran.",
         "link": "https://www.aljazeera.com/video/inside-story/2026/10/27/will-players-in-the-gulf-establish-a-new-security-framework?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
+      "count": 2,
+      "story": {
+        "title": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
+        "description": "With the US reopening talks with Myanmar's military-backed government, and several Southeast Asian countries restarting diplomatic contacts, the EU is facing uncomfortable questions about its own boycott of the junta.",
+        "link": "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 2,
+      "story": {
+        "title": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine",
+        "description": "Finland and Norway have called Putin about ending the Ukraine war, drawing Danish criticism. The dispute highlights divisions over European engagement with Moscow ahead of planned US-led peace talks.",
+        "link": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -396,12 +420,36 @@
       }
     },
     {
+      "name": "New Delhi",
+      "lat": 28.6,
+      "lon": 77.2,
+      "count": 1,
+      "story": {
+        "title": "Why India has soured on Trump ahead of US midterms",
+        "description": "Seven years after Modi backed Trump, New Delhi may now hope US midterm losses leave the president chastened.",
+        "link": "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
+      "count": 1,
+      "story": {
+        "title": "‘This is America’: US envoy scolds Cuban diplomat at UN",
+        "description": "US envoy Mike Waltz repeatedly told Cuba’s UN team, ‘This is America’, during a heated clash at UN headquarters",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Venezuela",
       "lat": 6.4,
       "lon": -66.6,
       "count": 1,
       "story": {
-        "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
+        "title": "Trump touts Venezuelan oil at Texas rally ahead of US midterms",
         "description": "US president seeks to highlight Venezuela operation as Iran war makes affordability a key midterm issue.",
         "link": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
         "source": "Al Jazeera"
@@ -468,87 +516,39 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
-        "description": "Israel&#039;s military operation in West Bank&#039;s Hebron has disrupted Palestinian life, including a postponed wedding.",
-        "link": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 1,
-      "story": {
-        "title": "Lebanese and Syrians expect no change in Israeli policy after election",
-        "description": "Residents in Lebanon and Syria expect little change in Israeli policy after the election.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
-      "count": 1,
-      "story": {
-        "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
-        "description": "Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "Fossil fuel ad ban could 'jeopardise' TDU village, SA government says",
-        "description": "A ban on oil, coal and gas company ads from public spaces in Adelaide CBD including bus stops, banners and billboards is approved by the city council, with the instigator of the motion saying local government has an obli",
-        "link": "https://www.abc.net.au/news/2026-10-28/adelaide-city-council-bans-oil-coal-and-gas-ads/107317088",
+        "title": "Neo-Nazi Thomas Sewell pleads guilty to Camp Sovereignty violence",
+        "description": "Neo-Nazi Thomas Sewell and three other men plead guilty to charges linked to an alleged attack at Melbourne's Camp Sovereignty last year.",
+        "link": "https://www.abc.net.au/news/2026-10-28/camp-sovereignty-incident-thomas-sewell-court-guilty-plea/107317606",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "Private school headmaster sounds warning on ATAR decline",
-        "description": "The headmaster of one of Perth's most prestigious private schools warns Year 12s may not be challenging themselves, as more WA students opt out of ATAR exams.",
-        "link": "https://www.abc.net.au/news/2026-10-28/scotch-college-principal-sounds-warning-atar-decline/107303360",
+        "title": "Riverfire fireworks delayed after CFMEU members let on to construction site",
+        "description": "Fireworks for the 2023 Riverfire festival in Brisbane were delayed after CFMEU members were walking out on an under-construction bridge and into the fireworks exclusion zone.",
+        "link": "https://www.abc.net.au/news/2026-10-28/queensland-cfmeu-inquiry-riverfire-fireworks-bridge/107319344",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Tokyo",
-      "lat": 35.68,
-      "lon": 139.77,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 1,
       "story": {
-        "title": "Maya Joint makes mockery of rankings with big win in Tokyo",
-        "description": "Maya Joint has made a mockery of the tennis rankings with an impressive display to uproot one of the top seeds at the Pan Pacific Open event in Tokyo.",
-        "link": "https://www.abc.net.au/news/2026-10-28/maya-joint-defeats-sorana-cirstea-at-pan-pacific-open-in-tokyo/107317294",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "Australia clawed its way back into the third Test, but big challenges await",
-        "description": "Both Australia and South Africa will feel they had the better of certain moments on day one, setting up a fascinating second day's play.",
-        "link": "https://www.abc.net.au/news/2026-10-28/analysis-on-australia-and-third-test-in-cape-town/107317062",
-        "source": "ABC News AU"
+        "title": "Experts urge 'global health emergency' as climate harms accelerate",
+        "description": "Heat, drought and storms linked to climate change are already killing millions worldwide. Researchers want global warming to be declared a global health emergency as the health harms from it escalate faster than ever.",
+        "link": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
