@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:26:34+00:00",
+  "generated_at": "2026-10-29T02:44:04+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -52,6 +52,12 @@
   ],
   "economy": [
     {
+      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+      "description": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
       "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
       "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
       "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
@@ -62,15 +68,21 @@
       "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
       "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Budget 2026: Key points at a glance",
-      "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
+    {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 16,
+      "story": {
+        "title": "Website reporting on crime in Victoria staffed by Philippines workers",
+        "description": "Victoria Crime News is a news website that purports to use local journalists. But when ABC NEWS Verify contacted its owner, he admitted the articles on his site were not written by Australians.",
+        "link": "https://www.abc.net.au/news/2026-10-29/crime-in-victoria-philippines-workers-pink-slime/107314166",
+        "source": "ABC News AU"
+      }
+    },
     {
       "name": "Israel",
       "lat": 31.5,
@@ -84,22 +96,22 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 13,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 10,
       "story": {
-        "title": "Leaked letter reveals regulator's 'concerns' about gas giant Santos",
-        "description": "Australia's second-largest oil and gas company, Santos, has been issued a warning by the national regulator following inspections of its multi-billion-dollar Barossa project.",
-        "link": "https://www.abc.net.au/news/2026-10-29/santos-warned-over-barossa-non-compliance-flaring/107284152",
-        "source": "ABC News AU"
+        "title": "High-speed train crash kills at least 68 people in Spain",
+        "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+        "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 11,
+      "count": 9,
       "story": {
         "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
         "description": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
@@ -111,7 +123,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 9,
+      "count": 8,
       "story": {
         "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
         "description": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
@@ -120,22 +132,10 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 8,
-      "story": {
-        "title": "High-speed train crash kills at least 68 people in Spain",
-        "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-        "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Brazil",
       "lat": -14.2,
       "lon": -51.9,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
         "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
@@ -147,12 +147,36 @@
       "name": "Madrid",
       "lat": 40.42,
       "lon": -3.7,
-      "count": 5,
+      "count": 6,
       "story": {
         "title": "Watch: At the scene of Spain's deadly train crash",
         "description": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
         "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 6,
+      "story": {
+        "title": "EU countries block Canada's 'associate membership' plan",
+        "description": "European Commission President Ursula von der Leyen wanted to give Canada a special status within the EU. But Germany and other member states have raised objections ahead of a summit in Montreal.",
+        "link": "https://www.dw.com/en/eu-countries-block-canada-s-associate-membership-plan/a-79791601?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 5,
+      "story": {
+        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -168,63 +192,39 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 5,
+      "name": "Serbia",
+      "lat": 44.02,
+      "lon": 21.01,
+      "count": 3,
       "story": {
-        "title": "Gen Z protests in Germany: Is France-style violence looming?",
-        "description": "Young people in Germany will take to the streets this weekend to demand education and action on climate change. Politicians warn that the protests could become violent, as in France, but the situations are different.",
-        "link": "https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-all-1573-rdf",
+        "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+        "description": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+        "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+        "description": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+        "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Germany's Merz says erosion of global order means middle powers in Europe and Asia must be more assertive",
+        "description": "During a visit to Singapore, German Chancellor Friedrich Merz said Europe and Germany want to increase free trade with open competition, reliability and a rules-based order.",
+        "link": "https://www.dw.com/en/germany-s-merz-says-erosion-of-global-order-means-middle-powers-in-europe-and-asia-must-be-more-assertive/live-79772992?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 4,
-      "story": {
-        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "The Indian workers filming their work to train AI",
-        "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-        "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 3,
-      "story": {
-        "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
-        "description": "Russian President Vladimir Putin told the leaders of dozens of African nations that Moscow was their best partner.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 3,
-      "story": {
-        "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
-        "description": "The EU has proposed to make Canada its first associate member amid tensions over US tariffs.",
-        "link": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -243,18 +243,6 @@
       "name": "Belgrade",
       "lat": 44.79,
       "lon": 20.45,
-      "count": 2,
-      "story": {
-        "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-        "description": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
-        "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
       "count": 2,
       "story": {
         "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
@@ -288,6 +276,18 @@
       }
     },
     {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 2,
+      "story": {
+        "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+        "description": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Cuba",
       "lat": 21.52,
       "lon": -77.78,
@@ -296,6 +296,18 @@
         "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
         "description": "US points to increase in abstentions in General Assembly as evidence that push to isolate Cuba is slowly succeeding.",
         "link": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 2,
+      "story": {
+        "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
+        "description": "Russian President Vladimir Putin told the leaders of dozens of African nations that Moscow was their best partner.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -312,39 +324,27 @@
       }
     },
     {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 2,
       "story": {
-        "title": "Jerusalem Daily: What’s next after Israel’s elections?",
-        "description": "Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot are both claiming victory in Israel’s election",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
+        "title": "Students on hunger strike in India demand restoration of student union",
+        "description": "Students at New Delhi’s Jamia Millia Islamia university are on hunger strike demanding a student union.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Netherlands",
-      "lat": 52.13,
-      "lon": 5.29,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 2,
       "story": {
-        "title": "Kremlin says European countries not included in next Ukraine talks",
-        "description": "The comment comes as UK and Netherlands pledge extra military support for Kyiv.",
-        "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 2,
-      "story": {
-        "title": "Police fatally shoot woman allegedly armed with axe in Adelaide's east",
-        "description": "Police have shot and killed a woman who was allegedly armed with an axe during a confrontation at Firle in Adelaide's eastern suburbs.",
-        "link": "https://www.abc.net.au/news/2026-10-29/police-fatally-shoot-woman-at-firle-in-adelaide/107321572",
-        "source": "ABC News AU"
+        "title": "EU countries block Canada's 'associate membership' plan",
+        "description": "European Commission President Ursula von der Leyen wanted to give Canada a special status within the EU. But Germany and other member states have raised objections ahead of a summit in Montreal.",
+        "link": "https://www.dw.com/en/eu-countries-block-canada-s-associate-membership-plan/a-79791601?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -380,18 +380,6 @@
         "title": "Gen Z protests in Germany: Is France-style violence looming?",
         "description": "Young people in Germany will take to the streets this weekend to demand education and action on climate change. Politicians warn that the protests could become violent, as in France, but the situations are different.",
         "link": "https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 2,
-      "story": {
-        "title": "Germany's Merz says erosion of global order means middle powers in Europe and Asia must be more assertive",
-        "description": "During a visit to Singapore, German Chancellor Friedrich Merz said Europe and Germany want to increase free trade with open competition, reliability and a rules-based order.",
-        "link": "https://www.dw.com/en/germany-s-merz-says-erosion-of-global-order-means-middle-powers-in-europe-and-asia-must-be-more-assertive/live-79772992?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -468,6 +456,30 @@
       }
     },
     {
+      "name": "Bucharest",
+      "lat": 44.43,
+      "lon": 26.1,
+      "count": 1,
+      "story": {
+        "title": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+        "description": "The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.",
+        "link": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Romania",
+      "lat": 45.94,
+      "lon": 24.97,
+      "count": 1,
+      "story": {
+        "title": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+        "description": "The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.",
+        "link": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Indonesia",
       "lat": -2.5,
       "lon": 118.0,
@@ -504,51 +516,39 @@
       }
     },
     {
-      "name": "Khartoum",
-      "lat": 15.5,
-      "lon": 32.55,
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
       "count": 1,
       "story": {
-        "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-        "description": "Soaring food prices and shrinking incomes force families in Sudan&#039;s capital to borrow money and skip meals.",
-        "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+        "title": "Jerusalem Daily: What’s next after Israel’s elections?",
+        "description": "Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot are both claiming victory in Israel’s election",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
       "count": 1,
       "story": {
-        "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-        "description": "Soaring food prices and shrinking incomes force families in Sudan&#039;s capital to borrow money and skip meals.",
-        "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Website reporting on crime in Victoria staffed by Philippines workers",
+        "description": "Victoria Crime News is a news website that purports to use local journalists. But when ABC NEWS Verify contacted its owner, he admitted the articles on his site were not written by Australians.",
+        "link": "https://www.abc.net.au/news/2026-10-29/crime-in-victoria-philippines-workers-pink-slime/107314166",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
       "count": 1,
       "story": {
-        "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
-        "description": "PM Abiy Ahmed makes announcement during a Moscow summit as Ethiopia battles armed groups in Tigray and Amhara.",
-        "link": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kremlin",
-      "lat": 55.75,
-      "lon": 37.62,
-      "count": 1,
-      "story": {
-        "title": "Kremlin says European countries not included in next Ukraine talks",
-        "description": "The comment comes as UK and Netherlands pledge extra military support for Kyiv.",
-        "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Scans reveal extent of Steve Smith's neck injury ahead of Test summer",
+        "description": "The Australian team says Steve Smith is expected to return for the New Zealand Test series, kicking off a run of 10 Tests in three months.",
+        "link": "https://www.abc.net.au/news/2026-10-29/steve-smith-neck-injury-confirmed-by-scans/107321994",
+        "source": "ABC News AU"
       }
     }
   ]
