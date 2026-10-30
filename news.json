@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:14:20+00:00",
+  "generated_at": "2026-10-30T20:02:11+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Spain transport minister says he won't resign over high-speed rail disaster",
       "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
       "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
@@ -22,15 +28,15 @@
       "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
       "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-      "description": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "australia": [
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
       "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
@@ -42,20 +48,14 @@
       "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
       "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-      "description": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "economy": [
     {
-      "title": "US tech stocks see sharp falls over AI cost concerns",
-      "description": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
       "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
+      "source": "BBC News"
     },
     {
       "title": "Faisal Islam: This Budget was micro and that was deliberate",
@@ -72,18 +72,6 @@
   ],
   "places": [
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 14,
-      "story": {
-        "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-        "description": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-        "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
@@ -96,22 +84,10 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 10,
-      "story": {
-        "title": "Six dead after helicopter crashes in northern Indian state",
-        "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
-        "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 8,
+      "count": 9,
       "story": {
         "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
         "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
@@ -120,26 +96,14 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
       "count": 8,
       "story": {
-        "title": "Ukraine invests in firepower as it inflicts a new Russian casualty record",
-        "description": "Recent Starlink suspension did not much affect Ukrainian lethality, but Kyiv shows it is losing trust in the US.",
-        "link": "https://www.aljazeera.com/news/2026/10/30/ukraine-invests-in-firepower-as-it-inflicts-a-new-russian-casualty-record?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 7,
-      "story": {
-        "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-        "description": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+        "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+        "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -147,7 +111,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Healey provides some breathing space but things still set to get worse for most",
         "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
@@ -156,14 +120,50 @@
       }
     },
     {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 6,
+      "story": {
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 6,
+      "story": {
+        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+        "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+        "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 6,
+      "story": {
+        "title": "New tennis number one as Zverev finally reaches the top",
+        "description": "After years being blocked from the top of the game by a series of tennis greats, Germany's Alexander Zverev finally clinches the men's world number one ranking.",
+        "link": "https://www.abc.net.au/news/2026-10-31/new-tennis-number-one-as-zverev-finally-reaches-the-top/107331266",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
       "count": 5,
       "story": {
-        "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-        "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-        "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+        "title": "Six dead after helicopter crashes in northern Indian state",
+        "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
+        "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,75 +180,51 @@
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 5,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 4,
       "story": {
-        "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-        "description": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
-        "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
+        "description": "Prime Minister claims the parties accepted foreign funding.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 3,
+      "story": {
+        "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
+        "description": "Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
-      "count": 4,
+      "count": 3,
       "story": {
-        "title": "Retiring Swan Rampe 'hurt' over Pullman Hotel saga",
-        "description": "Retiring Sydney legend Dane Rampe has admitted he was personally rocked by the events involving several of his teammates at the Pullman Hotel earlier this year.",
-        "link": "https://www.abc.net.au/news/2026-10-30/retiring-sydney-swans-dane-rampe-admits-hurt-pullman-hotel-saga/107329700",
-        "source": "ABC News AU"
+        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
+        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
+        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
+        "source": "SBS News"
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 2,
       "story": {
-        "title": "Palestinian child survives Israeli gunshot to the head",
-        "description": "Imad Salem Zahra, the Palestinian child whose photo went viral after he was shot in the head by Israeli soldiers.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tokyo",
-      "lat": 35.68,
-      "lon": 139.77,
-      "count": 3,
-      "story": {
-        "title": "World number one Rybakina withdraws from Pan Pacific Open with neck injury",
-        "description": "Elena Rybakina expects to return for next month&#039;s WTA Finals in Indian Wells after withdrawing from the Tokyo quarterfinals.",
-        "link": "https://www.aljazeera.com/sports/2026/10/30/world-number-one-rybakina-withdraws-from-pan-pacific-open-with-neck-injury?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 3,
-      "story": {
-        "title": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
-        "description": "A symbol of independent journalism, Novaya Gazeta has been classed as a &#039;foreign agent&#039; by Moscow.",
-        "link": "https://www.aljazeera.com/news/2026/10/30/russia-forces-closure-of-investigative-newspaper-novaya-gazeta?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 3,
-      "story": {
-        "title": "Man fined over Neo-Nazi stickers may face prison time for Nazi salute",
-        "description": "A Canberra man who stuck white supremacist stickers across an Indigenous learning centre at the Australian National University has been fined and could face prison time for performing the Nazi salute.",
-        "link": "https://www.abc.net.au/news/2026-10-30/act-man-sentenced-nazi-salute-white-supremacist-stickers-anu/107328220",
-        "source": "ABC News AU"
+        "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+        "description": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
+        "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -260,6 +236,18 @@
         "title": "China denies allegations of spy operation targeting Nvidia CEO",
         "description": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
         "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 2,
+      "story": {
+        "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+        "description": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
+        "link": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,87 +264,27 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 2,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 1,
       "story": {
-        "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-        "description": "The defeated presidential candidate says he will lead the opposition from the US.",
-        "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+        "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+        "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+        "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 2,
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 1,
       "story": {
-        "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-        "description": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-        "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+        "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+        "description": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+        "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 2,
-      "story": {
-        "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
-        "description": "Israeli forces are treating the &#039;Yellow Line&#039;, which is encroaching westward, as &#039;a kill zone&#039;, the OHCHR says.",
-        "link": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 2,
-      "story": {
-        "title": "Ukraine invests in firepower as it inflicts a new Russian casualty record",
-        "description": "Recent Starlink suspension did not much affect Ukrainian lethality, but Kyiv shows it is losing trust in the US.",
-        "link": "https://www.aljazeera.com/news/2026/10/30/ukraine-invests-in-firepower-as-it-inflicts-a-new-russian-casualty-record?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 2,
-      "story": {
-        "title": "Italy tightens security as students, unions launch nationwide protests",
-        "description": "Rallies across the country target living costs, investment in education and the wars in the Middle East.",
-        "link": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 2,
-      "story": {
-        "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
-        "description": "As Washington and Tehran send mixed signals, analysts say trust remains a key obstacle to any deal.",
-        "link": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Seoul",
-      "lat": 37.57,
-      "lon": 126.98,
-      "count": 2,
-      "story": {
-        "title": "Seoul fears being sidelined as US reaches out to North Korea",
-        "description": "With ties between South Korea and the Trump administration strained, the South Korean government worries that Donald Trump's pursuit of a diplomatic breakthrough with Kim Jong Un may come at Seoul's expense.",
-        "link": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     },
     {
@@ -368,18 +296,6 @@
         "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
         "description": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
         "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-        "description": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
-        "link": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -396,15 +312,63 @@
       }
     },
     {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
       "count": 1,
       "story": {
-        "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-        "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
-        "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "City of London chief tops UK Black Powerlist",
+        "description": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+        "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
+      "count": 1,
+      "story": {
+        "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
+        "description": "Colombia&#039;s president plans to slash spending on a transitional justice court. But war crimes victims fear the cost.",
+        "link": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
+      "count": 1,
+      "story": {
+        "title": "Report reveals campaign promoting racist, Islamophobic, anti-Qatar views",
+        "description": "Investigation finds that years-long operation sought to portray Qatar as driving force behind mass migration to Europe.",
+        "link": "https://www.aljazeera.com/news/2026/10/30/report-reveals-campaign-promoting-racist-islamophobic-anti-qatar-views?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
+      "count": 1,
+      "story": {
+        "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
+        "description": "Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Switzerland",
+      "lat": 46.8,
+      "lon": 8.2,
+      "count": 1,
+      "story": {
+        "title": "Swiss foreign minister talks political ties on rare visit to North Korea",
+        "description": "Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.",
+        "link": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -420,99 +384,39 @@
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 1,
       "story": {
-        "title": "Irish government to assess potential for united Ireland",
-        "description": "London has to call a referendum on Irish unity if it appears likely that most Northern Irish voters would ​back it.",
-        "link": "https://www.aljazeera.com/news/2026/10/30/irish-government-to-assess-potential-for-united-ireland?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Fears blue whale decline signals changes in Bonney Upwelling ocean current",
+        "description": "Marine ecologists fear climate change is transforming the ecosystem near the border of Victoria and South Australia.",
+        "link": "https://www.abc.net.au/news/2026-10-31/blue-whale-decline-signals-shift-in-victorian-bonney-upwelling/107309462",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Irish government to assess potential for united Ireland",
-        "description": "London has to call a referendum on Irish unity if it appears likely that most Northern Irish voters would ​back it.",
-        "link": "https://www.aljazeera.com/news/2026/10/30/irish-government-to-assess-potential-for-united-ireland?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "How a 'kickstart' gift helped a Victorian man escape homelessness",
+        "description": "Jake Dell'Aquila was sleeping rough on a Melbourne beach when a stranger offered a helping hand.",
+        "link": "https://www.abc.net.au/news/2026-10-31/gift-helps-victorian-man-escape-homelessness/107328410",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Tokyo",
+      "lat": 35.68,
+      "lon": 139.77,
       "count": 1,
       "story": {
-        "title": "Sudan RSF commander defects from Hemedti’s forces",
-        "description": "Senior Rapid Support Forces commander Siddiq Ander says he has defected, in an exclusive video obtained by Al Jazeera.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/sudan-rsf-commander-defects-from-hemedtis-forces?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
-      "count": 1,
-      "story": {
-        "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
-        "description": "The mediation mission comes amid speculation about a potential resumption of hostilities.",
-        "link": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 1,
-      "story": {
-        "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
-        "description": "As Washington and Tehran send mixed signals, analysts say trust remains a key obstacle to any deal.",
-        "link": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "Dakar Rally 2027 to be held in Portugal, Morocco as Saudi hosting revoked",
-        "description": "Organisers say moving Dakar Rally, likely scheduled January 9-23, out of Saudi Arabia was &#039;exceptional and one-off&#039;.",
-        "link": "https://www.aljazeera.com/sports/2026/10/30/dakar-rally-2027-to-be-held-in-portugal-morocco-as-saudi-hosting-revoked?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
-      "count": 1,
-      "story": {
-        "title": "Dakar Rally 2027 to be held in Portugal, Morocco as Saudi hosting revoked",
-        "description": "Organisers say moving Dakar Rally, likely scheduled January 9-23, out of Saudi Arabia was &#039;exceptional and one-off&#039;.",
-        "link": "https://www.aljazeera.com/sports/2026/10/30/dakar-rally-2027-to-be-held-in-portugal-morocco-as-saudi-hosting-revoked?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Morocco",
-      "lat": 31.79,
-      "lon": -7.09,
-      "count": 1,
-      "story": {
-        "title": "Dakar Rally 2027 to be held in Portugal, Morocco as Saudi hosting revoked",
-        "description": "Organisers say moving Dakar Rally, likely scheduled January 9-23, out of Saudi Arabia was &#039;exceptional and one-off&#039;.",
-        "link": "https://www.aljazeera.com/sports/2026/10/30/dakar-rally-2027-to-be-held-in-portugal-morocco-as-saudi-hosting-revoked?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Joint's promising run in Japan ends with QF exit",
+        "description": "Australia's Maya Joint lost in the quarterfinals of the WTA 500 event in Tokyo, where top seed and world number one Elena Rybakina withdrew because of injury.",
+        "link": "https://www.abc.net.au/news/2026-10-30/maya-joints-promising-run-in-japan-ends-with-quarterfinal-exit/107330478",
+        "source": "ABC News AU"
       }
     },
     {
@@ -528,27 +432,123 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Greece",
+      "lat": 39.07,
+      "lon": 21.82,
       "count": 1,
       "story": {
-        "title": "Live: Rickelton run out sparks collapse as Australia puts clamps on",
-        "description": "South Africa is batting itself into a strong position on day four in Cape Town, with Ryan Rickelton scoring a gritty century. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-10-30/test-cricket-live-updates-south-africa-vs-australia-cape-town/107330346",
-        "source": "ABC News AU"
+        "title": "Smuggling, power, profit: Irregular migration out of eastern Libya",
+        "description": "There is currently more irregular migration between eastern Libya and Crete, Greece. It's raising questions as to what connects people smugglers with powerful militias in eastern Libya and then in turn, Europeans.",
+        "link": "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
+      "name": "Libya",
+      "lat": 26.34,
+      "lon": 17.23,
       "count": 1,
       "story": {
-        "title": "Adelaide Crows star avoids jail for running red light and hitting pedestrian",
-        "description": "Adelaide Crows defender Josh Worrell has been spared a jail sentence for hitting a pedestrian earlier this year after he ran a red light while driving to training.",
-        "link": "https://www.abc.net.au/news/2026-10-30/josh-worrell-adelaide-crows-guilty-plea/107327056",
-        "source": "ABC News AU"
+        "title": "Smuggling, power, profit: Irregular migration out of eastern Libya",
+        "description": "There is currently more irregular migration between eastern Libya and Crete, Greece. It's raising questions as to what connects people smugglers with powerful militias in eastern Libya and then in turn, Europeans.",
+        "link": "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Seoul",
+      "lat": 37.57,
+      "lon": 126.98,
+      "count": 1,
+      "story": {
+        "title": "Seoul fears being sidelined as US reaches out to North Korea",
+        "description": "With ties between South Korea and the Trump administration strained, the South Korean government worries that Donald Trump's pursuit of a diplomatic breakthrough with Kim Jong Un may come at Seoul's expense.",
+        "link": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
+      "count": 1,
+      "story": {
+        "title": "Seoul fears being sidelined as US reaches out to North Korea",
+        "description": "With ties between South Korea and the Trump administration strained, the South Korean government worries that Donald Trump's pursuit of a diplomatic breakthrough with Kim Jong Un may come at Seoul's expense.",
+        "link": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Mumbai",
+      "lat": 19.08,
+      "lon": 72.88,
+      "count": 1,
+      "story": {
+        "title": "Bollywood and the underworld — together in the spotlight?",
+        "description": "A wave of shootings and extortion threats has rattled India's film industry. This time, those claiming responsibility are very different from the Mumbai underworld that had Bollywood in its grip back in the 1990s.",
+        "link": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Nairobi",
+      "lat": -1.29,
+      "lon": 36.82,
+      "count": 1,
+      "story": {
+        "title": "Bayern Munich's Kenya friendly highlights Africa's growing pull for global sport",
+        "description": "Bayern Munich are to open Nairobi's new Raila Odinga International Stadium against Ajax as Kenya prepares for AFCON 2027. The match highlights Africa's growing sports ambitions — and questions over cost and legacy.",
+        "link": "https://www.dw.com/en/bayern-munich-s-kenya-friendly-highlights-africa-s-growing-pull-for-global-sport/a-79796753?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 1,
+      "story": {
+        "title": "Bayern Munich's Kenya friendly highlights Africa's growing pull for global sport",
+        "description": "Bayern Munich are to open Nairobi's new Raila Odinga International Stadium against Ajax as Kenya prepares for AFCON 2027. The match highlights Africa's growing sports ambitions — and questions over cost and legacy.",
+        "link": "https://www.dw.com/en/bayern-munich-s-kenya-friendly-highlights-africa-s-growing-pull-for-global-sport/a-79796753?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "Italy: Students and workers rally over living costs",
+        "description": "Students and workers have marched across Italy for more school funding and relief from rising living costs. The rallies follow weeks of school occupations and protests against higher military spending.",
+        "link": "https://www.dw.com/en/italy-students-and-workers-rally-over-living-costs/a-79807668?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 1,
+      "story": {
+        "title": "Brazil's new anti-gang law: Can it curb organized crime?",
+        "description": "A tough stance against organized crime? One year after a massacre that left more than 130 people dead, a new law aims to crack down on drug cartels in Rio's favelas.",
+        "link": "https://www.dw.com/en/brazil-s-new-anti-gang-law-can-it-curb-organized-crime/a-79799450?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
+      "count": 1,
+      "story": {
+        "title": "Many Turkish 'guest workers' hit by poverty in old age",
+        "description": "West Germany and Turkey signed an agreement allowing the temporary recruitment of workers on October 30, 1961. Sixty-five years on, many so-called 'guest workers' can't live from their pensions.",
+        "link": "https://www.dw.com/en/many-turkish-guest-workers-hit-by-poverty-in-old-age/a-79746838?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
