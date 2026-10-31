@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T05:23:45+00:00",
+  "generated_at": "2026-10-31T11:06:46+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
       "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
       "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
@@ -21,12 +27,6 @@
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
       "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
       "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -44,9 +44,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Global nature talks reach deal but money remains an issue",
-      "description": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-      "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "description": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,23 +75,11 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 15,
+      "count": 16,
       "story": {
         "title": "US approves sale of 500 Patriot missiles to Ukraine",
         "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
         "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 13,
-      "story": {
-        "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-        "description": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
-        "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -108,22 +96,22 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 7,
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 12,
       "story": {
-        "title": "Healey provides some breathing space but things still set to get worse for most",
-        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+        "description": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
+        "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
         "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
@@ -132,22 +120,10 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 6,
-      "story": {
-        "title": "Germany and France brace for protests on Halloween weekend",
-        "description": "A wave of youth-led protests has swept Europe, with demonstrators denouncing rising prices and a lack of prospects.",
-        "link": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
-      "count": 4,
+      "count": 6,
       "story": {
         "title": "Six dead after helicopter crashes in northern Indian state",
         "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
@@ -159,7 +135,7 @@
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 4,
+      "count": 6,
       "story": {
         "title": "China denies allegations of spy operation targeting Nvidia CEO",
         "description": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
@@ -168,22 +144,46 @@
       }
     },
     {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 3,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 6,
       "story": {
-        "title": "Police deployed during stand-off over control of top Poland court",
-        "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-        "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Massive Gen Z protests set to sweep cities across Germany",
+        "description": "Young people in Germany are taking to the streets in some 34 cities, calling for greater political say and a more hopeful future. The protests come amid a wave of youth demonstrations across Europe. DW has more.",
+        "link": "https://www.dw.com/en/massive-gen-z-protests-set-to-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 5,
+      "story": {
+        "title": "Healey provides some breathing space but things still set to get worse for most",
+        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 5,
+      "story": {
+        "title": "Education under fire: Gaza’s children face death on their way to school",
+        "description": "Children have faced Israeli bombs and sniper fire since the academic year resumed in Gaza.",
+        "link": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
         "description": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
@@ -192,26 +192,74 @@
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
       "count": 3,
       "story": {
-        "title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
-        "description": "The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei.",
-        "link": "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss",
+        "title": "China denies allegations of spy operation targeting Nvidia CEO",
+        "description": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
+        "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea",
+        "description": "The joint statement comes as US President Donald Trump seeks a new meeting with North Korean leader Kim Jong Un.",
+        "link": "https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 3,
       "story": {
-        "title": "Singapore's air quality remains in good-to-moderate range as haze eases",
-        "description": "The haze situation is expected to improve as inter-monsoon conditions set in, according to the Meteorological Service Singapore.",
-        "link": "https://www.channelnewsasia.com/singapore/haze-singapore-pm25-psi-oct-31-nea-6508766",
+        "title": "US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea",
+        "description": "The joint statement comes as US President Donald Trump seeks a new meeting with North Korean leader Kim Jong Un.",
+        "link": "https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 3,
+      "story": {
+        "title": "Melbourne Cup 2026: Field, barrier draw, form guide and betting",
+        "description": "The leading chances for the great race have enjoyed mixed fortunes at the barrier draw this evening. Explore our interactive form guide to all the horses et to line up in the 166th Melbourne Cup.",
+        "link": "https://www.abc.net.au/news/2026-10-31/melbourne-cup-2026-field-horses-form-guide-and-betting/107158416",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 3,
+      "story": {
+        "title": "Flavio Bolsonaro says in livestream he left Brazil due to 'persecution'",
+        "description": "In an Instagram livestream, the defeated Brazilian conservative presidential candidate says he and his wife fled to the United States \"without anyone knowing\".",
+        "link": "https://www.abc.net.au/news/2026-10-31/flavio-bolsonaro-says-he-left-brazil-because-of-persecution/107331760",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
+      "count": 3,
+      "story": {
+        "title": "Acosta wins Malaysian GP sprint, Marc Marquez extends championship lead",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/acosta-wins-malaysian-gp-sprint-marc-marquez-extends-championship-lead-6509256",
         "source": "CNA"
       }
     },
@@ -228,15 +276,75 @@
       }
     },
     {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 2,
       "story": {
-        "title": "China denies allegations of spy operation targeting Nvidia CEO",
-        "description": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+        "title": "Police deployed during stand-off over control of top Poland court",
+        "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+        "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
+      "count": 2,
+      "story": {
+        "title": "Spain train disaster clouds Sánchez chances of re-election",
+        "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+        "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 2,
+      "story": {
+        "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+        "description": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
+        "link": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
+      "count": 2,
+      "story": {
+        "title": "Education under fire: Gaza’s children face death on their way to school",
+        "description": "Children have faced Israeli bombs and sniper fire since the academic year resumed in Gaza.",
+        "link": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 2,
+      "story": {
+        "title": "Flávio Bolsonaro vows to continue father’s political fight in Brazil",
+        "description": "Flávio Bolsonaro vows to continue father&#039;s political fight in Brazil",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/flavio-bolsonaro-vows-to-continue-fathers-political-fight-in-brazil?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "A UN protection force must be urgently deployed to Palestine",
+        "description": "Israel is making Palestinian existence in Palestine increasingly impossible.",
+        "link": "https://www.aljazeera.com/opinions/2026/10/31/a-un-protection-force-must-be-urgently-deployed-to-palestine?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -252,75 +360,27 @@
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
       "count": 2,
       "story": {
-        "title": "Germany and France brace for protests on Halloween weekend",
-        "description": "A wave of youth-led protests has swept Europe, with demonstrators denouncing rising prices and a lack of prospects.",
-        "link": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 2,
-      "story": {
-        "title": "Israel's Arab parties emerge from deadlocked election as kingmakers",
-        "description": "A record turnout of Arabs, many of whom identify as Palestinian citizens of Israel, tipped the political scales in the election and turned the Arab-majority parties into kingmakers in a deadlocked result.",
-        "link": "https://www.abc.net.au/news/2026-10-31/israel-election-leaves-anti-netanyahu-arab-parties-kingmakers/107326622",
+        "title": "Two sent off after high shot and punch as Kiwis humiliate Fiji 78-0",
+        "description": "New Zealand has marched itself into the semifinals of the Rugby League World Cup with a 78-0 thrashing of Fiji, with two players being sent off from the fiery clash on the Gold Coast.",
+        "link": "https://www.abc.net.au/news/2026-10-31/new-zealand-kiwis-thrash-fiji-bati-rugby-league-world-cup/107332040",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
       "count": 2,
       "story": {
-        "title": "Seoul fears being sidelined as US reaches out to North Korea",
-        "description": "With ties between South Korea and the Trump administration strained, the South Korean government worries that Donald Trump's pursuit of a diplomatic breakthrough with Kim Jong Un may come at Seoul's expense.",
-        "link": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 2,
-      "story": {
-        "title": "Alex Marquez takes Sepang pole as injured Martin withdraws from Malaysian GP",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/alex-marquez-takes-sepang-pole-injured-martin-withdraws-malaysian-gp-6509141",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 2,
-      "story": {
-        "title": "US, South Korea, Japan vow 'complete' North Korea denuclearisation",
-        "description": "They also pledged \"full implementation\" of UN Security Council resolutions, including a ban on supporting revenue for North Korea's nuclear and ballistic missile programmes.",
-        "link": "https://www.channelnewsasia.com/east-asia/us-south-korea-japan-vow-complete-north-korea-denuclearisation-6509071",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-        "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-        "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Ferrari fastest as Verstappen says Kiwi rival should 'act a little smarter'",
+        "description": "Ferrari's Charles Leclerc was fastest in both practice sessions for a Mexico City Grand Prix set to crown 20-year-old Mercedes driver Kimi Antonelli as Formula 1's youngest champion.",
+        "link": "https://www.abc.net.au/news/2026-10-31/charles-leclerc-fastest-in-both-f1-mexico-practice-sessions/107331904",
+        "source": "ABC News AU"
       }
     },
     {
@@ -344,18 +404,6 @@
         "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
         "description": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
         "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-        "description": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
-        "link": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -384,14 +432,14 @@
       }
     },
     {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
       "count": 1,
       "story": {
-        "title": "Ebola death toll in DR Congo passes 5,000",
-        "description": "Authorities ​are struggling to find a way to control the ⁠outbreak, with no approved treatments or vaccines.",
-        "link": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
+        "title": "Lebanon charges 13 over confiscated Hezbollah explosives",
+        "description": "Group calls charges &#039;unjust&#039;, says weapons were meant to be used against Israeli forces in south Lebanon.",
+        "link": "https://www.aljazeera.com/news/2026/10/31/lebanon-charges-13-over-hezbollah-confiscated-explosives?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -401,10 +449,46 @@
       "lon": 30.22,
       "count": 1,
       "story": {
-        "title": "Port Sudan families can barely afford water as shortages persist",
-        "description": "Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply",
-        "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+        "title": "RSF senior commander defects, accusing Sudan group’s leadership of nepotism",
+        "description": "In exclusive footage obtained by Al Jazeera, Siddiq Ander describes RSF as a &#039;purely family-based project&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/10/31/rsf-senior-commander-defects-accusing-sudan-groups-leadership-of-nepotism?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 1,
+      "story": {
+        "title": "Are Houthis using Russian satellites as Saudi Arabia fends off strikes?",
+        "description": "Analysts say the seizure of state arsenals, external backing and extensive military evolution has helped the Houthis.",
+        "link": "https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Tokyo",
+      "lat": 35.68,
+      "lon": 139.77,
+      "count": 1,
+      "story": {
+        "title": "Canada’s in-form Leylah Fernandez reaches Pan Pacific Open final in Tokyo",
+        "description": "Fernandez fought back from a break down in both sets to reach the Tokyo title clash, her third final of 2026.",
+        "link": "https://www.aljazeera.com/sports/2026/10/31/leylah-fernandez-canada-pan-pacific-open-final-tokyo-tennis-wta?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 1,
+      "story": {
+        "title": "Locals protest against proposed AI data centre in Adelaide Hills",
+        "description": "Community rallies against the potential AI data centre have drawn support from opposition parties, with locals saying they will use all legal means to stop an application.",
+        "link": "https://www.abc.net.au/news/2026-10-31/ai-data-centre-protest-adelaide-hills/107332222",
+        "source": "ABC News AU"
       }
     },
     {
@@ -444,63 +528,15 @@
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
+      "name": "Mumbai",
+      "lat": 19.08,
+      "lon": 72.88,
       "count": 1,
       "story": {
-        "title": "Ferrari fastest as Verstappen says Kiwi rival should 'act a little smarter'",
-        "description": "Ferrari's Charles Leclerc was fastest in both practice sessions for a Mexico City Grand Prix set to crown 20-year-old Mercedes driver Kimi Antonelli as Formula 1's youngest champion.",
-        "link": "https://www.abc.net.au/news/2026-10-31/charles-leclerc-fastest-in-both-f1-mexico-practice-sessions/107331904",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
-      "count": 1,
-      "story": {
-        "title": "Flavio Bolsonaro says in livestream he left Brazil due to 'persecution'",
-        "description": "In an Instagram livestream, the defeated Brazilian conservative presidential candidate says he and his wife fled to the United States \"without anyone knowing\".",
-        "link": "https://www.abc.net.au/news/2026-10-31/flavio-bolsonaro-says-he-left-brazil-because-of-persecution/107331760",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 1,
-      "story": {
-        "title": "Israel's Arab parties emerge from deadlocked election as kingmakers",
-        "description": "A record turnout of Arabs, many of whom identify as Palestinian citizens of Israel, tipped the political scales in the election and turned the Arab-majority parties into kingmakers in a deadlocked result.",
-        "link": "https://www.abc.net.au/news/2026-10-31/israel-election-leaves-anti-netanyahu-arab-parties-kingmakers/107326622",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Fancied Melbourne Cup horse Defiantly ruled out by vets",
-        "description": "The Melbourne Cup field changes again, with international challenger Defiantly ruled out of the race after failing a vet inspection on Derby Day.",
-        "link": "https://www.abc.net.au/news/2026-10-31/fancied-melbourne-cup-horse-defiantly-ruled-out-by-vets/107331588",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "Police probe whether Perth murder suspect was serial killer in UK",
-        "description": "New details surrounding the prime suspect in the 1994 murder of WA jeweller Pamela Lawrence have prompted UK police to re-open multiple cold cases.",
-        "link": "https://www.abc.net.au/news/2026-10-31/pamela-lawrence-murder-new-details-cold-cases-simon-rochford/107320154",
-        "source": "ABC News AU"
+        "title": "Bollywood and the underworld — together in the spotlight?",
+        "description": "A wave of shootings and extortion threats has rattled India's film industry. This time, those claiming responsibility are very different from the Mumbai underworld that had Bollywood in its grip back in the 1990s.",
+        "link": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -512,42 +548,6 @@
         "title": "Smuggling, power, profit: Irregular migration out of eastern Libya",
         "description": "There is currently more irregular migration between eastern Libya and Crete, Greece. It's raising questions as to what connects people smugglers with powerful militias in eastern Libya and then in turn, Europeans.",
         "link": "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
-      "count": 1,
-      "story": {
-        "title": "Smuggling, power, profit: Irregular migration out of eastern Libya",
-        "description": "There is currently more irregular migration between eastern Libya and Crete, Greece. It's raising questions as to what connects people smugglers with powerful militias in eastern Libya and then in turn, Europeans.",
-        "link": "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Seoul",
-      "lat": 37.57,
-      "lon": 126.98,
-      "count": 1,
-      "story": {
-        "title": "Seoul fears being sidelined as US reaches out to North Korea",
-        "description": "With ties between South Korea and the Trump administration strained, the South Korean government worries that Donald Trump's pursuit of a diplomatic breakthrough with Kim Jong Un may come at Seoul's expense.",
-        "link": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Mumbai",
-      "lat": 19.08,
-      "lon": 72.88,
-      "count": 1,
-      "story": {
-        "title": "Bollywood and the underworld — together in the spotlight?",
-        "description": "A wave of shootings and extortion threats has rattled India's film industry. This time, those claiming responsibility are very different from the Mumbai underworld that had Bollywood in its grip back in the 1990s.",
-        "link": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
