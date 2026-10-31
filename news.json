@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:12:30+00:00",
+  "generated_at": "2026-10-31T23:35:43+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,8 +12,8 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
-      "description": "One evacuated couple says they crossed minefields in Oleshky in a search for food.",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
       "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
@@ -72,34 +72,46 @@
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 14,
+      "story": {
+        "title": "Hamilton takes F1 pole in Mexico, Piastri down in 13th",
+        "description": "Lewis Hamilton turns back the clock by taking pole for the F1 Mexico City Grand Prix, while Australian Oscar Piastri's disastrous day sees him miss out on the top 10.",
+        "link": "https://www.abc.net.au/news/2026-11-01/lewis-hamilton-on-pole-f1-mexico-city-gp-oscar-piastri-13th/106998724",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 15,
+      "count": 12,
       "story": {
-        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
-        "description": "One evacuated couple says they crossed minefields in Oleshky in a search for food.",
+        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+        "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
         "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
-      "count": 13,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 7,
       "story": {
-        "title": "South Africa hammer Australia as Harmer takes career best bowling of 6-16",
-        "description": "Simon Harmer picked a career-best 6-16 as South Africa beat Australia by 176 runs to clinch Test series 2-1.",
-        "link": "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+        "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+        "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 9,
+      "count": 7,
       "story": {
         "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
         "description": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
@@ -108,38 +120,14 @@
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 6,
-      "story": {
-        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-        "description": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-        "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 6,
-      "story": {
-        "title": "Healey provides some breathing space but things still set to get worse for most",
-        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
       "count": 6,
       "story": {
-        "title": "Palestinians ‘Stealing their own olives’",
-        "description": "In the occupied West Bank, Israeli settlers have turned olive harvesting into a deadly activity for Palestinians.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
+        "title": "Israel’s allegations of Qatari election interference rejected",
+        "description": "Israel’s allegations of Qatari election interference rejected",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -156,27 +144,15 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 4,
       "story": {
-        "title": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
-        "description": "A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan.",
-        "link": "https://www.aljazeera.com/sports/2026/10/31/who-is-arafat-minhas-pakistan-crickets-rising-star-all-rounder?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 4,
-      "story": {
-        "title": "South Africa hammer Australia as Harmer takes career best bowling of 6-16",
-        "description": "Simon Harmer picked a career-best 6-16 as South Africa beat Australia by 176 runs to clinch Test series 2-1.",
-        "link": "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Thousands demonstrate in Paris as protests spread across Europe",
+        "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+        "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -192,27 +168,39 @@
       }
     },
     {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 4,
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 3,
       "story": {
-        "title": "Show must go on for Melbourne theatre company catfished over ticket sales",
-        "description": "A suburban theatre company has been left with a half-empty theatre after being catfished by someone claiming to represent a Melbourne church.",
-        "link": "https://www.abc.net.au/news/2026-11-01/upstage-theatre-company-ticket-scam/107297404",
-        "source": "ABC News AU"
+        "title": "City of London chief tops UK Black Powerlist",
+        "description": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+        "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
       "count": 3,
       "story": {
-        "title": "Clashes erupt between police and protesters in Paris",
-        "description": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
-        "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Healey provides some breathing space but things still set to get worse for most",
+        "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+        "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "count": 3,
+      "story": {
+        "title": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
+        "description": "A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan.",
+        "link": "https://www.aljazeera.com/sports/2026/10/31/who-is-arafat-minhas-pakistan-crickets-rising-star-all-rounder?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -221,34 +209,34 @@
       "lon": 78.0,
       "count": 3,
       "story": {
-        "title": "The Indian chef who brought curry to America - then vanished",
-        "description": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
-        "link": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+        "title": "Bollywood and the underworld — together in the spotlight?",
+        "description": "A wave of shootings and extortion threats has rattled India's film industry. This time, those claiming responsibility are very different from the Mumbai underworld that had Bollywood in its grip back in the 1990s.",
+        "link": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "Commentary: The invisible workforce helping Singapore age well",
+        "description": "Helping seniors age well takes more than hospital care, says Agency for Integrated Care Manpower and Talent Chief Derek Tan on Community Care Day (Nov 1).",
+        "link": "https://www.channelnewsasia.com/commentary/singapore-ageing-health-community-care-career-6506566",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 2,
+      "story": {
+        "title": "Thousands demonstrate in Paris as protests spread across Europe",
+        "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+        "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 3,
-      "story": {
-        "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
-        "description": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.",
-        "link": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 3,
-      "story": {
-        "title": "Canada hoping to become EU’s first 'associate member' in deal",
-        "description": "Canadian Prime Minister Mark Carney says he expects to conclude negotiations on the unprecedented deal by June.",
-        "link": "https://www.abc.net.au/news/2026-10-31/canada-eyeing-eu-associate-membership-by-june/107332384",
-        "source": "ABC News AU"
       }
     },
     {
@@ -288,15 +276,15 @@
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
       "count": 2,
       "story": {
-        "title": "City of London chief tops UK Black Powerlist",
-        "description": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
-        "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Israel’s allegations of Qatari election interference rejected",
+        "description": "Israel’s allegations of Qatari election interference rejected",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -312,39 +300,63 @@
       }
     },
     {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
-        "description": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
-        "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
+        "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+        "description": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.",
+        "link": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
+      "name": "Mexico City",
+      "lat": 19.43,
+      "lon": -99.13,
       "count": 2,
       "story": {
-        "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-        "description": "Iran’s Foreign Minister Abbas Araghchi tells Al Jazeera Tehran doesn&#039;t rule out attack, is ‘prepared for all scenarios’.",
-        "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 2,
-      "story": {
-        "title": "Joanna Wietrzyk wins first HYROX race after incontinence controversy",
-        "description": "The Melbourne athlete, who faced widespread criticism after competing despite suffering diarrhoea during a race in Beijing, makes a triumphant return to the circuit.",
-        "link": "https://www.abc.net.au/news/2026-10-31/joanna-wietrzyk-wins-first-race-back-after-incontinence-incident/107332052",
+        "title": "Hamilton takes F1 pole in Mexico, Piastri down in 13th",
+        "description": "Lewis Hamilton turns back the clock by taking pole for the F1 Mexico City Grand Prix, while Australian Oscar Piastri's disastrous day sees him miss out on the top 10.",
+        "link": "https://www.abc.net.au/news/2026-11-01/lewis-hamilton-on-pole-f1-mexico-city-gp-oscar-piastri-13th/106998724",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 2,
+      "story": {
+        "title": "Hamilton takes F1 pole in Mexico, Piastri down in 13th",
+        "description": "Lewis Hamilton turns back the clock by taking pole for the F1 Mexico City Grand Prix, while Australian Oscar Piastri's disastrous day sees him miss out on the top 10.",
+        "link": "https://www.abc.net.au/news/2026-11-01/lewis-hamilton-on-pole-f1-mexico-city-gp-oscar-piastri-13th/106998724",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 2,
+      "story": {
+        "title": "Strategy, succession planning needed for Australia after Cape Town collapse",
+        "description": "After a disastrous series loss to South Africa, Australian cricket faces some tough decisions.",
+        "link": "https://www.abc.net.au/news/2026-11-01/cricket-test-decisions-needed-australia-south-africa-cape-town/107332350",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 2,
+      "story": {
+        "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
+        "description": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German pushback, he said he favors the all-new term \"associate membership.\"",
+        "link": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -357,18 +369,6 @@
         "description": "Chancellor Friedrich Merz has expressed hope for Korean reunification during a visit to the heavily fortified border. Meanwhile, President Steinmeier has held talks with China's Xi Jinping in Beijing.",
         "link": "https://www.dw.com/en/germany-news-merz-hopes-for-korean-reunification-at-dmz/live-79803462?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
-      }
-    },
-    {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 1,
-      "story": {
-        "title": "Clashes erupt between police and protesters in Paris",
-        "description": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
-        "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -444,6 +444,30 @@
       }
     },
     {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 1,
+      "story": {
+        "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+        "description": "The two individuals have been isolated while officials carry out contact tracing and laboratory testing.",
+        "link": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Istanbul",
+      "lat": 41.0,
+      "lon": 28.98,
+      "count": 1,
+      "story": {
+        "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+        "description": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.",
+        "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Jerusalem",
       "lat": 31.78,
       "lon": 35.22,
@@ -468,87 +492,63 @@
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-        "description": "Iran’s Foreign Minister Abbas Araghchi tells Al Jazeera Tehran doesn&#039;t rule out attack, is ‘prepared for all scenarios’.",
-        "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "One Nation candidate apologises for 'unacceptable' comments, steps down",
+        "description": "One Nation's candidate for Melbourne Matthew Collins quits and apologises just four weeks out from the Victorian election over offensive comments published on his social media accounts.",
+        "link": "https://www.abc.net.au/news/2026-11-01/one-nation-melbourne-candidate-matthew-collins-steps-down/107333132",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Damascus",
-      "lat": 33.5,
-      "lon": 36.3,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 1,
       "story": {
-        "title": "Syria considering entry into Mecca defence pact, says foreign minister",
-        "description": "Damascus &#039;evaluating&#039; whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan.",
-        "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Changing tastes, warming climate push winemakers to extinct volcano",
+        "description": "The Hunter Valley's climate has become increasingly compromised with the region's producers looking elsewhere for grapes.",
+        "link": "https://www.abc.net.au/news/2026-11-01/orange-wineries-export-grapes-amid-changing-tastes-climate/107246582",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 1,
       "story": {
-        "title": "Syria considering entry into Mecca defence pact, says foreign minister",
-        "description": "Damascus &#039;evaluating&#039; whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan.",
-        "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Australia and Indonesia are neighbours, but can they become good friends?",
+        "description": "We can choose whether Australia and Indonesia remain nations that happen to live next to each other, or nations that are neighbours by choice and build their neighbourhood together.",
+        "link": "https://www.abc.net.au/news/2026-11-01/boyer-lectures-australia-indonesia-neighbours-by-choice/107315382",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Vienna",
+      "lat": 48.21,
+      "lon": 16.37,
       "count": 1,
       "story": {
-        "title": "Syria considering entry into Mecca defence pact, says foreign minister",
-        "description": "Damascus &#039;evaluating&#039; whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan.",
-        "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "De Minaur stuns new number one Zverev in Vienna",
+        "description": "Alex de Minaur secures one of his biggest victories, beating soon-to-be world number one Alexander Zverev in Vienna to put himself back in the mix for the ATP Finals.",
+        "link": "https://www.abc.net.au/news/2026-11-01/de-minaur-stuns-new-world-number-one-zverev-in-vienna/107333118",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Norway",
-      "lat": 60.47,
-      "lon": 8.47,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "On the Norway-Russia border, the Sámi people face a growing divide",
-        "description": "As Russia’s war in Ukraine reshapes this Arctic frontier, Sámi communities struggle to sustain cross-border traditions.",
-        "link": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 1,
-      "story": {
-        "title": "West Indies thrash Bangladesh by eight wickets in first Test in Mirpur",
-        "description": "West Indies extended ‌their encouraging run in red-ball cricket with an emphatic eight-wicket victory ⁠over Bangladesh.",
-        "link": "https://www.aljazeera.com/sports/2026/10/31/west-indies-bangladesh-first-test-eight-wickets-mirpur-series-lead?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 1,
-      "story": {
-        "title": "Studios destroyed, traditions saved: Artists fight to save Sudan’s culture",
-        "description": "Artists in Sudan are working to save culture and traditions amid the country&#039;s war.",
-        "link": "https://www.aljazeera.com/features/2026/10/31/studios-destroyed-traditions-saved-artists-fight-to-save-sudans-culture?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Ex-AFL star's spirit company is soaring, including in Asia",
+        "description": "Former Kangaroos and Port Adelaide footballer Daniel Motlop's spirit company uses ingredients that some might regard as left-field, but it's breaking into the Asian market and is turning its focus to Europe.",
+        "link": "https://www.abc.net.au/news/2026-11-01/former-afl-player-daniel-motlop-spirits-company-looks-to-asia/107326806",
+        "source": "ABC News AU"
       }
     }
   ]
