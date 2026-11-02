@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T09:10:35+00:00",
+  "generated_at": "2026-11-02T19:41:32+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "India's opposition holds mega rally seeking election chief's resignation",
       "description": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
       "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
@@ -22,25 +28,13 @@
       "description": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
       "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Ethiopian PM puts ministers through military training",
-      "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "australia": [
     {
-      "title": "Trump makes fevered campaign push in final weekend before election",
-      "description": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
-      "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Nine killed as small jet crashes on Florida street",
-      "description": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "description": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -48,9 +42,21 @@
       "description": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
       "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "description": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
     }
   ],
   "economy": [
+    {
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "description": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+      "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "US tech stocks see sharp falls as AI spending nears $1tn",
       "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
@@ -62,20 +68,26 @@
       "description": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
       "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
-      "description": "Bhutan is building a &#039;mindfulness&#039; city to drive economic growth and persuade more young people to stay.",
-      "link": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
-      "source": "Al Jazeera"
     }
   ],
   "places": [
     {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 10,
+      "story": {
+        "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+        "description": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 11,
+      "count": 10,
       "story": {
         "title": "Popular Australian children's author jailed over child exploitation offences",
         "description": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
@@ -84,10 +96,46 @@
       }
     },
     {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 9,
+      "story": {
+        "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+        "description": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 8,
+      "story": {
+        "title": "Ryanair says it may freeze workers' pay and raise airfares",
+        "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+        "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 7,
+      "story": {
+        "title": "Ryanair says it may freeze workers' pay and raise airfares",
+        "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+        "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "North Korea",
       "lat": 40.3,
       "lon": 127.5,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
         "description": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
@@ -96,14 +144,14 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 6,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 5,
       "story": {
-        "title": "Ryanair may freeze workers' pay and raise fares on higher fuel prices",
-        "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-        "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+        "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+        "description": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
+        "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,7 +159,7 @@
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "Armed police start patrols in Sydney after Bondi Beach attack",
         "description": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
@@ -123,7 +171,7 @@
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "Shops looted as German cost-of-living protests turn violent",
         "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
@@ -132,70 +180,10 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 6,
-      "story": {
-        "title": "India's opposition holds mega rally seeking election chief's resignation",
-        "description": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
-        "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 6,
-      "story": {
-        "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-        "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 5,
-      "story": {
-        "title": "Ryanair may freeze workers' pay and raise fares on higher fuel prices",
-        "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-        "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 5,
-      "story": {
-        "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
-        "description": "Ukrainian users receive fake warnings of nuclear threats, while Moscow reports &#039;false information&#039; on its app.",
-        "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 4,
-      "story": {
-        "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
-        "description": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
-        "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "France launches attempted murder investigation after petrol bomb thrown at police",
         "description": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
@@ -204,10 +192,34 @@
       }
     },
     {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 3,
+      "story": {
+        "title": "India's opposition holds mega rally seeking election chief's resignation",
+        "description": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+        "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 2,
+      "story": {
+        "title": "Five arrested after South African farmer shot and tortured",
+        "description": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
+        "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 3,
+      "count": 2,
       "story": {
         "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
         "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
@@ -216,87 +228,39 @@
       }
     },
     {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 3,
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 2,
       "story": {
-        "title": "Shops looted as German cost-of-living protests turn violent",
-        "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-        "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Trump, Vance and candidates campaign on last day before US midterms",
+        "description": "Republicans and Democrats hold last rallies around the United States as polls point to a tight congressional race.",
+        "link": "https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 3,
+      "name": "Ethiopia",
+      "lat": 9.15,
+      "lon": 40.49,
+      "count": 2,
       "story": {
-        "title": "Two people allegedly stabbed outside south Canberra school",
-        "description": "ACT police are investigating after a student and another person were allegedly stabbed during an altercation in the car park of Lake Tuggeranong College in Canberra's south.",
-        "link": "https://www.abc.net.au/news/2026-11-02/act-two-stabbed-outside-lake-tuggeranong-college-carpark/107338450",
+        "title": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
+        "description": "Renewed fighting between rebels from northern Tigray and ​the government in Addis Ababa has shattered 2022 peace deal.",
+        "link": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 2,
+      "story": {
+        "title": "Bringing blue corn from Mexico to Australia for traditional tortillas",
+        "description": "Melbourne-based Mexican food company La Tortilleria has harvested a crop of blue corn to make traditional tortillas, after six years of research and development.",
+        "link": "https://www.abc.net.au/news/2026-11-03/blue-corn-grown-in-australia-for-mexican-tortillas/107301030",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
-      "count": 3,
-      "story": {
-        "title": "Serbia: Police chief arrested after election for abuse of office",
-        "description": "Marko Kricak, an Aleksandar Vucic loyalist, is accused of suppressing and manipulating an investigation into a gangland murder. Prosecutors say the arrest is not linked to Vucic's recent election defeat.",
-        "link": "https://www.dw.com/en/serbia-police-chief-arrested-after-election-for-abuse-of-office/a-79823382?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
-      "count": 3,
-      "story": {
-        "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
-        "description": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German pushback, he said he favors the all-new term \"associate membership.\"",
-        "link": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
-      "story": {
-        "title": "CNA Explains: Why Singapore’s historic bid for a seat on the International Court of Justice matters",
-        "description": "Experts say the decision to enter the race reflects Singapore’s record of championing the rule of law through multilateralism, the peaceful settlement of international disputes, and the observance of international law.\n&",
-        "link": "https://www.channelnewsasia.com/singapore/singapore-icj-judge-rena-lee-international-court-justice-6507386",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "count": 2,
-      "story": {
-        "title": "Bangladesh garment factories disrupted as protests continue for third day",
-        "description": "Workers in Bangladesh&#039;s largest export sector are demanding a minimum wage increase amid rising inflation.",
-        "link": "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Mexico City",
-      "lat": 19.43,
-      "lon": -99.13,
-      "count": 2,
-      "story": {
-        "title": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
-        "description": "Italian wonderkid wins drivers&#039; championship at 20 years and 68 days, finishing third at the Mexico City Grand Prix.",
-        "link": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -305,34 +269,70 @@
       "lon": -102.5,
       "count": 2,
       "story": {
-        "title": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
-        "description": "Italian wonderkid wins drivers&#039; championship at 20 years and 68 days, finishing third at the Mexico City Grand Prix.",
-        "link": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Bringing blue corn from Mexico to Australia for traditional tortillas",
+        "description": "Melbourne-based Mexican food company La Tortilleria has harvested a crop of blue corn to make traditional tortillas, after six years of research and development.",
+        "link": "https://www.abc.net.au/news/2026-11-03/blue-corn-grown-in-australia-for-mexican-tortillas/107301030",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 2,
       "story": {
-        "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
-        "description": "Ukrainian users receive fake warnings of nuclear threats, while Moscow reports &#039;false information&#039; on its app.",
-        "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "South Korea to pour billions into AI",
+        "description": "President Lee Jae Myung has presented his record-breaking budget proposal for 2027, including major investments in AI and other tech.",
+        "link": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
       "count": 2,
       "story": {
-        "title": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/business/anthropic-plans-sell-35-billion-shares-japan-investors-in-ipo-filing-shows-6512356",
-        "source": "CNA"
+        "title": "Kimi Antonelli makes history as youngest F1 champion",
+        "description": "Kimi Antonelli became Formula One's youngest world champion and Italy's first since 1953 when he finished third in Sunday's thrilling and crash-hit Mexico City Grand Prix.",
+        "link": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 1,
+      "story": {
+        "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+        "description": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+        "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Budapest",
+      "lat": 47.5,
+      "lon": 19.04,
+      "count": 1,
+      "story": {
+        "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+        "description": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+        "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "count": 1,
+      "story": {
+        "title": "Shops looted as German cost-of-living protests turn violent",
+        "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+        "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -344,30 +344,6 @@
         "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
         "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
         "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
-      "count": 1,
-      "story": {
-        "title": "Ethiopian PM puts ministers through military training",
-        "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-        "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Spain train disaster clouds Sánchez chances of re-election",
-        "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-        "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -384,39 +360,111 @@
       }
     },
     {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 1,
+      "story": {
+        "title": "Iran pushing accelerated plan for ceasefire talks with US",
+        "description": "Tehran says plan has been condensed and can be implemented within two days as it continues talks with mediators.",
+        "link": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 1,
+      "story": {
+        "title": "Drone attacks extend campaign targeting Sudan’s power system",
+        "description": "Attacks the latest to disrupt electricity supplies; army reports new defections from paramilitary RSF.",
+        "link": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Madrid",
       "lat": 40.42,
       "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "Chinese state TV continues Real Madrid blackout after Mbappe-Mao meme row",
-        "description": "Real Madrid vs Racing Santander is not broadcast on CCTV despite apologies from Mbappe, Real and La Liga.",
-        "link": "https://www.aljazeera.com/sports/2026/11/2/chinese-state-tv-continues-real-madrid-blackout-after-mbappe-mao-meme-row?traffic_source=rss",
+        "title": "Real Madrid matches still banned in China despite Mbappe apology",
+        "description": "Real Madrid matches still banned in China despite Mbappe apology",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
       "count": 1,
       "story": {
-        "title": "The future of the Palestinian vote in Israel",
-        "description": "The backlash against the high Palestinian turnout reveals much about the state of Israeli democracy and its future.",
-        "link": "https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss",
+        "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
+        "description": "Israeli forces ended their lockdown of Hebron in the occupied West Bank, but its forces continued to attack a school.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Bulgaria",
-      "lat": 42.73,
-      "lon": 25.49,
+      "name": "Beijing",
+      "lat": 39.9,
+      "lon": 116.4,
       "count": 1,
       "story": {
-        "title": "Bulgaria has its first elected female president",
-        "description": "Iliana Iotova has won Bulgaria’s presidential runoff, becoming the country’s first elected female president.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss",
+        "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
+        "description": "Beijing urges dialogue on US-Iran war, sends envoy to Gulf as Xi hosts first Omani head of state visit since 1978.",
+        "link": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Addis Ababa",
+      "lat": 9.03,
+      "lon": 38.74,
+      "count": 1,
+      "story": {
+        "title": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
+        "description": "Renewed fighting between rebels from northern Tigray and ​the government in Addis Ababa has shattered 2022 peace deal.",
+        "link": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Dubai",
+      "lat": 25.2,
+      "lon": 55.27,
+      "count": 1,
+      "story": {
+        "title": "Jake Paul to fight MMA star Cedric Doumbe",
+        "description": "YouTuber-turned-boxer Jake Paul to face mixed martial arts star Cedric Doumbe in boxing bout in Dubai.",
+        "link": "https://www.aljazeera.com/sports/2026/11/2/jake-paul-to-fight-mma-star-cedric-doumbe?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 1,
+      "story": {
+        "title": "Indonesia's smoke haze reignites regional frustrations",
+        "description": "Widespread fires in Indonesia are prompting calls for legal action or boycotts in neighbouring countries blanketed by the smoke, ahead of an ASEAN foreign ministers' meeting.",
+        "link": "https://www.abc.net.au/news/2026-11-03/indonesia-haze-crisis-reignites-regional-frustration/107329748",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
+      "count": 1,
+      "story": {
+        "title": "One-year-old dies in house fire south of Perth",
+        "description": "The child was found dead after the fire at a home in Collie, in WA's South West, on Sunday afternoon.",
+        "link": "https://www.abc.net.au/news/2026-11-02/child-dies-collie-wa-house-fire/107338498",
+        "source": "ABC News AU"
       }
     },
     {
@@ -432,39 +480,63 @@
       }
     },
     {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
+      "name": "Sweden",
+      "lat": 60.13,
+      "lon": 18.64,
       "count": 1,
       "story": {
-        "title": "Usyk's path to global dominance goes through Gatton",
-        "description": "David Nyika, the New Zealand Olympian based in the quiet rural Queensland town of Gatton, has found himself central to Oleksandr Usyk's next grand plans.",
-        "link": "https://www.abc.net.au/news/2026-11-02/oleksandr-usyk-cruiserweight-david-nyika-gatton/107338446",
-        "source": "ABC News AU"
+        "title": "European supermarkets targeted in second reported cyberattack",
+        "description": "Supermarkets across Europe have been targeted in cyberattacks once again. Three weeks after a defrosting attack in France, supermarkets in Belgium, Estonia, Ireland, Luxembourg and Sweden reported freezer malfunctions.",
+        "link": "https://www.dw.com/en/european-supermarkets-targeted-in-second-reported-cyberattack/a-79831139?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
       "count": 1,
       "story": {
-        "title": "Craig Silvey jailed over 'most depraved' child exploitation material",
-        "description": "Disgraced Australian author Craig Silvey is jailed by a Perth judge after admitting he distributed graphic images of adults abusing children over a messaging service.",
-        "link": "https://www.abc.net.au/news/2026-11-02/craig-silvey-jailed-child-exploitation-offences/107337348",
-        "source": "ABC News AU"
+        "title": "European supermarkets targeted in second reported cyberattack",
+        "description": "Supermarkets across Europe have been targeted in cyberattacks once again. Three weeks after a defrosting attack in France, supermarkets in Belgium, Estonia, Ireland, Luxembourg and Sweden reported freezer malfunctions.",
+        "link": "https://www.dw.com/en/european-supermarkets-targeted-in-second-reported-cyberattack/a-79831139?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
+      "name": "Seoul",
+      "lat": 37.57,
+      "lon": 126.98,
       "count": 1,
       "story": {
-        "title": "Australian batting 'stronger' despite repeat South Africa collapses",
-        "description": "Australia's batting flopped in the final two Tests in South Africa, but coach Andrew McDonald says the output from new faces means it is in a better spot.",
-        "link": "https://www.abc.net.au/news/2026-11-02/australia-in-better-position-after-south-africa-defeat/107337552",
-        "source": "ABC News AU"
+        "title": "Germany's chancellor called for Korean unity. Does Seoul want that?",
+        "description": "Germany, like Korea, was once divided by rival political systems and by one of the world's most fortified borders. Chancellor Merz called for a reunified Korea during his recent visit — but the prospect seems faint.",
+        "link": "https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Chile",
+      "lat": -35.68,
+      "lon": -71.54,
+      "count": 1,
+      "story": {
+        "title": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
+        "description": "Karl Bushby, a British man who traveled 50,000 km without transport over the past 28 years, has come home. Starting in Chile, he crossed the Americas, Russia and parts of Central Asia and Europe — almost all on foot.",
+        "link": "https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Bulgaria",
+      "lat": 42.73,
+      "lon": 25.49,
+      "count": 1,
+      "story": {
+        "title": "How Iliana Yotova won the presidential election in Bulgaria",
+        "description": "Iliana Yotova won the presidential election in Bulgaria, promising to be a \"president of peace.\" But the campaign showed how divided Bulgarians are about the war in Ukraine and drone attacks in the Black Sea.",
+        "link": "https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -474,80 +546,8 @@
       "count": 1,
       "story": {
         "title": "For US Democrats, climate policy is now about energy bills",
-        "description": "'Climate change' has nearly vanished from many Democrats' campaign pitch, replaced by electricity prices. What would the party actually do on climate if it won the midterms?",
+        "description": "Climate change has all but disappeared from Democrats' campaign pitches, replaced by promises to lower electricity bills. So what would the party really do for climate policy should it win control of Congress?",
         "link": "https://www.dw.com/en/for-us-democrats-climate-policy-is-now-about-energy-bills/a-79808783?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 1,
-      "story": {
-        "title": "Kimi Antonelli makes history as youngest F1 champion",
-        "description": "Kimi Antonelli became Formula One's youngest world champion and Italy's first since 1953 when he finished third in Sunday's thrilling and crash-hit Mexico City Grand Prix.",
-        "link": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "South Korea to pour billions into AI",
-        "description": "President Lee Jae Myung has presented his record-breaking budget proposal for 2027, including major investments in AI and other tech.",
-        "link": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
-      "count": 1,
-      "story": {
-        "title": "France opens attempted murder probe after protest attack",
-        "description": "Paris prosecutors have opened an attempted murder investigation after a Molotov attack on police. France reported 779 arrests during nationwide protests and Halloween night, fewer than on previous weekends.",
-        "link": "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Lisbon",
-      "lat": 38.72,
-      "lon": -9.14,
-      "count": 1,
-      "story": {
-        "title": "Portugal police storm housing protest camps in Lisbon, Porto",
-        "description": "Clashes broke out as officers again dispersed housing protesters from tent camps in Lisbon and Porto. Portuguese police have repeatedly cleared tent camps erected across both cities in recent weeks.",
-        "link": "https://www.dw.com/en/portugal-police-storm-housing-protest-camps-in-lisbon-porto/a-79821643?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Portugal",
-      "lat": 39.4,
-      "lon": -8.22,
-      "count": 1,
-      "story": {
-        "title": "Portugal police storm housing protest camps in Lisbon, Porto",
-        "description": "Clashes broke out as officers again dispersed housing protesters from tent camps in Lisbon and Porto. Portuguese police have repeatedly cleared tent camps erected across both cities in recent weeks.",
-        "link": "https://www.dw.com/en/portugal-police-storm-housing-protest-camps-in-lisbon-porto/a-79821643?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
-      "count": 1,
-      "story": {
-        "title": "India news: Opposition holds major rally in Delhi over voter roll revisions",
-        "description": "Thousands are expected to take part in the Indian opposition's planned mega march in New Delhi over a controversial revision of electoral rolls.",
-        "link": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
