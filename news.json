@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T17:39:09+00:00",
+  "generated_at": "2026-11-03T23:05:14+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,6 +12,12 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "US strikes Iranian island ahead of midterm elections",
       "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
       "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
@@ -22,15 +28,15 @@
       "description": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
       "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
-    },
-    {
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
     }
   ],
   "australia": [
+    {
+      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "description": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "Mining giant joins fight to stop killer toad march across Australia",
       "description": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
@@ -41,12 +47,6 @@
       "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
       "description": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
       "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -72,14 +72,14 @@
   ],
   "places": [
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
       "count": 14,
       "story": {
-        "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-        "description": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-        "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+        "title": "Mining giant joins fight to stop killer toad march across Australia",
+        "description": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+        "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -96,14 +96,14 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 13,
       "story": {
-        "title": "Mining giant joins fight to stop killer toad march across Australia",
-        "description": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
-        "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+        "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+        "description": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+        "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -111,7 +111,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 12,
+      "count": 7,
       "story": {
         "title": "US strikes Iranian island ahead of midterm elections",
         "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
@@ -144,62 +144,14 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
-      "story": {
-        "title": "Charlotte Miles has won the 2026 ABC Young Performers Awards",
-        "description": "The winner of the 2026 ABC Young Performers Awards has been announced following a live grand final concert at the Sydney Opera House.",
-        "link": "https://www.abc.net.au/news/2026-11-03/winner-of-2026-abc-young-performers-awards-announced/107343274",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 4,
-      "story": {
-        "title": "Bomb threats target seven flights across Europe",
-        "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
       "count": 4,
       "story": {
-        "title": "Bomb threats target seven flights across Europe",
+        "title": "Seven flights across Europe targeted by suspected bomb threats",
         "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
         "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 4,
-      "story": {
-        "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-        "description": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 4,
-      "story": {
-        "title": "Trump to remove Rwanda and South Africa from US trade deal",
-        "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-        "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -228,15 +180,15 @@
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 4,
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 3,
       "story": {
-        "title": "Nordic nations refuse to face Russia in ice hockey World Championship",
-        "description": "Denmark, Norway and Sweden join Finland in refusing to face Russia in 2027 World Championships in Germany next May.",
-        "link": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Seven flights across Europe targeted by suspected bomb threats",
+        "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -245,34 +197,34 @@
       "lon": 25.49,
       "count": 3,
       "story": {
-        "title": "Bomb threats target seven flights across Europe",
+        "title": "Seven flights across Europe targeted by suspected bomb threats",
         "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
         "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 3,
       "story": {
-        "title": "City of London chief tops UK Black Powerlist",
-        "description": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
-        "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Trump to remove Rwanda and South Africa from US trade deal",
+        "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+        "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 3,
       "story": {
-        "title": "Iran commander sets out five conditions for regional security",
-        "description": "Mediator Qatar says US and Iran are studying proposals to resume negotiations and that it was &#039;hopeful&#039; of an agreement.",
-        "link": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Man jailed for running down, killing e-bike rider over bag theft",
+        "description": "A Singaporean man has been jailed for more than five years for driving over and killing a man who had stolen his partner's brother's bag while holidaying in Perth.",
+        "link": "https://www.abc.net.au/news/2026-11-04/man-jailed-for-killing-e-bike-rider-over-bag-theft/107342976",
+        "source": "ABC News AU"
       }
     },
     {
@@ -288,27 +240,111 @@
       }
     },
     {
-      "name": "Sweden",
-      "lat": 60.13,
-      "lon": 18.64,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 3,
+      "story": {
+        "title": "Could the AI boom make borrowing more expensive in Europe?",
+        "description": "France, Germany and Italy face a volatile bond market as war inflation bites. With US tech giants now issuing billions in AI bonds, they are competing with cash-strapped European governments.",
+        "link": "https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 3,
+      "story": {
+        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
+        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
+        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
+        "source": "SBS News"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 2,
       "story": {
-        "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-        "description": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-        "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+        "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+        "description": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 2,
       "story": {
-        "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
-        "description": "The banned UK group, which targets Israel&#039;s war machine, has inspired activists in Europe and beyond.",
-        "link": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
+        "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
+        "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
+        "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
+      "count": 2,
+      "story": {
+        "title": "City of London chief tops UK Black Powerlist",
+        "description": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+        "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Palestinian families return home after Israeli siege of Hebron",
+        "description": "Palestinian families return home after Israeli siege of Hebron",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
+        "description": "Michigan’s closely contested Senate race and voter concerns over the economy are putting Trump’s control of Washington.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
+      "count": 2,
+      "story": {
+        "title": "Greenland parliament approves security deal with US, Denmark",
+        "description": "Lawmakers vote 16-0 for trilateral agreement signed in September, while seven abstained.",
+        "link": "https://www.aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 2,
+      "story": {
+        "title": "Djokovic breaks Paris Masters record and sets up clash with Aussie",
+        "description": "Novak Djokovic continues to show that age is just a number as he sets his eyes on Australia's Rinky Hijikata next.",
+        "link": "https://www.abc.net.au/news/2026-11-04/tennis-djokovic-oldest-winner-paris-masters-hijikata-clash-next/107343944",
+        "source": "ABC News AU"
       }
     },
     {
@@ -324,12 +360,60 @@
       }
     },
     {
+      "name": "Warsaw",
+      "lat": 52.23,
+      "lon": 21.0,
+      "count": 2,
+      "story": {
+        "title": "Multiple flights to European airports targeted by bomb threats",
+        "description": "The bomb threats involved two passenger planes bound for Warsaw, a Ryanair flight from London to Spain, and a fourth flight traveling from Israel to the Bulgarian capital, Sofia. No explosives were found.",
+        "link": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Sofia",
+      "lat": 42.7,
+      "lon": 23.32,
+      "count": 2,
+      "story": {
+        "title": "Multiple flights to European airports targeted by bomb threats",
+        "description": "The bomb threats involved two passenger planes bound for Warsaw, a Ryanair flight from London to Spain, and a fourth flight traveling from Israel to the Bulgarian capital, Sofia. No explosives were found.",
+        "link": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "count": 2,
+      "story": {
+        "title": "Canada will not let Russians compete at ice hockey tournament, says Carney",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/canada-will-not-let-russians-compete-ice-hockey-tournament-says-carney-6518106",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
+      "count": 1,
+      "story": {
+        "title": "Spanish transport minister resigns days after deadly train crash",
+        "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+        "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Poland",
       "lat": 51.9,
       "lon": 19.1,
       "count": 1,
       "story": {
-        "title": "Bomb threats target seven flights across Europe",
+        "title": "Seven flights across Europe targeted by suspected bomb threats",
         "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
         "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
@@ -360,6 +444,18 @@
       }
     },
     {
+      "name": "Sweden",
+      "lat": 60.13,
+      "lon": 18.64,
+      "count": 1,
+      "story": {
+        "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+        "description": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+        "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Venezuela",
       "lat": 6.4,
       "lon": -66.6,
@@ -368,18 +464,6 @@
         "title": "US urges Venezuela to release remaining political prisoners",
         "description": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
         "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
-      "count": 1,
-      "story": {
-        "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-        "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
-        "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -393,6 +477,18 @@
         "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
         "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lon": 35.22,
+      "count": 1,
+      "story": {
+        "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
+        "description": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -432,98 +528,14 @@
       }
     },
     {
-      "name": "Norway",
-      "lat": 60.47,
-      "lon": 8.47,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Nordic nations refuse to face Russia in ice hockey World Championship",
-        "description": "Denmark, Norway and Sweden join Finland in refusing to face Russia in 2027 World Championships in Germany next May.",
-        "link": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
-      "count": 1,
-      "story": {
-        "title": "Nordic nations refuse to face Russia in ice hockey World Championship",
-        "description": "Denmark, Norway and Sweden join Finland in refusing to face Russia in 2027 World Championships in Germany next May.",
-        "link": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Finland",
-      "lat": 61.92,
-      "lon": 25.75,
-      "count": 1,
-      "story": {
-        "title": "Nordic nations refuse to face Russia in ice hockey World Championship",
-        "description": "Denmark, Norway and Sweden join Finland in refusing to face Russia in 2027 World Championships in Germany next May.",
-        "link": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
-      "count": 1,
-      "story": {
-        "title": "Two police officers protecting polio workers in Pakistan shot dead",
-        "description": "The attackers, travelling on a motorcycle, opened fire on a police car in Khyber Pakhtunkhwa province.",
-        "link": "https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
-      "count": 1,
-      "story": {
-        "title": "Indian national killed, New Zealander injured in Mount Everest helicopter crash",
-        "description": "A helicopter carrying tourists and one carrying cargo collide while attempting to land near Mount Everest's South Base Camp.",
-        "link": "https://www.abc.net.au/news/2026-11-03/nepal-helicopter-crash/107342964",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 1,
-      "story": {
-        "title": "Car slams through supermarket wall 'like a sonic boom'",
-        "description": "CCTV shows the moment the owner of a supermarket in Adelaide's western suburbs narrowly avoided injury when a car reversed through the wall of the building, sending shelving and stock flying.",
-        "link": "https://www.abc.net.au/news/2026-11-03/supermarket-owner-escape-after-car-reverses-through-wall/107342586",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Quick hits: A-listers, mistakes and the king's Melbourne Cup connection",
-        "description": "The 2026 Melbourne Cup was over before it even began for one runner, while another couldn't emulate his namesake's story, as celebrities stole the show on and off the course. Here's the quick hits from the 2026 Melbourne",
-        "link": "https://www.abc.net.au/news/2026-11-03/melbourne-cup-quick-hits-robbie-williams-jamie-foxx-king-charles/107341802",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 1,
-      "story": {
-        "title": "Backup World Cup wheelchair travels across the world in stranger's luggage",
-        "description": "A radio call-out in Ireland has sparked a successful international effort to get a specialised replacement rugby league wheelchair sent to Sydney in time for a game today.",
-        "link": "https://www.abc.net.au/news/2026-11-03/wheelchair-delivered-for-irish-league-player/107340580",
+        "title": "Man jailed for running down, killing e-bike rider over bag theft",
+        "description": "A Singaporean man has been jailed for more than five years for driving over and killing a man who had stolen his partner's brother's bag while holidaying in Perth.",
+        "link": "https://www.abc.net.au/news/2026-11-04/man-jailed-for-killing-e-bike-rider-over-bag-theft/107342976",
         "source": "ABC News AU"
       }
     },
@@ -531,18 +543,6 @@
       "name": "Beijing",
       "lat": 39.9,
       "lon": 116.4,
-      "count": 1,
-      "story": {
-        "title": "China and India achieved diplomatic thaw. Now the border is flaring up",
-        "description": "Indian authorities have confirmed a new border \"face-off\" between Indian and Chinese troops in Arunachal Pradesh, raising questions about the still fragile thaw in relations between New Delhi and Beijing.",
-        "link": "https://www.dw.com/en/china-and-india-achieved-diplomatic-thaw-now-the-border-is-flaring-up/a-79843273?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "New Delhi",
-      "lat": 28.6,
-      "lon": 77.2,
       "count": 1,
       "story": {
         "title": "China and India achieved diplomatic thaw. Now the border is flaring up",
