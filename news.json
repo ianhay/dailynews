@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T20:03:28+00:00",
+  "generated_at": "2026-11-07T23:50:37+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Paraguay's former president charged after bank collapse",
       "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
       "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
       "title": "Texas mayor instructs police to limit co-operation with ICE",
       "description": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
       "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 12,
+      "count": 14,
       "story": {
         "title": "Australia's oldest department store David Jones folds after 188 years",
         "description": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
@@ -84,26 +84,14 @@
       }
     },
     {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
       "count": 10,
       "story": {
-        "title": "No clear winner after tight New Zealand general election",
-        "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-        "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 9,
-      "story": {
-        "title": "US offers $20m reward for information about Iran's nuclear programme",
-        "description": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
-        "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+        "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,14 +108,14 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 8,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 7,
       "story": {
-        "title": "US midterm results spark fears in Israel over future of two countries' ties",
-        "description": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
-        "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
+        "title": "US offers $20m reward for information about Iran's nuclear programme",
+        "description": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+        "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -135,7 +123,7 @@
       "name": "Ukraine",
       "lat": 49.0,
       "lon": 31.0,
-      "count": 6,
+      "count": 7,
       "story": {
         "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
         "description": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
@@ -144,14 +132,62 @@
       }
     },
     {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
+      "count": 5,
+      "story": {
+        "title": "Police clash with protesters as anti-government rallies sweep France",
+        "description": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 4,
+      "story": {
+        "title": "Police clash with protesters as anti-government rallies sweep France",
+        "description": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 4,
+      "story": {
+        "title": "Controversial sale of Sydney's Victoria Barracks scrapped",
+        "description": "The prime minister vows to keep Victoria Barracks in Sydney in public hands, following widespread backlash after plans for the heritage-listed site to be sold off.",
+        "link": "https://www.abc.net.au/news/2026-11-08/federal-politics-pm-scraps-sale-of-victoria-barracks-defence/107360530",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
       "count": 3,
       "story": {
-        "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
-        "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-        "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "title": "No clear winner after tight New Zealand general election",
+        "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+        "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Santiago",
+      "lat": -33.45,
+      "lon": -70.67,
+      "count": 3,
+      "story": {
+        "title": "Paraguay's former president charged after bank collapse",
+        "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+        "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -180,39 +216,15 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
       "count": 3,
       "story": {
-        "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
-        "description": "Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
+        "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+        "description": "Valverde and Guler&#039;s first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
+        "link": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
         "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 3,
-      "story": {
-        "title": "Hundreds march in Pau, France against high living costs",
-        "description": "Hundreds march in Pau, France against high living costs",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 3,
-      "story": {
-        "title": "Race to tame inflation more tricky than one that stops the nation",
-        "description": "All eyes were on the Melbourne Cup on Tuesday but they will quickly turn to bank balances as the latest interest rate rise sets in.",
-        "link": "https://www.abc.net.au/news/2026-11-08/off-and-bracing-the-rates-decision-that-stopped-the-nation/107354058",
-        "source": "ABC News AU"
       }
     },
     {
@@ -228,18 +240,6 @@
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 3,
-      "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
-      }
-    },
-    {
       "name": "Saudi Arabia",
       "lat": 23.9,
       "lon": 45.1,
@@ -248,18 +248,6 @@
         "title": "Houthis say at least 25 killed in Saudi air strike",
         "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
         "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Santiago",
-      "lat": -33.45,
-      "lon": -70.67,
-      "count": 2,
-      "story": {
-        "title": "Paraguay's former president charged after bank collapse",
-        "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-        "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,26 +264,50 @@
       }
     },
     {
-      "name": "Iraq",
-      "lat": 33.22,
-      "lon": 43.68,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 2,
       "story": {
-        "title": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
-        "description": "When the ancient Iraqi city of Mosul is devastated after liberation from ISIL, three men strive to revive its beauty.",
-        "link": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
+        "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+        "description": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 2,
       "story": {
-        "title": "France sees new round of Yellow Vest, student protests",
-        "description": "Although fewer protesters turned out in comparison with previous weeks, several cities saw clashes between police and demonstrators.",
-        "link": "https://www.dw.com/en/france-sees-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
+        "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
+        "description": "Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 2,
+      "story": {
+        "title": "Wet-weather chaos in qualifying for Brazilian Grand Prix",
+        "description": "Oscar Piastri will start the race in 10th spot after a calamitous wet-weather qualifying session shook up the grid in São Paulo.",
+        "link": "https://www.abc.net.au/news/2026-11-08/f1-s%C3%A3o-paulo-brazil-grand-prix-qualifying/106998738",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
+      "count": 2,
+      "story": {
+        "title": "Poland: Gunman kills 6 in Krakow main square",
+        "description": "A gunman who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. Officials said the shooter was fascinated with \"radical\" and \"far right' ideologies.",
+        "link": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -312,26 +324,14 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
-        "description": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi.",
-        "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 2,
-      "story": {
-        "title": "Adams double lifts lacklustre Wales to 28-21 win over Japan",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/adams-double-lifts-lacklustre-wales-28-21-win-over-japan-6533386",
+        "title": "Deepavali in new colours: How Singapore’s rangoli artists are adapting an old craft",
+        "description": "CNA speaks to three rangoli artists who are modernising the traditional art form through innovative techniques, while inspiring younger generations to embrace the craft.&nbsp;\n&nbsp;",
+        "link": "https://www.channelnewsasia.com/singapore/deepavali-rangoli-arts-community-culture-tradition-6530826",
         "source": "CNA"
       }
     },
@@ -408,18 +408,6 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Valencia vs Real Madrid LIVE: La Liga",
-        "description": "Follow updates from the La Liga clash, including the build-up, analysis and live text commentary of the match.",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Lebanon",
       "lat": 33.85,
       "lon": 35.86,
@@ -432,38 +420,62 @@
       }
     },
     {
-      "name": "Baghdad",
-      "lat": 33.31,
-      "lon": 44.36,
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
       "count": 1,
       "story": {
-        "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
-        "description": "Iraqi foreign minister tells Al Jazeera that Baghdad is investigating attacks on the Gulf launched from its territory.",
-        "link": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "Supercars, SUVs take to Perth suburb to support teen assault victim",
-        "description": "More than 100 cars and motorbikes took part in the \"community cruise\" in Ellenbrook, north-east of Perth, to show support for a 13-year-old boy who was allegedly bashed and threatened with a knife in the area by a group ",
-        "link": "https://www.abc.net.au/news/2026-11-07/ellenbrook-victim-assault-community-rally/107359208",
+        "title": "Socceroos wary of Jordan friendly due to security threats",
+        "description": "The Socceroos have named an under-strength squad for upcoming friendlies against Qatar and Jordan, with Football Australia to monitor security in Jordanian capital Amman.",
+        "link": "https://www.abc.net.au/news/2026-11-08/socceroos-monitoring-security-ahead-of-friendlies/107360560",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Amman",
+      "lat": 31.95,
+      "lon": 35.93,
       "count": 1,
       "story": {
-        "title": "US senator with Australian ties now a presidential frontrunner",
-        "description": "The polling booths have barely been packed down after the US midterms, but Washington is already looking ahead to the presidential election.",
-        "link": "https://www.abc.net.au/news/2026-11-07/us-senator-jon-ossoff-democrats-presidential-campaign/107359376",
+        "title": "Socceroos wary of Jordan friendly due to security threats",
+        "description": "The Socceroos have named an under-strength squad for upcoming friendlies against Qatar and Jordan, with Football Australia to monitor security in Jordanian capital Amman.",
+        "link": "https://www.abc.net.au/news/2026-11-08/socceroos-monitoring-security-ahead-of-friendlies/107360560",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Jordan",
+      "lat": 30.59,
+      "lon": 36.24,
+      "count": 1,
+      "story": {
+        "title": "Socceroos wary of Jordan friendly due to security threats",
+        "description": "The Socceroos have named an under-strength squad for upcoming friendlies against Qatar and Jordan, with Football Australia to monitor security in Jordanian capital Amman.",
+        "link": "https://www.abc.net.au/news/2026-11-08/socceroos-monitoring-security-ahead-of-friendlies/107360560",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 1,
+      "story": {
+        "title": "Moesha Johnson's Open Water World Cup winning streak continues",
+        "description": "Moesha Johnson continues her unparalleled dominance in open water swimming, claiming double gold to open the 2026/27 Open Water World Cup campaign in Mexico.",
+        "link": "https://www.abc.net.au/news/2026-11-08/moesha-johnson-gold-mexico-world-cup-open-water/107360522",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 1,
+      "story": {
+        "title": "Residents demand traffic fix for 'horrendous' SA road",
+        "description": "Residents in Adelaide's fastest-growing council area are calling on the government to fix a litany of traffic flow problems, in a region where 10 people per day are projected to move in over the next 20 years.",
+        "link": "https://www.abc.net.au/news/2026-11-08/playford-residents-want-fix-curtis-road-congestion/107337464",
         "source": "ABC News AU"
       }
     },
@@ -516,6 +528,18 @@
       }
     },
     {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "count": 1,
+      "story": {
+        "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+        "description": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi.",
+        "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -524,30 +548,6 @@
         "title": "India news: Vehicles major cause of Delhi pollution, top court says",
         "description": "The Supreme Court implored responsible Diwali celebrations as the Indian government sets out to tackle the country's severe air pollution crisis. DW has more.",
         "link": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 1,
-      "story": {
-        "title": "US asks China to uphold Busan trade deal commitments",
-        "description": "The US urged Beijing to meet commitments from a 2025 accord — particularly on agricultural purchases and rare earths supply. China, meanwhile, expressed concern over the US' \"economic, trade restrictive\" measures.",
-        "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
-      "count": 1,
-      "story": {
-        "title": "What to know about the IIHF Women's Ice Hockey World Championship",
-        "description": "As ice hockey's governing body continues to wrangle over how to respond to a CAS order to reinstate Russia to international play, the top women's tournament gets underway in Denmark without Russia.",
-        "link": "https://www.dw.com/en/what-to-know-about-the-iihf-women-s-ice-hockey-world-championship/a-79876148?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
