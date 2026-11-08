@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T05:32:40+00:00",
+  "generated_at": "2026-11-08T13:04:56+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,21 +12,21 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "No clear winner after tight New Zealand general election",
-      "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "Houthis say at least 33 killed in Saudi air strike",
       "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
       "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "description": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -64,18 +64,30 @@
       "source": "BBC News"
     },
     {
-      "title": "Interest rates hiked to 4% in first increase in over three years",
-      "description": "Most analysts expected the increase from 3.75% to 4%.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+      "description": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+      "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
     }
   ],
   "places": [
     {
+      "name": "Australia",
+      "lat": -25.0,
+      "lon": 133.0,
+      "count": 12,
+      "story": {
+        "title": "Khawaja denies throwing ‘anyone under the bus’ over Sandpapergate scandal",
+        "description": "Australian cricketer defends waiting so long to place blame, denying it was a marketing ploy to sell his book.",
+        "link": "https://www.aljazeera.com/sports/2026/11/8/khawaja-denies-throwing-anyone-under-the-bus-over-sandpapergate-scandal?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "Israel's president tasks opposition leader Eisenkot with forming government",
         "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
@@ -84,22 +96,10 @@
       }
     },
     {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 10,
-      "story": {
-        "title": "US offers $20m reward for information about Iran's nuclear programme",
-        "description": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-        "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 10,
+      "count": 9,
       "story": {
         "title": "Italian foreign minister says hackers leaked his personal data",
         "description": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
@@ -108,15 +108,15 @@
       }
     },
     {
-      "name": "Australia",
-      "lat": -25.0,
-      "lon": 133.0,
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
       "count": 8,
       "story": {
-        "title": "Socceroos wary of Jordan friendly due to security threats",
-        "description": "The Socceroos have named an under-strength squad for upcoming friendlies against Qatar and Jordan, with Football Australia to monitor security in Jordanian capital Amman.",
-        "link": "https://www.abc.net.au/news/2026-11-08/socceroos-monitoring-security-ahead-of-friendlies/107360560",
-        "source": "ABC News AU"
+        "title": "US offers $20m reward for information about Iran's nuclear programme",
+        "description": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+        "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -132,86 +132,50 @@
       }
     },
     {
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "count": 7,
+      "story": {
+        "title": "Jillaroos avoid all-time upset to progress to World Cup final",
+        "description": "The Jillaroos have qualified for the Rugby League World Cup final, but only after surviving an almighty scare against tournament debutant Fiji at Sydney Football Stadium.",
+        "link": "https://www.abc.net.au/news/2026-11-08/jillaroos-avoid-all-time-upset-against-fiji/107361340",
+        "source": "ABC News AU"
+      }
+    },
+    {
       "name": "New Zealand",
       "lat": -41.0,
       "lon": 174.0,
       "count": 6,
       "story": {
-        "title": "No clear winner after tight New Zealand general election",
-        "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-        "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+        "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+        "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Paris",
-      "lat": 48.85,
-      "lon": 2.35,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 5,
       "story": {
-        "title": "Police clash with protesters as anti-government rallies sweep France",
-        "description": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
-      "story": {
-        "title": "Swans prevail in AFLW elimination final scrap against Bulldogs",
-        "description": "Sydney superstar Chloe Molloy steps up as the Swans beat the Western Bulldogs in a wet and windy AFLW elimination final.",
-        "link": "https://www.abc.net.au/news/2026-11-08/aflw-elimination-finals-swans-bulldogs-suns-hawks/107361122",
-        "source": "ABC News AU"
+        "title": "Gaza wedding festival sees 250 couples married at the same time",
+        "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+        "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "France",
       "lat": 46.6,
       "lon": 2.2,
-      "count": 4,
+      "count": 5,
       "story": {
-        "title": "Police clash with protesters as anti-government rallies sweep France",
-        "description": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 3,
-      "story": {
-        "title": "Four things we learned this week about 2028 White House race",
-        "description": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
-        "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
-      "count": 3,
-      "story": {
-        "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
-        "description": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
-        "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
-      "count": 3,
-      "story": {
-        "title": "Earthquake hits central Japan, injuring more than 20 people",
-        "description": "The magnitude 5.7 quake hit Shizuoka prefecture, and authorities warn of possible strong aftershocks in coming days.",
-        "link": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
+        "title": "Mapping how France’s protest wave spread across Europe",
+        "description": "More than 1,700 cost-of-living demonstrations have hit 31 European countries since mid-September, led by France.",
+        "link": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -219,7 +183,7 @@
       "name": "Saudi Arabia",
       "lat": 23.9,
       "lon": 45.1,
-      "count": 2,
+      "count": 4,
       "story": {
         "title": "Houthis say at least 33 killed in Saudi air strike",
         "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
@@ -228,15 +192,51 @@
       }
     },
     {
-      "name": "Santiago",
-      "lat": -33.45,
-      "lon": -70.67,
-      "count": 2,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 4,
       "story": {
-        "title": "Paraguay's former president charged after bank collapse",
-        "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-        "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+        "title": "Gaza wedding festival sees 250 couples married at the same time",
+        "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+        "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
+      "story": {
+        "title": "The Indian workers filming their work to train AI",
+        "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+        "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 4,
+      "story": {
+        "title": "Strong earthquake rocks central Japan, injuring at least 22",
+        "description": "People are being warned about possible strong quakes, especially in the next two to three days, after the magnitude-5.7 earthquake.",
+        "link": "https://www.abc.net.au/news/2026-11-08/japan-earthquake-aichi-prefecture-at-least-22-injured/107361392",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Paris",
+      "lat": 48.85,
+      "lon": 2.35,
+      "count": 3,
+      "story": {
+        "title": "Canavan supports Paris Agreement but says EU trade deal goes too far",
+        "description": "The Queensland senator says it is important to take measures to reduce emissions where the country can afford it.",
+        "link": "https://www.abc.net.au/news/2026-11-08/federal-politics-matt-canavan-insiders-paris-eu-free-trade/107360586",
+        "source": "ABC News AU"
       }
     },
     {
@@ -252,75 +252,75 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 2,
       "story": {
-        "title": "Gaza wedding festival sees 250 couples married at the same time",
-        "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-        "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 2,
-      "story": {
-        "title": "Gaza wedding festival sees 250 couples married at the same time",
-        "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-        "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 2,
-      "story": {
-        "title": "The Indian workers filming their work to train AI",
-        "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-        "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 2,
-      "story": {
-        "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
-        "description": "Valverde and Guler&#039;s first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
-        "link": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+        "title": "South Africa’s ANC suffers setback in local elections",
+        "description": "With 99 percent of votes counted, President Cyril Ramaphosa&#039;s party wins 31 percent nationally.",
+        "link": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
-        "description": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+        "title": "Could UFC boss Dana White be next White House press secretary?",
+        "description": "UFC chief Dana White says he’ll meet Trump after the US president urged him to become White House press secretary.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/could-ufc-boss-dana-white-be-next-white-house-press-secretary?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Riyadh",
+      "lat": 24.71,
+      "lon": 46.68,
       "count": 2,
       "story": {
-        "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
-        "description": "Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
+        "title": "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack",
+        "description": "Saudi Arabia&#039;s Energy Ministry says building in the capital was damaged by falling shrapnel.",
+        "link": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 2,
+      "story": {
+        "title": "Two Australians rescued after helicopter crashes into Borneo river",
+        "description": "Video shows the helicopter collecting water for water-bombing operations in Indonesia's South Kalimantan province before it loses control and crashes into the river.",
+        "link": "https://www.abc.net.au/news/2026-11-08/indonesia-helicopter-crash-borneo-australians/107361384",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
+      "count": 2,
+      "story": {
+        "title": "Two Australians rescued after helicopter crashes into Borneo river",
+        "description": "Video shows the helicopter collecting water for water-bombing operations in Indonesia's South Kalimantan province before it loses control and crashes into the river.",
+        "link": "https://www.abc.net.au/news/2026-11-08/indonesia-helicopter-crash-borneo-australians/107361384",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
+      "count": 2,
+      "story": {
+        "title": "Poland begins two days of mourning over Krakow shooting",
+        "description": "Polish authorities have opened a terror probe after the shooting on Krakow's Main Square. Police confirmed that the bodies found at the suspect's home were those of his parents and sister.",
+        "link": "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -329,22 +329,34 @@
       "lon": 10.4,
       "count": 2,
       "story": {
-        "title": "Germany hopes to host world ice hockey championship — without Russia",
-        "description": "International protests continue after a court ruled that Russia must be allowed to return to international ice hockey. Germany is seeking a solution that will allow the country to host next year's world championship.",
-        "link": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-all-1573-rdf",
+        "title": "Germany news: Friedrich Merz set to confirm presidential nominee",
+        "description": "The executive committee of the German chancellor's CDU party is expected to finalize its nomination for the country's president. DW has more.",
+        "link": "https://www.dw.com/en/germany-news-friedrich-merz-set-to-confirm-presidential-nominee/live-79883533?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Mexico",
-      "lat": 23.6,
-      "lon": -102.5,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 2,
       "story": {
-        "title": "Jokic wins over Mexico City as Nuggets hold off Pacers",
+        "title": "Philippines rebukes officials over public comments about China",
         "description": "",
-        "link": "https://www.channelnewsasia.com/sport/jokic-wins-over-mexico-city-nuggets-hold-pacers-6533721",
+        "link": "https://www.channelnewsasia.com/asia/philippines-china-rebukes-public-comments-6534176",
         "source": "CNA"
+      }
+    },
+    {
+      "name": "Santiago",
+      "lat": -33.45,
+      "lon": -70.67,
+      "count": 1,
+      "story": {
+        "title": "Paraguay's former president charged after bank collapse",
+        "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+        "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -372,14 +384,26 @@
       }
     },
     {
-      "name": "Colombia",
-      "lat": 4.57,
-      "lon": -74.3,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Drone attack on Colombian army base kills three soldiers and wounds 16",
-        "description": "Colombian President de la Espriella says those behind the attack in Santa Rosa del Sur will have ‘nowhere to hide’.",
-        "link": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
+        "title": "The Trump coalition is shattered - what will Republicans do now?",
+        "description": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+        "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Lagos",
+      "lat": 6.5,
+      "lon": 3.4,
+      "count": 1,
+      "story": {
+        "title": "‘Don’t bring your camera’: Filmmakers face extortion in Lagos",
+        "description": "Filmmakers and journalists say threats on Lagos streets is making it harder to tell the city’s stories.",
+        "link": "https://www.aljazeera.com/news/2026/11/8/dont-bring-your-camera-filmmakers-face-extortion-in-lagos?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -389,33 +413,21 @@
       "lon": 30.8,
       "count": 1,
       "story": {
-        "title": "Egypt sacks winning football coach after wives’ scandal",
-        "description": "The Egyptian Football Association has sacked national team coach Hossam Hassan, cutting short a promising tenure.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_egypt-sacks-winning-football-coach-after-scandal-071126?traffic_source=rss",
+        "title": "Hossam Hassan sacked as Egypt head coach over ex-wife scandal",
+        "description": "A series of controversies surrounding Hassan&#039;s marital life left a &#039;negative impact&#039; on the team, Egyptian FA says.",
+        "link": "https://www.aljazeera.com/sports/2026/11/8/hossam-hassan-sacked-as-egypt-head-coach-over-ex-wife-scandal?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
+      "name": "Colombia",
+      "lat": 4.57,
+      "lon": -74.3,
       "count": 1,
       "story": {
-        "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
-        "description": "Attorney general postponed Najib Razak’s transfer from jail after court cleared him for house arrest on Friday.",
-        "link": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Berlin",
-      "lat": 52.52,
-      "lon": 13.4,
-      "count": 1,
-      "story": {
-        "title": "Demonstration in Berlin calls for an end to arming Israel",
-        "description": "Demonstration in Berlin calls for an end to arming Israel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
+        "title": "Drone attack on Colombian army base kills three soldiers and wounds 16",
+        "description": "Colombian President de la Espriella says those behind the attack in Santa Rosa del Sur will have ‘nowhere to hide’.",
+        "link": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -432,50 +444,14 @@
       }
     },
     {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
       "count": 1,
       "story": {
-        "title": "Socceroos wary of Jordan friendly due to security threats",
-        "description": "The Socceroos have named an under-strength squad for upcoming friendlies against Qatar and Jordan, with Football Australia to monitor security in Jordanian capital Amman.",
-        "link": "https://www.abc.net.au/news/2026-11-08/socceroos-monitoring-security-ahead-of-friendlies/107360560",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Amman",
-      "lat": 31.95,
-      "lon": 35.93,
-      "count": 1,
-      "story": {
-        "title": "Socceroos wary of Jordan friendly due to security threats",
-        "description": "The Socceroos have named an under-strength squad for upcoming friendlies against Qatar and Jordan, with Football Australia to monitor security in Jordanian capital Amman.",
-        "link": "https://www.abc.net.au/news/2026-11-08/socceroos-monitoring-security-ahead-of-friendlies/107360560",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Jordan",
-      "lat": 30.59,
-      "lon": 36.24,
-      "count": 1,
-      "story": {
-        "title": "Socceroos wary of Jordan friendly due to security threats",
-        "description": "The Socceroos have named an under-strength squad for upcoming friendlies against Qatar and Jordan, with Football Australia to monitor security in Jordanian capital Amman.",
-        "link": "https://www.abc.net.au/news/2026-11-08/socceroos-monitoring-security-ahead-of-friendlies/107360560",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
-      "count": 1,
-      "story": {
-        "title": "Poland: Gunman kills 6 in Krakow main square",
-        "description": "A gunman who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. Officials said the shooter was fascinated with \"radical\" and \"far right' ideologies.",
-        "link": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-rdf",
+        "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
+        "description": "Droughts, floods and extreme heat are upping the pressure on delegates at the UN climate talks in Antalya, Turkey. Can countries move beyond pledges to concrete action?",
+        "link": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -492,18 +468,6 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 1,
-      "story": {
-        "title": "South Africa's ANC facing worst-ever performance in local elections",
-        "description": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and electricity shortages.",
-        "link": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
       "name": "Italy",
       "lat": 42.5,
       "lon": 12.5,
@@ -516,14 +480,14 @@
       }
     },
     {
-      "name": "Riyadh",
-      "lat": 24.71,
-      "lon": 46.68,
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
       "count": 1,
       "story": {
-        "title": "Yemen: 22 killed in strike near Sanaa, Houthis say",
-        "description": "The Iran-backed Houthi rebel group accused Saudi Arabia of hitting several homes in the village of al-Shariya near the Yemeni capital. There was no initial comment from Riyadh.",
-        "link": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf",
+        "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+        "description": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi.",
+        "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -540,15 +504,51 @@
       }
     },
     {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
       "count": 1,
       "story": {
-        "title": "What to know about the IIHF Women's Ice Hockey World Championship",
-        "description": "As ice hockey's governing body continues to wrangle over how to respond to a CAS order to reinstate Russia to international play, the top women's tournament gets underway in Denmark without Russia.",
-        "link": "https://www.dw.com/en/what-to-know-about-the-iihf-women-s-ice-hockey-world-championship/a-79876148?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Philippines rebukes officials over public comments about China",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/asia/philippines-china-rebukes-public-comments-6534176",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 1,
+      "story": {
+        "title": "Youth Olympic Games: How Singapore has fared so far and what’s ahead in coming days",
+        "description": "Wushu exponent Ng Zhe Nin struck gold for Singapore, while table tennis player Loy Ming Ying secured silver at the Games.\n&nbsp;",
+        "link": "https://www.channelnewsasia.com/singapore/youth-olympic-games-team-singapore-medals-6534116",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Mexico City",
+      "lat": 19.43,
+      "lon": -99.13,
+      "count": 1,
+      "story": {
+        "title": "Jokic wins over Mexico City as Nuggets hold off Pacers",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/jokic-wins-over-mexico-city-nuggets-hold-pacers-6533721",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
+      "count": 1,
+      "story": {
+        "title": "Jokic wins over Mexico City as Nuggets hold off Pacers",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/jokic-wins-over-mexico-city-nuggets-hold-pacers-6533721",
+        "source": "CNA"
       }
     }
   ]
