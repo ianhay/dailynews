@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T22:23:30+00:00",
+  "generated_at": "2026-11-09T01:52:05+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
       "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
@@ -27,6 +21,12 @@
       "title": "Italian foreign minister says hackers leaked his personal data",
       "description": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
       "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "AI stocks climb after trillions wiped from market values",
+      "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -64,7 +64,7 @@
       "source": "BBC News"
     },
     {
-      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
       "description": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
       "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -75,11 +75,11 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 11,
       "story": {
-        "title": "Families face 150km daily drive as more regional childcare centres close",
-        "description": "One of Australia’s largest childcare providers says it will close three of its branches in south-west Western Australia, leaving dozens of families without a childcare alternative.",
-        "link": "https://www.abc.net.au/news/2026-11-09/regional-wa-childcare-centres-close-financial-strain-families/107352620",
+        "title": "Labuschagne axed from Aussie squad for New Zealand Tests",
+        "description": "Australia's chairman of selectors confirms the omission of Marnus Labuschagne after an extended lean run of form at the Test level.",
+        "link": "https://www.abc.net.au/news/2026-11-09/cricket-marnus-labuschagne-axed-from-australian-test-squad/107363356",
         "source": "ABC News AU"
       }
     },
@@ -87,7 +87,7 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 12,
+      "count": 10,
       "story": {
         "title": "Iran executes three men for 'armed unrest' after January protests",
         "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
@@ -99,7 +99,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 9,
+      "count": 7,
       "story": {
         "title": "Eisenkot open to Netanyahu joining Israel’s next government",
         "description": "Israel&#039;s president officially tasks the opposition leader with forming a new government.",
@@ -108,14 +108,14 @@
       }
     },
     {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 8,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 6,
       "story": {
-        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-        "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-        "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+        "title": "Italian foreign minister says hackers leaked his personal data",
+        "description": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+        "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -123,7 +123,7 @@
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
-      "count": 6,
+      "count": 5,
       "story": {
         "title": "Homes and temples glow across India to mark Diwali",
         "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
@@ -132,15 +132,15 @@
       }
     },
     {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 5,
       "story": {
-        "title": "Italian foreign minister says hackers leaked his personal data",
-        "description": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-        "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "15yo boy stabbed multiple times outside Sydney high school",
+        "description": "NSW Police say they were told the teenager was stabbed several times in the abdomen.",
+        "link": "https://www.abc.net.au/news/2026-11-09/teenage-boy-stabbed-outside-casula-high-school-in-sydney/107362694",
+        "source": "ABC News AU"
       }
     },
     {
@@ -168,39 +168,39 @@
       }
     },
     {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
       "count": 4,
       "story": {
-        "title": "Poland treats fatal mass shooting as 'terrorist offence'",
-        "description": "Four women and two men were killed in the shooting in the Main Square of Krakow's Old Town, which Poland's defence minister has described as an \"act of terror\".",
-        "link": "https://www.abc.net.au/news/2026-11-09/poland-treating-mass-shooting-as-terrorist-offence/107362106",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "Gaza wedding festival sees 250 couples married at the same time",
-        "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-        "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Cairo",
-      "lat": 30.04,
-      "lon": 31.24,
-      "count": 3,
-      "story": {
-        "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
-        "description": "The passenger train was travelling from Egypt&#039;s capital to Aswan in the south when it derailed, overturning carriages.",
-        "link": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
+        "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
+        "description": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 4,
+      "story": {
+        "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
+        "description": "Kozo Tashima believes he has a &#039;20 to 30 percent&#039; chance of winning the FIFA presidency election against Infantino.",
+        "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 3,
+      "story": {
+        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+        "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+        "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -209,34 +209,46 @@
       "lon": 10.4,
       "count": 3,
       "story": {
-        "title": "Germany news: Merz to nominate Aigner for president",
-        "description": "German Chancellor Friedrich Merz announced that he will nominate Ilse Aigner for federal president, paving the way for her to be the first woman to hold the office. DW has more.",
-        "link": "https://www.dw.com/en/germany-news-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+        "description": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.",
+        "link": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 3,
       "story": {
-        "title": "France sees new round of Yellow Vest, student protests",
-        "description": "Although fewer protesters turned out in comparison with previous weeks, several cities saw clashes between police and demonstrators.",
-        "link": "https://www.dw.com/en/france-sees-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Why Trump joked about having Dana White as his White House press secretary",
+        "description": "The two have business ties going back decades, and White has helped Trump reach out to younger voters.",
+        "link": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 3,
       "story": {
-        "title": "'Second chance at life': Sydney woman speaks publicly after surviving shark attack",
-        "description": "Leah Stewart, 34, says she has been grateful for the support she has received while she focuses on her recovery.",
-        "link": "https://www.sbs.com.au/news/article/sydney-woman-leah-stewart-speaks-publicly-after-surviving-shark-attack-at-coogee/jkhc0zbaj",
-        "source": "SBS News"
+        "title": "Poland treats fatal mass shooting as 'terrorist offence'",
+        "description": "Four women and two men were killed in the shooting in the Main Square of Krakow's Old Town, which Poland's defence minister has described as an \"act of terror\".",
+        "link": "https://www.abc.net.au/news/2026-11-09/poland-treating-mass-shooting-as-terrorist-offence/107362106",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
+      "count": 2,
+      "story": {
+        "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+        "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -252,6 +264,30 @@
       }
     },
     {
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
+      "count": 2,
+      "story": {
+        "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+        "description": "The strike leaves more than 70 percent of northern Iraq&#039;s Kurdish region without power.",
+        "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 2,
+      "story": {
+        "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+        "description": "Pope Leo&#039;s visit marks the first papal trip to Argentina in nearly four decades amid tensions with the Milei government.",
+        "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
       "name": "Paris",
       "lat": 48.85,
       "lon": 2.35,
@@ -264,51 +300,27 @@
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 2,
       "story": {
-        "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
-        "description": "Droughts, floods and extreme heat are upping the pressure on delegates at the UN climate talks in Antalya, Turkey. Can countries move beyond pledges to concrete action?",
-        "link": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf",
+        "title": "France sees new round of Yellow Vest, student protests",
+        "description": "Although fewer protesters turned out in comparison with previous weeks, several cities saw clashes between police and demonstrators.",
+        "link": "https://www.dw.com/en/france-sees-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
       "count": 2,
       "story": {
-        "title": "Mercedes complete F1 title double in Brazil",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/mercedes-complete-f1-title-double-in-brazil-6534606",
+        "title": "Raffles Hotel launches its first global online shop, bringing its signature style into your home",
+        "description": "The Little Shop by Raffles&nbsp;pays homage to Raffles Singapore's iconic 1940s boutique through a bespoke ready-to-wear collection and limited-edition partnerships&nbsp;with luxury brands.",
+        "link": "https://www.channelnewsasia.com/remarkable-living/raffles-hotel-little-shop-6523921",
         "source": "CNA"
-      }
-    },
-    {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
-      "count": 1,
-      "story": {
-        "title": "Houthis say at least 33 killed in Saudi air strike",
-        "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-        "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
-      "count": 1,
-      "story": {
-        "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-        "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-        "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
@@ -336,14 +348,14 @@
       }
     },
     {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-        "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-        "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+        "title": "Gaza wedding festival sees 250 couples married at the same time",
+        "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+        "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -360,14 +372,14 @@
       }
     },
     {
-      "name": "Japan",
-      "lat": 36.2,
-      "lon": 138.25,
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
-        "description": "Kozo Tashima believes he has a &#039;20 to 30 percent&#039; chance of winning the FIFA presidency election against Infantino.",
-        "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
+        "title": "Lopez double fires Barcelona to win at Atletico Madrid",
+        "description": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
+        "link": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -384,39 +396,27 @@
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
       "count": 1,
       "story": {
-        "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-        "description": "Previews, team news and live text updates from Atletico Madrid vs Barcelona in football&#039;s La Liga.",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Arena 'electric' as 36ers debutant hits buzzer beater",
+        "description": "Raheim Brown Jr made headlines in September as the youngest player signed by an NBL club in 44 years, but his debut for the Adelaide 36ers on the weekend will live in the memories of many fans.",
+        "link": "https://www.abc.net.au/news/2026-11-09/16yo-rj-brown-hits-buzzer-beater-in-debut-adelaide-36er-game/107363130",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Tripoli",
-      "lat": 32.89,
-      "lon": 13.19,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 1,
       "story": {
-        "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
-        "description": "Egypt has reopened its embassy in Libya’s capital, Tripoli, after a 12-year closure.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Libya",
-      "lat": 26.34,
-      "lon": 17.23,
-      "count": 1,
-      "story": {
-        "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
-        "description": "Egypt has reopened its embassy in Libya’s capital, Tripoli, after a 12-year closure.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Two survivors of fatal helicopter crash in Indonesia named",
+        "description": "The pilots remarkably survived the crash after their aircraft nosedived into a river.",
+        "link": "https://www.abc.net.au/news/2026-11-09/survivors-of-indonesia-helicopter-crash-named/107362534",
+        "source": "ABC News AU"
       }
     },
     {
@@ -426,32 +426,8 @@
       "count": 1,
       "story": {
         "title": "Shooter's medical care focus of inquest into Floreat double murder",
-        "description": "The medical care Mark Bombara received in the lead up to the murder of a Perth mother and daughter will be the main focus of a coronial inquest into a tragedy that shocked Western Australia and forever changed the state'",
+        "description": "The medical care Mark Bombara received in the lead-up to the murder of a Perth mother and daughter will be the main focus of a coronial inquest into a tragedy that shocked Western Australia and forever changed the state'",
         "link": "https://www.abc.net.au/news/2026-11-09/wa-floreat-murders-inquest-mark-bombara-medical-care/107361034",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Manila",
-      "lat": 14.6,
-      "lon": 120.98,
-      "count": 1,
-      "story": {
-        "title": "Live: PM says he will engage with Trump 'respectfully' on Iran war",
-        "description": "Anthony Albanese says he will raise the Iran war with US President Donald Trump when the Quad meets on the sidelines of ASEAN in Manila. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-11-09/federal-politics-live-blog-digital-duty-of-care-/107362100",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Man charged with murder after alleged fatal stabbing of Melbourne delivery rider",
-        "description": "A 51-year-old man is facing two charges, including murder, for the alleged stabbing attack on father-of-two Feng Jianming and another rider.",
-        "link": "https://www.abc.net.au/news/2026-11-09/man-charged-murder-feng-jianming-fatal-stabbing/107362070",
         "source": "ABC News AU"
       }
     },
@@ -468,6 +444,18 @@
       }
     },
     {
+      "name": "Cairo",
+      "lat": 30.04,
+      "lon": 31.24,
+      "count": 1,
+      "story": {
+        "title": "Egypt train crash leaves several dead, over 100 injured",
+        "description": "A train derailed after colliding with another train south of Cairo, with authorities confirming several deaths and saying more than 100 passengers were injured. Over 50 ambulances were deployed to the scene.",
+        "link": "https://www.dw.com/en/egypt-train-crash-leaves-several-dead-over-100-injured/a-79892916?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
       "name": "Turkey",
       "lat": 38.96,
       "lon": 35.24,
@@ -480,14 +468,14 @@
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Lima",
+      "lat": -12.05,
+      "lon": -77.04,
       "count": 1,
       "story": {
-        "title": "Trump offers White House press secretary role to Dana White",
-        "description": "US President Donald Trump has offered the White House press secretary job to Dana White, the chief executive of the Ultimate Fighting Championship. White has neither formally accepted nor turned down the invitation.",
-        "link": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+        "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
+        "description": "Droughts, floods and extreme heat are upping the pressure on delegates at the UN climate talks in Antalya, Turkey. Can countries move beyond pledges to concrete action?",
+        "link": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -528,14 +516,14 @@
       }
     },
     {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
+      "name": "Hong Kong",
+      "lat": 22.32,
+      "lon": 114.17,
       "count": 1,
       "story": {
-        "title": "Commentary: What the timing of Najib’s house arrest says about Malaysian politics",
-        "description": "With two upcoming state elections, conventional wisdom held that neither coalition would want the former prime minister and his corruption convictions as a live campaign topic, says Asian studies professor James Chin.",
-        "link": "https://www.channelnewsasia.com/commentary/malaysia-najib-house-arrest-pardon-election-timing-6533981",
+        "title": "Chinese energy storage firm RelyEZ jumps on Hong Kong debut",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/business/chinese-energy-storage-firm-relyez-jumps-hong-kong-debut-6535021",
         "source": "CNA"
       }
     },
@@ -545,9 +533,21 @@
       "lon": 95.96,
       "count": 1,
       "story": {
-        "title": "ASEAN special envoy's Myanmar aid mission draws mixed reactions amid peace plan impasse",
-        "description": "Some observers see the mission as a way to reach vulnerable communities, while others warn against engaging Myanmar's military authorities&nbsp;amid a lack of progress on an agreed peace plan.",
-        "link": "https://www.channelnewsasia.com/asia/myanmar-asean-diplomacy-humanitarian-aid-6530151",
+        "title": "She came to Singapore as a dialysis nurse for two years but stayed for 30 – now 70, she has no plans to retire",
+        "description": "Student protests in Myanmar derailed Daw Mi Mi’s academic ambitions and led her to nursing, where she survived a hospital fire and spent 17 years working in the operating theatre. She later moved to Singapore to become a",
+        "link": "https://www.channelnewsasia.com/women/daw-mi-mi-dialysis-nurse-alexandra-hospital-6506216",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "count": 1,
+      "story": {
+        "title": "Red Bull boss Mekies says Hadjar delivered his best race in Brazil",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/red-bull-boss-mekies-says-hadjar-delivered-his-best-race-in-brazil-6534766",
         "source": "CNA"
       }
     }
