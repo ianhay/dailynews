@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T15:31:58+00:00",
+  "generated_at": "2026-11-11T22:33:50+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,12 +12,6 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "description": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
       "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
       "description": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
       "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
@@ -28,19 +22,25 @@
       "description": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
       "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
+    },
+    {
+      "title": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
+      "description": "Democratic lawmaker Robert Garcia denounced a White House letter as an unconstitutional attack on legislative branch.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
+      "source": "Al Jazeera"
     }
   ],
   "australia": [
     {
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "description": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
-      "description": "Emails containing the false warnings were sent to schools in Rome, Naples, Vicenza, Florence, Pisa, Trieste and other Italian cities, officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "description": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 17,
+      "count": 22,
       "story": {
         "title": "Why are these purple flowers shutting down streets in Sydney?",
         "description": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
@@ -87,11 +87,11 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 12,
+      "count": 10,
       "story": {
-        "title": "US warns Madagascar over growing military ties with Russia",
-        "description": "US general warns the Sahel model-like security deal with Russia could lead to greater instability in Africa.",
-        "link": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+        "description": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+        "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -101,22 +101,34 @@
       "lon": 53.0,
       "count": 9,
       "story": {
-        "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-        "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-        "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+        "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+        "description": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+        "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
+      "name": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
       "count": 7,
       "story": {
-        "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-        "description": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-        "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+        "title": "Why are these purple flowers shutting down streets in Sydney?",
+        "description": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
+        "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 7,
+      "story": {
+        "title": "Integration of immigrants in Germany: Much has been accomplished but problems remain",
+        "description": "The Federal office for Migration and Refugees has released a new Integration Report. It found that while the integration of people with a migrant history is improving, violent youth remain a problem.",
+        "link": "https://www.dw.com/en/integration-of-immigrants-in-germany-much-has-been-accomplished-but-problems-remain/a-79923241?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -125,34 +137,34 @@
       "lon": 31.0,
       "count": 6,
       "story": {
-        "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-        "description": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
-        "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+        "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+        "description": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+        "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 6,
       "story": {
-        "title": "Wael Mohya could make German football history at 17",
-        "description": "At just 17, Gladbach forward Wael Mohya has earned his first Germany call-up. The dual-national talent has chosen the DFB path for now — and could soon make modern national-team history.",
-        "link": "https://www.dw.com/en/wael-mohya-could-make-german-football-history-at-17/a-79919787?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Gaza goalkeeper killed in Israeli attack",
+        "description": "Palestinian footballer Mahmoud Abdel-Malek was killed in an Israeli strike days after the Thousand Martyrs Cup.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Sydney",
-      "lat": -33.87,
-      "lon": 151.21,
-      "count": 5,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 6,
       "story": {
-        "title": "Why are these purple flowers shutting down streets in Sydney?",
-        "description": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
-        "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Gaza goalkeeper killed in Israeli attack",
+        "description": "Palestinian footballer Mahmoud Abdel-Malek was killed in an Israeli strike days after the Thousand Martyrs Cup.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -168,27 +180,39 @@
       }
     },
     {
-      "name": "China",
-      "lat": 35.0,
-      "lon": 105.0,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 5,
       "story": {
-        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-        "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
+        "title": "Gaza goalkeeper killed in Israeli attack",
+        "description": "Palestinian footballer Mahmoud Abdel-Malek was killed in an Israeli strike days after the Thousand Martyrs Cup.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 4,
       "story": {
-        "title": "‘Our neighbours are gone’: Gaza survivors recount horrors of deadly floods",
-        "description": "A deadly sandbank collapse buried families alive in Deir el-Balah, as survivors describe desperate rescue attempts.",
-        "link": "https://www.aljazeera.com/features/2026/11/11/as-gaza-flood-waters-subside-palestinians-assess-human-and-material-damage?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+        "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 4,
+      "story": {
+        "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+        "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
+        "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -197,45 +221,9 @@
       "lon": -7.69,
       "count": 4,
       "story": {
-        "title": "Schools across Italy evacuated after receiving email bomb alerts",
-        "description": "Italian PM Meloni says there is no danger as UK and Northern Ireland authorities also report &#039;bogus&#039; alerts.",
-        "link": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 3,
-      "story": {
-        "title": "Spain sees widespread disruption in first general strike for 14 years",
-        "description": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 3,
-      "story": {
-        "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-        "description": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-        "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Netherlands",
-      "lat": 52.13,
-      "lon": 5.29,
-      "count": 3,
-      "story": {
-        "title": "Tearful Smith switches allegiance to Netherlands",
-        "description": "Tatjana Smith, South Africa's most decorated Olympian, switches allegiance to the Netherlands.",
-        "link": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
+        "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+        "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
+        "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -243,11 +231,35 @@
       "name": "Poland",
       "lat": 51.9,
       "lon": 19.1,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
         "description": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
         "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "China",
+      "lat": 35.0,
+      "lon": 105.0,
+      "count": 4,
+      "story": {
+        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+        "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Kenya",
+      "lat": -0.02,
+      "lon": 37.9,
+      "count": 3,
+      "story": {
+        "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+        "description": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
+        "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -257,22 +269,34 @@
       "lon": 2.2,
       "count": 3,
       "story": {
-        "title": "Italy vs France: UEFA Nations League – preview, team news, predictions",
-        "description": "Kylian Mbappe &#039;under treatment&#039; as Group A1 leaders France travel to Italy for a game at the San Siro, Milan.",
-        "link": "https://www.aljazeera.com/sports/2026/11/11/italy-vs-france-uefa-nations-league-preview-team-news?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Iran denies role in fridge hack, France summons ambassador",
+        "description": "France has said it rules \"nothing\" out in response to a cyberattack on supermarket refrigeration units. Iran, however, said it categorically rejected Paris' \"baseless and one-sided accusations\" of IRGC involvement.",
+        "link": "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
+      "name": "Abu Dhabi",
+      "lat": 24.47,
+      "lon": 54.37,
+      "count": 2,
       "story": {
-        "title": "Singapore Airlines flight makes emergency landing in regional Queensland",
-        "description": "A SIngapore Airlines flight made an emergency landing at Rockhmampton after the cabin filled with smoke on Wednesday afternoon.",
-        "link": "https://www.abc.net.au/news/2026-11-11/singapore-airlines-emergency-landing-queensland/107375388",
-        "source": "ABC News AU"
+        "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+        "description": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+        "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 2,
+      "story": {
+        "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+        "description": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+        "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
@@ -284,6 +308,18 @@
         "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
         "description": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
         "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "count": 2,
+      "story": {
+        "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+        "description": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
+        "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -300,99 +336,39 @@
       }
     },
     {
-      "name": "Kenya",
-      "lat": -0.02,
-      "lon": 37.9,
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
       "count": 2,
       "story": {
-        "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-        "description": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
-        "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 2,
-      "story": {
-        "title": "Tearful Smith switches allegiance to Netherlands",
-        "description": "Tatjana Smith, South Africa's most decorated Olympian, switches allegiance to the Netherlands.",
-        "link": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
-      "count": 2,
-      "story": {
-        "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-        "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
-        "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
-      "count": 2,
-      "story": {
-        "title": "Qatar Grand Prix was ‘right decision’ despite regional tensions: MotoGP",
-        "description": "MotoGP chief says &#039;it was normal that the riders showed their concerns&#039; but was surprised at Yamaha&#039;s ⁠⁠⁠⁠withdrawal.",
-        "link": "https://www.aljazeera.com/sports/2026/11/11/motogp-carlos-ezpeleta-deputy-ceo-qatar-grand-prix-yamaha-iran-war?traffic_source=rss",
+        "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+        "description": "Iran&#039;s parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
+        "link": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Abu Dhabi",
-      "lat": 24.47,
-      "lon": 54.37,
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
       "count": 2,
       "story": {
-        "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
-        "description": "The talks in the UAE capital were the first ⁠between the two warring sides since February.",
-        "link": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
+        "title": "Portugal cancels more than 300 flights, shuts schools due to Storm Charles",
+        "description": "Authorities spared no effort in preparation for the Atlantic storm after criticism following January&#039;s Storm Kristin.",
+        "link": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "‘Climate crisis is outrunning us,’ UN chief Guterres says at COP31",
-        "description": "Guterres says the world must fight harder, accuses the fossil fuel lobby of delaying climate action at critical talks.",
-        "link": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
-      "count": 2,
-      "story": {
-        "title": "Israel kills Gaza goalkeeper days after playing in cup for slain athletes",
-        "description": "Mahmoud Abdel-Malek, a 20-year-old goalkeeper for Gaza Sports Club, was killed in an Israeli airstrike on Gaza City.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Bulgaria",
-      "lat": 42.73,
-      "lon": 25.49,
-      "count": 2,
-      "story": {
-        "title": "Italy: Hundreds of schools evacuated after bomb threats",
-        "description": "Although the government believes the threat to be a hoax, it has nevertheless prompted concerns about \"hybrid warfare\" in Europe. Similar messages were sent in Northern Ireland, Ireland, and Bulgaria.",
-        "link": "https://www.dw.com/en/italy-hundreds-of-schools-evacuated-after-bomb-threats/a-79918034?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "The Wallabies-Scotland rivalry born in a Melbourne backyard",
+        "description": "Sione Tuipulotu and Isaac Kailea used to face off in the backyards of their family homes in Melbourne. On Monday they will meet on opposite sides at Murrayfield.",
+        "link": "https://www.abc.net.au/news/2026-11-12/sione-tuipulotu-isaac-kailea-wallabies-scotland/107375934",
+        "source": "ABC News AU"
       }
     },
     {
@@ -401,10 +377,10 @@
       "lon": -0.12,
       "count": 2,
       "story": {
-        "title": "UK Privy Council overrules Trinidad and Tobago gay sex law",
-        "description": "A London court has overturned a Trinidad and Tobago law criminalizing consensual sexual relations between male same-sex couples. As a result of the colonial legacy, it is the independent country's last court of appeal.",
-        "link": "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Swimming embraces short and sharp with new Swim GP competition",
+        "description": "Traditional swimming competitions are no longer enough, as Swimming Australia continues to explore alternative formats with the Swim GP in Melbourne, and the return of the International Swimming League in London this Dec",
+        "link": "https://www.abc.net.au/news/2026-11-12/swim-gp-short-sharp-competition-format-isl/107276178",
+        "source": "ABC News AU"
       }
     },
     {
@@ -420,14 +396,14 @@
       }
     },
     {
-      "name": "Rome",
-      "lat": 41.9,
-      "lon": 12.5,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
       "count": 1,
       "story": {
-        "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
-        "description": "Emails containing the false warnings were sent to schools in Rome, Naples, Vicenza, Florence, Pisa, Trieste and other Italian cities, officials say.",
-        "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+        "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+        "description": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -444,18 +420,6 @@
       }
     },
     {
-      "name": "Egypt",
-      "lat": 26.8,
-      "lon": 30.8,
-      "count": 1,
-      "story": {
-        "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-        "description": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-        "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Khartoum",
       "lat": 15.5,
       "lon": 32.55,
@@ -468,26 +432,86 @@
       }
     },
     {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
+      "name": "Madrid",
+      "lat": 40.42,
+      "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "‘They see me as non-Western’: Top court to rule on Denmark’s housing law",
-        "description": "Residents say Denmark’s ‘ghetto law’ is breaking up strong communities, as the Supreme Court prepares to rule.",
-        "link": "https://www.aljazeera.com/features/2026/11/11/they-see-me-as-non-western-top-court-to-rule-on-denmarks-housing-law?traffic_source=rss",
+        "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
+        "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
+        "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Warsaw",
+      "lat": 52.23,
+      "lon": 21.0,
+      "count": 1,
+      "story": {
+        "title": "Thousands march to mark Poland’s Independence Day",
+        "description": "Thousands of people have taken to the streets of Warsaw for Poland&#039;s annual Independence Day march",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Vietnam",
-      "lat": 14.06,
-      "lon": 108.28,
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
       "count": 1,
       "story": {
-        "title": "Trump ‘Foot Soldier’ statue mocks his Vietnam draft deferment",
-        "description": "An anonymous art collective called Secret Handshake has installed a golden statue of US President Donald Trump.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/trump-foot-soldier-statue-mocks-his-vietnam-draft-deferment?traffic_source=rss",
+        "title": "Oil production nears pre-Iran war levels, OPEC says",
+        "description": "Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.",
+        "link": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 1,
+      "story": {
+        "title": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
+        "description": "Democratic lawmaker Robert Garcia denounced a White House letter as an unconstitutional attack on legislative branch.",
+        "link": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
+      "count": 1,
+      "story": {
+        "title": "Uzbekistan: the crossroads of Central Asian cultures",
+        "description": "Showcased in Qatar’s Museum of Islamic Art lies an exhibition that expands on Uzbekistan’s intercultural artifacts.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/uzbekistan-the-crossroads-of-central-asian-cultures?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
+      "count": 1,
+      "story": {
+        "title": "More than one million people in Lebanon face acute food shortages, UN says",
+        "description": "UN warns hunger crisis affecting almost quarter of Lebanon&#039;s population could escalate without &#039;urgent action&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/11/11/one-million-people-in-lebanon-facing-acute-food-insecurity-un-says?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
+      "count": 1,
+      "story": {
+        "title": "Will Sheikh Hasina return to Bangladesh?",
+        "description": "The former Bangladeshi PM says she is planning to go back, despite a death sentence.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/11/11/will-sheikh-hasina-return-to-bangladesh?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -497,58 +521,34 @@
       "lon": 37.6,
       "count": 1,
       "story": {
-        "title": "What is northern Europe’s new drone and warship plan to counter Russia?",
-        "description": "UK-led coalition of 10 Northern European nations announces joint defence framework amid rising threats from Moscow.",
-        "link": "https://www.aljazeera.com/news/2026/11/11/whats-northern-europes-new-drones-and-warships-plan-to-counter-russia?traffic_source=rss",
+        "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
+        "description": "Moscow announces the veteran diplomat&#039;s sudden passing without further details.",
+        "link": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
       "count": 1,
       "story": {
-        "title": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
-        "description": "Iran is said to have geo-located Bessent&#039;s $12.5m mansion in Washington, DC after a photo of it was published.",
-        "link": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Perth",
-      "lat": -31.95,
-      "lon": 115.86,
-      "count": 1,
-      "story": {
-        "title": "Rescuers wrangling red tape as foxes pick off young swans south of Perth",
-        "description": "Bird lovers say departmental red tape needlessly delayed a bid to save 50 vulnerable black swan cygnets from fox attacks on a drying lake near Mandurah.",
-        "link": "https://www.abc.net.au/news/2026-11-11/swan-rescue-mclarty-lake-mandurah-foxes-taking-cygnets/107374194",
+        "title": "Developer says gigantic WA data centre will not use fracked gas",
+        "description": "Concerns about the proposed mega data centre in Western Australia come amid growing opposition to similar facilities in the United States.",
+        "link": "https://www.abc.net.au/news/2026-11-12/gingerah-concerns-data-centre-fracked-gas/107364340",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
       "count": 1,
       "story": {
-        "title": "'There go my plans': Finnish embassy in Canberra goes viral after logistics post",
-        "description": "It all began when Mr Haapea fronted a video promoting a campaign encouraging singles to enter a competition where they could travel to the Nordic country to meet and dine with new people. Then, they posted about a day-lo",
-        "link": "https://www.abc.net.au/news/2026-11-11/finnish-ambassador-welcomes-viral-interest-social-media-posts/107374016",
+        "title": "Warner hits out as batting coach calls Khawaja claims 'absolutely false'",
+        "description": "Graeme Hick, Australia's batting coach at the time of the 2018 tour of South Africa, weighs in on the recent revelations about Sandpaper-gate, labelling Usman Khawaja's claims \"absolutely false\".",
+        "link": "https://www.abc.net.au/news/2026-11-12/australia-batting-coach-on-usman-khawaja-sandpaper-story/107376024",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 1,
-      "story": {
-        "title": "Brazil electoral court fines Meta, sees no deliberate election bias",
-        "description": "The fine came after President Lula's coalition filed a complaint. The court said there was no evidence of intent to influence the election. Meta said it will defend itself against \"false allegations.\"",
-        "link": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
       }
     }
   ]
