@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:23:21+00:00",
+  "generated_at": "2026-11-13T08:38:25+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,41 +12,41 @@
   "sources_failed": [],
   "political": [
     {
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
-      "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
-      "description": "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.",
-      "link": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
-      "description": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
-      "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
-      "source": "Al Jazeera"
+      "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+      "description": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
     {
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-      "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
       "title": "Australian footballers will not be charged after hotel incident, police say",
       "description": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
       "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "description": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+      "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 18,
+      "count": 19,
       "story": {
         "title": "Australian footballers will not be charged after hotel incident, police say",
         "description": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
@@ -96,14 +96,14 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
       "count": 7,
       "story": {
-        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-        "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-        "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+        "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,10 +120,22 @@
       }
     },
     {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 6,
+      "story": {
+        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+        "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
-      "count": 6,
+      "count": 4,
       "story": {
         "title": "Australian footballers will not be charged after hotel incident, police say",
         "description": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
@@ -132,34 +144,22 @@
       }
     },
     {
-      "name": "Gaza",
-      "lat": 31.5,
-      "lon": 34.47,
-      "count": 6,
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 4,
       "story": {
-        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-        "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-        "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 5,
-      "story": {
-        "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-        "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-        "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Paramore's Hayley Williams to bring solo concert tour to Singapore in February 2027",
+        "description": "The Paramore frontwoman will perform in Singapore on Feb 26, 2027, as part of The Hayley Williams Show, which focuses on her solo music. The venue, ticket prices and sale dates have yet to be announced.",
+        "link": "https://www.channelnewsasia.com/entertainment/hayley-williams-ssolo-concert-singapore-2027-6548481",
+        "source": "CNA"
       }
     },
     {
       "name": "Italy",
       "lat": 42.5,
       "lon": 12.5,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
         "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
@@ -168,10 +168,10 @@
       }
     },
     {
-      "name": "Israel",
+      "name": "Gaza",
       "lat": 31.5,
-      "lon": 34.75,
-      "count": 4,
+      "lon": 34.47,
+      "count": 3,
       "story": {
         "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
         "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
@@ -180,10 +180,70 @@
       }
     },
     {
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 3,
+      "story": {
+        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+        "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Japan",
+      "lat": 36.2,
+      "lon": 138.25,
+      "count": 3,
+      "story": {
+        "title": "Japan core inflation seen above BOJ target for second month in October: Reuters poll",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/business/japan-core-inflation-seen-above-boj-target-second-month-in-october-reuters-poll-6548931",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "lat": 4.21,
+      "lon": 101.98,
+      "count": 3,
+      "story": {
+        "title": "Malaysia weighing how to aid AirAsia without risking public funds: Anthony Loke",
+        "description": "AirAsia controls about 60 per cent of Malaysia’s domestic aviation market but is grappling with high fuel prices, currency swings and billions of ringgit in liabilities.",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-weighing-aid-airasia-without-risking-public-funds-anthony-loke-6548626",
+        "source": "CNA"
+      }
+    },
+    {
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
+      "count": 2,
+      "story": {
+        "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+        "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+        "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Finland",
+      "lat": 61.92,
+      "lon": 25.75,
+      "count": 2,
+      "story": {
+        "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+        "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+        "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Palestinian",
       "lat": 31.9,
       "lon": 35.2,
-      "count": 3,
+      "count": 2,
       "story": {
         "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
         "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
@@ -195,71 +255,11 @@
       "name": "Spain",
       "lat": 40.46,
       "lon": -3.7,
-      "count": 3,
+      "count": 2,
       "story": {
         "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
         "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
         "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 3,
-      "story": {
-        "title": "Deadly shooting in Washington DC",
-        "description": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 3,
-      "story": {
-        "title": "Germany news: Police raid chapters of Gremium MC biker gang",
-        "description": "Police in southwestern Germany launched major early-morning operations against a biker gang. The state of Baden-Württemberg is outlawing three of its chapters. Meanwhile, unions are planning more strikes.",
-        "link": "https://www.dw.com/en/germany-news-police-raid-chapters-of-gremium-mc-biker-gang/live-79926275?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Dublin",
-      "lat": 53.35,
-      "lon": -6.26,
-      "count": 2,
-      "story": {
-        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-        "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-        "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 2,
-      "story": {
-        "title": "Australian footballers will not be charged after hotel incident, police say",
-        "description": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-        "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 2,
-      "story": {
-        "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-        "description": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-        "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -276,30 +276,6 @@
       }
     },
     {
-      "name": "Argentina",
-      "lat": -38.4,
-      "lon": -63.6,
-      "count": 2,
-      "story": {
-        "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-        "description": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-        "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ireland",
-      "lat": 53.14,
-      "lon": -7.69,
-      "count": 2,
-      "story": {
-        "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-        "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-        "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
@@ -312,62 +288,50 @@
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
       "count": 2,
       "story": {
-        "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
-        "description": "Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
+        "title": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
+        "description": "Funding cuts and Israel&#039;s war have left Palestinians in Lebanon in increasingly dire circumstances.",
+        "link": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 2,
       "story": {
-        "title": "They refused to be silent: How a filmmaker and a human rights activist fight sexual violence through stories",
-        "description": "Japanese filmmaker Shiori Ito spoke out about her sexual assault, while Indonesian human rights activist Kamala Chandrakirana documented assaults that authorities had denied. The Singapore Writers Festival 2026 headliner",
-        "link": "https://www.channelnewsasia.com/women/singapore-writers-festival-shiori-ito-kamala-chandrakirana-sexual-violence-6542051",
-        "source": "CNA"
+        "title": "Australia's next fast bowling star blows England away on ODI debut",
+        "description": "Mahli Beardman becomes just the second Australian to snare a five-for in their ODI debut as England is skittled for 131 in Perth.",
+        "link": "https://www.abc.net.au/news/2026-11-13/mahli-beardman-australia-england-first-odi/107384130",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 1,
+      "name": "Adelaide",
+      "lat": -34.93,
+      "lon": 138.6,
+      "count": 2,
       "story": {
-        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-        "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-        "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Teen sentenced for 'vicious' attack on woman sleeping rough",
+        "description": "An teenager has been sentenced for a nine-minute attack on a woman who was sleeping rough near a public library in Adelaide's inner south last year.",
+        "link": "https://www.abc.net.au/news/2026-11-13/youth-court-sentences-teen-who-attacked-woman-in-mitcham/107383976",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 1,
       "story": {
-        "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-        "description": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-        "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Finland",
-      "lat": 61.92,
-      "lon": 25.75,
-      "count": 1,
-      "story": {
-        "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-        "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-        "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+        "title": "Australian footballers will not be charged after hotel incident, police say",
+        "description": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+        "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -384,6 +348,42 @@
       }
     },
     {
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 1,
+      "story": {
+        "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+        "description": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Argentina",
+      "lat": -38.4,
+      "lon": -63.6,
+      "count": 1,
+      "story": {
+        "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+        "description": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+        "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ireland",
+      "lat": 53.14,
+      "lon": -7.69,
+      "count": 1,
+      "story": {
+        "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+        "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
+        "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Kenya",
       "lat": -0.02,
       "lon": 37.9,
@@ -396,38 +396,14 @@
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
-        "description": "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.",
-        "link": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 1,
-      "story": {
-        "title": "Italy fight back to beat France 3-1 and move top of Nations League group",
-        "description": "Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secure win for Italy.",
-        "link": "https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Venezuela",
-      "lat": 6.4,
-      "lon": -66.6,
-      "count": 1,
-      "story": {
-        "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
-        "description": "The report seeks to address concerns about the Trump administration&#039;s handling of revenue held in trust for Venezuela.",
-        "link": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
+        "title": "Washington residents hold vigil after deadly shooting",
+        "description": "Residents gathered in Washington, DC, to mourn victims of a shooting that left one person dead and four others wounded.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-washington-dc-shooting-vigil?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -437,118 +413,142 @@
       "lon": 51.18,
       "count": 1,
       "story": {
-        "title": "Qatar Under-17 World Cup is on despite US pull out",
-        "description": "The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss",
+        "title": "Australia’s friendly against Jordan moved to Qatar over security concerns",
+        "description": "Asian football giants Australia&#039;s upcoming friendly with Jordan was initially scheduled to be played in Amman.",
+        "link": "https://www.aljazeera.com/sports/2026/11/13/australia-jordan-football-friendly-amman-doha-qatar-socceroos?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
+      "name": "Amman",
+      "lat": 31.95,
+      "lon": 35.93,
       "count": 1,
       "story": {
-        "title": "Celebrity chef says tree chop in Adelaide parklands 'inexcusable'",
-        "description": "Dozens of protesters gather in the Adelaide parklands where tree removal works for the MotoGP track begin as a group of Australian celebrities call for better environmental protection.",
-        "link": "https://www.abc.net.au/news/2026-11-13/first-trees-felled-in-adelaide-parklands-for-motogp-circuit/107381082",
+        "title": "Australia’s friendly against Jordan moved to Qatar over security concerns",
+        "description": "Asian football giants Australia&#039;s upcoming friendly with Jordan was initially scheduled to be played in Amman.",
+        "link": "https://www.aljazeera.com/sports/2026/11/13/australia-jordan-football-friendly-amman-doha-qatar-socceroos?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Jordan",
+      "lat": 30.59,
+      "lon": 36.24,
+      "count": 1,
+      "story": {
+        "title": "Australia’s friendly against Jordan moved to Qatar over security concerns",
+        "description": "Asian football giants Australia&#039;s upcoming friendly with Jordan was initially scheduled to be played in Amman.",
+        "link": "https://www.aljazeera.com/sports/2026/11/13/australia-jordan-football-friendly-amman-doha-qatar-socceroos?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
+      "count": 1,
+      "story": {
+        "title": "The real winner in Poland’s constitutional battle is Putin",
+        "description": "The fight for control of the Constitutional Tribunal is eroding Poles&#039; trust in their own state.",
+        "link": "https://www.aljazeera.com/opinions/2026/11/13/the-real-winner-in-polands-constitutional-battle-is-putin?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Peru",
+      "lat": -9.19,
+      "lon": -75.02,
+      "count": 1,
+      "story": {
+        "title": "Pope Leo meets clergy abuse survivors in Peru amid calls for justice",
+        "description": "Pope Leo met six clergy abuse survivors in Peru, while hundreds more say they remain excluded as they seek justice.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_pope-leo-meets-clergy-abuse-survivors-in-peru-121126?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 1,
+      "story": {
+        "title": "US envoys shuttle between Putin and Zelenskyy",
+        "description": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Dublin",
+      "lat": 53.35,
+      "lon": -6.26,
+      "count": 1,
+      "story": {
+        "title": "US envoys shuttle between Putin and Zelenskyy",
+        "description": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Cuba",
+      "lat": 21.52,
+      "lon": -77.78,
+      "count": 1,
+      "story": {
+        "title": "Trump moots toppling Cuba authorities before leaving office",
+        "description": "Calling Cuba a failed nation, the US president hints at attack on the country before his term ends.",
+        "link": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Beirut",
+      "lat": 33.9,
+      "lon": 35.5,
+      "count": 1,
+      "story": {
+        "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+        "description": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
+        "link": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Syria",
+      "lat": 34.8,
+      "lon": 38.9,
+      "count": 1,
+      "story": {
+        "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+        "description": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
+        "link": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Iraq",
+      "lat": 33.22,
+      "lon": 43.68,
+      "count": 1,
+      "story": {
+        "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+        "description": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
+        "link": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
+      "count": 1,
+      "story": {
+        "title": "Teens committed to trial over alleged murder of Sunshine Coast soccer coach",
+        "description": "Two Sunshine Coast teenage boys charged with fatally stabbing a man in his home last year have been committed to face a jury trial in the Brisbane Supreme Court.",
+        "link": "https://www.abc.net.au/news/2026-11-13/teens-committed-to-trial-over-alleged-murder-of-zdravko-bilic/107383044",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Lagos",
-      "lat": 6.5,
-      "lon": 3.4,
-      "count": 1,
-      "story": {
-        "title": "Nigeria: Axe-wielding men attack opposition campaign rally in Lagos",
-        "description": "A group of men armed with axes, clubs and machetes have reportedly attacked an opposition rally in the run-up to presidential elections. Journalists were also attacked as victims pointed fingers at the ruling APC party.",
-        "link": "https://www.dw.com/en/nigeria-axe-wielding-men-attack-opposition-campaign-rally-in-lagos/a-79934958?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
-      "count": 1,
-      "story": {
-        "title": "Nigeria: Axe-wielding men attack opposition campaign rally in Lagos",
-        "description": "A group of men armed with axes, clubs and machetes have reportedly attacked an opposition rally in the run-up to presidential elections. Journalists were also attacked as victims pointed fingers at the ruling APC party.",
-        "link": "https://www.dw.com/en/nigeria-axe-wielding-men-attack-opposition-campaign-rally-in-lagos/a-79934958?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Abu Dhabi",
-      "lat": 24.47,
-      "lon": 54.37,
-      "count": 1,
-      "story": {
-        "title": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
-        "description": "The first trilateral talks between Ukraine, the US and Russia in nine months have ended with an agreement on exchanging prisoners. Does this mark a genuine breakthrough and a step toward peace?",
-        "link": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Hungary",
-      "lat": 47.16,
-      "lon": 19.5,
-      "count": 1,
-      "story": {
-        "title": "Hungary eases abortion restrictions in women's rights overhaul",
-        "description": "The reforms mark a break the the conservative policies of former PM Viktor Orban. The controversial \"heartbeat regulation\" is to be scrapped and women are to be better protected against violence.",
-        "link": "https://www.dw.com/en/hungary-eases-abortion-restrictions-in-women-s-rights-overhaul/a-79931614?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "London",
-      "lat": 51.5,
-      "lon": -0.12,
-      "count": 1,
-      "story": {
-        "title": "UK court convicts 2 Iranian men of spying on journalists",
-        "description": "A London court has found two Iranian citizens guilty of surveilling reporters for a Persian-language television station critical of Iran's government. One was also convicted of planning a violent attack against them.",
-        "link": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
-      "count": 1,
-      "story": {
-        "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
-        "description": "Xi Jinping said that reunification was inevitable, but stopped short of mentioning military force. Taiwan though swiftly rejected Beijing's demands as tensions continue over the island's future.",
-        "link": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Taiwan",
-      "lat": 23.7,
-      "lon": 121.0,
-      "count": 1,
-      "story": {
-        "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
-        "description": "Xi Jinping said that reunification was inevitable, but stopped short of mentioning military force. Taiwan though swiftly rejected Beijing's demands as tensions continue over the island's future.",
-        "link": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Turkey",
-      "lat": 38.96,
-      "lon": 35.24,
-      "count": 1,
-      "story": {
-        "title": "Mbappe expected to return for Turkey showdown, says Zidane",
-        "description": "",
-        "link": "https://www.channelnewsasia.com/sport/mbappe-expected-return-turkey-showdown-says-zidane-6547791",
-        "source": "CNA"
       }
     }
   ]
