@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T22:47:14+00:00",
+  "generated_at": "2026-11-14T02:57:48+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -18,9 +18,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Why midterm vote-counting is taking so long in America's largest state",
-      "description": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
-      "link": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "description": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "australia": [
     {
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
       "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -52,6 +52,12 @@
   ],
   "economy": [
     {
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "description": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "UK economy grows at fastest rate for more than two years",
       "description": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
       "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
@@ -62,12 +68,6 @@
       "description": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
       "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business"
-    },
-    {
-      "title": "US inflation higher than expected in October - here's what is happening with prices",
-      "description": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
     }
   ],
   "places": [
@@ -75,31 +75,19 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 13,
+      "count": 15,
       "story": {
-        "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-        "description": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
-        "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 10,
-      "story": {
-        "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-        "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-        "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
+        "description": "Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 10,
+      "count": 11,
       "story": {
         "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
         "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
@@ -111,7 +99,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 8,
+      "count": 9,
       "story": {
         "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
         "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
@@ -120,9 +108,9 @@
       }
     },
     {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 7,
       "story": {
         "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
@@ -137,17 +125,29 @@
       "lon": 53.0,
       "count": 7,
       "story": {
-        "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
-        "description": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+        "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+        "description": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6,
+      "count": 5,
+      "story": {
+        "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+        "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+        "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Germany",
       "lat": 51.2,
       "lon": 10.4,
-      "count": 7,
+      "count": 5,
       "story": {
         "title": "Ukraine updates: EU to send united front to potential peace talks",
         "description": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow. DW has more.",
@@ -168,10 +168,46 @@
       }
     },
     {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 4,
+      "story": {
+        "title": "PearlBone gets FDA clearance for world's largest orthopaedic market",
+        "description": "A bone graft substitute made from mother-of-pearl shells sourced off the WA's Kimberley coast receives FDA clearance in the United States. Academics say it is just one example of life-changing medical innovation from WA.",
+        "link": "https://www.abc.net.au/news/2026-11-14/pearlbone-receives-us-fda-clearance-wa-research-milestone/107355146",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 3,
+      "story": {
+        "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+        "description": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+        "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+        "description": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+        "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Gaza",
       "lat": 31.5,
       "lon": 34.47,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
         "description": "Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions",
@@ -183,7 +219,7 @@
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
         "description": "Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions",
@@ -192,15 +228,15 @@
       }
     },
     {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 3,
       "story": {
-        "title": "Qatar and Turkiye send message of deterrence with new defence pact",
-        "description": "Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Ukraine updates: EU to send united front to potential peace talks",
+        "description": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow. DW has more.",
+        "link": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -216,18 +252,6 @@
       }
     },
     {
-      "name": "South Africa",
-      "lat": -30.6,
-      "lon": 22.9,
-      "count": 2,
-      "story": {
-        "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-        "description": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-        "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "India",
       "lat": 21.0,
       "lon": 78.0,
@@ -240,51 +264,39 @@
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Nigerian university in mourning after four students die at post-exam party",
-        "description": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
-        "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
+        "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+        "description": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+        "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Qatar",
+      "lat": 25.35,
+      "lon": 51.18,
       "count": 2,
       "story": {
-        "title": "Ukraine updates: EU to send united front to potential peace talks",
-        "description": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow. DW has more.",
-        "link": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+        "description": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Poland",
-      "lat": 51.9,
-      "lon": 19.1,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Ukraine updates: EU to send united front to potential peace talks",
-        "description": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow. DW has more.",
-        "link": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
-      "count": 2,
-      "story": {
-        "title": "Ukraine updates: EU to send united front to potential peace talks",
-        "description": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow. DW has more.",
-        "link": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Man dies after house fire in Geelong suburb",
+        "description": "A man has been found dead after a house fire in Armstrong Creek, about 100 kilometres south-west of Melbourne.",
+        "link": "https://www.abc.net.au/news/2026-11-14/man-dead-armstrong-creek-house-fire-geelong/107385832",
+        "source": "ABC News AU"
       }
     },
     {
@@ -312,30 +324,6 @@
       }
     },
     {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
-      "count": 2,
-      "story": {
-        "title": "Germany's Nmecha won't repeat controversial goal celebration",
-        "description": "Germany head coach Jürgen Klopp says that midfielder Felix Nmecha will not repeat a goal celebration that sparked controversy over the past week. Germany are set to face Serbia and the Netherlands in the Nations League.",
-        "link": "https://www.dw.com/en/germany-s-nmecha-won-t-repeat-controversial-goal-celebration/a-79937994?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
-      "count": 1,
-      "story": {
-        "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-        "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
-        "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Bangkok",
       "lat": 13.75,
       "lon": 100.5,
@@ -360,63 +348,63 @@
       }
     },
     {
-      "name": "Khartoum",
-      "lat": 15.5,
-      "lon": 32.55,
+      "name": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
       "count": 1,
       "story": {
-        "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-        "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
-        "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Afghanistan’s new road to China ends at a closed border",
+        "description": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+        "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
+      "name": "Afghanistan",
+      "lat": 33.9,
+      "lon": 67.7,
       "count": 1,
       "story": {
-        "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-        "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
-        "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Afghanistan’s new road to China ends at a closed border",
+        "description": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+        "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Madrid",
-      "lat": 40.42,
-      "lon": -3.7,
+      "name": "Ankara",
+      "lat": 39.93,
+      "lon": 32.86,
       "count": 1,
       "story": {
-        "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-        "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
-        "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+        "description": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Doha",
+      "lat": 25.29,
+      "lon": 51.53,
       "count": 1,
       "story": {
-        "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-        "description": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-        "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+        "description": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 1,
       "story": {
-        "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-        "description": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-        "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
+        "description": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever.",
+        "link": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -468,51 +456,39 @@
       }
     },
     {
-      "name": "Kyiv",
-      "lat": 50.45,
-      "lon": 30.52,
+      "name": "New Zealand",
+      "lat": -41.0,
+      "lon": 174.0,
       "count": 1,
       "story": {
-        "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-        "description": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
-        "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "A friendship forged on the rugby league fields of New Zealand a century ago",
+        "description": "It's been more than 100 years since Awhina and Rita's ancestors travelled from the rugby league fields of New Zealand to Australia.",
+        "link": "https://www.abc.net.au/news/2026-11-14/qld-nz-rugby-league-world-cup-fans/107379782",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 1,
       "story": {
-        "title": "Jerusalem Daily: Baby dies from cold in Gaza",
-        "description": "A baby dies from the cold in Gaza as 53 countries urge Israel to allow aid in.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Major police incident underway in Perth's south",
+        "description": "One person has been arrested as police respond to a serious incident in Perth's south.",
+        "link": "https://www.abc.net.au/news/2026-11-14/wa-police-serious-incident-keysbrook-perth/107386030",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Istanbul",
-      "lat": 41.0,
-      "lon": 28.98,
+      "name": "London",
+      "lat": 51.5,
+      "lon": -0.12,
       "count": 1,
       "story": {
-        "title": "Turkiye and Qatar sign mutual defence agreement",
-        "description": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌‌bin Hamad ​Al Thani in Istanbul on ⁠⁠Friday.",
-        "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 1,
-      "story": {
-        "title": "EU agrees on five countries to represent Europe in Ukraine peace talks",
-        "description": "European leaders believe a US-backed process will allow Moscow and Washington to decide the fate of the conflict.",
-        "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Regional bands say it's now cheaper to do a gig in London than interstate",
+        "description": "Some of the country's hottest musical exports say it's now cheaper to fly to London or the United States for gigs than to travel interstate to play for Australian audiences.",
+        "link": "https://www.abc.net.au/news/2026-11-14/remote-flight-prices-nt-bands-yothu-yindi-king-stingray-touring/107381634",
+        "source": "ABC News AU"
       }
     },
     {
@@ -521,34 +497,58 @@
       "lon": 149.13,
       "count": 1,
       "story": {
-        "title": "Exhibition celebrating 'unbridled messiness' of womanhood opens in Canberra",
-        "description": "Magic, witchcraft, ancient rituals, and unbridled sexuality are some of the complex and multifaceted aspects of womanhood explored in latest exhibition at the National Portrait Gallery.",
-        "link": "https://www.abc.net.au/news/2026-11-14/act-mother-maiden-crone-exhibition-national-portrait-gallery/107383094",
+        "title": "Police seeking witnesses after violent home invasion in Canberra",
+        "description": "Three men armed with a firearm, knife, sword and baseball bat, broke into the home, allegedly assaulting a woman while a child was present.",
+        "link": "https://www.abc.net.au/news/2026-11-14/police-call-witnesses-hackett-home-invasion/107385772",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
+      "name": "Mexico",
+      "lat": 23.6,
+      "lon": -102.5,
       "count": 1,
       "story": {
-        "title": "Switching runways, flying higher proposed in bid to reduce Brisbane aircraft noise",
-        "description": "Six years after the city's second $1.1 billion runway opened, the federal government's air traffic oversight body is seeking community feedback on five options to reduce everyday impacts on residents.",
-        "link": "https://www.abc.net.au/news/2026-11-14/brisbane-aircraft-noise-airservices-australia-consultation/107371844",
-        "source": "ABC News AU"
+        "title": "SpaceX launches Starship rocket, fails to recover booster",
+        "description": "SpaceX had planned to catch and reuse both stages of its biggest rocket for the first time. But the booster exploded over the Gulf of Mexico, while the spacecraft continued into orbit.",
+        "link": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
-      "name": "Doha",
-      "lat": 25.29,
-      "lon": 51.53,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 1,
       "story": {
-        "title": "Socceroos crush Qatar in Doha demolition",
-        "description": "The Socceroos have enjoyed an emphatic victory in the stronghold of the Asian champions, defeating Qatar 3-0 in Doha.",
-        "link": "https://www.abc.net.au/news/2026-11-14/socceroos-crush-qatar/107385558",
-        "source": "ABC News AU"
+        "title": "Ukraine updates: EU to send united front to potential peace talks",
+        "description": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow. DW has more.",
+        "link": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Italy",
+      "lat": 42.5,
+      "lon": 12.5,
+      "count": 1,
+      "story": {
+        "title": "Ukraine updates: EU to send united front to potential peace talks",
+        "description": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow. DW has more.",
+        "link": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Dublin",
+      "lat": 53.35,
+      "lon": -6.26,
+      "count": 1,
+      "story": {
+        "title": "EU leaders urged to 'act now' to stay AI competitive with US, China",
+        "description": "EU leaders in Dublin were called on by an AI executive to move quickly in the tech race with the US and China. EU official Metsola, however, expressed frustration with the idea that the bloc is behind in AI development.",
+        "link": "https://www.dw.com/en/eu-leaders-urged-to-act-now-to-stay-ai-competitive-with-us-china/a-79937463?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
