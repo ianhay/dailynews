@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T15:48:05+00:00",
+  "generated_at": "2026-11-15T20:56:03+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -12,15 +12,9 @@
   "sources_failed": [],
   "political": [
     {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "description": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-      "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "description": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     },
     {
@@ -28,9 +22,21 @@
       "description": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
       "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
+    },
+    {
+      "title": "Minister backs legal right to job support for young people",
+      "description": "The work and pensions secretary said the level of support currently on offer was too vague.",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
     }
   ],
   "australia": [
+    {
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "description": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
     {
       "title": "South Korea's top scorer in tax accountancy exam admits cheating",
       "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
@@ -38,15 +44,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Trump barred from closing 'Trash Island' golf course on Sunday",
-      "description": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "description": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,19 +75,31 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 18,
+      "count": 11,
       "story": {
-        "title": "Australia crush New Zealand to win fourth Women’s Rugby League World Cup",
-        "description": "Australia dominated the first half and capitalised on the Kiwi Ferns’ errors to win 34-10 and clinch the trophy.",
-        "link": "https://www.aljazeera.com/sports/2026/11/15/australia-crush-new-zealand-to-win-fourth-womens-rugby-league-world-cup?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Data centres become dirty word as rollout faces rising opposition",
+        "description": "Data centres have become politically toxic in the US. More Australian neighbourhoods, concerned about amenity, appear to feel the same way.",
+        "link": "https://www.abc.net.au/news/2026-11-16/when-community-concerns-collide-in-data-centre-fight/107344810",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Russia",
+      "lat": 61.5,
+      "lon": 90.0,
+      "count": 8,
+      "story": {
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "description": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+        "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 9,
+      "count": 6,
       "story": {
         "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
         "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
@@ -99,48 +111,12 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 7,
+      "count": 5,
       "story": {
         "title": "Iran targets US military base in Bahrain with drone attack",
         "description": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
         "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 7,
-      "story": {
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Germany",
-      "lat": 51.2,
-      "lon": 10.4,
-      "count": 6,
-      "story": {
-        "title": "Germany vs Netherlands: Nations League – preview, team news, predictions",
-        "description": "Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home.",
-        "link": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Russia",
-      "lat": 61.5,
-      "lon": 90.0,
-      "count": 6,
-      "story": {
-        "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-        "description": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
-        "link": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
-        "source": "Al Jazeera"
       }
     },
     {
@@ -156,51 +132,39 @@
       }
     },
     {
-      "name": "Israel",
-      "lat": 31.5,
-      "lon": 34.75,
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
       "count": 5,
       "story": {
-        "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-        "description": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-        "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 5,
-      "story": {
-        "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-        "description": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-        "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business"
-      }
-    },
-    {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
-      "count": 5,
-      "story": {
-        "title": "Australia crush New Zealand to win fourth Women’s Rugby League World Cup",
-        "description": "Australia dominated the first half and capitalised on the Kiwi Ferns’ errors to win 34-10 and clinch the trophy.",
-        "link": "https://www.aljazeera.com/sports/2026/11/15/australia-crush-new-zealand-to-win-fourth-womens-rugby-league-world-cup?traffic_source=rss",
+        "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+        "description": "British royal says he&#039;s &#039;taken a risk&#039; in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.",
+        "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "count": 5,
+      "story": {
+        "title": "Germany news: Germany holds national day of remembrance",
+        "description": "Events are being held for 'Volkstrauertag,' a day commemorating victims of war and oppression. Meanwhile, experts say the country is headed for a budget crisis. DW has more.",
+        "link": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 4,
       "story": {
-        "title": "Judo champion shakes up French  presidential race with surprise candidacy",
-        "description": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
-        "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+        "description": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -209,22 +173,46 @@
       "lon": 151.21,
       "count": 4,
       "story": {
-        "title": "Homophobic graffiti sprayed on Sydney MP's office under investigation",
-        "description": "A crime scene has been set up at Alex Greenwich's office on Oxford Street in Surry Hills after an attack he describes as \"deeply distressing\".",
-        "link": "https://www.abc.net.au/news/2026-11-15/nsw-police-investigate-homophobic-graffiti-alex-greenwich-office/107387850",
+        "title": "Millions to swelter as new Sydney airport turns into summer 'heat sink'",
+        "description": "In a suburb that has previously recorded peaks of 50.1C on extreme heat days during summer, the new airport could essentially act as a \"heat sink\", heating up millions of surrounding homes.",
+        "link": "https://www.abc.net.au/news/2026-11-16/nsw-wsi-airport-heat-impact-summer-western-sydney/107297220",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "Myanmar",
-      "lat": 21.9,
-      "lon": 95.96,
-      "count": 4,
+      "name": "Israel",
+      "lat": 31.5,
+      "lon": 34.75,
+      "count": 3,
       "story": {
-        "title": "ASEAN offers Myanmar's sidelined leaders a path back to summits, but says restrictions will stay until there is meaningful progress on its peace plan",
-        "description": "Southeast Asian leaders have agreed to engage Myanmar in stages after years of excluding its leaders from high-level meetings. The bloc says Myanmar could regain full representation if it makes progress on a peace plan.",
-        "link": "https://www.dw.com/en/asean-offers-myanmar-s-sidelined-leaders-a-path-back-to-summits-but-says-restrictions-will-stay-until-there-is-meaningful-progress-on-its-peace-plan/a-79951878?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
+        "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+        "description": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+        "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 3,
+      "story": {
+        "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+        "description": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+        "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 3,
+      "story": {
+        "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+        "description": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+        "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
@@ -233,21 +221,33 @@
       "lon": 35.2,
       "count": 3,
       "story": {
-        "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
-        "description": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
+        "title": "Who can force Israel to implement Gaza ceasefire deal?",
+        "description": "Storms batter Palestinian territory as Israel restricts entry of aid.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
       "count": 3,
       "story": {
-        "title": "After tragically losing a mate, Herbert is helping businesses with his shirt",
-        "description": "Golfer Lucas Herbert has returned to Australia on a mission to use his platform to help those struggling in the tough economic climate.",
-        "link": "https://www.abc.net.au/news/2026-11-15/golfer-lucas-herbert-advertising-small-business-at-nsw-open/107387488",
+        "title": "Oil, smoke and Myanmar: The key issues facing South-East Asia",
+        "description": "There is plenty on the agenda as world leaders gather at the ASEAN conference in the Philippines this week.",
+        "link": "https://www.abc.net.au/news/2026-11-16/key-issues-on-agenda-at-asean-summit-2026/107384284",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Myanmar",
+      "lat": 21.9,
+      "lon": 95.96,
+      "count": 3,
+      "story": {
+        "title": "Oil, smoke and Myanmar: The key issues facing South-East Asia",
+        "description": "There is plenty on the agenda as world leaders gather at the ASEAN conference in the Philippines this week.",
+        "link": "https://www.abc.net.au/news/2026-11-16/key-issues-on-agenda-at-asean-summit-2026/107384284",
         "source": "ABC News AU"
       }
     },
@@ -264,170 +264,74 @@
       }
     },
     {
-      "name": "Philippines",
-      "lat": 12.9,
-      "lon": 121.8,
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Philippines wins first Eurovision Song Contest Asia",
-        "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-        "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+        "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+        "description": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+        "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Italy",
-      "lat": 42.5,
-      "lon": 12.5,
+      "name": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
       "count": 2,
       "story": {
-        "title": "Italy fines Meta €805m over accessing users' photos",
-        "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-        "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+        "title": "Ronaldinho makes comeback in Ravenna win",
+        "description": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
+      "name": "France",
+      "lat": 46.6,
+      "lon": 2.2,
       "count": 2,
       "story": {
-        "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-        "description": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-        "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+        "title": "Judo champion shakes up French  presidential race with surprise candidacy",
+        "description": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+        "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
       "count": 2,
       "story": {
-        "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-        "description": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-        "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Congo",
-      "lat": -4.04,
-      "lon": 21.76,
-      "count": 2,
-      "story": {
-        "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-        "description": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
-        "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 2,
-      "story": {
-        "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-        "description": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
-        "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Netherlands",
-      "lat": 52.13,
-      "lon": 5.29,
-      "count": 2,
-      "story": {
-        "title": "Germany vs Netherlands: Nations League – preview, team news, predictions",
-        "description": "Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home.",
-        "link": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
+        "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
+        "description": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
       "count": 2,
       "story": {
-        "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
-        "description": "Tehran says its air attacks on countries cooperating with the US are justified under international law.",
-        "link": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Adelaide",
-      "lat": -34.93,
-      "lon": 138.6,
-      "count": 2,
-      "story": {
-        "title": "Aussies crashes to record ODI loss against England after top order collapse",
-        "description": "Australia's top order has collapsed dramatically to hand England its biggest ODI win on Australian shores, a 135-run triumph in Adelaide.",
-        "link": "https://www.abc.net.au/news/2026-11-15/australia-crashes-to-record-odi-loss-to-england/107387540",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Moscow",
-      "lat": 55.75,
-      "lon": 37.6,
-      "count": 2,
-      "story": {
-        "title": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
-        "description": "China is forced to tread carefully as it considers hosting a meeting between Xi Jinping, Vladimir Putin, and Donald Trump. While the optics are sure to favor Moscow, Beijing is risking its image on the global stage.",
-        "link": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-all-1573-rdf",
+        "title": "Zelenskyy urges removal of Starshield limits on Ukraine",
+        "description": "Ukraine's government says the throttling of satellite-based internet system prevents Kyiv from intercepting Russian attacks.",
+        "link": "https://www.dw.com/en/zelenskyy-urges-removal-of-starshield-limits-on-ukraine/a-79953300?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
     {
-      "name": "Beijing",
-      "lat": 39.9,
-      "lon": 116.4,
+      "name": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
       "count": 2,
       "story": {
-        "title": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
-        "description": "China is forced to tread carefully as it considers hosting a meeting between Xi Jinping, Vladimir Putin, and Donald Trump. While the optics are sure to favor Moscow, Beijing is risking its image on the global stage.",
-        "link": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Turkey",
-      "lat": 38.96,
-      "lon": 35.24,
-      "count": 2,
-      "story": {
-        "title": "COP31: Protesters, UN urge swift climate deal",
-        "description": "The UN climate chief has warned that \"tactical delays\" at the COP31 climate talks in Turkey could prevent a deal to slow global warming.",
-        "link": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
-      "count": 2,
-      "story": {
-        "title": "Indonesia President Prabowo apologises to Singapore, Malaysia over transboundary haze",
-        "description": "According to a statement from the Indonesian Presidential Secretariat, Prabowo also said 16 firefighters had died and two helicopters were lost battling forest fires that had raged for nearly four months.",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-prabowo-apology-haze-6553166",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Malaysia",
-      "lat": 4.21,
-      "lon": 101.98,
-      "count": 2,
-      "story": {
-        "title": "Indonesia President Prabowo apologises to Singapore, Malaysia over transboundary haze",
-        "description": "According to a statement from the Indonesian Presidential Secretariat, Prabowo also said 16 firefighters had died and two helicopters were lost battling forest fires that had raged for nearly four months.",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-prabowo-apology-haze-6553166",
+        "title": "Ice hockey-Russia to miss World Juniors over Canada restrictions, IIHF confirms",
+        "description": "",
+        "link": "https://www.channelnewsasia.com/sport/ice-hockey-russia-miss-world-juniors-over-canada-restrictions-iihf-confirms-6553316",
         "source": "CNA"
       }
     },
@@ -444,27 +348,63 @@
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Peru",
+      "lat": -9.19,
+      "lon": -75.02,
       "count": 1,
       "story": {
-        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-        "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-        "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+        "description": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+        "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Addis Ababa",
-      "lat": 9.03,
-      "lon": 38.74,
+      "name": "Bangladesh",
+      "lat": 23.68,
+      "lon": 90.36,
       "count": 1,
       "story": {
-        "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-        "description": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-        "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+        "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+        "description": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+        "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 1,
+      "story": {
+        "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+        "description": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+        "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Portugal",
+      "lat": 39.4,
+      "lon": -8.22,
+      "count": 1,
+      "story": {
+        "title": "Morocco becomes first Arab nation in FIFA’s top five men’s rankings",
+        "description": "Morocco moved past former Euro champions Portugal and record World Cup winners Brazil to achieve its best FIFA ranking.",
+        "link": "https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Morocco",
+      "lat": 31.79,
+      "lon": -7.09,
+      "count": 1,
+      "story": {
+        "title": "Morocco becomes first Arab nation in FIFA’s top five men’s rankings",
+        "description": "Morocco moved past former Euro champions Portugal and record World Cup winners Brazil to achieve its best FIFA ranking.",
+        "link": "https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
@@ -476,18 +416,6 @@
         "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
         "description": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
         "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Spain",
-      "lat": 40.46,
-      "lon": -3.7,
-      "count": 1,
-      "story": {
-        "title": "Record number of migrants arrive in Spain’s Canary Islands",
-        "description": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
-        "link": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -504,18 +432,6 @@
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
-      "count": 1,
-      "story": {
-        "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
-        "description": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Syria",
       "lat": 34.8,
       "lon": 38.9,
@@ -528,27 +444,111 @@
       }
     },
     {
-      "name": "Greece",
-      "lat": 39.07,
-      "lon": 21.82,
+      "name": "Canberra",
+      "lat": -35.28,
+      "lon": 149.13,
       "count": 1,
       "story": {
-        "title": "Germany vs Netherlands: Nations League – preview, team news, predictions",
-        "description": "Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home.",
-        "link": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Designs offer first look at new North Canberra Hospital",
+        "description": "Canberrans are being invited to have their say on the design of the new North Canberra Hospital, which the ACT government says has been partly inspired by the colours of the surrounding landscape.",
+        "link": "https://www.abc.net.au/news/2026-11-16/early-designs-for-new-north-canberra-hospital/107387498",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
+      "name": "Brisbane",
+      "lat": -27.47,
+      "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "Germany vs Netherlands: Nations League – preview, team news, predictions",
-        "description": "Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home.",
-        "link": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Brisbane 2032's Olympic boss and his pickleball conflict",
+        "description": "He is in charge of Australian sport's biggest money-pots. But can Brisbane's Olympic boss manage the tensions surrounding the 2032 Games?",
+        "link": "https://www.abc.net.au/news/2026-11-16/andrew-liveris-brisbane-olympics-profile/107379516",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "Regional Victorians look for health funding ahead of election",
+        "description": "Regional Victorians are calling for political candidates to consider health inequality ahead of the state election, with one health alliance saying Victorians outside of Melbourne continue to experience a reduced life ex",
+        "link": "https://www.abc.net.au/news/2026-11-16/regional-healthcare-in-crisis-victoria-election/107308520",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
+      "count": 1,
+      "story": {
+        "title": "Polish activists face opposition as they make abortion more accessible",
+        "description": "Abortion laws in Poland are very restrictive. Activists there have found a new way to help women wanting to terminate a pregnancy: the \"Abortomat,\" a locker that dispenses abortion pills. But they face fierce opposition.",
+        "link": "https://www.dw.com/en/polish-activists-face-opposition-as-they-make-abortion-more-accessible/a-79943914?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Bangkok",
+      "lat": 13.75,
+      "lon": 100.5,
+      "count": 1,
+      "story": {
+        "title": "Philippines wins first Eurovision Song Contest Asia",
+        "description": "Eleven countries took part in the competition in Bangkok. Teenage winner Carmelle Collado's winning dance song is a tribute to Filipino women.",
+        "link": "https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "count": 1,
+      "story": {
+        "title": "Nigeria's upcoming election marred by rising AI disinformation",
+        "description": "As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?",
+        "link": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
+      "count": 1,
+      "story": {
+        "title": "South Sudan pushes back elections amid violent flare-ups",
+        "description": "South Sudan has been independent from Sudan since 2011, and has not yet held national elections. Since then, the country faces cycles of violence after a civil war led to a tenuous peace deal.",
+        "link": "https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Turkey",
+      "lat": 38.96,
+      "lon": 35.24,
+      "count": 1,
+      "story": {
+        "title": "Turkey uses espionage accusations to pressure government critics",
+        "description": "The arrest of a German foundation's employee in Istanbul this week has put the focus back on pressure tactics used by the Erdogan administration. The arrest is far from the first of its kind.",
+        "link": "https://www.dw.com/en/turkey-uses-espionage-accusations-to-pressure-government-critics/a-79943768?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Istanbul",
+      "lat": 41.0,
+      "lon": 28.98,
+      "count": 1,
+      "story": {
+        "title": "Turkey uses espionage accusations to pressure government critics",
+        "description": "The arrest of a German foundation's employee in Istanbul this week has put the focus back on pressure tactics used by the Erdogan administration. The arrest is far from the first of its kind.",
+        "link": "https://www.dw.com/en/turkey-uses-espionage-accusations-to-pressure-government-critics/a-79943768?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     }
   ]
