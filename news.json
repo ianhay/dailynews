@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T19:42:12+00:00",
+  "generated_at": "2026-11-18T02:16:24+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -24,15 +24,21 @@
       "source": "BBC News"
     },
     {
-      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-      "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business"
+      "title": "Who to watch in Spain's election race",
+      "description": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
     }
   ],
   "australia": [
     {
-      "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
       "description": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
       "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
@@ -41,12 +47,6 @@
       "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
       "description": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
       "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-      "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 12,
+      "count": 14,
       "story": {
         "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
         "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
@@ -87,31 +87,19 @@
       "name": "Australia",
       "lat": -25.0,
       "lon": 133.0,
-      "count": 10,
+      "count": 12,
       "story": {
-        "title": "The billion-dollar game Australia is taking time off to play",
-        "description": "The most expensive video game ever made is being released tomorrow and Australian gamers are taking the day off to play and celebrate.",
-        "link": "https://www.abc.net.au/news/2026-11-18/australians-are-taking-time-off-to-play-gta6/107388828",
+        "title": "After losing a friend to suicide, Hannah Smith is channelling grief into song",
+        "description": "Bringing together community choirs from across South Australia, the State Theatre's latest production finds its harmonies in joy and song but the play also has darker underlying themes.",
+        "link": "https://www.abc.net.au/news/2026-11-18/creating-joy-and-laughter-out-of-grief/107393694",
         "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 9,
-      "story": {
-        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-        "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-        "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
       }
     },
     {
       "name": "China",
       "lat": 35.0,
       "lon": 105.0,
-      "count": 9,
+      "count": 11,
       "story": {
         "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
         "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
@@ -123,11 +111,35 @@
       "name": "Iran",
       "lat": 32.0,
       "lon": 53.0,
-      "count": 9,
+      "count": 11,
       "story": {
         "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
         "description": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
         "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 8,
+      "story": {
+        "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+        "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+        "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 7,
+      "story": {
+        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+        "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -156,110 +168,26 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 4,
+      "name": "Kuwait",
+      "lat": 29.31,
+      "lon": 47.48,
+      "count": 3,
       "story": {
-        "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-        "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-        "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Washington",
-      "lat": 38.9,
-      "lon": -77.03,
-      "count": 4,
-      "story": {
-        "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-        "description": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-        "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+        "description": "Kuwait intercepts &#039;hostile&#039; drone attacks as Bahrain accuses Iran of &#039;criminal attacks&#039;.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+        "source": "Al Jazeera"
       }
     },
     {
       "name": "Turkey",
       "lat": 38.96,
       "lon": 35.24,
-      "count": 4,
+      "count": 3,
       "story": {
         "title": "Rights court rules Turkey must release jailed lawmaker Atalay",
         "description": "The European Court of Human Rights has called for the release of imprisoned elected lawmaker Can Atalay. Atalay has been in prison for almost five years despite rulings from the Turkish Constitutional Court.",
         "link": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 3,
-      "story": {
-        "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-        "description": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
-        "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
-      "story": {
-        "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-        "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-        "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Tehran",
-      "lat": 35.7,
-      "lon": 51.4,
-      "count": 3,
-      "story": {
-        "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-        "description": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-        "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
-      "count": 3,
-      "story": {
-        "title": "More than 100,000 take part in France pay protests",
-        "description": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
-        "link": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Serbia",
-      "lat": 44.02,
-      "lon": 21.01,
-      "count": 3,
-      "story": {
-        "title": "Election-winning student movement enters Serbia’s new parliament",
-        "description": "Hundreds hail Student List lawmakers as the new parliament meets for the first time.",
-        "link": "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Lima",
-      "lat": -12.05,
-      "lon": -77.04,
-      "count": 3,
-      "story": {
-        "title": "US flexes climate action muscle at COP31 despite Trump no-show",
-        "description": "The US government is snubbing UN climate talks in Turkey. That's prompted a delegation of American lawmakers, mayors and governors to make the trip instead, aiming to show climate action in the US is alive and well.",
-        "link": "https://www.dw.com/en/us-flexes-climate-action-muscle-at-cop31-despite-trump-no-show/a-79968666?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     },
@@ -288,6 +216,54 @@
       }
     },
     {
+      "name": "Mumbai",
+      "lat": 19.08,
+      "lon": 72.88,
+      "count": 2,
+      "story": {
+        "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+        "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+        "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 2,
+      "story": {
+        "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+        "description": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+        "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Washington",
+      "lat": 38.9,
+      "lon": -77.03,
+      "count": 2,
+      "story": {
+        "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+        "description": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+        "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Tehran",
+      "lat": 35.7,
+      "lon": 51.4,
+      "count": 2,
+      "story": {
+        "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+        "description": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+        "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Canada",
       "lat": 56.1,
       "lon": -106.3,
@@ -300,26 +276,26 @@
       }
     },
     {
-      "name": "Manila",
-      "lat": 14.6,
-      "lon": 120.98,
+      "name": "North Korea",
+      "lat": 40.3,
+      "lon": 127.5,
       "count": 2,
       "story": {
-        "title": "Trump announces critical minerals agreements at Quad meeting in Manila",
-        "description": "US President Trump says the deals will prevent &#039;coercion by any single foreign supplier&#039;.",
-        "link": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Will President Trump meet Kim Jong Un?",
+        "description": "President Trump says he would be keen to meet the North Korea leader in China.",
+        "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
-      "name": "Saudi Arabia",
-      "lat": 23.9,
-      "lon": 45.1,
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.47,
       "count": 2,
       "story": {
-        "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
-        "description": "Southern separatists try to regain power to defend Aden as Saudi Arabia reshuffles its military command against Houthis.",
-        "link": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
+        "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+        "description": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
+        "link": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -329,33 +305,21 @@
       "lon": 138.6,
       "count": 2,
       "story": {
-        "title": "More trees to be axed from parklands as MotoGP legal challenge continues",
-        "description": "More trees are set to be cut down in the Adelaide parklands from today as part of early works on the city's MotoGP track amid an unresolved legal challenge to the plans.",
-        "link": "https://www.abc.net.au/news/2026-11-18/more-trees-to-be-removed-for-adelaide-motogp/107394108",
+        "title": "Police pin woman on ground during arrest near Adelaide parklands protest",
+        "description": "Police said the woman was charged with disorderly behaviour, acts to endanger, causing harm by dangerous driving and causing harm while resisting a police officer.",
+        "link": "https://www.abc.net.au/news/2026-11-18/woman-arrested-disorderly-behaviour-near-parklands-protest/107397372",
         "source": "ABC News AU"
       }
     },
     {
-      "name": "United States",
-      "lat": 39.8,
-      "lon": -98.5,
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
       "count": 2,
       "story": {
-        "title": "US officially loses measles-free status as vaccination rates drop",
-        "description": "The United States has officially been stripped of its measles-free status, with falling vaccination rates and more than 5,400 cases reported this year.",
-        "link": "https://www.abc.net.au/news/2026-11-18/us-loses-measles-free-status-after-26-years/107397030",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Brisbane",
-      "lat": -27.47,
-      "lon": 153.03,
-      "count": 2,
-      "story": {
-        "title": "11-year-old boy dies after being hit by car in Toowoomba",
-        "description": "An 11-year-old boy has died after being struck by a car while riding a bicycle on a suburban street in Toowoomba, west of Brisbane.",
-        "link": "https://www.abc.net.au/news/2026-11-17/boy-hit-by-car-in-toowoomba/107396142",
+        "title": "Bears handed grudge match for Perth's first NRL game",
+        "description": "The Perth Bears will play Manly in their first NRL match next season, rekindling old rivalries from the Northern Eagles merger.",
+        "link": "https://www.abc.net.au/news/2026-11-18/bears-handed-grudge-match-for-perth-first-nrl-game/107397324",
         "source": "ABC News AU"
       }
     },
@@ -372,6 +336,18 @@
       }
     },
     {
+      "name": "Philippines",
+      "lat": 12.9,
+      "lon": 121.8,
+      "count": 1,
+      "story": {
+        "title": "Thomas Markle charged over child sex abuse material in Philippines",
+        "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
       "name": "Moscow",
       "lat": 55.75,
       "lon": 37.6,
@@ -384,26 +360,14 @@
       }
     },
     {
-      "name": "North Korea",
-      "lat": 40.3,
-      "lon": 127.5,
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
       "count": 1,
       "story": {
-        "title": "Will President Trump meet Kim Jong Un?",
-        "description": "President Trump says he would be keen to meet the North Korea leader in China.",
-        "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
-      "name": "Mumbai",
-      "lat": 19.08,
-      "lon": 72.88,
-      "count": 1,
-      "story": {
-        "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
-        "description": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
-        "link": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
+        "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+        "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+        "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -420,50 +384,38 @@
       }
     },
     {
-      "name": "New Zealand",
-      "lat": -41.0,
-      "lon": 174.0,
+      "name": "Spain",
+      "lat": 40.46,
+      "lon": -3.7,
       "count": 1,
       "story": {
-        "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-        "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-        "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+        "title": "Who to watch in Spain's election race",
+        "description": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Syria",
-      "lat": 34.8,
-      "lon": 38.9,
+      "name": "Ecuador",
+      "lat": -1.83,
+      "lon": -78.18,
       "count": 1,
       "story": {
-        "title": "Israeli forces invade Syrian village leaving homes damaged",
-        "description": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
+        "title": "Ecuadorian fishermen sue Trump administration over drone strike",
+        "description": "Crew say their boat was attacked by drones launched from US-operated vessel as part of &#039;manifestly unlawful&#039; campaign.",
+        "link": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Lebanon",
-      "lat": 33.85,
-      "lon": 35.86,
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
       "count": 1,
       "story": {
-        "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-        "description": "Ali al-Zaidi&#039;s talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
-        "link": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Tripoli",
-      "lat": 32.89,
-      "lon": 13.19,
-      "count": 1,
-      "story": {
-        "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-        "description": "Ali al-Zaidi&#039;s talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
-        "link": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
+        "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
+        "description": "Diplomatic efforts struggle to end fighting in eastern DRC as civilians continue to bear the cost of conflict.",
+        "link": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -473,22 +425,94 @@
       "lon": 43.68,
       "count": 1,
       "story": {
-        "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-        "description": "Ali al-Zaidi&#039;s talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
-        "link": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
+        "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
+        "description": "Head of Iran&#039;s IRGC Quds Force to attend meetings over alleged oil smuggling linked to pro-Iranian armed groups.",
+        "link": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Jerusalem",
-      "lat": 31.78,
-      "lon": 35.22,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 1,
       "story": {
-        "title": "Jerusalem Daily: Deadly settler pogroms persist",
-        "description": "A Palestinian woman was killed in a settler shooting near Jericho, while Arab MPs in Israel seek Netanyahu probe.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss",
+        "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
+        "description": "US President Donald Trump has been trying to fire Cook since August 2025.",
+        "link": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
         "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Venezuela",
+      "lat": 6.4,
+      "lon": -66.6,
+      "count": 1,
+      "story": {
+        "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+        "description": "Democrats say they plan to investigate Trump&#039;s dealings with Venezuela after winning control of Congress.",
+        "link": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "count": 1,
+      "story": {
+        "title": "What’s behind the ANC’s decline in South Africa?",
+        "description": "African National Congress won its lowest-ever vote share in local elections this month.",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
+      "count": 1,
+      "story": {
+        "title": "Death of woman and toddler at Melbourne lake to be probed by coroner",
+        "description": "Victoria Police say the deaths of a 36-year-old woman and a 2-year-old child yesterday are not being treated as suspicious.",
+        "link": "https://www.abc.net.au/news/2026-11-18/death-of-woman-and-toddler-at-craigieburn-lake-not-being-treated/107397972",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "The Hague",
+      "lat": 52.08,
+      "lon": 4.31,
+      "count": 1,
+      "story": {
+        "title": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
+        "description": "Former President Hashim Thaci has been convicted of trying to influence witnesses in his war crimes trial. The conviction has reignited debate in Kosovo about the Kosovo Specialist Chambers, the court that convicted him.",
+        "link": "https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "count": 1,
+      "story": {
+        "title": "Saudi Arabia: Rights groups raise alarm over rising number of executions",
+        "description": "Amid the war in Iran, Saudi Arabia's human rights situation remains bleak, with at least 211 executions, corporal punishment and an intensifying crackdown on critics. Is the regional conflict driving domestic repression?",
+        "link": "https://www.dw.com/en/saudi-arabia-rights-groups-raise-alarm-over-rising-number-of-executions/a-79970773?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
+      }
+    },
+    {
+      "name": "United States",
+      "lat": 39.8,
+      "lon": -98.5,
+      "count": 1,
+      "story": {
+        "title": "US and Mexico lose measles-free status",
+        "description": "The United States lost its measles elimination status after 26 years, the Pan American Health Organization has said. Bolivia and Mexico have also lost their measles elimination status.",
+        "link": "https://www.dw.com/en/us-and-mexico-lose-measles-free-status/a-79973966?maca=en-rss-en-all-1573-rdf",
+        "source": "DW"
       }
     },
     {
@@ -524,30 +548,6 @@
         "title": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
         "description": "As Ethiopian troops push Tigrayan forces toward the Eritrean border, fears of a new regional war are growing. With tensions rising between Ethiopia, Eritrea and Sudan, the Horn of Africa faces uncertain times ahead.",
         "link": "https://www.dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Ethiopia",
-      "lat": 9.15,
-      "lon": 40.49,
-      "count": 1,
-      "story": {
-        "title": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
-        "description": "As Ethiopian troops push Tigrayan forces toward the Eritrean border, fears of a new regional war are growing. With tensions rising between Ethiopia, Eritrea and Sudan, the Horn of Africa faces uncertain times ahead.",
-        "link": "https://www.dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Istanbul",
-      "lat": 41.0,
-      "lon": 28.98,
-      "count": 1,
-      "story": {
-        "title": "Turkish authorities raid opposition Sozcu news channel, appoint new management",
-        "description": "Turkish authorities have raided the Istanbul offices of Sozcu TV, halting broadcasts, appointing a trustee and opening an investigation. This marks another crackdown on pro-opposition television channels in Turkey.",
-        "link": "https://www.dw.com/en/turkish-authorities-raid-opposition-sozcu-news-channel-appoint-new-management/a-79966297?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
