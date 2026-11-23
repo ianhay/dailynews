@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:25:00+00:00",
+  "generated_at": "2026-11-23T03:00:26+00:00",
   "sources_ok": [
     "BBC News",
     "BBC Business",
@@ -32,6 +32,12 @@
   ],
   "australia": [
     {
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
       "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
       "description": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
       "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News"
-    },
-    {
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News"
     }
   ],
@@ -75,7 +75,7 @@
       "name": "Russia",
       "lat": 61.5,
       "lon": 90.0,
-      "count": 15,
+      "count": 14,
       "story": {
         "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
         "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
@@ -89,9 +89,9 @@
       "lon": 133.0,
       "count": 13,
       "story": {
-        "title": "Live: Tributes flow for Molly Meldrum after death at age 83",
-        "description": "Molly Meldrum, a giant of Australia's popular music and television industries, dies aged 83. Follow live.",
-        "link": "https://www.abc.net.au/news/2026-11-23/live-updates-molly-meldrum-dead-reactions/101801706",
+        "title": "Wet season warning of deadly mosquito virus in remote WA",
+        "description": "Aboriginal children living in remote communities in Western Australia's far north are most vulnerable to developing potentially deadly mosquito-borne viruses.",
+        "link": "https://www.abc.net.au/news/2026-11-23/aboriginal-children-most-vulnerable-to-mosquito-viruses/107382920",
         "source": "ABC News AU"
       }
     },
@@ -102,8 +102,20 @@
       "count": 8,
       "story": {
         "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-        "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+        "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
         "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "lat": 49.0,
+      "lon": 31.0,
+      "count": 7,
+      "story": {
+        "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+        "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+        "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -120,18 +132,6 @@
       }
     },
     {
-      "name": "Ukraine",
-      "lat": 49.0,
-      "lon": 31.0,
-      "count": 6,
-      "story": {
-        "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-        "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-        "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
-      }
-    },
-    {
       "name": "Libya",
       "lat": 26.34,
       "lon": 17.23,
@@ -144,34 +144,46 @@
       }
     },
     {
-      "name": "India",
-      "lat": 21.0,
-      "lon": 78.0,
-      "count": 4,
+      "name": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "count": 5,
       "story": {
-        "title": "Cockroaches, dissent and a paradigm shift in India",
-        "description": "The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.",
-        "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Three killed and dozens missing after fire at Indonesian factory",
+        "description": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+        "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
       }
     },
     {
       "name": "Sydney",
       "lat": -33.87,
       "lon": 151.21,
-      "count": 4,
+      "count": 5,
       "story": {
-        "title": "Red imported fire ants found in Western Sydney",
-        "description": "One of the world's worst invasive species is found in Sydney for the second time in as many months.",
-        "link": "https://www.abc.net.au/news/2026-11-23/red-imported-fire-ants-found-western-sydney/107415336",
+        "title": "Cricket NSW slams door on Bears' North Sydney NRL homecoming",
+        "description": "The NRL's hopes of giving Perth Bears a return to North Sydney Oval have been dashed with Cricket NSW refusing to allow the expansion side to play a trial match at the famous ground.",
+        "link": "https://www.abc.net.au/news/2026-11-23/cricket-nsw-rules-out-perth-bears-play-north-sydney-oval/107416898",
         "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lon": 103.82,
+      "count": 5,
+      "story": {
+        "title": "Pop-punk band Simple Plan are still kids at heart – and their nostalgic Singapore concert proved it",
+        "description": "At the Singapore Indoor Stadium on Nov 22, the pop-punk band took their Bigger Than You Think tour into the crowd, where fans belted out Addicted and Perfect.\n&nbsp;",
+        "link": "https://www.channelnewsasia.com/entertainment/simple-plan-singapore-concert-2026-review-6573601",
+        "source": "CNA"
       }
     },
     {
       "name": "Kyiv",
       "lat": 50.45,
       "lon": 30.52,
-      "count": 3,
+      "count": 4,
       "story": {
         "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
         "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
@@ -180,26 +192,26 @@
       }
     },
     {
-      "name": "Finland",
-      "lat": 61.92,
-      "lon": 25.75,
-      "count": 3,
+      "name": "India",
+      "lat": 21.0,
+      "lon": 78.0,
+      "count": 4,
       "story": {
-        "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-        "description": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-        "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "The Indian workers filming their work to train AI",
+        "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+        "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
       }
     },
     {
-      "name": "Indonesia",
-      "lat": -2.5,
-      "lon": 118.0,
+      "name": "South Korea",
+      "lat": 36.5,
+      "lon": 127.9,
       "count": 3,
       "story": {
-        "title": "Three killed and dozens missing after fire at Indonesian factory",
-        "description": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-        "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+        "title": "South Korea education minister resigns over exam cheating scandal",
+        "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+        "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -216,38 +228,26 @@
       }
     },
     {
-      "name": "Palestinian",
-      "lat": 31.9,
-      "lon": 35.2,
-      "count": 3,
-      "story": {
-        "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
-        "description": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
-        "link": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
-      "name": "Sudan",
-      "lat": 12.86,
-      "lon": 30.22,
-      "count": 3,
-      "story": {
-        "title": "Civilians killed in RSF drone strikes in Sudan",
-        "description": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
-        "source": "Al Jazeera"
-      }
-    },
-    {
       "name": "Israel",
       "lat": 31.5,
       "lon": 34.75,
       "count": 3,
       "story": {
-        "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
-        "description": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+        "title": "Israeli forces continue house demolitions in southern Lebanon",
+        "description": "Israeli forces continue house demolitions in southern Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-forces-continue-house-demolitions-in-southern-lebanon?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Iran",
+      "lat": 32.0,
+      "lon": 53.0,
+      "count": 3,
+      "story": {
+        "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+        "description": "Iran&#039;s navy claims tankers contravening its rules were set ablaze, while the IRGC said &#039;enemies&#039; sought to stoke unrest.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
@@ -264,51 +264,51 @@
       }
     },
     {
-      "name": "Singapore",
-      "lat": 1.35,
-      "lon": 103.82,
-      "count": 3,
-      "story": {
-        "title": "Commentary: A weak South China Sea code of conduct will be worse than no agreement at all",
-        "description": "As Singapore takes over as ASEAN chair in 2027, what remains unresolved on the South China Sea code of conduct are arguably the most intractable issues, says Collin Koh from the S Rajaratnam School of International Studi",
-        "link": "https://www.channelnewsasia.com/commentary/south-china-sea-code-conduct-asean-singapore-6571406",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Denmark",
-      "lat": 56.26,
-      "lon": 9.5,
+      "name": "Finland",
+      "lat": 61.92,
+      "lon": 25.75,
       "count": 2,
       "story": {
-        "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-        "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-        "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+        "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+        "description": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+        "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
     {
-      "name": "Canada",
-      "lat": 56.1,
-      "lon": -106.3,
+      "name": "White House",
+      "lat": 38.9,
+      "lon": -77.03,
       "count": 2,
       "story": {
-        "title": "Canada’s PM appears next to Trump impersonator at press dinner",
-        "description": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
+        "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+        "description": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+        "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business"
+      }
+    },
+    {
+      "name": "Palestinian",
+      "lat": 31.9,
+      "lon": 35.2,
+      "count": 2,
+      "story": {
+        "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
+        "description": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
+        "link": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Nigeria",
-      "lat": 9.1,
-      "lon": 8.7,
+      "name": "Melbourne",
+      "lat": -37.81,
+      "lon": 144.96,
       "count": 2,
       "story": {
-        "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
-        "description": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Police find body of man who jumped into Melbourne's Yarra River",
+        "description": "The man failed to resurface shortly after he jumped from Princes Bridge in the CBD just before midday on Sunday.",
+        "link": "https://www.abc.net.au/news/2026-11-23/body-found-in-yarra-river-after-man-jumps-from-bridge/107416916",
+        "source": "ABC News AU"
       }
     },
     {
@@ -317,58 +317,22 @@
       "lon": 32.55,
       "count": 2,
       "story": {
-        "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-        "description": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum&#039;s airport.",
-        "link": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-        "source": "Al Jazeera"
+        "title": "Drone strikes kill four in Khartoum and damage UN building",
+        "description": "Drone attacks on Sudan's capital, Khartoum, have killed at least four civilians and injured at least nine others, according to local reports.",
+        "link": "https://www.abc.net.au/news/2026-11-23/deadly-drone-strikes-in-khartoum-sudan-war/107415908",
+        "source": "ABC News AU"
       }
     },
     {
-      "name": "France",
-      "lat": 46.6,
-      "lon": 2.2,
+      "name": "Sudan",
+      "lat": 12.86,
+      "lon": 30.22,
       "count": 2,
       "story": {
-        "title": "New EU budget proposal aims at tax gobal tech giants",
-        "description": "European Council President Antonio Costa has proposed a smaller EU budget for 2028-2034, including a 3% tax on major digital firms to ease member states' contributions. France has already rejected the plan as inadequate.",
-        "link": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Brazil",
-      "lat": -14.2,
-      "lon": -51.9,
-      "count": 2,
-      "story": {
-        "title": "Brazil storm death toll rises to 5",
-        "description": "“The town is gone,” Mayor Gustavo Herter says after a supercell storm devastates Tupancireta in 40 minutes, killing five and injuring more than 250 people.",
-        "link": "https://www.channelnewsasia.com/world/brazil-storm-death-toll-rises-5-6573261",
-        "source": "CNA"
-      }
-    },
-    {
-      "name": "Iran",
-      "lat": 32.0,
-      "lon": 53.0,
-      "count": 2,
-      "story": {
-        "title": "'Economic asphyxiation': US unveils sweeping new sanctions campaign in attempt to isolate Iran",
-        "description": "The US' latest move comes six months into a war with Iran that has left peace talks stalled and the Strait of Hormuz blocked.",
-        "link": "https://www.sbs.com.au/news/article/economic-asphyxiation-us-sanctions-campaign-isolate-iran/zaeknjsvf",
-        "source": "SBS News"
-      }
-    },
-    {
-      "name": "South Korea",
-      "lat": 36.5,
-      "lon": 127.9,
-      "count": 1,
-      "story": {
-        "title": "South Korea education minister resigns over exam cheating scandal",
-        "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-        "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News"
+        "title": "Drone strikes kill four in Khartoum and damage UN building",
+        "description": "Drone attacks on Sudan's capital, Khartoum, have killed at least four civilians and injured at least nine others, according to local reports.",
+        "link": "https://www.abc.net.au/news/2026-11-23/deadly-drone-strikes-in-khartoum-sudan-war/107415908",
+        "source": "ABC News AU"
       }
     },
     {
@@ -380,6 +344,18 @@
         "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
         "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
         "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News"
+      }
+    },
+    {
+      "name": "Denmark",
+      "lat": 56.26,
+      "lon": 9.5,
+      "count": 1,
+      "story": {
+        "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+        "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+        "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
         "source": "BBC News"
       }
     },
@@ -408,38 +384,98 @@
       }
     },
     {
-      "name": "Pakistan",
-      "lat": 30.4,
-      "lon": 69.3,
+      "name": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
       "count": 1,
       "story": {
-        "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
-        "description": "India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
+        "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+        "description": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
+        "link": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "Qatar",
-      "lat": 25.35,
-      "lon": 51.18,
+      "name": "Copenhagen",
+      "lat": 55.68,
+      "lon": 12.57,
       "count": 1,
       "story": {
-        "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
-        "description": "India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
+        "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+        "description": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
+        "link": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
         "source": "Al Jazeera"
       }
     },
     {
-      "name": "White House",
-      "lat": 38.9,
-      "lon": -77.03,
+      "name": "Lebanon",
+      "lat": 33.85,
+      "lon": 35.86,
       "count": 1,
       "story": {
-        "title": "Democrats clinch their largest House majority since 1992",
-        "description": "The milestone sets up a divided government, with the Senate also in Democratic hands and a Republican president in the White House.",
-        "link": "https://www.abc.net.au/news/2026-11-23/democrats-house-majority-midterm-elections/107415390",
+        "title": "Israeli forces continue house demolitions in southern Lebanon",
+        "description": "Israeli forces continue house demolitions in southern Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-forces-continue-house-demolitions-in-southern-lebanon?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Congo",
+      "lat": -4.04,
+      "lon": 21.76,
+      "count": 1,
+      "story": {
+        "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+        "description": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at &#039;grave risk&#039;, WHO warns.",
+        "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Taiwan",
+      "lat": 23.7,
+      "lon": 121.0,
+      "count": 1,
+      "story": {
+        "title": "Asian stock markets tumble as AI bubble fears mount",
+        "description": "Stocks fall in South Korea, Taiwan and Hong Kong amid tech-led sell-off.",
+        "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Hong Kong",
+      "lat": 22.32,
+      "lon": 114.17,
+      "count": 1,
+      "story": {
+        "title": "Asian stock markets tumble as AI bubble fears mount",
+        "description": "Stocks fall in South Korea, Taiwan and Hong Kong amid tech-led sell-off.",
+        "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+        "source": "Al Jazeera"
+      }
+    },
+    {
+      "name": "Perth",
+      "lat": -31.95,
+      "lon": 115.86,
+      "count": 1,
+      "story": {
+        "title": "Cricket NSW slams door on Bears' North Sydney NRL homecoming",
+        "description": "The NRL's hopes of giving Perth Bears a return to North Sydney Oval have been dashed with Cricket NSW refusing to allow the expansion side to play a trial match at the famous ground.",
+        "link": "https://www.abc.net.au/news/2026-11-23/cricket-nsw-rules-out-perth-bears-play-north-sydney-oval/107416898",
+        "source": "ABC News AU"
+      }
+    },
+    {
+      "name": "Quito",
+      "lat": -0.18,
+      "lon": -78.47,
+      "count": 1,
+      "story": {
+        "title": "Wet season warning of deadly mosquito virus in remote WA",
+        "description": "Aboriginal children living in remote communities in Western Australia's far north are most vulnerable to developing potentially deadly mosquito-borne viruses.",
+        "link": "https://www.abc.net.au/news/2026-11-23/aboriginal-children-most-vulnerable-to-mosquito-viruses/107382920",
         "source": "ABC News AU"
       }
     },
@@ -449,33 +485,9 @@
       "lon": 153.03,
       "count": 1,
       "story": {
-        "title": "New life as mushroom farmer after life-saving neurosurgery",
+        "title": "Woman's brush with death sparks new career farming mushrooms",
         "description": "A near-death experience convinced Emma Court to ditch her four-hour commute to a corporate job in Brisbane and start farming fancy, nutrient-packed fungi.",
         "link": "https://www.abc.net.au/news/rural/2026-11-23/rocky-creek-mushrooms-farming-small-business-innovation/107259008",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Canberra",
-      "lat": -35.28,
-      "lon": 149.13,
-      "count": 1,
-      "story": {
-        "title": "Families of children with epilepsy worried after loss of neurologist",
-        "description": "Families of children who live with epilepsy are worried that essential care will stretch beyond their reach after Canberra Health Services decided not to continue employing a paediatric neurologist.",
-        "link": "https://www.abc.net.au/news/2026-11-23/families-children-epilepsy-worry-loss-of-paediatric-neurologist/107413752",
-        "source": "ABC News AU"
-      }
-    },
-    {
-      "name": "Melbourne",
-      "lat": -37.81,
-      "lon": 144.96,
-      "count": 1,
-      "story": {
-        "title": "Teenagers charged after fatal stabbing in Melbourne's CBD",
-        "description": "A 21-year-old man died in hospital after the incident in Latrobe Street in the city on Saturday night.",
-        "link": "https://www.abc.net.au/news/2026-11-23/teenagers-charged-fatal-stabbing-in-melbourne-cbd/107415250",
         "source": "ABC News AU"
       }
     },
@@ -528,26 +540,14 @@
       }
     },
     {
-      "name": "European Union",
-      "lat": 50.85,
-      "lon": 4.35,
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
       "count": 1,
       "story": {
-        "title": "EU and Indonesia sign trade deal",
-        "description": "A deal covering 730 million people promises lower tariffs and new investment opportunities as the European Union seeks to diversify trade ties amid growing global economic tensions.",
-        "link": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-all-1573-rdf",
-        "source": "DW"
-      }
-    },
-    {
-      "name": "Sofia",
-      "lat": 42.7,
-      "lon": 23.32,
-      "count": 1,
-      "story": {
-        "title": "Russian ornithologist jailed over small donations to Navalny's foundation",
-        "description": "Sofia Rosenfeld has devoted her life to studying Arctic birds. A Russian court sentenced her to 3.5 years in a penal colony over donations to Navalny's foundation. Friends and family are fighting for her release.",
-        "link": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-all-1573-rdf",
+        "title": "Nigeria: At least 24 dead after boat capsizes",
+        "description": "The boat carrying mourners for a funeral overturned in southern Nigeria. It was the latest in a series of deadly boat accidents in the country.",
+        "link": "https://www.dw.com/en/nigeria-at-least-24-dead-after-boat-capsizes/a-80011248?maca=en-rss-en-all-1573-rdf",
         "source": "DW"
       }
     }
